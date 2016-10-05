@@ -1,0 +1,206 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf390
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Georgia;\f2\fswiss\fcharset0 ArialMT;
+\f3\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red26\green26\blue26;}
+\margl1440\margr1440\vieww17080\viewh12720\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 2013-07-24 14:36\
+add options to let user use different resource of UMLS searching.\
+\
+2013-03-10 09:28\
+(1) remove all logging system in eHOST to improve the running speed on VA computers.\
+(2) use DES encryption method to replace the PBEWithMD5AndTripleDES encryption methods to save UMLS password.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f1\fs26 \cf0 \ul \ulc0 2013-02-06 14:52,\
+Version: 1.173\
+Fixed two problem:\
+(1) \cf2 \ulc2 When annotating the first word in a document, the span does not snap to white space boundary like it does for other words in the document. \
+\pard\pardeftab720
+\cf2 (2) The hide relationship icon still shows up in 1.170 on mac, but not on the windows version.
+\f0\fs24 \cf0 \ulnone \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f1\fs26 \cf0 \ul \ulc0 2013-02-06 13:18,\
+Version: 1.172\
+The attribute pop-up in previous version shows up even for annotations without attributes.Now, it's disabled for annotations without attribute.
+\f0\fs24 \ulnone \
+\
+
+\f1\fs26 \ul 2013-02-04 15:19,\
+Version: 1.171\
+Replace round rectangles by rectangles to display relationship path.\
+\
+2012-10-26 01:02,\
+Version: 1.124\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ulnone 1. Fixed problem: Relationship didn't get deleted after the linked annotation has been deleted by clicking the popup menu of "delete" on document viewer.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ul \
+2012-10-22 19:09,\
+Version: 1.092\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ulnone 1. 1. Allow user to user Oracle to add annotations under the adjudication mode.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ul \
+2012-10-22 12:00,\
+Version: 1.090\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ulnone 1. Fixed problem: some annotation are linked to "spanless" annotation (who are not) for relationship under the adjudication mode.\ul \
+\
+2012-10-11 16:36,\
+Version: 1.083\
+\ulnone 1. Fixed two problems: (1) eHOST doesn't pick the whole word on dis-joint annotation automatically. (2) some disjoint annotation couldn't be deleted.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ul \
+2012-09-14 14:49,\
+Version: 1.072\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ulnone 1. Fixed the problem that we could not find some concepts by their CUI number.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ul \
+2012-08-30 15:00,\
+Version: 1.058\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ulnone 1. Added new function that use can use right click on annotation to call the UMLS/UTS function.\
+2. eHOST can save new attribute value automatically after annotator typed some new annotation value on the attribute editor.
+\b \
+
+\b0 3. Fixed the problem that the deleted annotation still displayed on screen while it was linked by another annotation on adjudication mode.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ul \
+2012-08-28 14:45,\
+Version: 1.051\ulnone \
+1. it fixed the problem that some relationships could not be displayed.\
+2. it fixed the 
+\f2 \cf2 problem of "Adjudication" annotations not show up in the relationship creation pop-up.
+\f1 \cf0 \ul \
+\
+2012-08-23 12:40,\
+Version: 1.050\ulnone \
+1. it fixed problem that the eHOST IAA reports wrong numbers of matches and non matches on the 3-way IAA report for spans and classes.\ul \
+\
+2012-08-22 18:00,\
+Version: 1.049\ulnone \
+1. Let user use their own user name and password to log into UMLS/UTS.\ul \
+\
+2012-08-22 15:46,\
+Version: 1.048\ulnone \
+1. Fix several bugs for building relationship on the adjudication mode.\
+\ul \
+2012-08-02 14:16,\
+Version: 1.043\ulnone \
+Uses the YUV color mode to detect the gray level of class colors instead of using RGB mode.\
+1. Applied it on the dialog of "class manager"\
+2. Applied it on the list of annotation text on the result editor.
+\f3\fs20 \
+\
+
+\f1\fs26 \ul 2012-08-02 13:00,\
+Version: 1.042\ulnone \
+1. Added function to print annotator information that we received from server into a log file.
+\f3\fs20 \
+\
+
+\f1\fs26 \ul 2012-08-01 16:33,\
+Version: 1.041\ulnone \
+1. fixed problem that the Annotation Admin to eHOST translator failed to get annotators for annotations.
+\f3\fs20 \
+\
+\
+
+\f1\fs26 \ul 2012-08-01 14:19,\
+Version: 1.040\ulnone \
+1. use current user name and password to login the Chart Reader Server.
+\f3\fs20 \
+\
+
+\f1\fs26 \ul 2012-07-25 16:24,\
+Version: 1.039\ulnone \
+1. Using text of "(spansless)" to mark span less annotations in the new navigation tree.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f3\fs20 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f1\fs26 \cf0 \ul 2012-07-25 13:01,\
+Version: 1.038\ulnone \
+1. Fixed the problem that the IAA system crashed on the disorder demo project.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f3\fs20 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f1\fs26 \cf0 \ul 2012-07-19 16:51,\
+Version: 1.031\ulnone \
+1. New Navigation Panel which can help user use attributes and values to filter out annotations.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f3\fs20 \cf0 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+
+\f1\fs26 \cf0 \ul 2012-06-19 17:20,\
+Version: 1.014\ulnone \
+1. Added support to the default value of attribute on class and relationships. 2. simplified the display of the list of relationships. \
+\ul \
+2012-06-18 16:00,\
+Version: 1.011\ulnone \
+1. Added support to attribute on relationship. 2. New display method to show relationship on the list of relationships. 3. Implement the new display method on the differ panel. 4. fixed problems that are related to the display of list of relationship.\ul \
+\
+2012-03-21 16:09,\
+Version: 0312\ulnone \
+add a new function to handle a complex situation that multiple annotations and more than one possible relationships are selected to create relationship. \
+\
+\ul 2012-03-21 16:35,\
+Version: 0312.2\ulnone \
+Fix the bug (#169), release for testing.\
+\
+\ul 2012-03-21 16:54,\ulnone \
+\ul Version: 0312.3\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ulnone Fix the bug (#170), release for testing.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ul 2012-03-21 16:54,\
+Version: 0312.4\ulnone \
+Fix the bug (#170), release for testing.\
+BUG details: Annotator assignment not correct in Oracle function.\
+\
+\ul 2012-03-22 14:02,\
+Version: 0322.6\ulnone \
+Fixed the bug that display didn't get updated after class changed for current annotation.\
+\
+\ul 2012-03-22 16:33,\
+Version: 0322.7\ulnone \
+Fixed several bugs.\
+\
+\ul 2012-03-23 10:31,\
+Version: 0323.1\ulnone \
+Fixed bug that ehost didn't show graph path of the annotation of current annotation.\
+\
+\ul 2012-03-26 16:46,\
+Version: 0326.2\ulnone \
+Fixed bug that the complex relationship builder failed to recognize all possible relationships.\
+\
+\ul 2012-03-30 16:30,\
+Version: 0330.4\ulnone \
+Add new method to handle the display problem.\
+\
+\ul 2012-04-03 15:40,\
+Version: 0403.2\
+fixed the IAA model to fit the function of dis-joint span.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardeftab720\pardirnatural
+\cf0 \ulnone \
+2012-04-18\
+Version: 0418\
+Fixed a sync problem between eHOST and annotation admin in "SyncManager.java"\
+\
+2012-05-4\
+Version: 0504.11\
+Added functions to let user to add/modify relationships on the comparator panel. It works under annotation & adjudication modes.\
+}
