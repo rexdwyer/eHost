@@ -1,0 +1,1537 @@
+>>>section: conclusion
+5. Conclusions
+This study, along with previous publications, showed that
+liraglutide  had positive metabolic effects on the ZDF rat model,
+including reduced weight gain and decreased non-fasting blood
+glucose levels. However, this study also demonstrates abnormal
+islet morphology associated with severe diabetes that was not
+reversed by  liraglutide and, in the case of -cell health, was actually
+inferior in the treated group. Any hope of stabilizing or 
+enhancing islet cell mass or function must be accompanied by studies
+that carefully assess islet anatomy and physiology. The relevance
+of these findings to humans needs to be investigated, along with
+investigations of the mechanism of -cell loss.
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+Funding
+The project was funded by the KU Diabetes Institute.
+Conflict of  interest
+The  authors have no conflict of interest with this project.
+
+>>>section: references
+References
+[1] Wajchenberg B. Beta-cell failure in diabetes and preservation by clinical 
+treatment. Endocr Rev 2007;28:187-218.
+[2] Parks M,
+review of  a new antidiabetic therapy. N Engl J Med  2010;362:774-7.
+[3] Deacon C. Therapeutic strategies based upon glucagon-like peptide 1. Diabetes
+2004;53:2181-9.
+[4] Madsbad  S, Schmitz O, Ranstam J, Jakobsen G, Matthews D. Improved glycemic
+control with no weight increase in patients with type 2 diabetes after 
+once-daily treatment with the long-acting glucagon-like peptide 1 analog liraglutide
+(NN2211): a 12-week, double-blind, randomized, controlled trial. Diabetes
+Care 2004;27:1335-42.
+[5] Derosa G, Maffioli P. GLP-1 agonists exenatide and liraglutide: a review about
+their safety and efficacy. Cancer Chemother Pharmacol 2012;11:459-71.
+[6] Sturis J, Gotfredsen C, Rømer J, Rolin B, Ribel U, Brand C, et al. GLP-1 derivative
+liraglutide in rats with -cell deficiencies: influence of metabolic state on -cell
+dynamics. Br J Pharmacol 2003;140:123-32.
+[7] Komatsu  R, Matsuyama T, Namba M,  Watanabe N, Itoh H, Kono N, et al.
+Glucagonostatic and insulinotropic action of glucagonlike peptide I-(7-36)-
+amide. Diabetes 1989;38:902-5.
+[8] Yamato E, Noma Y, Tahara Y, Ikegami H, Yamamoto Y, Cha T, et al. 
+Suppression of synthesis and release of glucagon by glucagon-like peptide-1 (7-36
+amide) without affect on mRNA level in isolated rat islets. Biochem Biophys
+Res  Commun 1990;167:431-7.
+[9] Matsumura T, Itoh H, Watanabe N, Oda Y, Tanaka M, Namba M,  et al. 
+Glucagon-like  peptide-1(7-36)amide suppresses glucagon secretion and decreases cyclic
+AMP  concentration in cultured In-R1-G9 cells. Biochem Biophys Res Commun
+1992;186:503-8.
+[10] Burcelin  R, Knauf C, Cani P. Pancreatic alpha-cell dysfunction in diabetes. 
+Diabetes Metab Syndr Obes 2008;34:S49-55.
+[11] Loganathan R, Bilgen M,  Al-Hafez B, Zhero SV, Alenezy MM,  Smirnova IV. 
+Exercise  training improves cardiac performance in diabetes: in vivo demonstration
+with quantitative cine-MRI analyses. J Appl Physiol 2007;102:665-72.
+[12] VanHoose L, Sawers Y, Loganathan R, Vacek J, Stehno-Bittel L, Novikova L, et al.
+Electrocardiographic changes with the onset of diabetes and the impact of 
+aerobic  exercise training in the Zucker Diabetic Fatty (ZDF) rat. Cardiovasc Diabetol
+2010;9:56.
+[13] Huang H,  Novikova L, Williams S, Smirnova I, Stehno-Bittel L. Low insulin 
+content of large islet population is present in situ and in isolated islets. Islets
+2011;3:6-13.
+[14] Farhat B,  Almelkar A, Ramachandran K, Williams SJ, Huang HH, Zamierowksi
+D, Novikova L, Stehno-Bittel L. Small human islets comprised of more -cells
+with higher insulin content than large islets. Islets 2013;5(2):87-94.
+[15] Searls Y,  Smirnova I, Fegley B, Stehno-Bittel L. Exercise attenuates 
+diabetes-induced  ultrastructural changes in rat cardiac tissue. Med  Sci Sports Exerc
+2004;36:1863-70.
+[16] Huang H, Farmer K, Windscheffel J, Mason K, Power M,  Wright D, et al. 
+Exercise  increases insulin content and basal secretion in pancreatic islets in type 1
+diabetic mice. Exp Diabetes Res 2011:1-10, 481427.
+[17] Cabrera O, Berman DM,  Kenyon NS, Ricordi C, Berggren P-O, Caicedo A. The
+unique cytoarchitecture of human pancreatic islets has implications for islet
+cell  function. Proc Natl Acad Sci USA 2006;103:2334-9.
+[18] Unger R,  Orci L. The essential role of glucagon in the pathogenesis of diabetes
+mellitus.  Lancet 1975;1:14-6.
+[19] Ritzel R,  Ørskov C, Holst J, Nauck M.  Pharmacokinetic, insulinotropic,
+and  glucagonostatic properties of GLP-1 [7-36 amide] after subcutaneous
+injection  in healthy volunteers. Dose-response-relationships. Diabetologia
+1995;38:720-5.
+[20] Friedrichsen BN, Neubauer N, Lee YC, Gram VK, Blume N, Petersen JS, et al.
+Stimulation of pancreatic beta-cell replication by incretins involves 
+transcrip-tional induction of cyclin D1 via multiple signalling pathways. J Endocrinol
+2006;188:481-92.
+[21] Shimoda  M, Kanda Y, Hamamoto S, Tawaramoto K, Hashiramoto M,  Matsuki
+M, et al.
+The human glucagon-like peptide-1 analogue liraglutide preserves
+pancreatic beta cells via regulation of cell kinetics and suppression of oxidative
+
+Rosebraugh C. Weighing risks and benefits of liraglutide - the FDA’s
+
+65
+66
+and endoplasmic reticulum stress in a mouse model of diabetes. Diabetologia
+2011;54:1098-108.
+[22] Vrang N, Jelsing J, Simonsen L, Jensen AE, Thorup I, Søeborg H, et al. The effects of
+13  weeks of liraglutide treatment on endocrine and exocrine pancreas in male
+and  female ZDF-rats: no evidence of drug induced pancreatitis. Am J Physiol
+Endocrinol Metab 2012;303:E253-64.
+[23] Rutti S, Sauter NS, Bouzakri K, Prazak R, Halban PA, Donath MY.  In vitro 
+proliferation of adult human beta-cells. PLoS ONE 2012;7:e35801.
+[24] Toso C, McCall M,  Emamaullee J, Merani S, Davis J, Edgar R. Liraglutide, a 
+long-acting human glucagon-like peptide 1 analogue, improves human islet survival
+in culture. Transpl Int 2010;3:259-65.
+[25] Fehmann HC, Hering BJ, Wolf MJ,  Brandhorst H, Brandhorst D, Bretzel RG, et al.
+The effects of glucagon-like peptide-I (GLP-I) on hormone secretion from 
+isolated human pancreatic islets. Pancreas 1995;11:196-200.
+[26] Suzuki S, Kawai K, Ohashi S, Watanabe Y, Yamashita K. Interaction of
+glucagon-like peptide-1(7-36) amide and gastric inhibitory polypeptide or
+cholecystokinin on insulin and glucagon secretion from the isolated perfused
+rat  pancreas. Metabolism 1992;41:359-63.
+[27] Zander M,  Madsbad S, Madsen J, Holst J. Effect of 6-week course of 
+glucagon-like peptide 1 on glycaemic control, insulin sensitivity, and -cell function in
+type 2 diabetes: a parallel-group study. Lancet 2002;359:824-30.
+[28] Degn KB, Brock B, Juhl CB, Djurhuus CB, Grubert J, Kim D. One week’s
+treatment with the long-acting glucagon-like peptide 1 derivative liraglutide
+(NN2211) markedly improves 24-h glycemia and - and -cell function and
+reduces endogenous glucose release in patients with type 2 diabetes. Diabetes
+2004;53:1187-94.
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+[29] [29[Vilsbøll T, Krarup T, Madsbad S, Holst J. Both GLP-1 and GIP are
+insulinotropic at basal and postprandial glucose levels and contribute nearly
+equally to the incretin effect of a meal in healthy subjects. Regul Pept
+2003;114:115-21.
+[30] Chiu WU,  Shih SR, Tseng CH. A review on the association between 
+glucagon-like peptide-1 receptor agonists and thyroid cancer. Exp Diabetes Res
+2012;53:2397-403.
+[31] Butler AE, Campbell-Thompson M,  Gurlo T, Dawson DW,  Atkinson M, 
+Butler  PC. Marked expansion of exocrine and endocrine pancreas with incretin
+therapy in humans with increased exocrine pancreas dysplasia and the 
+potential for glucagon-producing neuroendocrine tumors. Diabetes 2013;62(7):
+2505-604.
+[32] Labuzek K, Kozlowski M,  Szkudlapski D, Sikorska P, Kozlowska M,  Okopien B.
+Incretin-based therapies in the treatment of type 2 diabetes - more than meets
+the eye? Eur J Intern Med 2013;24(3):207-12.
+[33] Elashoff M,  Malveyenko AV, Gier B, Elashoff R, Butler PC. Pancreatitis, 
+pancreatic, and thyroid cancer with glucagon-like peptide-1-based therapies.
+Gastroenterology 2011;141(1):150-6.
+[34] Bourezane H, Kastler B, Kantilip JP. Late and severe acute necrotizing 
+pancre-atitus in a patient with liraglutide. Therapie 2012;67(6):539-40.
+[35] Franks AS, Lee PH, George CM.  Pancreatitis: a potential complication of 
+liraglu-tide? Ann Pharmacother 2012;46(11):1547-53.
+[36] Knezevich E, Crnic T, Kershaw S, Drincic A. Liraglutide-associated acute 
+pan-creatitis. Am J Health Syst Pharm 2012;69(5):386-9.
+[37] Parks M,  Rosebraugh C. Weighing risks and benefits of liraglutide-the FDA’s
+review of a new antidiabetic therapy. N Engl J Med  2010;362(9):774-7.
+
+>>>section: methods
+2. Methods
+2.1. Animal  model
+Male ZDF rats of 12 weeks of age on arrival were assigned
+to 3 groups: (1) liraglutide-treated diabetic (strain code #370,
+obese fa/fa), (2) vehicle-treated diabetic (strain code #370, obese
+fa/fa), (3) lean non-diabetic (strain code #380, lean fa/+). Rats
+were purchased from Charles River Laboratory (Saint Louis, MO)
+and allowed one week for acclimation prior to experimentation.
+The rats received husbandry services at the Laboratory Animal
+Resources facility at the University of Kansas Medical Center. The
+rats were allowed food (Purina 5008) and water ad libitum and were
+maintained  on a 12:12 light-dark cycle. All animal procedures were
+performed  according to the IACUC guidelines of the University of
+Kansas Medical Center and the studies were approved by the local
+animal use  committee.
+Body weights were recorded weekly on all rats. Blood glucose
+levels were  assessed by a digital blood glucose meter (Accu-Chek
+Active, Roche Diagnostics, Indianapolis, IN). Weekly blood glucose
+levels were  calculated as an average of daily levels measured for a
+given week. Hemoglobin A1c (HbA1c) levels were determined by
+a home evaluation unit (A1C Now At Home System, Bayers, 
+Pitts-burgh, PA).  When rats had blood glucose or HbA1c levels higher
+than the range of detection by the instrument, statistical 
+analysis of the data followed previously published procedures [11,12].
+Briefly, the  highest detectable value for blood glucose (600 mg/dl)
+was substituted for the missing data.
+Animals  were administered subcutaneous liraglutide for 9
+weeks bid  (6 mg/ml; dissolved in vehicle of disodium hydrogen
+phosphate  dihydrate, polyethylene glycol and H2O) at a final dose
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+of 0.225 g/g body weight. At the termination of the study, rats
+were over-anesthetized with tribromoethanol and the pancreas or
+isolated islets processed according to the methods listed below.
+2.2. Islet isolation
+At  the termination of the study the pancreata were 
+cannu-lated in situ  via the common bile duct, and distended with cold
+collagenase  (CLS-1, Worthington Biochemical in Leibovitz L15 at
+450 U/ml).  The distended pancreas was  excised and incubated for
+20-30  min with gentle tumbling in a 37 ◦C incubator. The contents
+
+of the  tube  were placed in diluted ice-cold Hank’s Balanced Salt
+Solution (HBSS) containing 5% fetal calf serum. The digest was
+allowed to  settle at 1 × g and the supernatant removed and the
+process repeated. The washed digest was  passed through a 500 m
+screen  and  sedimented for 1 min  at 300 × g. The pellet was  mixed
+with 10 ml of 1.110 g/ml Histopaque (density = 1.1085, Sigma 
+Diag
+nostics  Inc.)  and centrifuged. The islets floating on the interphase of
+the gradient were collected, sedimented, and cleaned using a sterile
+40 m  mesh cell strainer and HBSS with 5% fetal calf serum. Islets
+were placed  into CMRL 1066 containing 2 mM glutamine, 10% fetal
+bovine  serum and 1% antibiotic/antimycotic solution.
+2.3. Insulin  secretion
+Islets were placed in duplicate wells and assigned to three
+groups: basal glucose (1 mM),  low glucose (3 mM),  and high 
+glucose (20 mM).  All wells were preincubated for 30 min in RPMI
+1640 containing 3 mM glucose in a 37 ◦C containing 5% CO2. After
+preincubation, media were removed from each well and discarded.
+Basal,  low  or high glucose solutions were added to the 
+duplicates.  After  30 min  static incubation in the 37 ◦C and 5% CO2, the
+islets  were  sedimented and the conditioned medium was  
+collected  to determine insulin content and frozen at −80 ◦C. Insulin
+concentration was  determined by ELISA (ALPCO, Windham, NH).
+The stimulation index was calculated as the amount of insulin
+released at  low or high glucose divided by the basal insulin
+amount.
+2.4. Electron microscopy
+Electron  microscopy was  conducted using 2 mm sections of 
+pancreatic  tissue fixed in 2% glutaraldehyde. Samples were rinsed twice
+in 0.1 M  sodium cacodylate buffer for 10 min prior to post fixation
+in 1% osmium tetroxide for 1 h. Rinsing with distilled water was 
+followed  by a  gradual ethanol dehydration (30%, 70%, 80%, 95%, 100%)
+for 10  min  each. Samples were rinsed twice in propylene oxide for
+15 min  prior to being infiltrated in a mixture of propylene oxide
+and Embed  812 resin (Electron Microscopy Sciences, Ft. 
+Washington, PA) overnight. BEEM capsules were used to embed the samples
+in fresh  resin prior to curing overnight in a 70 ◦C oven. Thin sections,
+80 nm  in diameter, were cut using a Leica UCT ultramicrotome and
+placed  on 300 mesh thin bar grids. Contrast was applied to the 
+sections by adding uranyl acetate followed by Sato’s lead stain. Images
+of ZDF  pancreatic islets were captured from random tissue sections
+using a  J.E.O.L JEM 1400 transmission electron microscope.
+Analysis  of the EM images was completed by a blinded 
+investigator  who  had not participated in the animal portion of the
+study.  Analysis included calculating the number of insulin granules,
+and evaluating the mitochondria quality. Images were analyzed
+in Adobe Photoshop (Adobe Systems, Inc.) or Scion Image (Scion
+Corp.).  Insulin granules were counted manually within an assigned
+area on each micrograph using previously published procedures
+[13,14]. The  insulin granules were easily identified by their halo
+presentation, making them unique from the other secretory 
+granules such as those containing glucagon or somatostatin. The level
+59
+60
+of intact mitochondria was determined using the published 
+Mito-chondrial Quality Index [15]. Briefly, individual mitochondria were
+assigned one of the following grades: 1 - fully intact, 2 - 
+disruption of the cristae (typically from swelling or loss of integrity
+of the inner membrane), 3 - disruption of the outer 
+mitochon-drial membrane, and 4 - disruption of the cristae and the outer
+membrane.
+2.5. Immunohistochemistry and immunohistofluorescence
+The pancreata were rapidly harvested and fixed in 10% 
+normal  buffered formalin using our published protocols [16]. Sections
+were blocked in 10% normal donkey serum (NDS), 1.0% bovine
+serum albumin (BSA), and 0.03% Triton X-100 diluted in 0.1 M
+PBS, pH 7.4 for 30 min. Both primary and secondary 
+antibodies were diluted in 1% NDS, 1% BSA, and 0.03% Triton X-100.
+Slides were  mounted with anti-fading agents Gel/Mount (Biomeda,
+Foster City, CA, PA, #M01). The primary antibodies consisted
+of: anti-insulin (1:100, Abcam, Cambridge, MA,  #ab7842), 
+anti-glucagon (1:300, Abcam, #ab10988), anti-somatostatin (1:300,
+Abcam, #ab53165) and anti-Ki67 [SP6] proliferation marker (1:100,
+Abcam, #ab16667), anti-proinsulin (1:200, Abcam, #ab50805)
+and CD34 (1:200, Abcam, #ab812894). Corresponding secondary
+antibodies  were conjugated with Dylight 488 (1:400, Jackson
+ImmunoResearch Laboratories Inc., West Grove, PA, #706-485-
+148), Alexa  555 (1:400, Molecular Probes, Eugene, OR, #A31570),
+and Alexa 647 (1:400, Molecular Probes, #A31573). Images were
+collected using a Nikon C1Si confocal microscope.
+Insulin immunohistochemistry (IHC) was completed on 
+paraffin embedded pancreatic tissue using anti-insulin (1:100, Santa
+Cruz Biotechnology, Inc., Santa Cruz, CA, #sc-9168) and Histostain
+Plus Rabbit  Primary (Invitrogen, Frederick, MD,  #85-6143) in 
+combination with AEC (3-amino-9-ethyl-carbazole) chromogen as a
+substrate of Horseradish Peroxidase (HRP) enzyme. Slides for IHC
+were prepared in the same manner as for IF. After the 
+permeabil-ization step, a blocking solution was applied. The IHC procedure
+was conducted according to the manufacturer instructions.
+After staining, the slides were placed on coverslips in 
+mounting medium  Clear-Mount with Tris Buffer (Electron Microscopy
+Sciences, Hatfield, PA, #17985-12). The specificity of insulin
+immunoreactivity was confirmed by omitting the primary 
+antibodies from some of the collected sections. The staining was observed
+by light microscopy (Nikon Eclipse 80i). Images were analyzed with
+Ps Adobe Photoshop CZ4 extended software, by determining the
+average pixel value of staining per cell or per islet. Background
+staining was subtracted from each value.
+Islet density was defined as the number of islets per field using a
+20× objective. Islet size was estimated by measuring the diameter
+of the islet under the software Nikon EZ-C1 3.0 FreeViewer. For the
+cell composition analysis, the relative proportion of -, - or -cells
+in one islet  was evaluated by counting the number of individual
+types of cell and dividing by the total sum of endocrine (,  and )
+cells per islet. Gross islet morphology was categorized as either
+(1) intact, (2) disrupted or (3) scattered cells. Intact islets were
+defined as  having a distinct border with a circular or ellipsoidal
+shape. Disrupted islets also contained an identifiable border, but
+were missing sections of cells stained for either insulin, glucagon,
+or somatostatin. For an islet to be classified as disrupted, at least 25%
+of the area had to lack staining for insulin, glucagon or somatostatin.
+Scattered cells were defined as fewer than 10 insulin, glucagon, or
+somatostatin positive cells in an area. Multiple sequential sections
+were analyzed to make sure that a scattered appearance was  not
+the tip of an  islet, but truly a small number of endocrine cells alone.
+All islet morphology, density, and pixel values were analyzed by a
+blinded investigator who did not participate in the in vivo portion
+of the study  or in the collection of the images.
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+2.6. Statistics
+A t-test was  used to compare total insulin content. Body weight
+and blood glucose data were analyzed using repeated measures
+ANOVA. Insulin secretion was analyzed using one-way ANOVA. For
+the immunostaining experiments, nested ANOVA was  utilized. All
+figures  include means ± SE. p-Value, defined as <0.05, was  
+considered statistically significant.
+
+>>>section: fulltext
+a  r  t  i  c  l e  i  n  f  o
+Article history:
+Received 10 April 2013
+Received in revised form 15 July 2013
+Accepted 16 July 2013
+Keywords:
+Type 2 diabetes
+Zucker rat
+GLP-1
+Liraglutide
+Islet
+-Cell
+-Cell
+Glucagon
+Insulin
+Long-term  liraglutide  treatment  is  associated  with  increased  insulin
+content  and  secretion  in  -cells,  and  a  loss  of  -cells  in  ZDF  rats
+Tiffany  Schwasinger-Schmidta,  David  C.  Robbinsa,  S.  Janette  Williamsb,
+Lesya  Novikovab, Lisa  Stehno-Bittelb,∗
+a Division of Endocrinology, University of Kansas Medical Center, Kansas City, KS, USA
+b Department of Physical Therapy and Rehabilitation Science, University of Kansas Medical Center, USA
+Pharmacological Research 76 (2013) 58- 66
+Contents lists available at ScienceDirect
+Pharmacological  Research
+jo ur nal home p age: www.elsev ier .co m/locate /yphrs
+a  b  s  t  r  a  c  t
+The  ultimate  treatment  goal  of  diabetes  is  to  preserve  and  restore  islet  cell  function.  Treatment  of certain
+diabetic  animal  models  with  incretins  has  been  reported  to  preserve  and  possibly  enhance  islet  function
+and  promote  islet  cell  growth.  The  studies  reported  here  detail  islet  cell  anatomy  in animals  chronically
+treated  with  the  incretin  analog,  liraglutide.  Our  aim  was  to quantitatively  and  qualitatively  analyze  islet
+cells  from  diabetic  animals  treated with  vehicle  (control)  or liraglutide  to  determine  whether  normal  islet
+cell anatomy  is  maintained  or enhanced  with  pharmaceutical  treatment.  We  harvested  pancreata  from
+liraglutide  and  vehicle-treated  Zucker  Diabetic  Fatty  (ZDF)  rats  to examine  islet  structure  and  function
+and  obtain  isolated  islets.  Twelve-week-old  male  rats  were  assigned  to 3  groups:  (1)  liraglutide-treated
+diabetic,  (2)  vehicle-treated  diabetic,  and  (3)  lean  non-diabetic.  Liraglutide  was  given SC  twice  daily
+for  9  weeks.  As  expected,  liraglutide  treatment  reduced  body  weight  by  15%  compared  to  the 
+vehicle-treated  animals,  eventually  to levels  that were  not  different  from  lean  controls.  At the  termination  of
+the  study,  blood  glucose  was significantly  less  in the  liraglutide-treated  rats compared  to  vehicle  treated
+controls  (485.8  ± 22.5  and  547.2  ±  33.1 mg/dl,  respectively).  Insulin  content/islet  (measured  by  
+immuno-histochemistry)  was  34.2 ± 0.7  pixel  units  in  vehicle-treated  rats,  and  54.9  ±  0.6  in  the  liraglutide-treated
+animals. Glucose-stimulated  insulin  secretion  from  isolated  islets  (measured  as the stimulation  index)
+was  maintained  in  the liraglutide-treated  rats,  but  not in  the vehicle-treated.  However,  liraglutide  did  not
+preserve  normal  islet  architecture.  There  was  a decrease  in  the glucagon-positive  area/islet  and  in the  -
+cell  numbers/area  with  liraglutide  treatment  (6.5  cells/field),  compared  to  vehicle  (17.9 cells/field).  There
+was an increase  in  -cell  numbers,  the  - to  -cell  ratio  that  was  statistically  higher  in  the  
+liraglutide-treated  rats  (24.3  ±  4.4)  compared  to vehicle  (9.1  ±  2.8).  Disrupted  mitochondria  were  more  commonly
+observed  in  the  -cells  (51.9  ± 10.3%  of  cells)  than  in the  -cells  (27.2  ±  4.4%)  in the liraglutide-treated
+group.  While  liraglutide  enhanced  or maintained  growth  and function  of certain  islet cells,  the overall
+ratio  of  - to -cells  was decreased  and  there  was  an  absolute  reduction  in  islet  -cell content.  There
+was  selective  disruption  of intracellular  -cell  organelles,  representing  an  uncoupling  of the  bihormonal
+islet  signaling  that  is  required  for normal  metabolic  regulation.  The  relevance  of the findings  to  long-term
+liraglutide  treatment  in  people  with  diabetes  is  unknown  and  should  be investigated  in appropriately
+designed  clinical  studies.
+© 2013 The Authors. Published by Elsevier Ltd.  Open access under CC BY-NC-ND license.
+Abbreviations: ANOVA, analysis of variance; BSA, bovine serum albumin; EM,
+electron microscope; ER, endoplasmic reticulum; GLP-1, glucagon-like peptide-1;
+HbA1c, glycated hemoglobin; HRP, horseradish peroxidase; IACUCI, nstitutional
+Animal Care and Use Committee; IF, immunofluorescence; IHC, 
+immunohistochemistry; IP, intraperitoneal injection; LSD, least significant difference; NDS, normal
+donkey serum; PBS, phosphate buffered solution; ZDF, Zucker diabetic fatty.
+∗
+Corresponding author at: Department of Physical Therapy and Rehabilitation
+Science, MS 2002, University of Kansas Medical Center, Kansas City, KS 66160, USA.
+Tel.: +1 913 588 6733; fax: +1 913 588 4568.
+E-mail address: lbittel@kumc.edu (L. Stehno-Bittel).
+1043-6618 © 2
+. Published by Elsevier Ltd. Open access under CC BY-NC-ND license.
+http://dx.doi.org/10.1016/j.phrs.2013.07.005
+1. Introduction
+The incretin hormones are peptides released by the 
+gastrointestinal tract in response to the ingestion of food. These hormones
+enhance insulin secretion and regulate glucose homeostasis by
+inhibiting glucagon secretion, slowing gastric emptying, and 
+controlling satiation, ultimately controlling body weight [1]. GLP-1
+is one of the major incretin hormones that rapidly stimulates
+insulin release. Several peptide drugs have been designed to mimic
+the action of GLP-1, among them exenatide and liraglutide, with
+the long-term goal of improving blood glucose regulation and
+enhancing weight loss. In 2010, the Food and Drug Administration
+approved liraglutide for daily, chronic treatment of adults with
+type 2 diabetes [2]. Liraglutide has 97% homology in amino acid
+sequence with endogenous GLP-1 and is resistant to enzyme 
+inactivation [3]. Administration of liraglutide to people with type 2
+diabetes significantly reduced fasting glucose levels, decreased
+HbA1c values, and decreased body weight [4]. There is indirect
+evidence, based on the long-term stability of HbA1c levels, that
+treatment with GLP-1 stabilizes islet cell function in humans, and
+may  slow the usual progression of insulin depletion over time in
+type 2 diabetes [5].
+Diabetic  ZDF rats, and those with 60% pancreatectomies,
+treated with  liraglutide have increased -cell mass, which is more
+prominent  in the most obese animals as compared to the 
+glucose-controlled animals [6]. -Cell glucose sensitivity was  restored with
+GLP-1 treatment, resulting in increased insulin secretion in rats.
+Conversely  glucagon secretion was inhibited [7,8]. The glucagon
+inhibition is thought to be due to the immediate effect of the
+incretin, as  direct exposure of an -cell culture line to GLP-1
+also inhibited glucagon release [9]. In conditions where glucagon
+production  and secretion are excessive, such inhibition may  be
+beneficial [10]. While improved -cell regulation may  be a goal,
+abnormal loss of -cells and/or their function would not be optimal
+for glucose  homeostasis.
+The increase in islet cell mass with improvement in glycemic
+control raises the possibility that treatment with GLP-1 analogs
+anatomically and, to some extent, physiologically reverses the
+insulin deficiency characteristic of type 2 diabetes. The purpose
+of this study was to determine whether the islets remaining after
+long-term  GLP-1 administration possessed normal morphology
+and function using an animal model of type 2 diabetes with 
+emphasis on -cells. Arguably, any treatment that enhances islet cell
+function in  diabetes should preserve or enhance normal islet cell
+structure and function.
+2. Methods
+2.1. Animal  model
+Male ZDF rats of 12 weeks of age on arrival were assigned
+to 3 groups: (1) liraglutide-treated diabetic (strain code #370,
+obese fa/fa), (2) vehicle-treated diabetic (strain code #370, obese
+fa/fa), (3) lean non-diabetic (strain code #380, lean fa/+). Rats
+were purchased from Charles River Laboratory (Saint Louis, MO)
+and allowed one week for acclimation prior to experimentation.
+The rats received husbandry services at the Laboratory Animal
+Resources facility at the University of Kansas Medical Center. The
+rats were allowed food (Purina 5008) and water ad libitum and were
+maintained  on a 12:12 light-dark cycle. All animal procedures were
+performed  according to the IACUC guidelines of the University of
+Kansas Medical Center and the studies were approved by the local
+animal use  committee.
+Body weights were recorded weekly on all rats. Blood glucose
+levels were  assessed by a digital blood glucose meter (Accu-Chek
+Active, Roche Diagnostics, Indianapolis, IN). Weekly blood glucose
+levels were  calculated as an average of daily levels measured for a
+given week. Hemoglobin A1c (HbA1c) levels were determined by
+a home evaluation unit (A1C Now At Home System, Bayers, 
+Pitts-burgh, PA).  When rats had blood glucose or HbA1c levels higher
+than the range of detection by the instrument, statistical 
+analysis of the data followed previously published procedures [11,12].
+Briefly, the  highest detectable value for blood glucose (600 mg/dl)
+was substituted for the missing data.
+Animals  were administered subcutaneous liraglutide for 9
+weeks bid  (6 mg/ml; dissolved in vehicle of disodium hydrogen
+phosphate  dihydrate, polyethylene glycol and H2O) at a final dose
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+of 0.225 g/g body weight. At the termination of the study, rats
+were over-anesthetized with tribromoethanol and the pancreas or
+isolated islets processed according to the methods listed below.
+2.2. Islet isolation
+At  the termination of the study the pancreata were 
+cannu-lated in situ  via the common bile duct, and distended with cold
+collagenase  (CLS-1, Worthington Biochemical in Leibovitz L15 at
+450 U/ml).  The distended pancreas was  excised and incubated for
+20-30  min with gentle tumbling in a 37 ◦C incubator. The contents
+
+of the  tube  were placed in diluted ice-cold Hank’s Balanced Salt
+Solution (HBSS) containing 5% fetal calf serum. The digest was
+allowed to  settle at 1 × g and the supernatant removed and the
+process repeated. The washed digest was  passed through a 500 m
+screen  and  sedimented for 1 min  at 300 × g. The pellet was  mixed
+with 10 ml of 1.110 g/ml Histopaque (density = 1.1085, Sigma 
+Diag
+nostics  Inc.)  and centrifuged. The islets floating on the interphase of
+the gradient were collected, sedimented, and cleaned using a sterile
+40 m  mesh cell strainer and HBSS with 5% fetal calf serum. Islets
+were placed  into CMRL 1066 containing 2 mM glutamine, 10% fetal
+bovine  serum and 1% antibiotic/antimycotic solution.
+2.3. Insulin  secretion
+Islets were placed in duplicate wells and assigned to three
+groups: basal glucose (1 mM),  low glucose (3 mM),  and high 
+glucose (20 mM).  All wells were preincubated for 30 min in RPMI
+1640 containing 3 mM glucose in a 37 ◦C containing 5% CO2. After
+preincubation, media were removed from each well and discarded.
+Basal,  low  or high glucose solutions were added to the 
+duplicates.  After  30 min  static incubation in the 37 ◦C and 5% CO2, the
+islets  were  sedimented and the conditioned medium was  
+collected  to determine insulin content and frozen at −80 ◦C. Insulin
+concentration was  determined by ELISA (ALPCO, Windham, NH).
+The stimulation index was calculated as the amount of insulin
+released at  low or high glucose divided by the basal insulin
+amount.
+2.4. Electron microscopy
+Electron  microscopy was  conducted using 2 mm sections of 
+pancreatic  tissue fixed in 2% glutaraldehyde. Samples were rinsed twice
+in 0.1 M  sodium cacodylate buffer for 10 min prior to post fixation
+in 1% osmium tetroxide for 1 h. Rinsing with distilled water was 
+followed  by a  gradual ethanol dehydration (30%, 70%, 80%, 95%, 100%)
+for 10  min  each. Samples were rinsed twice in propylene oxide for
+15 min  prior to being infiltrated in a mixture of propylene oxide
+and Embed  812 resin (Electron Microscopy Sciences, Ft. 
+Washington, PA) overnight. BEEM capsules were used to embed the samples
+in fresh  resin prior to curing overnight in a 70 ◦C oven. Thin sections,
+80 nm  in diameter, were cut using a Leica UCT ultramicrotome and
+placed  on 300 mesh thin bar grids. Contrast was applied to the 
+sections by adding uranyl acetate followed by Sato’s lead stain. Images
+of ZDF  pancreatic islets were captured from random tissue sections
+using a  J.E.O.L JEM 1400 transmission electron microscope.
+Analysis  of the EM images was completed by a blinded 
+investigator  who  had not participated in the animal portion of the
+study.  Analysis included calculating the number of insulin granules,
+and evaluating the mitochondria quality. Images were analyzed
+in Adobe Photoshop (Adobe Systems, Inc.) or Scion Image (Scion
+Corp.).  Insulin granules were counted manually within an assigned
+area on each micrograph using previously published procedures
+[13,14]. The  insulin granules were easily identified by their halo
+presentation, making them unique from the other secretory 
+granules such as those containing glucagon or somatostatin. The level
+59
+60
+of intact mitochondria was determined using the published 
+Mito-chondrial Quality Index [15]. Briefly, individual mitochondria were
+assigned one of the following grades: 1 - fully intact, 2 - 
+disruption of the cristae (typically from swelling or loss of integrity
+of the inner membrane), 3 - disruption of the outer 
+mitochon-drial membrane, and 4 - disruption of the cristae and the outer
+membrane.
+2.5. Immunohistochemistry and immunohistofluorescence
+The pancreata were rapidly harvested and fixed in 10% 
+normal  buffered formalin using our published protocols [16]. Sections
+were blocked in 10% normal donkey serum (NDS), 1.0% bovine
+serum albumin (BSA), and 0.03% Triton X-100 diluted in 0.1 M
+PBS, pH 7.4 for 30 min. Both primary and secondary 
+antibodies were diluted in 1% NDS, 1% BSA, and 0.03% Triton X-100.
+Slides were  mounted with anti-fading agents Gel/Mount (Biomeda,
+Foster City, CA, PA, #M01). The primary antibodies consisted
+of: anti-insulin (1:100, Abcam, Cambridge, MA,  #ab7842), 
+anti-glucagon (1:300, Abcam, #ab10988), anti-somatostatin (1:300,
+Abcam, #ab53165) and anti-Ki67 [SP6] proliferation marker (1:100,
+Abcam, #ab16667), anti-proinsulin (1:200, Abcam, #ab50805)
+and CD34 (1:200, Abcam, #ab812894). Corresponding secondary
+antibodies  were conjugated with Dylight 488 (1:400, Jackson
+ImmunoResearch Laboratories Inc., West Grove, PA, #706-485-
+148), Alexa  555 (1:400, Molecular Probes, Eugene, OR, #A31570),
+and Alexa 647 (1:400, Molecular Probes, #A31573). Images were
+collected using a Nikon C1Si confocal microscope.
+Insulin immunohistochemistry (IHC) was completed on 
+paraffin embedded pancreatic tissue using anti-insulin (1:100, Santa
+Cruz Biotechnology, Inc., Santa Cruz, CA, #sc-9168) and Histostain
+Plus Rabbit  Primary (Invitrogen, Frederick, MD,  #85-6143) in 
+combination with AEC (3-amino-9-ethyl-carbazole) chromogen as a
+substrate of Horseradish Peroxidase (HRP) enzyme. Slides for IHC
+were prepared in the same manner as for IF. After the 
+permeabil-ization step, a blocking solution was applied. The IHC procedure
+was conducted according to the manufacturer instructions.
+After staining, the slides were placed on coverslips in 
+mounting medium  Clear-Mount with Tris Buffer (Electron Microscopy
+Sciences, Hatfield, PA, #17985-12). The specificity of insulin
+immunoreactivity was confirmed by omitting the primary 
+antibodies from some of the collected sections. The staining was observed
+by light microscopy (Nikon Eclipse 80i). Images were analyzed with
+Ps Adobe Photoshop CZ4 extended software, by determining the
+average pixel value of staining per cell or per islet. Background
+staining was subtracted from each value.
+Islet density was defined as the number of islets per field using a
+20× objective. Islet size was estimated by measuring the diameter
+of the islet under the software Nikon EZ-C1 3.0 FreeViewer. For the
+cell composition analysis, the relative proportion of -, - or -cells
+in one islet  was evaluated by counting the number of individual
+types of cell and dividing by the total sum of endocrine (,  and )
+cells per islet. Gross islet morphology was categorized as either
+(1) intact, (2) disrupted or (3) scattered cells. Intact islets were
+defined as  having a distinct border with a circular or ellipsoidal
+shape. Disrupted islets also contained an identifiable border, but
+were missing sections of cells stained for either insulin, glucagon,
+or somatostatin. For an islet to be classified as disrupted, at least 25%
+of the area had to lack staining for insulin, glucagon or somatostatin.
+Scattered cells were defined as fewer than 10 insulin, glucagon, or
+somatostatin positive cells in an area. Multiple sequential sections
+were analyzed to make sure that a scattered appearance was  not
+the tip of an  islet, but truly a small number of endocrine cells alone.
+All islet morphology, density, and pixel values were analyzed by a
+blinded investigator who did not participate in the in vivo portion
+of the study  or in the collection of the images.
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+2.6. Statistics
+A t-test was  used to compare total insulin content. Body weight
+and blood glucose data were analyzed using repeated measures
+ANOVA. Insulin secretion was analyzed using one-way ANOVA. For
+the immunostaining experiments, nested ANOVA was  utilized. All
+figures  include means ± SE. p-Value, defined as <0.05, was  
+considered statistically significant.
+3. Results
+3.1. Metabolic effects
+Over the  9 week course of the study, the body weight of the
+diabetic ZDF rats increased over the matched lean animals (Fig. 1A,
+p < 0.03). Administration of liraglutide was associated with a body
+weight  that was  not statistically different from the lean animals,
+and was  less than the vehicle-treated diabetic rats. Blood 
+glucose levels  increased in both diabetic groups compared to the lean
+non-diabetic controls at each time point tested (Fig. 1B; p < 0.001).
+Liraglutide  significantly reduced the blood glucose levels in the
+treated  ZDF  rats as compared to the vehicle-treated animals.
+At  the termination of the study, glucose tolerance tests were
+administered to the liraglutide and vehicle-treated animals. There
+was no  difference in the fasting glucose measurements prior to the
+initiation of  the experiment (Fig. 1C). However, the blood glucose of
+the vehicle-treated animals rose to levels above the detection limits
+of the procedure after the glucose injection (at 30 and 60 min). 
+During the  same time points, the liraglutide-treated animals had mean
+blood  glucose values of 529 ± 50 and 542 ± 51 mg/dl, respectively.
+There  was  no difference between groups in the glucose values 2 h
+after the injection of glucose.
+3.2. Insulin  content
+Immunohistochemistry was  used to identify islets from the 
+pancreas of each group of rats. Obviously, it was difficult to find intact
+islets from  the 2 diabetic groups. The results demonstrated 
+differences in  the insulin staining intensity between the 3 groups.
+As expected, the non-diabetic lean controls had the most intense
+insulin  staining (Fig. 2A), followed by the liraglutide-treated 
+animals (Fig. 2C). Pancreatic sections from the vehicle-treated animals
+had the least insulin staining (Fig. 2B). The color intensity was
+calculated  for individual -cells within the islets and the means
+are provided in Fig. 2D. Analysis of proinsulin staining from
+immunofluorescence images revealed the highest levels of 
+proinsulin in  the  liraglutide-treated rats (pixel intensity units 44.3 ± 3.7)
+compared to 37.3 ± 2.1 for the diabetic vehicle-treated rats, and
+29.2 ±  3.0 in  the lean controls (p < 0.005).
+Consistent with the immunohistochemistry data showing
+greater insulin staining, the density of insulin granules in the -cells
+of islets from  the liraglutide-treated animals increased as compared
+to the  controls. Insulin granules were identified by their hallmark
+halo appearance in electron micrographs, illustrated by arrows in
+Fig. 3A. The  -cells from the liraglutide-treated animals possessed
+a higher density of insulin granules per -cell area than the 
+vehicle-treated  animals (Fig. 3B).
+Insulin secretion was  measured from isolated islets from the
+3 groups in  conditions of 1 mM,  3 mM and 20 mM glucose. Islets
+from the lean animals showed a typical response with little 
+stimulation  at 3 mM glucose, but a significant increase in insulin release
+at 20 mM (Fig. 3C, p < 0.01). There was no significant increase in the
+amount of insulin released from the islets of vehicle-injected rats in
+response to  20 mM glucose. The liraglutide-treated rats had islets
+with a  stimulation index that was not statistically different from
+
+
+
+the lean control rats, but was higher than the 3 mM exposure in the
+islets from liraglutide-treated rats (p < 0.001).
+3.3. Islet morphology
+Morphological differences between groups clarify the cellular
+changes that occur with diabetes. The lean controls had healthy
+appearing -cells with normal islet morphology consisting of 
+centrally located -cells and - and -cells on the periphery (Fig. 4A).
+This cellular architecture was consistent with 88% of all islets from
+the lean controls demonstrating a -cell core pattern (n = 41 islets
+from 3 rats). Only 6% of the islets from the diabetic vehicle-treated
+rats were organized with the -cell core (n = 113 islets from 4 rats).
+Liraglutide did not improve the cellular architecture, because only
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+1% of the islets from the treated group had -cell cores (n = 71 islets
+from 4 rats).
+In addition to the location of specific endocrine cell types within
+the islets, the overall shape of the islets was altered with diabetes.
+In the diabetic animals, the islets often had a disrupted appearance
+with large areas in the islet core void of endocrine cells or areas of
+scattered endocrine cells amongst exocrine tissue (Fig. 4B and C).
+We identified 3 major islet morphology categories: (1) intact, (2)
+disrupted and (3) scattered cells. In the lean animals, the 
+majority of the islets were intact with approximately 15% classified as
+disrupted islets or scattered endocrine cells (Table 1). A 
+majority of the islets in the vehicle-treated rats were disrupted, with
+entire sections of islets missing endocrine cells as shown in Fig. 4B.
+The liraglutide-treated animals had a majority of islets classified as
+61
+62
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+either disrupted or scattered cells (Table 1). There was  no statistical
+difference between the 2 diabetic groups (vehicle or 
+liraglutide-treated) for  any of the classifications compared. However, both
+groups were statistically different from the islets obtained from the
+non-diabetic lean animals, except for the classification of scattered
+endocrine cells.
+The disrupted appearance of many of the islets from the 2 
+diabetic groups led to questions about the vascularity of the islets
+associated with diabetes and liraglutide treatment. Pancreatic 
+sections were  stained with CD34 to identify vessels surrounding and
+penetrating  the islets. Fig. 4D shows the vessel staining around an
+islet from a  lean control rat. The green cells within the islets are
+Table 1
+Islet morphological categories.
+Intact Disrupted Scattered
+Lean
+84.1 ± 5.3*
+7.7 ± 3.3
+Diabetic vehicle 21.8 ± 12.0 67.33 ± 15.3 11.2 ± 5.0
+Diabetic liraglutide 12.4 ± 5.5 47.0 ± 7.1 40.4 ± 8.2*
+The percentage of intact islets was greatest in the lean, non-diabetic group. Islets
+from the two  diabetic groups showed substantial numbers of disrupted islets, in
+which the outer capsule of the islet was damaged and lacked a smooth border.
+The  percentage of islets with disrupted outer rims was  the same as small clusters of
+scattered endocrine cells in the pancreata from liraglutide-treated animals. n = slides
+analyzed (lean  = 8, vehicle = 8, liragluide-treated = 7).
+* p < 0.05.
+7.9 ± 4.1*
+positive for  insulin (-cells) with proinsulin additionally stained in
+red/orange. As has been shown in the past, blood vessels appear
+to align with the insulin-containing portion of each -cell and
+opposite the proinsulin location in the healthy rats [17]. The
+vehicle-treated rats had evidence of abundant blood vessels that
+penetrated  throughout the islets with a more scattered 
+distribution of proinsulin within each cell (Fig. 4E). Liraglutide did not
+change  the  appearance or density of blood vessels within the islets
+(Fig. 4F). More proinsulin was  located in -cells near blood 
+vessels in  the  liraglutide-treated animals than in the vehicle treated
+diabetics.
+3.4. ˛-Cells  and glucagon content
+There was  no significant difference in the percentage of -
+cells present in individual islets between groups (68.1 ± 2.5% in
+lean controls, 72.8 ± 2.0% in vehicle-treated, and 67.4 ± 3.2% in
+liraglutide-treated rats). However, when the total area per 
+microscopic field  stained for glucagon was calculated, there was far less
+glucagon in  the liraglutide-treated animals than in either of the
+other two groups (Fig. 5A). A difference in glucagon staining per
+islet could  be due to changes in cell size (hypertrophy or 
+atro-phy) or in cell number. To clarify, individual - and -cell numbers
+were counted using 40× images and the liraglutide group again
+had significantly fewer -cells/field than the other two groups
+(Fig. 5B). There was  no difference in the number of -cells/field
+(lean = 17.4  ± 5.6; vehicle = 14.2 ± 2.3; liraglutide = 12.3 ± 1.6). The
+loss of -cells resulted in an increase in the -cell/-cell ratio
+(Fig. 5C). In  addition, the intensity of the glucagon staining within
+each -cell  was  significantly lower in the two  diabetic groups 
+compared to the  lean controls (Fig. 5D). In -cells, there was significantly
+less somatostatin staining in the liraglutide treated cells compared
+to the other  two groups (Fig. 5E).
+3.5. Cell proliferation
+To begin  to identify the mechanisms responsible for the changes
+in - to -cell ratios, we identified proliferating cells using Ki67,
+a well-characterized nuclear protein essential for proliferation. In
+the lean, non-diabetic animals positive Ki67 staining was  present
+in 14% of all of the -cells (Table 2). In contrast, only half that many
+-cells were proliferating in the vehicle-injected diabetic rats, and
+there were  no proliferating -cells in the liraglutide-treated 
+animals. In contrast, the percentage of -cells actively proliferating
+was higher  in both diabetic groups compared to the non-diabetic
+group. The  liraglutide group had lower -cell proliferation rates
+than the vehicle-treated rats (Table 2).
+Table 2
+- and -cell proliferation rates.
+Lean 14.3 ± 1.1 28.6 ± 5.9 64.3 ± 8.5
+Diabetic vehicle 6.7 ± 0.9 80.0 ± 6.5*
+82.2 ± 1.0*
+Diabetic liraglutide 0.0 ± 0.0 56.6 ± 2.5 56.8 ± 4.7
+Positive Ki-67 staining indicated proliferating cells. In the lean, non-diabetic animals
+there was a low level of proliferating - or -cells compared to other cells in the islet.
+However, in the diabetic, vehicle-administered animals the -cells had a high level
+of  proliferation. Administration of liraglutide significantly reduced the proliferating
+-cells with no proliferation found in -cells. n = 17 islets from lean rats, 15 diabetic
+vehicle rats, and 17 diabetic liraglutide rats.
+* p < 0.05 for comparison within -cells and other cell types.
+-Cells -Cells Other
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+3.6. Mitochondrial ultrastructure
+Given the loss of -cells in the islets of the liraglutide-treated
+rats, we  investigated the ultrastructure of these cells. The quality
+of the mitochondria, based on EM micrographs, was scored using
+the Mitochondrial Quality Index [14]. The sample image of an -
+cell from a  lean control rat illustrates healthy mitochondria given
+a score of 1  (Fig. 6A). -Cells from vehicle- and liraglutide-treated
+animals illustrate mitochondria with scores of 2, 3 and 4 (Fig. 6B
+and C). In -cells, only the cells from lean control animals had a
+predominance of healthy mitochondria with no signs of completely
+disrupted mitochondria (Fig. 6D). Cells from the vehicle and 
+liraglutide treated  groups had nearly equal numbers of mitochondria in all
+4 quality categories. Likewise, in -cells from the lean control 
+animals, the majority of mitochondria were completely intact (Fig. 6E).
+In contrast,  -cells from the liraglutide-treated animals had a much
+63
+64
+higher percentage of the mitochondria that were completely 
+disrupted (score of 4) compared to the vehicle-treated rats (Fig. 6E).
+4. Discussion
+The results of this study indicate that long-term liraglutide 
+treatment reduced weight gain and lowered blood glucose in severely
+diabetic ZDF rats. However, an excessive loss of -cells, without a
+loss in -cell number, was observed with markedly abnormal islet
+morphology. In spite of the bihormonal hypothesis first proposed
+by Unger and Orci in 1975 [18], little has been done to explore
+the role of the -cell and glucagon secretion with GLP-1 analogs. It
+has been known for over 15 years that GLP-1 suppresses glucagon
+release [19], and this suppression is not dependent on the increased
+insulin secretion stimulated by the compound, as it occurs even
+in cultured  -cell lines [9]. Furthermore, the increase in islet size
+reported in  some studies with GLP-1 treatment was due to the 
+stimulation of -cell proliferation [20], with no observable changes in
+other cell types. Liraglutide was shown to increase -cell mass by
+increasing the cellular kinetics and suppressing ER stress in db/db
+mice after  only 2 weeks of treatment. Our study, conducted for
+9 weeks on  severely diabetic rats, showed islets with abnormal
+morphology in both the vehicle and liraglutide-treated groups with
+excessive loss of -cells in the treated animals.
+In ZDF rats, liraglutide has been reported to initially reduce body
+weight, but  the animals gained the weight back, so that within 6
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+weeks of treatment they were statistically heavier than the 
+vehicle-treated rats [6]. In our study, 9 weeks of treatment resulted in
+a significant decline in weight compared to animals exposed to
+vehicle alone, resulting in body weights that were not 
+statistically different from the lean controls. Similar consistent losses in
+body weight have been identified in db/db mice [21]. In agreement
+with our findings, previous studies using ZDF rats and liraglutide
+monotherapy noted a decline in blood glucose levels with 
+liraglutide, but this reduction did not bring the glucose levels down to
+nondiabetic  values [6,22].
+The endocrine function of the islet is a delicate balance of both
+paracrine, endocrine, neural and possibly vascular communication.
+Thus, changes in the cellular equilibrium must be investigated since
+they may  ultimately affect the clinical response to chronic 
+exposure of high  levels of GLP-1. In another study employing long-term
+liraglutide treatment, there was  no increase in the -cell mass or 
+Ki-67 staining  in male ZDF rats [22]. In Sturis et al., proliferating -cells
+numbers actually dropped with 2 weeks of liraglutide 
+administration, but then returned to vehicle levels by week 6 [6]. We  show
+a decline in - and -cell proliferation along with a decline in
+all cell proliferation in the islets with liraglutide treatment 
+compared to the vehicle group, in sharp contrast to the current dogma
+concerning  -cell proliferation and GLP-1 analogs. It is important
+to note that the greatest reported increase in -cell proliferation
+with liraglutide has been in primary monolayer cultures from 
+newborn rats [20], and not in vivo studies. Even when there was a
+reported increase in proliferating -cells in intact islets in response
+to liraglutide, those proliferating cells were still extremely rare
+events in both human and rat islets [23,24]. Thus, the exact level
+of -cell proliferation in humans in response to liraglutide is still
+unclear.
+The impact of GLP-1 and its analogs on -cells has been 
+uncertain. In isolated rat and human islets, GLP-1 exposure significantly
+decreased the content and release of glucagon from -cells [8,25].
+While in the  perfused rat pancreas, GLP-1 had no effect on glucagon
+release [26]. In humans, liraglutide caused significantly lower
+glucagon levels when fasting and following meals [27] especially
+protein-rich  meals [28]. In one of the most interesting experiments,
+humans were subjected to a step-wise hypoglycemic clamp and
+plasma glucagon levels sampled. At both 4 and 5 mM glucose, the
+subjects given liraglutide showed significantly less glucagon 
+secretion than the placebo group [29,30]. At even lower glucose levels
+(down to 2.7 mM)  there was either no effect of liraglutide, or the
+liraglutide group actually secreted more glucagon than the placebo
+group [30].  However, it is important to note that those tests utilized
+acute (30 min) exposures to GLP-1 or GLP-1 analogs (exendin), and
+may  not be  relevant to potential changes that could occur with
+long-term exposure. A human study of type 2 diabetic patients
+administered liraglutide for 12 weeks found a reduction in 
+fasting glucagon with all 5 liraglutide doses tested, although statistical
+significance  was not reached [4].
+Importantly, a recent article describing the effects of long-term
+exposure to  GLP determined that there was greater -cell mass
+in humans  treated with incretins for more than 1 year compared
+to diabetics  on other drugs [31]. The subjects on the incretins had
+expanded numbers of glucagon-positive cells lining the pancreatic
+ducts associated with increased, but still rare, Ki-67 staining. The
+results of this study are at odds with our findings. However, it is
+important to note that the human organ donors studied in Butler
+et al. were taking sitagliptin, a DPP-4 inhibitor (n = 6) and one was
+on exenatide. The differences between our findings and the human
+study may certainly be due to the aspects unique to ZDF rats, or
+
+may  be drug specific as we only tested the effects of liraglutide.
+Further studies are vital to determine the long-term effects of drugs
+within the  incretin classification on -cell health and pancreatic
+function.
+Other human studies on the long-term effects of GLP-1 analogs
+have begun  to raise concerns about the safety of this class of drugs
+[32,33]. While the majority of the studies have examined 
+possible links between the use of another GLP-1 agonist, exendin, likely
+because it  has been on the market longer, new reports 
+including case studies, indicate a possible link with liraglutide as well
+[34-36]. In  the past 2 years, the FDA has issued warnings 
+concerning the  use of liraglutide with possible risks of thyroid cancer,
+pancreatitis, and lost renal function [37]. Although studying these
+complications was not the focus of this study, no obvious signs of
+pancreatitis  were noted in the liraglutide-treated animals.
+5. Conclusions
+This study, along with previous publications, showed that
+liraglutide  had positive metabolic effects on the ZDF rat model,
+including reduced weight gain and decreased non-fasting blood
+glucose levels. However, this study also demonstrates abnormal
+islet morphology associated with severe diabetes that was not
+reversed by  liraglutide and, in the case of -cell health, was actually
+inferior in the treated group. Any hope of stabilizing or 
+enhancing islet cell mass or function must be accompanied by studies
+that carefully assess islet anatomy and physiology. The relevance
+of these findings to humans needs to be investigated, along with
+investigations of the mechanism of -cell loss.
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+Funding
+The project was funded by the KU Diabetes Institute.
+Conflict of  interest
+The  authors have no conflict of interest with this project.
+Acknowledgements
+The  authors wish to thank Barbara Fegley of the Electron
+Microscopy  Research Laboratory, University of Kansas Medical 
+Center, for her  assistance with acquisition of electron microscopy
+images.
+References
+[1] Wajchenberg B. Beta-cell failure in diabetes and preservation by clinical 
+treatment. Endocr Rev 2007;28:187-218.
+[2] Parks M,
+review of  a new antidiabetic therapy. N Engl J Med  2010;362:774-7.
+[3] Deacon C. Therapeutic strategies based upon glucagon-like peptide 1. Diabetes
+2004;53:2181-9.
+[4] Madsbad  S, Schmitz O, Ranstam J, Jakobsen G, Matthews D. Improved glycemic
+control with no weight increase in patients with type 2 diabetes after 
+once-daily treatment with the long-acting glucagon-like peptide 1 analog liraglutide
+(NN2211): a 12-week, double-blind, randomized, controlled trial. Diabetes
+Care 2004;27:1335-42.
+[5] Derosa G, Maffioli P. GLP-1 agonists exenatide and liraglutide: a review about
+their safety and efficacy. Cancer Chemother Pharmacol 2012;11:459-71.
+[6] Sturis J, Gotfredsen C, Rømer J, Rolin B, Ribel U, Brand C, et al. GLP-1 derivative
+liraglutide in rats with -cell deficiencies: influence of metabolic state on -cell
+dynamics. Br J Pharmacol 2003;140:123-32.
+[7] Komatsu  R, Matsuyama T, Namba M,  Watanabe N, Itoh H, Kono N, et al.
+Glucagonostatic and insulinotropic action of glucagonlike peptide I-(7-36)-
+amide. Diabetes 1989;38:902-5.
+[8] Yamato E, Noma Y, Tahara Y, Ikegami H, Yamamoto Y, Cha T, et al. 
+Suppression of synthesis and release of glucagon by glucagon-like peptide-1 (7-36
+amide) without affect on mRNA level in isolated rat islets. Biochem Biophys
+Res  Commun 1990;167:431-7.
+[9] Matsumura T, Itoh H, Watanabe N, Oda Y, Tanaka M, Namba M,  et al. 
+Glucagonlike  peptide-1(7-36)amide suppresses glucagon secretion and decreases cyclic
+AMP  concentration in cultured In-R1-G9 cells. Biochem Biophys Res Commun
+1992;186:503-8.
+[10] Burcelin  R, Knauf C, Cani P. Pancreatic alpha-cell dysfunction in diabetes. 
+Diabetes Metab Syndr Obes 2008;34:S49-55.
+[11] Loganathan R, Bilgen M,  Al-Hafez B, Zhero SV, Alenezy MM,  Smirnova IV. 
+Exercise  training improves cardiac performance in diabetes: in vivo demonstration
+with quantitative cine-MRI analyses. J Appl Physiol 2007;102:665-72.
+[12] VanHoose L, Sawers Y, Loganathan R, Vacek J, Stehno-Bittel L, Novikova L, et al.
+Electrocardiographic changes with the onset of diabetes and the impact of 
+aerobic  exercise training in the Zucker Diabetic Fatty (ZDF) rat. Cardiovasc Diabetol
+2010;9:56.
+[13] Huang H,  Novikova L, Williams S, Smirnova I, Stehno-Bittel L. Low insulin 
+content of large islet population is present in situ and in isolated islets. Islets
+2011;3:6-13.
+[14] Farhat B,  Almelkar A, Ramachandran K, Williams SJ, Huang HH, Zamierowksi
+D, Novikova L, Stehno-Bittel L. Small human islets comprised of more -cells
+with higher insulin content than large islets. Islets 2013;5(2):87-94.
+[15] Searls Y,  Smirnova I, Fegley B, Stehno-Bittel L. Exercise attenuates 
+diabetes-induced  ultrastructural changes in rat cardiac tissue. Med  Sci Sports Exerc
+2004;36:1863-70.
+[16] Huang H, Farmer K, Windscheffel J, Mason K, Power M,  Wright D, et al. 
+Exercise  increases insulin content and basal secretion in pancreatic islets in type 1
+diabetic mice. Exp Diabetes Res 2011:1-10, 481427.
+[17] Cabrera O, Berman DM,  Kenyon NS, Ricordi C, Berggren P-O, Caicedo A. The
+unique cytoarchitecture of human pancreatic islets has implications for islet
+cell  function. Proc Natl Acad Sci USA 2006;103:2334-9.
+[18] Unger R,  Orci L. The essential role of glucagon in the pathogenesis of diabetes
+mellitus.  Lancet 1975;1:14-6.
+[19] Ritzel R,  Ørskov C, Holst J, Nauck M.  Pharmacokinetic, insulinotropic,
+and  glucagonostatic properties of GLP-1 [7-36 amide] after subcutaneous
+injection  in healthy volunteers. Dose-response-relationships. Diabetologia
+1995;38:720-5.
+[20] Friedrichsen BN, Neubauer N, Lee YC, Gram VK, Blume N, Petersen JS, et al.
+Stimulation of pancreatic beta-cell replication by incretins involves 
+transcrip-tional induction of cyclin D1 via multiple signalling pathways. J Endocrinol
+2006;188:481-92.
+[21] Shimoda  M, Kanda Y, Hamamoto S, Tawaramoto K, Hashiramoto M,  Matsuki
+M, et al.
+The human glucagon-like peptide-1 analogue liraglutide preserves
+pancreatic beta cells via regulation of cell kinetics and suppression of oxidative
+
+Rosebraugh C. Weighing risks and benefits of liraglutide - the FDA’s
+
+65
+66
+and endoplasmic reticulum stress in a mouse model of diabetes. Diabetologia
+2011;54:1098-108.
+[22] Vrang N, Jelsing J, Simonsen L, Jensen AE, Thorup I, Søeborg H, et al. The effects of
+13  weeks of liraglutide treatment on endocrine and exocrine pancreas in male
+and  female ZDF-rats: no evidence of drug induced pancreatitis. Am J Physiol
+Endocrinol Metab 2012;303:E253-64.
+[23] Rutti S, Sauter NS, Bouzakri K, Prazak R, Halban PA, Donath MY.  In vitro 
+proliferation of adult human beta-cells. PLoS ONE 2012;7:e35801.
+[24] Toso C, McCall M,  Emamaullee J, Merani S, Davis J, Edgar R. Liraglutide, a 
+long-acting human glucagon-like peptide 1 analogue, improves human islet survival
+in culture. Transpl Int 2010;3:259-65.
+[25] Fehmann HC, Hering BJ, Wolf MJ,  Brandhorst H, Brandhorst D, Bretzel RG, et al.
+The effects of glucagon-like peptide-I (GLP-I) on hormone secretion from 
+isolated human pancreatic islets. Pancreas 1995;11:196-200.
+[26] Suzuki S, Kawai K, Ohashi S, Watanabe Y, Yamashita K. Interaction of
+glucagon-like peptide-1(7-36) amide and gastric inhibitory polypeptide or
+cholecystokinin on insulin and glucagon secretion from the isolated perfused
+rat  pancreas. Metabolism 1992;41:359-63.
+[27] Zander M,  Madsbad S, Madsen J, Holst J. Effect of 6-week course of 
+glucagonlike peptide 1 on glycaemic control, insulin sensitivity, and -cell function in
+type 2 diabetes: a parallel-group study. Lancet 2002;359:824-30.
+[28] Degn KB, Brock B, Juhl CB, Djurhuus CB, Grubert J, Kim D. One week’s
+treatment with the long-acting glucagon-like peptide 1 derivative liraglutide
+(NN2211) markedly improves 24-h glycemia and - and -cell function and
+reduces endogenous glucose release in patients with type 2 diabetes. Diabetes
+2004;53:1187-94.
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+[29] [29[Vilsbøll T, Krarup T, Madsbad S, Holst J. Both GLP-1 and GIP are
+insulinotropic at basal and postprandial glucose levels and contribute nearly
+equally to the incretin effect of a meal in healthy subjects. Regul Pept
+2003;114:115-21.
+[30] Chiu WU,  Shih SR, Tseng CH. A review on the association between 
+glucagonlike peptide-1 receptor agonists and thyroid cancer. Exp Diabetes Res
+2012;53:2397-403.
+[31] Butler AE, Campbell-Thompson M,  Gurlo T, Dawson DW,  Atkinson M, 
+Butler  PC. Marked expansion of exocrine and endocrine pancreas with incretin
+therapy in humans with increased exocrine pancreas dysplasia and the 
+potential for glucagon-producing neuroendocrine tumors. Diabetes 2013;62(7):
+2505-604.
+[32] Labuzek K, Kozlowski M,  Szkudlapski D, Sikorska P, Kozlowska M,  Okopien B.
+Incretin-based therapies in the treatment of type 2 diabetes - more than meets
+the eye? Eur J Intern Med 2013;24(3):207-12.
+[33] Elashoff M,  Malveyenko AV, Gier B, Elashoff R, Butler PC. Pancreatitis, 
+pancreatic, and thyroid cancer with glucagon-like peptide-1-based therapies.
+Gastroenterology 2011;141(1):150-6.
+[34] Bourezane H, Kastler B, Kantilip JP. Late and severe acute necrotizing 
+pancre-atitus in a patient with liraglutide. Therapie 2012;67(6):539-40.
+[35] Franks AS, Lee PH, George CM.  Pancreatitis: a potential complication of 
+liraglu-tide? Ann Pharmacother 2012;46(11):1547-53.
+[36] Knezevich E, Crnic T, Kershaw S, Drincic A. Liraglutide-associated acute 
+pancreatitis. Am J Health Syst Pharm 2012;69(5):386-9.
+[37] Parks M,  Rosebraugh C. Weighing risks and benefits of liraglutide-the FDA’s
+review of a new antidiabetic therapy. N Engl J Med  2010;362(9):774-7.
+
+>>>section: acknowledgements
+Acknowledgements
+The  authors wish to thank Barbara Fegley of the Electron
+Microscopy  Research Laboratory, University of Kansas Medical 
+Center, for her  assistance with acquisition of electron microscopy
+images.
+
+>>>section: abstract
+a  b  s  t  r  a  c  t
+The  ultimate  treatment  goal  of  diabetes  is  to  preserve  and  restore  islet  cell  function.  Treatment  of certain
+diabetic  animal  models  with  incretins  has  been  reported  to  preserve  and  possibly  enhance  islet  function
+and  promote  islet  cell  growth.  The  studies  reported  here  detail  islet  cell  anatomy  in animals  chronically
+treated  with  the  incretin  analog,  liraglutide.  Our  aim  was  to quantitatively  and  qualitatively  analyze  islet
+cells  from  diabetic  animals  treated with  vehicle  (control)  or liraglutide  to  determine  whether  normal  islet
+cell anatomy  is  maintained  or enhanced  with  pharmaceutical  treatment.  We  harvested  pancreata  from
+liraglutide  and  vehicle-treated  Zucker  Diabetic  Fatty  (ZDF)  rats  to examine  islet  structure  and  function
+and  obtain  isolated  islets.  Twelve-week-old  male  rats  were  assigned  to 3  groups:  (1)  liraglutide-treated
+diabetic,  (2)  vehicle-treated  diabetic,  and  (3)  lean  non-diabetic.  Liraglutide  was  given SC  twice  daily
+for  9  weeks.  As  expected,  liraglutide  treatment  reduced  body  weight  by  15%  compared  to  the 
+vehicle-treated  animals,  eventually  to levels  that were  not  different  from  lean  controls.  At the  termination  of
+the  study,  blood  glucose  was significantly  less  in the  liraglutide-treated  rats compared  to  vehicle  treated
+controls  (485.8  ± 22.5  and  547.2  ±  33.1 mg/dl,  respectively).  Insulin  content/islet  (measured  by  
+immuno-histochemistry)  was  34.2 ± 0.7  pixel  units  in  vehicle-treated  rats,  and  54.9  ±  0.6  in  the  liraglutide-treated
+animals. Glucose-stimulated  insulin  secretion  from  isolated  islets  (measured  as the stimulation  index)
+was  maintained  in  the liraglutide-treated  rats,  but  not in  the vehicle-treated.  However,  liraglutide  did  not
+preserve  normal  islet  architecture.  There  was  a decrease  in  the glucagon-positive  area/islet  and  in the  -
+cell  numbers/area  with  liraglutide  treatment  (6.5  cells/field),  compared  to  vehicle  (17.9 cells/field).  There
+was an increase  in  -cell  numbers,  the  - to  -cell  ratio  that  was  statistically  higher  in  the  
+liraglutide-treated  rats  (24.3  ±  4.4)  compared  to vehicle  (9.1  ±  2.8).  Disrupted  mitochondria  were  more  commonly
+observed  in  the  -cells  (51.9  ± 10.3%  of  cells)  than  in the  -cells  (27.2  ±  4.4%)  in the liraglutide-treated
+group.  While  liraglutide  enhanced  or maintained  growth  and function  of certain  islet cells,  the overall
+ratio  of  - to -cells  was decreased  and  there  was  an  absolute  reduction  in  islet  -cell content.  There
+was  selective  disruption  of intracellular  -cell  organelles,  representing  an  uncoupling  of the  bihormonal
+islet  signaling  that  is  required  for normal  metabolic  regulation.  The  relevance  of the findings  to  long-term
+liraglutide  treatment  in  people  with  diabetes  is  unknown  and  should  be investigated  in appropriately
+designed  clinical  studies.
+© 2013 The Authors. Published by Elsevier Ltd.  Open access under CC BY-NC-ND license.
+Abbreviations: ANOVA, analysis of variance; BSA, bovine serum albumin; EM,
+electron microscope; ER, endoplasmic reticulum; GLP-1, glucagon-like peptide-1;
+HbA1c, glycated hemoglobin; HRP, horseradish peroxidase; IACUCI, nstitutional
+Animal Care and Use Committee; IF, immunofluorescence; IHC, 
+immunohistochemistry; IP, intraperitoneal injection; LSD, least significant difference; NDS, normal
+donkey serum; PBS, phosphate buffered solution; ZDF, Zucker diabetic fatty.
+∗
+Corresponding author at: Department of Physical Therapy and Rehabilitation
+Science, MS 2002, University of Kansas Medical Center, Kansas City, KS 66160, USA.
+Tel.: +1 913 588 6733; fax: +1 913 588 4568.
+E-mail address: lbittel@kumc.edu (L. Stehno-Bittel).
+1043-6618 © 2
+. Published by Elsevier Ltd. Open access under CC BY-NC-ND license.
+http://dx.doi.org/10.1016/j.phrs.2013.07.005
+
+>>>section: discussion
+4. Discussion
+The results of this study indicate that long-term liraglutide 
+treatment reduced weight gain and lowered blood glucose in severely
+diabetic ZDF rats. However, an excessive loss of -cells, without a
+loss in -cell number, was observed with markedly abnormal islet
+morphology. In spite of the bihormonal hypothesis first proposed
+by Unger and Orci in 1975 [18], little has been done to explore
+the role of the -cell and glucagon secretion with GLP-1 analogs. It
+has been known for over 15 years that GLP-1 suppresses glucagon
+release [19], and this suppression is not dependent on the increased
+insulin secretion stimulated by the compound, as it occurs even
+in cultured  -cell lines [9]. Furthermore, the increase in islet size
+reported in  some studies with GLP-1 treatment was due to the 
+stimulation of -cell proliferation [20], with no observable changes in
+other cell types. Liraglutide was shown to increase -cell mass by
+increasing the cellular kinetics and suppressing ER stress in db/db
+mice after  only 2 weeks of treatment. Our study, conducted for
+9 weeks on  severely diabetic rats, showed islets with abnormal
+morphology in both the vehicle and liraglutide-treated groups with
+excessive loss of -cells in the treated animals.
+In ZDF rats, liraglutide has been reported to initially reduce body
+weight, but  the animals gained the weight back, so that within 6
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+weeks of treatment they were statistically heavier than the 
+vehicle-treated rats [6]. In our study, 9 weeks of treatment resulted in
+a significant decline in weight compared to animals exposed to
+vehicle alone, resulting in body weights that were not 
+statistically different from the lean controls. Similar consistent losses in
+body weight have been identified in db/db mice [21]. In agreement
+with our findings, previous studies using ZDF rats and liraglutide
+monotherapy noted a decline in blood glucose levels with 
+liraglutide, but this reduction did not bring the glucose levels down to
+nondiabetic  values [6,22].
+The endocrine function of the islet is a delicate balance of both
+paracrine, endocrine, neural and possibly vascular communication.
+Thus, changes in the cellular equilibrium must be investigated since
+they may  ultimately affect the clinical response to chronic 
+exposure of high  levels of GLP-1. In another study employing long-term
+liraglutide treatment, there was  no increase in the -cell mass or 
+Ki-67 staining  in male ZDF rats [22]. In Sturis et al., proliferating -cells
+numbers actually dropped with 2 weeks of liraglutide 
+administration, but then returned to vehicle levels by week 6 [6]. We  show
+a decline in - and -cell proliferation along with a decline in
+all cell proliferation in the islets with liraglutide treatment 
+compared to the vehicle group, in sharp contrast to the current dogma
+concerning  -cell proliferation and GLP-1 analogs. It is important
+to note that the greatest reported increase in -cell proliferation
+with liraglutide has been in primary monolayer cultures from 
+newborn rats [20], and not in vivo studies. Even when there was a
+reported increase in proliferating -cells in intact islets in response
+to liraglutide, those proliferating cells were still extremely rare
+events in both human and rat islets [23,24]. Thus, the exact level
+of -cell proliferation in humans in response to liraglutide is still
+unclear.
+The impact of GLP-1 and its analogs on -cells has been 
+uncertain. In isolated rat and human islets, GLP-1 exposure significantly
+decreased the content and release of glucagon from -cells [8,25].
+While in the  perfused rat pancreas, GLP-1 had no effect on glucagon
+release [26]. In humans, liraglutide caused significantly lower
+glucagon levels when fasting and following meals [27] especially
+protein-rich  meals [28]. In one of the most interesting experiments,
+humans were subjected to a step-wise hypoglycemic clamp and
+plasma glucagon levels sampled. At both 4 and 5 mM glucose, the
+subjects given liraglutide showed significantly less glucagon 
+secretion than the placebo group [29,30]. At even lower glucose levels
+(down to 2.7 mM)  there was either no effect of liraglutide, or the
+liraglutide group actually secreted more glucagon than the placebo
+group [30].  However, it is important to note that those tests utilized
+acute (30 min) exposures to GLP-1 or GLP-1 analogs (exendin), and
+may  not be  relevant to potential changes that could occur with
+long-term exposure. A human study of type 2 diabetic patients
+administered liraglutide for 12 weeks found a reduction in 
+fasting glucagon with all 5 liraglutide doses tested, although statistical
+significance  was not reached [4].
+Importantly, a recent article describing the effects of long-term
+exposure to  GLP determined that there was greater -cell mass
+in humans  treated with incretins for more than 1 year compared
+to diabetics  on other drugs [31]. The subjects on the incretins had
+expanded numbers of glucagon-positive cells lining the pancreatic
+ducts associated with increased, but still rare, Ki-67 staining. The
+results of this study are at odds with our findings. However, it is
+important to note that the human organ donors studied in Butler
+et al. were taking sitagliptin, a DPP-4 inhibitor (n = 6) and one was
+on exenatide. The differences between our findings and the human
+study may certainly be due to the aspects unique to ZDF rats, or
+
+may  be drug specific as we only tested the effects of liraglutide.
+Further studies are vital to determine the long-term effects of drugs
+within the  incretin classification on -cell health and pancreatic
+function.
+Other human studies on the long-term effects of GLP-1 analogs
+have begun  to raise concerns about the safety of this class of drugs
+[32,33]. While the majority of the studies have examined 
+possible links between the use of another GLP-1 agonist, exendin, likely
+because it  has been on the market longer, new reports 
+including case studies, indicate a possible link with liraglutide as well
+[34-36]. In  the past 2 years, the FDA has issued warnings 
+concerning the  use of liraglutide with possible risks of thyroid cancer,
+pancreatitis, and lost renal function [37]. Although studying these
+complications was not the focus of this study, no obvious signs of
+pancreatitis  were noted in the liraglutide-treated animals.
+
+>>>section: results
+3. Results
+3.1. Metabolic effects
+Over the  9 week course of the study, the body weight of the
+diabetic ZDF rats increased over the matched lean animals (Fig. 1A,
+p < 0.03). Administration of liraglutide was associated with a body
+weight  that was  not statistically different from the lean animals,
+and was  less than the vehicle-treated diabetic rats. Blood 
+glucose levels  increased in both diabetic groups compared to the lean
+non-diabetic controls at each time point tested (Fig. 1B; p < 0.001).
+Liraglutide  significantly reduced the blood glucose levels in the
+treated  ZDF  rats as compared to the vehicle-treated animals.
+At  the termination of the study, glucose tolerance tests were
+administered to the liraglutide and vehicle-treated animals. There
+was no  difference in the fasting glucose measurements prior to the
+initiation of  the experiment (Fig. 1C). However, the blood glucose of
+the vehicle-treated animals rose to levels above the detection limits
+of the procedure after the glucose injection (at 30 and 60 min). 
+During the  same time points, the liraglutide-treated animals had mean
+blood  glucose values of 529 ± 50 and 542 ± 51 mg/dl, respectively.
+There  was  no difference between groups in the glucose values 2 h
+after the injection of glucose.
+3.2. Insulin  content
+Immunohistochemistry was  used to identify islets from the 
+pancreas of each group of rats. Obviously, it was difficult to find intact
+islets from  the 2 diabetic groups. The results demonstrated 
+differences in  the insulin staining intensity between the 3 groups.
+As expected, the non-diabetic lean controls had the most intense
+insulin  staining (Fig. 2A), followed by the liraglutide-treated 
+animals (Fig. 2C). Pancreatic sections from the vehicle-treated animals
+had the least insulin staining (Fig. 2B). The color intensity was
+calculated  for individual -cells within the islets and the means
+are provided in Fig. 2D. Analysis of proinsulin staining from
+immunofluorescence images revealed the highest levels of 
+proinsulin in  the  liraglutide-treated rats (pixel intensity units 44.3 ± 3.7)
+compared to 37.3 ± 2.1 for the diabetic vehicle-treated rats, and
+29.2 ±  3.0 in  the lean controls (p < 0.005).
+Consistent with the immunohistochemistry data showing
+greater insulin staining, the density of insulin granules in the -cells
+of islets from  the liraglutide-treated animals increased as compared
+to the  controls. Insulin granules were identified by their hallmark
+halo appearance in electron micrographs, illustrated by arrows in
+Fig. 3A. The  -cells from the liraglutide-treated animals possessed
+a higher density of insulin granules per -cell area than the 
+vehicle-treated  animals (Fig. 3B).
+Insulin secretion was  measured from isolated islets from the
+3 groups in  conditions of 1 mM,  3 mM and 20 mM glucose. Islets
+from the lean animals showed a typical response with little 
+stimulation  at 3 mM glucose, but a significant increase in insulin release
+at 20 mM (Fig. 3C, p < 0.01). There was no significant increase in the
+amount of insulin released from the islets of vehicle-injected rats in
+response to  20 mM glucose. The liraglutide-treated rats had islets
+with a  stimulation index that was not statistically different from
+
+
+
+the lean control rats, but was higher than the 3 mM exposure in the
+islets from liraglutide-treated rats (p < 0.001).
+3.3. Islet morphology
+Morphological differences between groups clarify the cellular
+changes that occur with diabetes. The lean controls had healthy
+appearing -cells with normal islet morphology consisting of 
+centrally located -cells and - and -cells on the periphery (Fig. 4A).
+This cellular architecture was consistent with 88% of all islets from
+the lean controls demonstrating a -cell core pattern (n = 41 islets
+from 3 rats). Only 6% of the islets from the diabetic vehicle-treated
+rats were organized with the -cell core (n = 113 islets from 4 rats).
+Liraglutide did not improve the cellular architecture, because only
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+1% of the islets from the treated group had -cell cores (n = 71 islets
+from 4 rats).
+In addition to the location of specific endocrine cell types within
+the islets, the overall shape of the islets was altered with diabetes.
+In the diabetic animals, the islets often had a disrupted appearance
+with large areas in the islet core void of endocrine cells or areas of
+scattered endocrine cells amongst exocrine tissue (Fig. 4B and C).
+We identified 3 major islet morphology categories: (1) intact, (2)
+disrupted and (3) scattered cells. In the lean animals, the 
+majority of the islets were intact with approximately 15% classified as
+disrupted islets or scattered endocrine cells (Table 1). A 
+majority of the islets in the vehicle-treated rats were disrupted, with
+entire sections of islets missing endocrine cells as shown in Fig. 4B.
+The liraglutide-treated animals had a majority of islets classified as
+61
+62
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+either disrupted or scattered cells (Table 1). There was  no statistical
+difference between the 2 diabetic groups (vehicle or 
+liraglutide-treated) for  any of the classifications compared. However, both
+groups were statistically different from the islets obtained from the
+non-diabetic lean animals, except for the classification of scattered
+endocrine cells.
+The disrupted appearance of many of the islets from the 2 
+diabetic groups led to questions about the vascularity of the islets
+associated with diabetes and liraglutide treatment. Pancreatic 
+sections were  stained with CD34 to identify vessels surrounding and
+penetrating  the islets. Fig. 4D shows the vessel staining around an
+islet from a  lean control rat. The green cells within the islets are
+Table 1
+Islet morphological categories.
+Intact Disrupted Scattered
+Lean
+84.1 ± 5.3*
+7.7 ± 3.3
+Diabetic vehicle 21.8 ± 12.0 67.33 ± 15.3 11.2 ± 5.0
+Diabetic liraglutide 12.4 ± 5.5 47.0 ± 7.1 40.4 ± 8.2*
+The percentage of intact islets was greatest in the lean, non-diabetic group. Islets
+from the two  diabetic groups showed substantial numbers of disrupted islets, in
+which the outer capsule of the islet was damaged and lacked a smooth border.
+The  percentage of islets with disrupted outer rims was  the same as small clusters of
+scattered endocrine cells in the pancreata from liraglutide-treated animals. n = slides
+analyzed (lean  = 8, vehicle = 8, liragluide-treated = 7).
+* p < 0.05.
+7.9 ± 4.1*
+positive for  insulin (-cells) with proinsulin additionally stained in
+red/orange. As has been shown in the past, blood vessels appear
+to align with the insulin-containing portion of each -cell and
+opposite the proinsulin location in the healthy rats [17]. The
+vehicle-treated rats had evidence of abundant blood vessels that
+penetrated  throughout the islets with a more scattered 
+distribution of proinsulin within each cell (Fig. 4E). Liraglutide did not
+change  the  appearance or density of blood vessels within the islets
+(Fig. 4F). More proinsulin was  located in -cells near blood 
+vessels in  the  liraglutide-treated animals than in the vehicle treated
+diabetics.
+3.4. ˛-Cells  and glucagon content
+There was  no significant difference in the percentage of -
+cells present in individual islets between groups (68.1 ± 2.5% in
+lean controls, 72.8 ± 2.0% in vehicle-treated, and 67.4 ± 3.2% in
+liraglutide-treated rats). However, when the total area per 
+microscopic field  stained for glucagon was calculated, there was far less
+glucagon in  the liraglutide-treated animals than in either of the
+other two groups (Fig. 5A). A difference in glucagon staining per
+islet could  be due to changes in cell size (hypertrophy or 
+atro-phy) or in cell number. To clarify, individual - and -cell numbers
+were counted using 40× images and the liraglutide group again
+had significantly fewer -cells/field than the other two groups
+(Fig. 5B). There was  no difference in the number of -cells/field
+(lean = 17.4  ± 5.6; vehicle = 14.2 ± 2.3; liraglutide = 12.3 ± 1.6). The
+loss of -cells resulted in an increase in the -cell/-cell ratio
+(Fig. 5C). In  addition, the intensity of the glucagon staining within
+each -cell  was  significantly lower in the two  diabetic groups 
+compared to the  lean controls (Fig. 5D). In -cells, there was significantly
+less somatostatin staining in the liraglutide treated cells compared
+to the other  two groups (Fig. 5E).
+3.5. Cell proliferation
+To begin  to identify the mechanisms responsible for the changes
+in - to -cell ratios, we identified proliferating cells using Ki67,
+a well-characterized nuclear protein essential for proliferation. In
+the lean, non-diabetic animals positive Ki67 staining was  present
+in 14% of all of the -cells (Table 2). In contrast, only half that many
+-cells were proliferating in the vehicle-injected diabetic rats, and
+there were  no proliferating -cells in the liraglutide-treated 
+animals. In contrast, the percentage of -cells actively proliferating
+was higher  in both diabetic groups compared to the non-diabetic
+group. The  liraglutide group had lower -cell proliferation rates
+than the vehicle-treated rats (Table 2).
+Table 2
+- and -cell proliferation rates.
+Lean 14.3 ± 1.1 28.6 ± 5.9 64.3 ± 8.5
+Diabetic vehicle 6.7 ± 0.9 80.0 ± 6.5*
+82.2 ± 1.0*
+Diabetic liraglutide 0.0 ± 0.0 56.6 ± 2.5 56.8 ± 4.7
+Positive Ki-67 staining indicated proliferating cells. In the lean, non-diabetic animals
+there was a low level of proliferating - or -cells compared to other cells in the islet.
+However, in the diabetic, vehicle-administered animals the -cells had a high level
+of  proliferation. Administration of liraglutide significantly reduced the proliferating
+-cells with no proliferation found in -cells. n = 17 islets from lean rats, 15 diabetic
+vehicle rats, and 17 diabetic liraglutide rats.
+* p < 0.05 for comparison within -cells and other cell types.
+-Cells -Cells Other
+T. Schwasinger-Schmidt et al. / Pharmacological Research 76 (2013) 58- 66
+3.6. Mitochondrial ultrastructure
+Given the loss of -cells in the islets of the liraglutide-treated
+rats, we  investigated the ultrastructure of these cells. The quality
+of the mitochondria, based on EM micrographs, was scored using
+the Mitochondrial Quality Index [14]. The sample image of an -
+cell from a  lean control rat illustrates healthy mitochondria given
+a score of 1  (Fig. 6A). -Cells from vehicle- and liraglutide-treated
+animals illustrate mitochondria with scores of 2, 3 and 4 (Fig. 6B
+and C). In -cells, only the cells from lean control animals had a
+predominance of healthy mitochondria with no signs of completely
+disrupted mitochondria (Fig. 6D). Cells from the vehicle and 
+liraglutide treated  groups had nearly equal numbers of mitochondria in all
+4 quality categories. Likewise, in -cells from the lean control 
+animals, the majority of mitochondria were completely intact (Fig. 6E).
+In contrast,  -cells from the liraglutide-treated animals had a much
+63
+64
+higher percentage of the mitochondria that were completely 
+disrupted (score of 4) compared to the vehicle-treated rats (Fig. 6E).
+
+>>>section: introduction
+a  r  t  i  c  l e  i  n  f  o
+Article history:
+Received 10 April 2013
+Received in revised form 15 July 2013
+Accepted 16 July 2013
+Keywords:
+Type 2 diabetes
+Zucker rat
+GLP-1
+Liraglutide
+Islet
+-Cell
+-Cell
+Glucagon
+Insulin
+Long-term  liraglutide  treatment  is  associated  with  increased  insulin
+content  and  secretion  in  -cells,  and  a  loss  of  -cells  in  ZDF  rats
+Tiffany  Schwasinger-Schmidta,  David  C.  Robbinsa,  S.  Janette  Williamsb,
+Lesya  Novikovab, Lisa  Stehno-Bittelb,∗
+a Division of Endocrinology, University of Kansas Medical Center, Kansas City, KS, USA
+b Department of Physical Therapy and Rehabilitation Science, University of Kansas Medical Center, USA
+Pharmacological Research 76 (2013) 58- 66
+Contents lists available at ScienceDirect
+Pharmacological  Research
+jo ur nal home p age: www.elsev ier .co m/locate /yphrs
+1. Introduction
+The incretin hormones are peptides released by the 
+gastrointestinal tract in response to the ingestion of food. These hormones
+enhance insulin secretion and regulate glucose homeostasis by
+inhibiting glucagon secretion, slowing gastric emptying, and 
+controlling satiation, ultimately controlling body weight [1]. GLP-1
+is one of the major incretin hormones that rapidly stimulates
+insulin release. Several peptide drugs have been designed to mimic
+the action of GLP-1, among them exenatide and liraglutide, with
+the long-term goal of improving blood glucose regulation and
+enhancing weight loss. In 2010, the Food and Drug Administration
+approved liraglutide for daily, chronic treatment of adults with
+type 2 diabetes [2]. Liraglutide has 97% homology in amino acid
+sequence with endogenous GLP-1 and is resistant to enzyme 
+inactivation [3]. Administration of liraglutide to people with type 2
+diabetes significantly reduced fasting glucose levels, decreased
+HbA1c values, and decreased body weight [4]. There is indirect
+evidence, based on the long-term stability of HbA1c levels, that
+treatment with GLP-1 stabilizes islet cell function in humans, and
+may  slow the usual progression of insulin depletion over time in
+type 2 diabetes [5].
+Diabetic  ZDF rats, and those with 60% pancreatectomies,
+treated with  liraglutide have increased -cell mass, which is more
+prominent  in the most obese animals as compared to the 
+glucose-controlled animals [6]. -Cell glucose sensitivity was  restored with
+GLP-1 treatment, resulting in increased insulin secretion in rats.
+Conversely  glucagon secretion was inhibited [7,8]. The glucagon
+inhibition is thought to be due to the immediate effect of the
+incretin, as  direct exposure of an -cell culture line to GLP-1
+also inhibited glucagon release [9]. In conditions where glucagon
+production  and secretion are excessive, such inhibition may  be
+beneficial [10]. While improved -cell regulation may  be a goal,
+abnormal loss of -cells and/or their function would not be optimal
+for glucose  homeostasis.
+The increase in islet cell mass with improvement in glycemic
+control raises the possibility that treatment with GLP-1 analogs
+anatomically and, to some extent, physiologically reverses the
+insulin deficiency characteristic of type 2 diabetes. The purpose
+of this study was to determine whether the islets remaining after
+long-term  GLP-1 administration possessed normal morphology
+and function using an animal model of type 2 diabetes with 
+emphasis on -cells. Arguably, any treatment that enhances islet cell
+function in  diabetes should preserve or enhance normal islet cell
+structure and function.
+
+>>>section: figure_1
+Fig.  1.  Metabolic  characteristics.  (A)  Body  weights  for  the  vehicle-treated  animals  were  higher  than  the  lean  non-diabetic  controls  or  the  liraglutide-treated  diabetic  rats 
+(p 
+<  0.05).  (B)  The  non-fasting  blood  glucose  levels  for  the  2  diabetic  groups  were  signiﬁcantly  higher  than  the  lean  controls  at  each  time  point  measured  (p  <  0.001).  The 
+blood 
+glucose  levels  were  lower  in  the  liraglutide-treated  group  compared  to  the  vehicle-treated  group  (p  <  0.02).  (C)  Glucose  tolerance  tests  illustrated  the  rapid  increase 
+in 
+blood  glucose  levels  after  an  IP  bolus  injection  of  glucose.  In  fact,  the  glucose  meter  reached  its  maximum  detectible  level  within  15  min  of the injection. None of the 
+liraglutide-treated animals reached the maximum levels. 
+
+>>>section: figure_2
+Fig. 2. Cellular insulin levels. (A) Immunohistochemistry of pancreatic sections stained for insulin shows the most intense insulin staining in an islet from a lean non-diabetic 
+rat.  (B) Islets from the vehicle-treated animals possessed weak insulin staining. (C) The islets from the  liraglutide-treated animals illustrated more intense immunostaining 
+than  the vehicle group. (D) The graph summarizes these findings, showing the insulin intensity/cell with the liraglutide group possessing more insulin/cell than the vehicle- 
+treated animals, but statistically less than the non-diabetic lean controls. The graph summarizes analysis  of an average of 22 islets/group from 9 sections. *Difference between 
+the  lean controls and the vehicle-treated group (p < 0.001). #Difference between the vehicle- and liraglutide-treated groups (p < 0.05). Scale bar = 100 m for all images. 
+
+>>>section: figure_3
+Fig. 3. Insulin granules. (A) Micrograph of sample islet cells from a vehicle-treated animal. White arrows indicate insulin granules (magnification = 1500×). (B) Analysis of 
+insulin  granule density demonstrated that the 2 diabetic groups had a lower granule density than the lean control animals. An average of 36 islets/group were analyzed from 
+3  rats/group (*p < 0.001 and #p < 0.05). (C) The glucose-stimulated insulin release (stimulation index) was measured from isolated islets. The graph summarizes the mean of 
+2  independent trials (2-3 replicates). Islets from the lean control animals and the liraglutide-treated group had a significant increase in insulin release in response to 20 mM 
+glucose  compared to 3 mM glucose (*p < 0.01). 
+
+>>>section: figure_4
+Fig. 4. Morphology of islets. (A) Antibody-labeled islets from non-diabetic lean 
+control animals illustrated a normal morphology. (B) The islets from the vehicle- 
+treated diabetic rats had large areas of missing cells, indicating disrupted islets. (C) 
+The pancreatic sections from liraglutide-treated animals appeared similar to the 
+vehicle-treated group. Counter staining with DC34 for blood vessels (shown sur- 
+rounding the islet) and insulin and proinsulin (staining the islets) from lean controls 
+(D), vehicle-treated (E) and liraglutide-treat (F) animals all had similar vascularity 
+with less proinsuilin in the 2 diabetic groups (vehicle and liraglutide-treated). Scale 
+bar = 100 m for all images. 
+
+>>>section: figure_5
+Fig. 5. -Cell survival and glucagon content. (A) Analysis of triple stained images confirmed that there was  less glucagon staining when measured as total pixels. An average 
+of  7 sections/group were analyzed with 16.2 islets/section (*p  < 0.001). (B) There were fewer glucagon-positive -cells per field. An average of 44 fields from 9 sections/group 
+were  analyzed (*p < 0.01). (C) The -cell to -cell ratio was highest in the liraglutide-treated animals. An average of 7 sections/group were analyzed with 16.2 islets/section 
+(*p  < 0.05). (D) The intensity of the glucagon staining within each -cell was decreased in the liraglutide-treated animals. An average of 5 sections/group were analyzed with 
+35  cells/islet (*p < 0.01). (E) The intensity of the somatostatin immunostaining within each -cell was significantly decreased in the liraglutide-treated animals. An average 
+of  8 sections/group were analyzed from 12 cells/islet (*p < 0.001). 
+
+>>>section: figure_6
+Fig. 6. Mitochondria quality index score. (A) Electron micrographs illustrated the intact mitochondria in an -cell from a lean control animals (black arrows). (B and C) 
+Vehicle and liraglutide-treated animals had -cells with disrupted mitochondria with MQI  scores of  2-4 (white arrows). (D) There was  no difference in the MQI  score 
+for  -cells between the vehicle and liraglutide-treated groups. Mitochondrial integrity from the lean  controls was significantly higher compared to the other 2 groups 
+(p  < 0.001). (E)  -Cell mitochondrial integrity was also greatest in the lean control animals (*p < 0.001).  There were significantly more disrupted mitochondria (score of 4) in 
+the  liraglutide-treated animals compared to the vehicle-treated group (#p < 0.001). All images analyzed  were collected at 1500× magnification. 
+
+**References**
+ References
+[1] Wajchenberg B Beta-cell failure in diabetes and preservation by clinical treat- ment Endocr Rev 200728187-218
+[2] Parks M review of  a new antidiabetic therapy N Engl J Med  2010362774-7
+[3] Deacon C Therapeutic strategies based upon glucagon-like peptide 1 Diabetes 2004532181-9
+[4] Madsbad  S Schmitz O Ranstam J Jakobsen G Matthews D Improved glycemic control with no weight increase in patients with type 2 diabetes after once- daily treatment with the long-acting glucagon-like peptide 1 analog liraglutide (NN2211) a 12-week double-blind randomized controlled trial Diabetes Care 2004271335-42
+[5] Derosa G Maffioli P GLP-1 agonists exenatide and liraglutide a review about their safety and efficacy Cancer Chemother Pharmacol 201211459-71
+[6] Sturis J Gotfredsen C Rømer J Rolin B Ribel U Brand C et al GLP-1 derivative liraglutide in rats with -cell deficiencies influence of metabolic state on -cell dynamics Br J Pharmacol 2003140123-32
+[7] Komatsu  R Matsuyama T Namba M  Watanabe N Itoh H Kono N et al Glucagonostatic and insulinotropic action of glucagonlike peptide I-(7-36)- amide Diabetes 198938902-5
+[8] Yamato E Noma Y Tahara Y Ikegami H Yamamoto Y Cha T et al Suppres- sion of synthesis and release of glucagon by glucagon-like peptide-1 (7-36 amide) without affect on mRNA level in isolated rat islets Biochem Biophys Res  Commun 1990167431-7
+[9] Matsumura T Itoh H Watanabe N Oda Y Tanaka M Namba M  et al Glucagon- like  peptide-1(7-36)amide suppresses glucagon secretion and decreases cyclic AMP  concentration in cultured In-R1-G9 cells Biochem Biophys Res Commun 1992186503-8
+[10] Burcelin  R Knauf C Cani P Pancreatic alpha-cell dysfunction in diabetes Dia- betes Metab Syndr Obes 200834S49-55
+[11] Loganathan R Bilgen M  Al-Hafez B Zhero SV Alenezy MM  Smirnova IV Exer- cise  training improves cardiac performance in diabetes in vivo demonstration with quantitative cine-MRI analyses J Appl Physiol 2007102665-72
+[12] VanHoose L Sawers Y Loganathan R Vacek J Stehno-Bittel L Novikova L et al Electrocardiographic changes with the onset of diabetes and the impact of aer- obic  exercise training in the Zucker Diabetic Fatty (ZDF) rat Cardiovasc Diabetol 2010956
+[13] Huang H  Novikova L Williams S Smirnova I Stehno-Bittel L Low insulin con- tent of large islet population is present in situ and in isolated islets Islets 201136-13
+[14] Farhat B  Almelkar A Ramachandran K Williams SJ Huang HH Zamierowksi D Novikova L Stehno-Bittel L Small human islets comprised of more -cells with higher insulin content than large islets Islets 20135(2)87-94
+[15] Searls Y  Smirnova I Fegley B Stehno-Bittel L Exercise attenuates diabetes- induced  ultrastructural changes in rat cardiac tissue Med  Sci Sports Exerc 2004361863-70
+[16] Huang H Farmer K Windscheffel J Mason K Power M  Wright D et al Exer- cise  increases insulin content and basal secretion in pancreatic islets in type 1 diabetic mice Exp Diabetes Res 20111-10 481427
+[17] Cabrera O Berman DM  Kenyon NS Ricordi C Berggren P-O Caicedo A The unique cytoarchitecture of human pancreatic islets has implications for islet cell  function Proc Natl Acad Sci USA 20061032334-9
+[18] Unger R  Orci L The essential role of glucagon in the pathogenesis of diabetes mellitus  Lancet 1975114-6
+[19] Ritzel R  Ørskov C Holst J Nauck M  Pharmacokinetic insulinotropic and  glucagonostatic properties of GLP-1 [7-36 amide] after subcutaneous injection  in healthy volunteers Dose-response-relationships Diabetologia 199538720-5
+[20] Friedrichsen BN Neubauer N Lee YC Gram VK Blume N Petersen JS et al Stimulation of pancreatic beta-cell replication by incretins involves transcrip- tional induction of cyclin D1 via multiple signalling pathways J Endocrinol 2006188481-92
+[21] Shimoda  M Kanda Y Hamamoto S Tawaramoto K Hashiramoto M  Matsuki M et al The human glucagon-like peptide-1 analogue liraglutide preserves pancreatic beta cells via regulation of cell kinetics and suppression of oxidative  Rosebraugh C Weighing risks and benefits of liraglutide - the FDA’s  65 66 and endoplasmic reticulum stress in a mouse model of diabetes Diabetologia 2011541098-108
+[22] Vrang N Jelsing J Simonsen L Jensen AE Thorup I Søeborg H et al The effects of 13  weeks of liraglutide treatment on endocrine and exocrine pancreas in male and  female ZDF-rats no evidence of drug induced pancreatitis Am J Physiol Endocrinol Metab 2012303E253-64
+[23] Rutti S Sauter NS Bouzakri K Prazak R Halban PA Donath MY  In vitro prolif- eration of adult human beta-cells PLoS ONE 20127e35801
+[24] Toso C McCall M  Emamaullee J Merani S Davis J Edgar R Liraglutide a long- acting human glucagon-like peptide 1 analogue improves human islet survival in culture Transpl Int 20103259-65
+[25] Fehmann HC Hering BJ Wolf MJ  Brandhorst H Brandhorst D Bretzel RG et al The effects of glucagon-like peptide-I (GLP-I) on hormone secretion from iso- lated human pancreatic islets Pancreas 199511196-200
+[26] Suzuki S Kawai K Ohashi S Watanabe Y Yamashita K Interaction of glucagon-like peptide-1(7-36) amide and gastric inhibitory polypeptide or cholecystokinin on insulin and glucagon secretion from the isolated perfused rat  pancreas Metabolism 199241359-63
+[27] Zander M  Madsbad S Madsen J Holst J Effect of 6-week course of glucagon- like peptide 1 on glycaemic control insulin sensitivity and -cell function in type 2 diabetes a parallel-group study Lancet 2002359824-30
+[28] Degn KB Brock B Juhl CB Djurhuus CB Grubert J Kim D One week’s treatment with the long-acting glucagon-like peptide 1 derivative liraglutide (NN2211) markedly improves 24-h glycemia and - and -cell function and reduces endogenous glucose release in patients with type 2 diabetes Diabetes 2004531187-94 T Schwasinger-Schmidt et al / Pharmacological Research 76 (2013) 58- 66
+[29] [29[Vilsbøll T Krarup T Madsbad S Holst J Both GLP-1 and GIP are insulinotropic at basal and postprandial glucose levels and contribute nearly equally to the incretin effect of a meal in healthy subjects Regul Pept 2003114115-21
+[30] Chiu WU  Shih SR Tseng CH A review on the association between glucagon- like peptide-1 receptor agonists and thyroid cancer Exp Diabetes Res 2012532397-403
+[31] Butler AE Campbell-Thompson M  Gurlo T Dawson DW  Atkinson M But- ler  PC Marked expansion of exocrine and endocrine pancreas with incretin therapy in humans with increased exocrine pancreas dysplasia and the poten- tial for glucagon-producing neuroendocrine tumors Diabetes 201362(7) 2505-604
+[32] Labuzek K Kozlowski M  Szkudlapski D Sikorska P Kozlowska M  Okopien B Incretin-based therapies in the treatment of type 2 diabetes - more than meets the eye? Eur J Intern Med 201324(3)207-12
+[33] Elashoff M  Malveyenko AV Gier B Elashoff R Butler PC Pancreatitis pan- creatic and thyroid cancer with glucagon-like peptide-1-based therapies Gastroenterology 2011141(1)150-6
+[34] Bourezane H Kastler B Kantilip JP Late and severe acute necrotizing pancre- atitus in a patient with liraglutide Therapie 201267(6)539-40
+[35] Franks AS Lee PH George CM  Pancreatitis a potential complication of liraglu- tide? Ann Pharmacother 201246(11)1547-53
+[36] Knezevich E Crnic T Kershaw S Drincic A Liraglutide-associated acute pan- creatitis Am J Health Syst Pharm 201269(5)386-9
+[37] Parks M  Rosebraugh C Weighing risks and benefits of liraglutide-the FDA’s review of a new antidiabetic therapy N Engl J Med  2010362(9)774-7

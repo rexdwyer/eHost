@@ -1,0 +1,855 @@
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+RESEARCH ARTICLE
+Diazoxide protects against doxorubicin-induced
+cardiotoxicity in the rat
+Lisa Drange Hole1*, Terje Hjalmar Larsen2,3, Kjell Ove Fossan1, Fredrik Limé1 and Jan Schjøtt1,4
+Abstract
+Aim: Chemotherapy with doxorubicin is limited by cardiotoxicity. Free radical generation and mitochondrial dysfunction
+are thought to contribute to doxorubicin-induced cardiac failure. In this study we wanted to investigate if opening of
+mitochondrial KATP-channels by diazoxide is protective against doxorubicin cardiotoxicity, and if 5-hydroxydecanoate
+(5-HD), a selective mitochondrial KATP-channel antagonist, abolished any protection by this intervention.
+Methods: Wistar rats were divided into 7 groups (n = 6) and followed for 10 days with 5 intervention groups including
+the following treatments: (1) Diazoxide and doxorubicin, (2) diazoxide and 5-hydroxydecanoate (5-HD), (3) 5-HD and
+doxorubicin, (4) diazoxide and saline and (5) 5-HD and saline. On day 1, 3, 5 and 7 the animals received intraperitoneal
+(i.p.) injections with 10 mg/kg diazoxide and/or 40 mg/kg 5-HD, 30 minutes before i.p. injections with 3.0 mg/kg
+doxorubicin. One control group received only saline injections and the other control group received saline 30 minutes
+prior to 3.0 mg/kg doxorubicin. On day 10 the hearts were excised and Langendorff-perfused. Cardiac function was
+assessed by an intraventricular balloon and biochemical effects by release of hydrogen peroxide (H2O2) and troponin-T
+(TnT) in effluate from the isolated hearts, and by myocardial content of doxorubicin.
+Results: Doxorubicin treatment produced a significant loss in left ventricular developed pressure (LVDP) (p < 0.05) and
+an increase in both H2O2 and TnT release in effluate (p < 0.05). Diazoxide significantly attenuated the decrease in LVDP
+(p < 0.05) and abolished the increased release of H2O2 and TnT (p < 0.05). 5-HD abolished the effects of pretreatment
+with diazoxide, and these effects were not associated with reduced myocardial accumulation of doxorubicin.
+Conclusions: Pretreatment with diazoxide attenuates doxorubicin-induced cardiac dysfunction in the rat, measured by
+physiological indices and TnT and H2O2 in effluate from isolated hearts. The effect could be mediated by opening of
+mitochondrial KATP-channels, reduced doxorubicin-associated free radical generation and decreased cardiomyocyte
+damage. Diazoxide represents a promising protective intervention against doxorubicin-induced acute cardiotoxicity.
+Keywords: Doxorubicin, Troponin T, Hydrogenperoxide, Doxorubicinol, Heart, Rat, 5-hydroxydecanoate,
+Cardiotoxicity, Ex vivo, Diazoxide
+Open Access
+Background
+Doxorubicin is a widely used chemotherapy drug, but its
+application is associated with cardiotoxicity. Free radical
+generation and mitochondrial dysfunction are thought
+to contribute to doxorubicin-induced cardiac failure [1,2].
+Dose reduction protocols have been proposed to avoid the
+risk of delayed cardiotoxicity, but this might be at the
+expense of the anticancer effect [3]. In addition, 
+impaired calcium handling and cellular damage mediated
+Correspondence:
+of Clinical lisa.drange.hole@helse-bergen.no1Section
+Full list of author information is available at the end of the article
+Pharmacology, Laboratory of Clinical Biochemistry,
+University Hospital, 5021 Bergen, Norway
+by reactive oxygen species, have been proposed as toxic
+mechanisms to explain both acute and delayed 
+cardiotoxicity of anthracyclines [4-6].
+Diazoxide has been in clinical use since the early
+1960’s to treat severe non-malignant and malignant
+hypertension in hospitalized adults and acute severe
+hypertension in hospitalized children. Diazoxide is also
+used to treat hypoglycaemia. The mechanisms of 
+diazox-ide’s clinical action relate predominantly to the opening
+of pancreatic and smooth muscle KATP-channels [7].
+Mitochondria are the major effectors of 
+cardioprotection by mechanisms that open the mitochondrial*
+KATP-channel, including ischemic and pharmacologicalHaukeland
+© 2014 Hole et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+preconditioning [8]. Pharmacological preconditioning,
+mimicking ischemic preconditioning, is suggested as an
+intervention to reduce doxorubicin cardiotoxicity [9].
+Morphine has been demonstrated to mimic 
+preconditioning in cardiomyocytes [10,11]. We have previously
+observed increased mortality in rats pretreated in vivo
+with morphine before doxorubicin (32). In a follow-up
+study we pretreated rats with morphine, isolated the
+hearts and exposed them to doxorubicin in a Langendorff
+perfusion system (unpublished data). We found that 
+pretreatment with morphine in vivo was associated with a
+cardiodepressive effect in isolated hearts before 
+doxorubicin exposure. After exposure to doxorubicin ex vivo,
+isolated hearts from rats pretreated with morphine were
+associated with increased release of hydrogen peroxide
+(H2O2), increased release of troponin-T (TnT), increased
+myocardial contracture and increased myocardial content
+of doxorubicin. These findings were in contrary to results
+from a comparable study [9] which found that morphine
+was protective against doxorubicin cardiotoxicity. Based
+on these opposing results we wanted to investigate 
+further, whether pharmacological preconditioning could 
+reduce doxorubicin cardiotoxicity.
+Direct stimulation of myocardial δ1-opioid receptors
+leads to opening of mitochondrial KATP-channels and a
+resultant increase in intracellular free radical signals
+in vitro [10]. Recently, nicorandil, a mitochondrial 
+KATP-channel opener, has successfully been administered to
+counteract the toxic effects of doxorubicin [12,13]. In
+light of our previous results, we now wanted to bypass
+the opioid receptors in this experiment, and study how
+direct opening of mitochondrial KATP-channels interacts
+with the cardiotoxic mechanisms of anthracyclines. We
+used diazoxide, a selective mitochondrial KATP-channel
+agonist, known to have protective properties against 
+cardiac ischemia [7,14]. We also used 5-hydroxydecanoate
+(5-HD), a selective mitochondrial KATP-channel 
+antagonist. 5-HD inhibits the increase in free radicals seen
+with δ1-opioid receptor activation, and abolishes 
+cardioprotection afforded by ischemic preconditioning [7]. Our
+model combines drug treatment in vivo with the study of
+hearts ex vivo, yielding direct physiological information on
+systolic and diastolic cardiac function combined with 
+biochemical indices like H2O2, TnTand measurement of 
+myocardial content of doxorubicin.
+Methods
+Materials
+Doxorubicin was purchased from Meda AS (Slemmestad,
+Norway), diazoxide, 5-hydroxydecanoate and pentobarbital
+from Haukeland Hospital Pharmacy (Bergen, Norway),
+heparin from Leo Pharma A/S (Oslo, Norway), and 
+ingredients for the Krebs-Henseleit bicarbonate buffer from
+Merck KGaA (Darmstadt, Germany). This study conforms
+Page 2 of 8
+to the Guide for the Care and Use of Laboratory Animals
+published by the US National Institutes of Health (NIH
+Publication No. 85-23, revised 1996) and was approved by
+the Animal Care and User Committee in Norway with
+document number: ID 1766 FOTS, and certified institution
+number 066 Vivarium, University of Bergen.
+Animals
+Male Wistar rats weighing 200 ± 20 grams were 
+purchased from Taconic (Ejby, Denmark). The animals were
+housed in grid-bottom metal wire cages in a room 
+maintained at a 12 hour light/dark cycle at a temperature of
+20-22°C. They were acclimatised for two weeks, housed
+three per cage and allowed free access to food pellets
+(Pellets rodent, Special Diets Services, Essex, UK) and
+tap water until i.p. injection of diazoxide, 5-HD, saline
+or doxorubicin. The animals were separated in individual
+cages based on their respective treatment protocols.
+Langendorff perfusion model
+The perfusion medium was a modified, oxygenated
+(95% O2 and 5% CO2) Krebs-Henseleit bicarbonate 
+buffer (KHBB) (pH 7.4) containing in mM: 118.5 NaCl,
+25.0 NaHCO3, 1.2 MgSO4, 4.7 KCl, 1.2 KH2PO4, 11.0
+D-glucose, and 1.25 CaCl2. Hearts were excised after 
+anaesthesia of the rats with an i.p. injection of pentobarbital
+50 mg/kg (0.1 ml/100 g bodyweight) and heparinised i.p.
+(0.1 ml 500 IU/100 g bodyweight). Anaesthesia was
+evaluated by the pedal-withdrawal reflex. The heart was
+rapidly excised and immediately placed in cold (4°C)
+KHBB to temporarily stop its beating and preserve it
+from ischemic injury prior to perfusion. The heart was
+mounted on a steel cannula placed in the aorta and
+perfused retrogradely in a Langendorff system with the
+use of thermostated (37°C) reservoirs (Lauda, 
+Lauda-Königshofen, Germany), perfusion lines and heart 
+chamber. Pressure regulated flow was performed at 100 cmH2O
+(73 mmHg), while volume regulated flow (12.5 ml/min)
+was performed by use of an Alitea peristaltic pump (Alitea,
+Stockholm, Sweden). A water-filled latex balloon was
+placed in the left ventricle and connected to a pressure
+transducer (Memscap AS, Skoppum, Norway) for the
+recording of left ventricular pressure (LVDP) and 
+secondarily derived contractility indices. Left ventricular 
+end-diastolic pressure (LVEDP) was adjusted between 4 and
+8 mmHg. A second pressure transducer was connected
+to a side arm on the aortic cannula for the recording of
+aortic pressure (AoP), an index of coronary vascular 
+resistance during volume-regulated perfusion. Pressure
+signals were amplified (Quadbridge, AD Instruments,
+London, UK) and recorded using a PowerLab data 
+acquisition system (AD Instruments, East Sussex, UK). AoP, LVDP,
+LVEDP, left ventricular pressure first derivatives maximum
+(dp/dtmax) and minimum (dp/dtmin) were continuously
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+displayed and recorded. Pacing (300 beats per minute by
+electric stimulation of 5 V amplitude of 3 ms duration)
+was obtained by placing one electrode on the right 
+auricle and one on the steel cannula. Pacing was used to
+maintain a standard contractile response to the 
+experimental drugs in the model not influenced by changes in
+heart rate and/or periods of arrhythmia. Coronary flow
+rate was measured by timed collection of the coronary
+perfusate that dripped from the heart. At the end of
+the perfusion protocol, hearts were removed from the
+Langendorff system and myocardial tissue from the left
+ventricle was dissected free and immediately frozen in
+liquid helium and stored at −80°C until analysis of 
+doxorubicin and doxorubicinol was performed, within 14 days
+of termination of the perfusion protocol. Effluent samples
+of 1 mL were collected in 1.5 mL polypropylene Eppendorf
+micro test tubes (Eppendorf Vertrieb, Wesseling-Berzdorf,
+Germany) from each heart, at the end of the perfusion
+protocol, and stored at 0°C, until analysis for TnT within
+4 days of termination of the perfusion protocol. Effluent
+samples of 1 mL were collected in Eppendorf tubes from
+each heart at the end of the perfusion protocol, placed in a
+thermostated (37°C) Eppendorf rack heated by a Lauda
+reservoir (Lauda, Königshofen, Germany), and immediately
+analysed for H2O2. All experiments and analysis were 
+carried out between 7 am and 7 pm.
+Experimental design
+DIADOX (n = 6) received pretreatment with an i.p.
+injection of 10 mg/kg diazoxide 30 minutes before an i.p.
+injection of 3 mg/kg doxorubicin.
+DIA5HDDOX (n = 6) received pretreatment with an
+i.p. injection of 10 mg/kg diazoxide 30 minutes before an
+i.p. injection of 40 mg/kg 5-HD, 30 minutes before an i.p.
+injection of 3 mg/kg doxorubicin.
+5HDDOX (n = 6) received pretreatment with an i.p.
+injection of 40 mg/kg 5-HD 30 minutes before an i.p.
+injection of 3 mg/kg doxorubicin.
+DIASAL (n = 6) received pretreatment with an i.p.
+injection of 10 mg/kg diazoxide 30 minutes before an i.p.
+injection of 0.9% saline.
+5HDSAL (n = 6) received pretreatment with an i.p.
+injection of 40 mg/kg 5-HD 30 minutes before an i.p.
+injection of 0.9% saline.
+SALSAL (n = 6) received pretreatment with an i.p.
+injection of 0.9% saline 30 minutes before another i.p.
+injection of 0.9% saline.
+SALDOX (n = 6) received pretreatment with an i.p.
+injection of 0.9% saline 30 minutes before an i.p.
+injection of 3 mg/kg doxorubicin.
+Injections were given on day 1, 3, 5 and 7 and 
+protocols are illustrated in Figure 1. On day 10 hearts were
+Page 3 of 8
+excised and Langedorff-perfused with the following 
+protocol: 15 minutes stabilisation period with pressure-regulated
+flow, followed by 5 minutes with pressure-regulated flow
+and 5 minutes with volume-regulated flow. During the
+latter 10 minutes physiological data were recorded, and
+cardiac effluent samples collected for the evaluation of 
+biochemical and pharmacological parameters. The perfusion
+protocol is illustrated in Figure 2.
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+Quantification of doxorubicin and doxorubicinol
+Doxorubicin and doxorubicinol were quantified by high
+performance liquid chromatography (HPLC-MS/MS)
+(1200 series RRLC, Agilent Technologies, USA) coupled to
+an Agilent 6410 triple quadrupole mass spectrometer using
+positive electrospray ionisation (Agilent Technologies,
+USA). Frozen left ventricular tissue was minced and
+weighted out in a glass tube with a screw cap and 
+homogenized in physiological saline (2 ml/100 mg tissue)
+with a tissue homogenizer (Ultra Turrax, Sigma Aldrich,
+Germany). 1000 μl of sample was added 100 μl of 
+dauno-rubicin as internal standard (IS), and 200 μl of buffer
+(1 M TRIZMA, pH 11.1) and mixed well before 
+extraction with 4 ml ethylacetate/heptane (80/20 vol/vol). The
+samples were mixed using a rotary blender for 15 minutes
+and then centrifuged at 3500 rpm for 10 minutes at 10°C.
+The organic phase was evaporated to dryness at 50°C
+under nitrogen then dissolved in 100 μl of methanol
+followed by 100 μl of distilled water. The extract was
+mixed thoroughly and transferred to silanized vials before
+analysis. 25 μl of extract was injected and separated on a
+Zorbax SB-Aq (2.1 x 50 mm, 1.8 μm particles, Agilent
+Technologies, USA) column using gradient elution with
+acetonitrile and 0.1% formic acid in water. 
+Quantifi-cation was performed using multiple reaction monitoring
+(MRM) mode at m/z 546.1→ 363.1 for doxorubicinol, m/z
+544.1→ 361.1 for doxorubicin and m/z 528.1→ 321.1 for
+daunorubicin (IS).
+Effluent content of H2O2
+H2O2 in cardiac effluent was measured using an Apollo
+4000 electrochemical detection system (World Precision
+Instruments, Sarasota, Florida, USA). The electrode was
+calibrated using 9 serial dilutions of H2O2 in phosphate
+buffered saline with added aniline. The current recorded
+from the effluent was then calculated as μM H2O2.
+Samples were kept at 37°C during measurement. The 
+electrode was allowed 3 minutes of stabilisation and 1 minute
+of recording.
+Effluent content of TnT
+TnT in cardiac effluent was measured using an Elecsys
+2010 immunoassay analyzer (Roche Diagnostics Norway
+AS, Oslo, Norway), based on the sandwich principle.
+Total duration of assay: 9 minutes. 1st incubation:
+50 μL of sample, a biotinylated monoclonal cardiac 
+TnT-specific antibody, and a monoclonal cardiac TnT-specific
+antibody labeled with a ruthenium complex (Tris(2,2-
+bipyridyl)ruthenium(II)-complex (Ru(bpy))) reacted to
+form a sandwich complex. 2nd incubation: After addition
+of streptavidin-coated microparticles, the complex became
+bound to the solid phase via interaction of biotin and
+streptavidin. The reaction mixture was aspirated into the
+measuring cell where the microparticles were magnetically
+Page 4 of 8
+captured onto the surface of the electrode. Unbound 
+substances were then removed with ProCell. Application of a
+voltage to the electrode then induced chemiluminescent
+emission which was measured by a photomultiplier. 
+Results were determined via a calibration curve which was
+instrument-specifically generated by 2-point calibration
+and a master curve (5-point calibration) provided via the
+reagent barcode. Detection limit was 5.0 ng/L.
+Statistics
+All results are reported as mean values ± standard 
+deviation (SD) in tables. Groups were compared with regards
+to parameters with a one-way analysis of variance
+(ANOVA) and subsequently Fisher’s protected 
+least-significant difference test. SPSS for Windows version
+17.0 was used and p < 0.05 was considered statistically
+significant.
+Results
+All physiological results from the pressure regulated 
+perfusion are presented in Table 1 and all physiological 
+results from the volume regulated perfusion are presented
+in Table 2. Biochemical results and doxorubicin analysis
+are presented in Table 3.
+During pressure regulated perfusion LVDP was 
+significantly (p < 0.05) higher in DIADOX (136.6 ± 2.9 mmHg)
+compared to SALDOX (120.4 ± 3.6 mmHg) and LVEDP
+was significantly (p < 0.05) lower in DIADOX (9.3 ±
+1.5 mmHg) compared to SALDOX (15.4 ± 2.2 mmHg).
+There was no significant difference in LVDP, LVEDP or
+coronary flow in DIA5HDDOX or 5HDDOX versus
+SALDOX.
+During volume regulated perfusion LVDP was 
+significantly (p < 0.05) higher in DIADOX (141.5 ± 6.9 mmHg)
+compared to SALDOX (117.1 ± 9.1 mmHg). LVEDP
+was significantly (p < 0.05) lower in DIADOX (9.6 ±
+2.5 mmHg) compared to SALDOX (18.0 ± 13.2 mmHg).
+AoP was significantly (p < 0.05) lower in DIADOX
+(103.9 ± 2.2 mmHg) compared to SALDOX (133.7 ±
+5.0 mmHg). dp/dtmax was significantly (p < 0.05) higher in
+DIADOX (3697.4 ± 141.0 mmHg/s) compared to SALDOX
+(2777.8 ± 386.9 mmHg/s). dp/dtmin was not significantly
+different in DIADOX versus SALDOX, and there was no
+significant difference in LVDP, LVEDP, AoP, dp/dtmax or
+dp/dtmin in DIA5HDDOX or 5HDDOX versus SALDOX.
+There was no significant difference in dp/dtmax or dp/dtmin
+between any of the groups during pressure regulated
+perfusion.
+Coronary flow was significantly higher (p < 0.05) in
+DIADOX (11.3 ± 1.8 ml/min) compared to SALDOX
+(8.9 ± 1.7 ml/min) during pressure regulated perfusion.
+There was no significant difference in coronary flow 
+during pressure regulated perfusion in DIA5HDDOX or
+5HDDOX versus SALDOX.
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+There was no significant difference in doxorubicin or
+doxorubicinol accumulation in myocard in any of the
+intervention groups versus SALDOX. TnT was 
+significantly (p < 0.05) lower in DIADOX (67.3 ± 7.9 ng/L)
+compared to SALDOX (121.0 ± 17.2 ng/L). H2O2 
+concentration in effluate was significantly (p < 0.05) lower in
+DIADOX (54.9 ± 2.6 μM) compared to SALDOX (73.5 ±
+2.4 μM). There was no significant difference in TnT or
+H2O2 in DIA5HDDOX or 5HDDOX versus SALDOX.
+Discussion
+Pretreatment with diazoxide attenuated 
+doxorubicin-induced cardiac dysfunction in the rat in the present
+study. Doxorubicin treatment produced a significant loss
+in left ventricular developed pressure (LVDP) (p < 0.05)
+both in volume- and pressure regulated perfusion similar
+to previous reports [15,16]. Diazoxide significantly 
+attenuated this decrease in LVDP (p < 0.05) in both perfusion
+protocols. Diazoxide also improved diastolic dysfunction
+in doxorubicin treated hearts, by lowering the elevation
+of LVEDP (p < 0.05) in both perfusion protocols, 
+compared to animals that received both diazoxide and 5-HD.
+The protective effect of diazoxide is equivalent to that of
+ischemic preconditioning, and diazoxide is often used as
+a pharmacological means to induce preconditioning [7].
+The drug has previously been described as an agent with
+a unique molecular target by opening of 
+mitochondrial KATP-channels in cardioprotection. However, more
+Values presented as mean ± standard deviation (SD). *Significantly different from hearts in SALDOX, p < 0.05.
+recently a consensus seems to emerge that there are 
+numerous effectors involved in the cardioprotective effects of
+diazoxide, and these effectors may synergistically 
+contribute to its cardioprotective properties [7].
+With volume regulated flow, the effects on 
+doxorubicin-induced coronary vascular resistance, can be studied in
+parallel with effects on myocardial contractility. During
+volume regulated perfusion, aortic pressure, an indirect
+measure of coronary resistance, was increased in hearts
+that received both diazoxide and 5-HD, or just 5-HD, 
+before doxorubicin. However, diazoxide pretreatment 
+attenuated this effect. The vasodilatory effects of diazoxide in
+vascular smooth muscle are due to opening of vascular
+KATP-channels. KATP-channels have a pronounced role in
+controlling coronary blood flow and the coronary reserve,
+particularly in the resistance arterioles [17]. In some studies
+diazoxide has been noted to improve coronary flow, which
+is associated with cardioprotection, in perfused hearts [18],
+despite the fact that the coronary flow reserve is low in
+crystalloid-perfused hearts [19]. Coronary flow was 
+significantly higher (p < 0.05) in DIADOX compared to
+SALDOX during pressure regulated perfusion. This 
+effect was abolished with 5-HD. Based on these results,
+improved cardiac function associated with preserved 
+coronary flow during pressure regulated perfusion, and 
+attenuated increase in aortic pressure during volume regulated
+perfusion, could account for some of the cardioprotective
+effects of diazoxide.
+Page 5 of 8
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+of H2O2 in cardiac effluate compared to hearts that were
+pretreated with 5-HD and diazoxide or 5-HD alone.
+Diazoxide is an inhibitor of the mitochondrial complex
+II protein, succinate dehydrogenase (SDH). This 
+inhibition also occurs in the heart [20]. The activity of SDH is
+a site of reactive oxygen species (ROS) generation, and
+the possibility has been raised that diazoxide and other
+SDH inhibitors mediate some of their cardioprotective
+effects via modulation of ROS production. Which ROS
+signals cardioprotection is mediated through is not fully
+understood [8]. Opening of mitochondrial KATP-chan-
+nels leads to increased ROS, leading to a persistent open
+state of the channel. The ROS responsible for this is not
+known [7]. H2O2 has been proposed as one candidate
+for this effect, although one study concludes that H2O2
+is not the mediator of mitochondrial KATP-channel-
+dependent ROS signalling [8]. In our study we found
+higher levels of H2O2 in effluate from hearts that had
+not undergone diazoxide pretreatment before 
+doxorubicin, or that had received both 5-HD and diazoxide
+before doxorubicin. The level of H2O2 associated with
+cellular signalling is much lower than the levels 
+associated with cardiotoxicity [21]. The present study was not
+designed to examine signalling effects, and our 
+observations are thus associated with the reduced cardiotoxicity
+of doxorubicin. This is supported by our observation of
+diazoxide improving diastolic dysfunction in doxorubicin
+treated hearts, by lowering the elevation of LVEDP. 
+Diastolic dysfunction and contracture is proposed to be 
+related to ROS generation [22,23].
+Diazoxide pretreated hearts also had lower 
+concentrations of TnT in cardiac effluate compared to hearts that
+were pretreated with 5-HD and diazoxide or 5-HD
+alone. Troponins are myocardial regulatory proteins,
+which regulate the calcium mediated actin and myosin
+interaction. Troponin-T is widely used as a specific
+marker to diagnose myocardial infarction. Doxorubicin
+is associated with increased TnT in serum and in heart
+effluate [15,24,25].
+Finally, pretreatment with diazoxide was not associated
+with decreased myocardial accumulation of doxorubicin or
+doxorubicinol which suggest that the protective effects did
+not involve a change of distribution of the anthracycline to
+the heart in vivo.
+In this study we wanted to investigate if opening of
+mitochondrial KATP-channels by diazoxide is protective
+against doxorubicin cardiotoxicity. Mitochondrial 
+KATP-channels have been implicated as important mediators
+of preconditioning [26,27]. However, the evidence for their
+role in preconditioning is primarily based on the effects of
+pharmacological agents, in particular, diazoxide and 5-HD.
+Diazoxide has been reported to be a specific opener of
+mitochondrial KATP channels, but studies have suggested
+that its mechanism of cardioprotection may be due to
+other actions, such as inhibition of succinate 
+dehydrogenase [28,29], activation of sarcolemmal KATP channels [30]
+or transient opening of the mitochondrial permeability
+transition pore [31]. In addition, it might be argued that
+the complex metabolic effects of 5-HD severely limit its
+usefulness as a ‘selective’ blocker of mitochondrial KATP
+channels [32]. Furthermore, since their identification 
+heavily relies on the use of diazoxide as a specific opener and
+5-HD as a specific blocker, the very existence of 
+mitochondrial KATP channels may be questioned. This skeptical view
+is supported by a study in which no changes in 
+mitochondrial matrix volume induced by diazoxide or 5-HD could
+be detected [33]. Hence, one view on 5-HD is that it
+should no longer be considered a useful tool for studying
+the role of mitochondrial KATP channels in preconditioning
+[32]. Thus, although diazoxide attenuated 
+doxorubicin-induced cardiac dysfunction in our results, our model was
+not designed to establish the precise protective 
+mechanisms. Furthermore, we cannot exclude that the protective
+effects involved a change in distribution of doxorubicin to
+different compartments within the heart.
+Conclusion
+The main observation in the present results is that 
+pretreatment with diazoxide attenuates doxorubicin-induced
+cardiac contractile dysfunction, and attenuates release of
+biomarkers of cardiotoxicity in effluate without 
+decreasing the accumulation of doxorubicin. 5-HD completely
+abolished this effect of diazoxide in our rat model. A 
+possible mechanism could be opening of mitochondrial
+KATP-channels. However, we cannot exclude other effects
+of the drug, including opening of vascular KATP-channels.
+The low specificity of 5-HD, calls for additional studies of
+mechanisms of a promising protective intervention.
+Page 6 of 8
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+Abbreviations
+5-HD: 5-hydroxydecanoate; H2O2: Hydrogen peroxide; TnT: Troponin-T;
+LVDP: Left ventricular developed pressure; KHBB: Krebs-Henseleit bicarbonate
+buffer; LVEDP: Left ventricular end-diastolic pressure; AoP: Aortic pressure;
+dp/dtmax: Left ventricular pressure first derivatives maximum; dp/dtmin: Left
+ventricular pressure first derivatives minimum; HPLC-MS/MS: High
+performance liquid chromatography; MRM: Multiple reaction monitoring;
+SD: Standard deviation; ANOVA: Analysis of variance; ROS: Reactive oxygen
+species; SDH: Succinate dehydrogenase.
+Competing interest
+The authors declare that they have no competing interests.
+Authors’ contributions
+LDH and KOF carried out the pharmacological studies, and drafted the
+manuscript. LDH carried out the immunochemical analysis and the animal
+experiments. LDH and FL carried out the hydrogen peroxide analysis, and
+drafted the manuscript. LDH, THL and JS conceived of the study, participated
+in its design and coordination, performed the statistical analysis, and helped
+to draft the manuscript. All authors read and approved the final manuscript.
+Acknowledgements
+This work was supported by Bergen Heart Foundation.
+Author details
+1Section of Clinical Pharmacology, Laboratory of Clinical Biochemistry,
+Haukeland University Hospital, 5021 Bergen, Norway. 2Institute of
+Biomedicine, University of Bergen, 5021 Bergen, Norway. 3Department of
+Heart Disease, Haukeland University Hospital, 5021 Bergen, Norway. 4Institute
+of Clinical Science, Faculty of Medicine and Dentistry, University of Bergen,
+5021 Bergen, Norway.
+Received: 29 January 2014 Accepted: 21 May 2014
+Published: 27 May 2014
+References
+1.
+Hiona A, Lee AS, Nagendran J, Xie X, Connolly AJ, Robbins RC, Wu JC:
+Pretreatment with angiotensin-converting enzyme inhibitor improves
+doxorubicin-induced cardiomyopathy via preservation of mitochondrial
+function. J Thorac Cardiovasc Surg 2011, 142(2):396-403 e393.
+2.
+Minotti G, Menna P, Salvatorelli E, Cairo G, Gianni L: Anthracyclines:
+molecular advances and pharmacologic developments in antitumor
+activity and cardiotoxicity. Pharmacol Rev 2004, 56(2):185-229.
+3.
+Robert J: Preclinical assessment of anthracycline cardiotoxicity in
+laboratory animals: predictiveness and pitfalls. Cell Biol Toxicol 2007,
+23(1):27-37.
+4.
+Ferreira AL, Matsubara LS, Matsubara BB: Anthracycline-induced
+cardiotoxicity. Cardiovasc Hematol Agents Med Chem 2008, 6(4):278-281.
+5.
+Gan XT, Cook MA, Moffat MP, Karmazyn M: Protective effects against
+hydrogen peroxide-induced toxicity by activators of the ATP-sensitive
+potassium channel in isolated rat hearts. J Mol Cell Cardiol 1998,
+30(1):33-41.
+6.
+Li W, Xu B, Xu J, Wu XL: Procyanidins produce significant attenuation of
+doxorubicin-induced cardiotoxicity via suppression of oxidative stress.
+Basic Clin Pharmacol Toxicol 2009, 104(3):192-197.
+7.
+Coetzee WA: Multiplicity of effectors of the cardioprotective agent,
+diazoxide. Pharmacol Therapeut 2013, 140(2):167-175.
+8.
+Garlid AO, Jaburek M, Jacobs JP, Garlid KD: Mitochondrial reactive oxygen
+species: which ROS signals cardioprotection? Am J Physiol Heart Circ
+Physiol 2013, 305(7):H960-H968.
+9.
+Kelishomi RB, Ejtemaeemehr S, Tavangar SM, Rahimian R, Mobarakeh JI,
+Dehpour AR: Morphine is protective against doxorubicin-induced
+cardiotoxicity in rat. Toxicology 2008, 243(1-2):96-104.
+10. McPherson BC, Yao Z: Morphine mimics preconditioning via free radical
+signals and mitochondrial K(ATP) channels in myocytes. Circulation 2001,
+103(2):290-295.
+11. Barrere-Lemaire S, Combes N, Sportouch-Dukhan C, Richard S, Nargeot J,
+Piot C: Morphine mimics the antiapoptotic effect of preconditioning via
+an Ins(1,4,5)P3 signaling pathway in rat ventricular myocytes. Am J Physiol
+Heart Circ Physiol 2005, 288(1):H83-H88.
+12.
+Ahmed LA, El-Maraghy SA: Nicorandil ameliorates mitochondrial
+dysfunction in doxorubicin-induced heart failure in rats: possible
+mechanism of cardioprotection. Biochem Pharmacol 2013,
+86(9):1301-1310.
+13.
+Abdel-Raheem IT, Taye A, Abouzied MM: Cardioprotective effects of
+nicorandil, a mitochondrial potassium channel opener against
+doxorubicin-induced cardiotoxicity in rats. Basic Clin Pharmacol Toxicol
+2013, 113(3):158-166.
+14.
+Garlid KD, Paucek P, Yarov-Yarovoy V, Murray HN, Darbenzio RB, D’Alonzo AJ,
+Lodge NJ, Smith MA, Grover GJ: Cardioprotective effect of diazoxide and its
+interaction with mitochondrial ATP-sensitive K+ channels. Possible
+mechanism of cardioprotection. Circ Res 1997, 81(6):1072-1082.
+15.
+Hole LD, Larsen TH, Fossan KO, Lime F, Schjott J: A short-time model to
+study relevant indices of cardiotoxicity of doxorubicin in the rat. Toxicol
+Mech Meth 2013, 23(6):412-418.
+16.
+Gharanei M, Hussain A, Janneh O, Maddock HL: Doxorubicin induced
+myocardial injury is exacerbated following ischaemic stress via opening
+of the mitochondrial permeability transition pore. Toxicol Appl Pharmacol
+2013, 268(2):149-156.
+17.
+Akai K, Wang Y, Sato K, Sekiguchi N, Sugimura A, Kumagai T, Komaru T,
+Kanatsuka H, Shirato K: Vasodilatory effect of nicorandil on coronary
+arterial microvessels: its dependency on vessel size and the involvement
+of the ATP-sensitive potassium channels. J Cardiovasc Pharmacol 1995,
+26(4):541-547.
+18.
+Feng J, Li H, Rosenkranz ER: Diazoxide protects the rabbit heart following
+cardioplegic ischemia. Mol Cell Biochem 2002, 233(1-2):133-138.
+19.
+Deng Q, Scicli AG, Lawton C, Silverman NA: Coronary flow reserve after
+ischemia and reperfusion of the isolated heart. Divergent results with
+crystalloid versus blood perfusion. J Thorac Cardiovasc Surg 1995,
+109(3):466-472.
+20.
+Hanley PJ, Daut J: K(ATP) channels and preconditioning: a re-examination
+of the role of mitochondrial K(ATP) channels and an overview of alternative
+mechanisms. J Mol Cell Cardiol 2005, 39(1):17-50.
+21.
+Feng RH, Zhang JC, Li XQ, Sun HL, Liu B, Zhao YZ, Tang XD, Li J:
+Attenuation of cardiac ischemia/reperfusion injury by transient low
+hydroperoxide pretreatment in rat. Zhongguo ying yong sheng li xue za
+zhi = Zhongguo yingyong shenglixue zazhi =Chinese J Appl Physiol 2013,
+29(3):247-250.
+22.
+Valen G, Starkopf J, Takeshima S, Kullisaar T, Vihalemm T, Kengsepp AT,
+Lowbeer C, Vaage J, Zilmer M: Preconditioning with hydrogen peroxide
+(H2O2) or ischemia in H2O2-induced cardiac dysfunction. Free Radic Res
+1998, 29(3):235-245.
+23.
+Essick EE, Wilson RM, Pimentel DR, Shimano M, Baid S, Ouchi N, Sam F:
+Adiponectin modulates oxidative stress-induced autophagy in
+cardiomyocytes. PloS one 2013, 8(7):e68697.
+24.
+Chennuru A, Saleem MT: Antioxidant, lipid lowering, and membrane
+stabilization effect of sesamol against doxorubicin-induced cardiomyopathy
+in experimental rats. BioMed Res Int 2013, 2013:934239.
+25.
+Fouad AA, Albuali WH, Al-Mulhim AS, Jresat I: Cardioprotective effect of
+cannabidiol in rats exposed to doxorubicin toxicity. Environ Toxicol
+Pharmacol 2013, 36(2):347-357.
+26.
+Garlid KD, Dos Santos P, Xie ZJ, Costa AD, Paucek P: Mitochondrial
+potassium transport: the role of the mitochondrial ATP-sensitive K(+)
+channel in cardiac function and cardioprotection. Biochim Biophys Acta
+2003, 1606(1-3):1-21.
+27.
+Gross GJ, Peart JN: KATP channels and myocardial preconditioning: an
+update. Am J Physiol Heart Circ Physiol 2003, 285(3):H921-H930.
+28.
+Lim KH, Javadov SA, Das M, Clarke SJ, Suleiman MS, Halestrap AP: The
+effects of ischaemic preconditioning, diazoxide and 5-hydroxydecanoate
+on rat heart mitochondrial volume and respiration. J Physiol 2002,
+545(Pt 3):961-974.
+29.
+Hanley PJ, Mickel M, Loffler M, Brandt U, Daut J: K(ATP) 
+channel-independent targets of diazoxide and 5-hydroxydecanoate in the heart.
+J Physiol 2002, 542(Pt 3):735-741.
+30.
+Suzuki M, Saito T, Sato T, Tamagawa M, Miki T, Seino S, Nakaya H:
+Cardioprotective effect of diazoxide is mediated by activation of
+sarcolemmal but not mitochondrial ATP-sensitive potassium channels in
+mice. Circulation 2003, 107(5):682-685.
+31.
+Hausenloy D, Wynne A, Duchen M, Yellon D: Transient mitochondrial
+permeability transition pore opening mediates preconditioning-induced
+protection. Circulation 2004, 109(14):1714-1717.
+Page 7 of 8
+Hole et al. BMC Pharmacology and Toxicology 2014, 15:28
+http://www.biomedcentral.com/2050-6511/15/28
+32. Hanley PJ, Drose S, Brandt U, Lareau RA, Banerjee AL, Srivastava DK,
+Banaszak LJ, Barycki JJ, Van Veldhoven PP, Daut J: 5-Hydroxydecanoate is
+metabolised in mitochondria and creates a rate-limiting bottleneck for
+beta-oxidation of fatty acids. J Physiol 2005, 562(Pt 2):307-318.
+33. Das M, Parker JE, Halestrap AP: Matrix volume measurements challenge
+the existence of diazoxide/glibencamide-sensitive KATP channels in rat
+mitochondria. J Physiol 2003, 547(Pt 3):893-902.
+doi:10.1186/2050-6511-15-28
+Cite this article as: Hole et al.: Diazoxide protects against 
+doxorubicin-induced cardiotoxicity in the rat. BMC Pharmacology and Toxicology
+2014 15:28.
+Page 8 of 8
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color figure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+
+Table 1 Physiological results from pressure regulated perfusion 
+DIADOX 
+DIA5HDDOX 
+5HDDOX 
+DIASAL 
+5HDSAL 
+SALSAL 
+SALDOX 
+LVDP (mmHg) 
+136.6 ± 2.9* 
+122.9 ± 4.4 
+117.5 ± 5.2 
+146.4 ± 6.8* 
+144.6 ± 5.1* 
+152.7 ± 11.0* 
+120.4 ± 3.6 
+LVEDP (mmHg) 
+9.3 ± 1.5* 
+16.1 ± 1.8 
+14.9 ± 2.7 
+8.2 ± 1.5* 
+8.1 ± 1.6* 
+8.3. ± 1.6* 
+15.4 ± 2.2 
+AoP (mmHg) 
+73.0 ± 0 
+73.0 ± 0 
+73.0 ± 0 
+73.0 ± 0 
+73.0 ± 0 
+73.0 ± 0 
+73.0 ± 0 
+Heart rate (beats per minute) 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+dp/dtmax (mmHg/s) 
+3525.5 ± 949.9 
+3295.3 ± 895.9 
+3283.4 ± 621.9 
+3647.4 ± 563.7 
+3522.5 ± 120.1 
+4499.1 ± 887.2 
+3026.6 ± 150.0 
+dp/dtmin (mmHg/s) 
+−2176.5 ± 1147.9 
+−2012.3 ± 282.3 −1952.7 ± 373.9 
+−2921.9 ± 200.3 
+−3050.9 ± 277.6 
+−3060.1 ± 311.3 
+−2173.0 ± 195.1 
+Coronary flow (ml/min) 
+11.3 ± 1.8* 
+9.5 ± 0.7 
+8.8 ± 1.2 
+11.8 ± 1.2* 
+12.0 ± 1.3* 
+12.6 ± 0.4* 
+8.9 ± 1.7 
+Values presented as mean ± standard deviation (SD). *Significantly different from hearts in SALDOX, p < 0.05. 
+
+Table 2 Physiological results from volume regulated perfusion 
+DIADOX 
+DIA5HDDOX 
+5HDDOX 
+DIASAL 
+5HDSAL 
+SALSAL 
+SALDOX 
+LVDP (mmHg) 
+141.5 ± 6.9* 
+127.9 ± 4.3 
+108.1 ± 9.3 
+149.5 ± 10.8* 
+155.6 ± 13.0* 
+162.9 ± 14.7* 
+117.1 ± 9.1 
+LVEDP (mmHg) 
+9.6 ± 2.5* 
+16.0 ± 2.2 
+15.8 ± 2.1 
+10.6 ± 1.8* 
+8.2 ± 1.0* 
+9.3 ± 1.6* 
+18.0 ± 13.2 
+AoP (mmHg) 
+103.9 ± 2.2* 
+124.2 ± 5.1 
+130.5 ± 7.3 
+82.7 ± 6.0* 
+76.0 ± 3.5* 
+76.9 ± 3.6* 
+133.7 ± 5.0 
+Heart rate (beats per minute) 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+300 ± 0 
+dp/dtmax (mmHg/s) 
+3697.4 ± 141.0* 
+2512.9 ± 302.0 
+2950.7 ± 237.5 
+4583.6 ± 546.9* 
+3935.7 ± 213.6* 
+3973.6 ± 246.9* 
+2777.8 ± 386.9 
+dp/dtmin (mmHg/s) 
+−2380.6 ± 157.0 
+−2176.4 ± 154.8 
+−2530.1 ± 251.4 
+−2940.8 ± 261.6 −3041.6 ± 403.1 2862.0 ± 295.1 −2579.8 ± 329.1 
+Coronary flow (ml/min) 
+12.5 ± 0 
+12.5 ± 0 
+12.5 ± 0 
+12.5 ± 0 
+12.5 ± 0 
+12.5 ± 0 
+12.5 ± 0 
+
+Table 3 Biochemical results and drug analysis 
+DIADOX 
+DIA5HDDOX 
+5HDDOX 
+DIASAL 
+5HDSAL 
+SALSAL 
+SALDOX 
+Troponin -T effluate concentration ng/L 
+67.3 ± 7.9* 
+126.3 ± 20.5 
+130.0 ± 16.9 
+27.0 ± 4.9* 
+26.8 ± 4.9* 
+28.0 ± 5.3* 
+121.0 ± 17.2 
+H2O2 effluate concentration (μM) 
+54.9 ± 2.6* 
+72.8 ± 9.2 
+70.6 ± 5.7 
+24.8 ± 3.0* 
+26.1 ± 2.5* 
+22.8 ± 1.7* 
+73.5 ± 2.4 
+Doxorubicin tissue concentration nmol/g 
+1.9 ± 0.3 
+2.7 ± 0.4 
+3.3 ± 1.8 
+0 ± 0 
+0 ± 0 
+0 ± 0 
+2.6 ± 0.5 
+Doxorubicinol tissue concentration nmol/g 
+0.4 ± 0 
+0.7 ± 0.3 
+0.4 ± 0.1 
+0 ± 0 
+0 ± 0 
+0 ± 0 
+0.5 ± 0.2 
+Values presented as mean ± standard deviation (SD). *Significantly different from hearts in SALDOX, p < 0.05. 
+Diazoxide pretreated hearts had lower concentrations 
+Limitations 
+
+Figure 1 Drug treatment protocols. 
+
+Figure 2 Perfusion protocol. 
+

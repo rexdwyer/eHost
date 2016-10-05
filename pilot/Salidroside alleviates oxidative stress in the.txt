@@ -1,0 +1,648 @@
+Yang et al. BMC Pharmacology and Toxicology  (2016) 17:16
+DOI 10.1186/s40360-016-0059-8
+RESEARCH ARTICLE
+Salidroside alleviates oxidative stress in the
+liver with non- alcoholic steatohepatitis in
+rats
+Ze-ran Yang1, Hui-fang Wang1, Tie-cheng Zuo1, Li-li Guan2 and Ning Dai1*
+Abstract
+Background: Nonalcoholic steatohepatitis (NASH) is characterized by fat accumulation in the hepatocyte,
+inflammation, liver cell injury, and varying degrees of fibrosis, and can lead to oxidative stress in liver. Here, we
+investigated whether Salidroside, a natural phenolic antioxidant product, can protect rat from liver injury during NASH.
+Methods: NASH model was established by feeding the male SD rats with high-fat and high-cholesterol diet for
+14 weeks. Four groups of male SD rats including, normal diet control group, NASH model group, and Salidroside
+treatment group with150mg/kg and 300 mg/kg respectively, were studied. Salidroside was given by oral
+administration to NASH in rats from 9 weeks to 14 weeks. At the end of 14 weeks, liver and serum were harvested, and
+the liver injury, oxidative stress and histological features were evaluated.
+Results: NASH rats exhibited significant increases in the following parameters as compared to normal diet control rats:
+fat droplets with foci of inflammatory cell infiltration in the liver. ALT, AST in serum and TG, TC in hepatocyte elevated.
+Oxidative responsive genes including CYP2E1 and Nox2 increased. Additionally, NASH model decreased antioxidant
+enzymes SOD, GSH, GPX, and CAT in the liver due to their rapid depletion after battling against oxidative stress.
+Compared to NASH model group, treatment rats with Salidroside effectively reduced lipid accumulation, inhibited liver
+injury in a does-dependent manner. Salidroside treatment restored antioxidant enzyme levels, inhibited expression of
+CYP2E1 and Nox2 mRNA in liver, which prevented the initial step of generating free radicals from NASH.
+Conclusion: The data presented here show that oral administration of Salidroside prevented liver injury in the NASH
+model, likely through exerting antioxidant actions to suppress oxidative stress and the free radical-generating CYP2E1
+enzyme, Nox2 in liver.
+Keywords: Salidroside, Oxidative stress, Non-alcoholic steatohepatitis, CYP2E1, Nox2
+Open Access
+Background
+Nonalcoholic steatohepatitis (NASH) is the progressive
+form of nonalcoholic fatty liver disease (NAFLD) and
+features of NASH on liver biopsy include steatosis, 
+inflammation and varying degrees of fibrosis [1]. NASH is
+associated with obesity, type 2 diabetes and metabolic
+syndrome, and its increasing prevalence and clinical 
+severity. Thus it is quickly becoming a significant public
+health concern [2].
+* Correspondence: dainingdn@live.com
+1Department of Gastroenterology, the first Affiliated Hospital of Dalian
+Medical University, 222, Zhongshan Road, Dalian 116011, Liaoning Province,
+China
+Full list of author information is available at the end of the article
+While a variety of factors are involved in NASH 
+development and pathogenesis, it is well-accepted that the 
+development of NASH follows a two-hit model [3]. The
+“1st Hit” involves excess lipid accumulation in the liver,
+which sensitizes the liver to the “2nd Hit”. The “2nd Hit”
+involves inflammation, oxidative stress, liver damage and
+fibrosis. This two-hit hypothesis is helpful in 
+understanding processes that contribute to development and 
+progression of NASH, the risk factors and underlying cellular and
+molecular mechanisms in NASH development remain
+largely undefined, which has limited the development of
+therapies to prevent/treat NAFLD/NASH.
+Oxidative stress is thought to be a major contributor to
+the pathogenesis and progression of NASH [4]. Oxidative
+© 2016 Yang et al. Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Yang et al. BMC Pharmacology and Toxicology  (2016) 17:16 Page 2 of 6
+stress has been defined as an imbalance between oxidants
+and antioxidants in favor of the former, resulting in an
+overall increase in cellular levels of reactive oxygen species
+(ROS) [5]. In patients with histopathologically progressive
+NASH, production of antioxidants is reduced, and the
+total antioxidant capacity is apparently insufficient to
+compensate for oxidative stress [6]. Therefore, it is 
+speculated that agents, such as vitamin E, that promote cellular
+antioxidant defense activity are likely to have therapeutic
+potentials in NASH prevention/treatment [7].
+Salidroside (SDS, p-hydroxyphenethyl-b-D-glucoside)
+is a natural phenolic secondary metabolite from Rhodiola
+rosea L, which has been used as a herbal medicine for 
+centuries. Salidroside, in particular, has potent antioxidation
+activities [8, 9]. Moreover, recent studies have shown that
+SDS has a great protective efficacy on liver disease via its
+antioxidant activities [10-12]. However, whether SDS can
+provide protection against NASH with oxidative stress 
+remains unknown. Therefore, in this study, we used a liver
+oxidative stress model induced by high-fat and 
+high-cholesterol (HFHC) diet in rats and evaluated the 
+protective effects of SDS on NASH.
+Materials
+Reagents
+Salidroside [purity > 98] was provided by Sciphar Hi-tech
+Industry Co., Ltd, Shanxi, China, and were diluted in 
+distilled water before use. High-fat and high-cholesterol
+(HFHC) diet (containing 15 % lard, 2 % cholesterol and
+83 % normal diet) was provided by Department of 
+Digestive Physiology at Dalian Medical University. Triglycerides
+(TG), Total cholesterol (TC) and malondialdehyde (MDA),
+glutathione (GSH) as well as superoxide dismutase (SOD),
+glutathione peroxidase (GPX), catalase (CAT) commercial
+testing kits were bought from JianCheng Bioengineering
+Institute, Nanjing, China.
+Methods
+Male SD rats, weighing 140-160 g, 6 weeks of age, were
+provided by the Laboratory Animal Center at Dalian
+Medical University. Rats were housed individually. A
+normal laboratory diet and water were available ad 
+libitum. The animal room was maintained at constant
+temperature of 23 ± 1 °C and 50 % relative humidity with
+a 12 h (7:00 a.m.-7:00 p.m.) light/dark cycle. Food was
+removed the night before the experiment. All 
+experimental procedures were examined and approved by the
+Animal Care and Use Committee of Dalian Medical 
+University (Dalian, China) and performed in strict 
+accordance with the People’s Republic of China Legislation
+Regarding the Use and Care of Laboratory Animals.
+After 1 week on the normal diet, 40 animals were randomly
+divided into 4 groups:normal diet control rats (n = 10): rats
+were fed with normal diet for 14 weeks; NASH model
+group (n = 10): rats were fed with HFHC diet for 14 weeks;
+SDS-treated rats (n = 10, two groups): rats were fed with
+HFHC diet for 14 weeks with a daily oral feeding of SDS
+150 mg/kg and 300 mg/kg respectively by intragastric (i.g.)
+gavage from 9 weeks to 14 weeks. After the end of 14 weeks,
+all rats were anesthetized at 24 h after the last treatment.
+Blood was collected by cervical decapitation and 
+centrifuged at 1500 g for 20 min at 4 °C to obtain serum. Liver
+tissue was homogenized in ice-cold PBS buffer and 
+centrifuged at 1800 g for 10 min at 4 °C to precipitate the
+insoluble material, and the supernatant was used in the
+following assays.
+Evaluation of liver pathology
+Liver tissue sample from each rat were fixed in 10 %
+phosphate-buffered formalin, and then embedded in 
+paraffin blocks. Five-micrometer tissue sections were cut
+and stained with hematoxylin and eosin (H&E) for 
+histo-logical analysis (NAS scoring) [13] under light microscope
+(Nikon, Japan). Briefly, the NAS score was aggregated
+from 4 semi-quantitative sub-scores: steatosis (0-3), 
+lobular inflammation (0-2), hepatocellular ballooning (0-2),
+and fibrosis (0-4).
+Serum biochemical test
+Alanine aminotransferase (ALT) and aspartate 
+aminotransferase (AST) in serum were used as indicators of
+hepatocyte function and injury. ALT and AST levels
+were measured by a Bayer 1650 automatic analyzer
+(Germany).
+Triglyceride, total cholesterol detection in hepatocytes
+For the determination of total cholesterol and triglycerides,
+liver samples (100 mg) were homogenized, and lipids were
+extracted with 2 ml of chloroform and methanol (2:1), as
+described by Folch et al [14]. Lipids were dissolved in 2 %
+Triton X-100 (Sigma, St. Louis, MO), as described by Carr
+et al [15]. Hepatic triglyceride and cholesterol levels were
+determined using commercially available reagents.
+Lipid peroxidation and antioxidative enzyme activity in
+liver
+Malondialdehyde (MDA) and the enzymatic activities of
+superoxide dismutase (SOD), glutathione peroxidase (GPX),
+glutathione (GSH) as well as catalase (CAT) in liver were
+measured using commercial testing kits according to the
+manufacturer’s instructions. MDA and GSH levels are
+expressed as nmol/mg protein and mg/g protein, 
+respectively. The enzymatic activity of the SOD, GPX,
+and CAT are expressed as U/mg protein.
+RNA isolation and quantitative real-time PCR analysis
+CYP2E1 and NOX2 mRNA expression were tested by
+Quantitative Real-Time PCR. Total RNA was extracted
+Yang et al. BMC Pharmacology and Toxicology  (2016) 17:16 Page 3 of 6
+from liver tissue samples by the TRIzol kit (Gibco/Life
+Technologies) according to the manufacturer’s protocol.
+The RNA was then reverse-transcribed to cDNA using
+the Super-Script II (Invitrogen) and the target genes
+were amplified using Power SYBR Green PCR Master
+Mix reagent (Applied Biosystems). The amplification
+was performed in real-time PCR system (Applied 
+Biosys-tems) and a modified PCR cycles were used as following:
+initial denaturation at 95 °C for 2 min, followed by 35 
+cycles were performed at 95 °C for 30 s and 60 °C for 30 s.
+The housekeeping gene β-actin was used as an internal
+control, and gene-specific mRNA expression was 
+normalized agains β-actin expression. Relative quantification
+by the 2−ΔΔCT method was realized by comparing to
+control groups (The sequences for the primers used for
+Real time PCR: CYP2E1, GenBank ID: NM_031543, 
+For-ward-GACTGTGGCCGACCTGTT, Reverse- ACTAC
+GACTGTGCCCTTGG; NOX2, GenBank ID: NM_0011
+28123, Forward-TCAAGTGTCCCCAGGTATCC, 
+Reverse-CTTCACTGG CTGTACCAAAGG; β-actin Forward-TG
+TCACCAACTGGGACGATA, Reverse- AACACA GCCTGG
+ATGGC AC).
+Statistical analyses
+Differences among groups were examined by one-way
+ANOVA followed by Tukey-Kramer multiple 
+comparison tests. Values are expressed as the mean ± SD. A
+value of P < 0.05 was considered statistically significant.
+All statistical analysis was performed by using SPSS 
+software (version 11.0, SPSS, Inc.).
+Results
+Treatment with SDS prevents NASH-liver injury and
+steatosis
+To study the protective effects of SDS, we established a
+HFHC diet-induced NASH rats model. As shown in
+Fig. 1, liver steatosis that affected a large number of 
+he-patocytes with foci of inflammatory cell infiltration
+throughout the lobule (arrow) was observed in H&E
+stained liver sections from HFHC diet rats. In contrast,
+the liver sections were normal from normal control rats
+(Fig. 1a, b). Also, significantly increased serum ALT,
+AST (Fig. 2a, b) and liver TG, TC were detected in
+HFHC diet rats (Fig. 2c, d). These results indicate that a
+three-weeks HFHC diet feeding sufficiently induced
+NASH in rats. Importantly, compared to NASH model
+group, a dramatic reduction both in lipid droplets and in
+the inflammatory infiltration were detected in the liver
+from SDS-treated group (Fig. 1c). Consistent to the 
+observations from H&E staining, the average NASH scores
+were significantly reduced in HFHC diet rats (Fig. 1d).
+In addition, the levels of ALT, AST in the serum and
+TG, TC in the hepatocyte also decreased in the 
+SDS-treated group when compared with those in the NASH
+model group, and SDS inhibited the levels of ALT, AST,
+TG and TC in a dose-dependent manner (Fig. 2a-d).
+These results demonstrate that SDS is an potential agent
+for prevention of rat from HFHC diet -induced NASH.
+SDS suppress liver injury-induced oxidative stress
+mediators
+The imbalance between oxidative and anti-oxidative stress
+response has been well accepted as a critical pathogenic
+factor for NASH development. As SDS has an 
+antioxidative activity, we speculated that SDS may protect rat from
+NASH through this antioxidative function. To test this 
+hypothesis, we analyzed the expression of antioxidation
+enzymes. HFHC diet feeding resulted in a significant 
+increase in MDA level, and largely decreased the 
+antioxidation enzymes including SOD, GSH, GPX, and CAT in the
+liver as compared to the normal controls (Table 1). 
+Similarly, the mRNA levels of CYP2E1 (Fig. 3a) and Nox2
+(Fig. 3b) were also increased in HFHC diet rats liver. 
+Interestingly, compared to untreated HFHC diet group, the
+SDS treatment significantly reduced MDA and increased
+SOD, GSH, GPX, and CAT levels in a dose dependent
+manner. Further analysis indicated that SDS 
+dose-dependently suppressed CYP2E1 and Nox2 mRNA 
+expression in the liver. Therefore, these results suggest
+that SDS can protect rat from NASH through inhibiting
+the liver oxidative stress.
+Discussion
+Our preclinical studies demonstrated that SDS protects
+rat from HFHC diet -induced NASH through 
+suppressing the oxidative stress-induced liver damages, as 
+evidenced by the results that SDS significantly reduced the
+increased MDA and increased the suppressed 
+antioxidation enzymes, like SOD, GSH, GPX, and CAT, in the
+NASH-injured liver. At the same time, SDS significantly
+reduced the increased CYP2E1and Nox2 mRNA 
+expression in the liver. These results suggest that SDS can 
+protect the liver from NASH-induced injury, which is most
+likely to take place through the inhibition of oxidative
+stress mediators. In this experiment, rats were treated by
+oral administration of salidroside from 9 weeks to
+14 weeks. By the ninth week, mild to moderate 
+pathology should be estabilished. Therefore, salidroside can
+recover the severe pathology after the full development
+of the pathology.
+Oxidative stress is significantly closely associated with
+NASH. Antioxidants can ameliorate the development of
+NASH formation [16]. The current work revealed that
+SDS rendered the increased CYP2E1 less pronounced in
+Yang et al. BMC Pharmacology and Toxicology  (2016) 17:16 Page 5 of 6
+injured liver with NASH in rats. The CYP2E1 enzyme is
+a hepatic cytochrome P450 isoform, which create free
+radicals in phase I enzymes [17]. CYP2E1 is critically 
+important in NASH development by promoting oxidative,
+inflammation. CYP2E1 overexpression results in 
+increased oxidative stress and nitrosative stress in mouse
+model of non-alcoholic fatty liver [18]. But CYP2E1-null
+mice can prevent NASH progression [19]. The fact that
+SDS can prevent the upregulation of the cytochrome
+P450 enzyme CYP2E1 suggests that SDS exert 
+hepato-protection by acting early in the process of oxidative
+stress, which is probably capable of blocking the entire
+(Data are mean + SD, n = 10 per group. ##P < 0.01 compared to normal
+control; *P < 0.05, **P < 0.01 compared to NASH model)
+inflammation. However, the precise celluar and 
+molecular mechanisms by which SDS bind to targets upstream
+of CYP2E1 remains to be elucidated.
+The results of the current study also revealed that SDS
+treatment reduced the rate of upregulation of Nox2
+mRNA expression in the NASH rat model. Nox2 is a
+membrane-bound enzyme complex. It has been shown
+to be involved in cellular respiratory bursts and free
+radical production in a variety of cells, including 
+hepa-tocytes [20]. Nox-2-derived reactive oxygen species (ROS)
+may be involved in the activation of inflammatory 
+apop-totic pathways. NOX2-generated oxidative stress is 
+associated with severity of liver steatosis in patients with
+non-alcoholic fatty liver disease [21]. For this reason,
+Nox2 has been proposed as a potential therapeutic 
+target to reduce ROS-related injury, such as 
+ischemia-reperfusion associated liver injury. It has been reported
+that NO donor KMUP-1 improves hepatic 
+ischemia-reperfusion and hypoxic cell injury by inhibiting 
+Nox2-and reactive oxygen species (ROS)-mediated 
+inflammation [22].
+The CYP pathway is known to be coupled with the NOX
+pathway [23, 24]. The increased expression of CYP2E1
+leads to the generation of more free electrons, which is
+coupled with the conversion of NADPH to NADP+ via
+Nox2 and/or Nox4. The CYP2E1 reaction cycle produces
+ROS as a result of uncoupling of the reaction. In addition,
+Nox2 and Nox4 may promote the recycling of NADP+ to
+produce superoxides and peroxides, which can further
+result in the generation of peroxides and ROS through
+the Fenton chemistry. These CYP2E1/NOX2-coupled
+reactions increase the caspase-3 activity, induce DNA
+fragmentation, and ultimately result in the apoptosis in
+liver tissues [20]. This is characterized by NASH-in-
+duced steatosis in liver. In this way, the Nox2 pathway is
+another therapeutic target for diseases that involve 
+oxidative stress [25, 26]. The current results demonstrated that
+SDS can suppress the increased CYP2E1 and Nox2 
+expression, suggesting that SDS may exert the 
+hepatoprotec-tive effect through inhibition of the CYP2E1/Nox2 coupling
+reaction, reducing oxidative stress, and ameliorating liver 
+injury caused by NASH. This is the first report to show that
+SDS prevent NASH via this mechanism of action.
+Yang et al. BMC Pharmacology and Toxicology  (2016) 17:16 Page 6 of 6
+Conclusions
+In summary, the current work provides evidence that
+SDS can prevent liver injury and steatosis in NASH rats
+by inhibiting oxidative stress. The action probably 
+involves SDS exerting antioxidant actions and the 
+inhibition of free radical-generating CYP2E1/Nox pathway.
+Although the research have no the highest dose normal
+control group, literature demonstrated that the dose
+(150 and 300 mg/kg SDS) used in this study did not
+pose genotoxic effect in vivo and in vitro [27].
+Abbreviations
+ALT: alanine aminotransferase; AST: aspartate aminotransferase; CAT: catalase;
+CYP2E1: cytochromeP4502E1; GPX: glutathione peroxidase; GSH: glutathione;
+HFHC: high-fat and high-cholesterol; MDA: malondialdehyde;
+NAFLD: nonalcoholic fatty liver disease; NASH: nonalcoholic steatohepatitis;
+Nox2: nicotinamide adenine dinucleotide phosphate oxidase2; ROS: reactive
+oxygen species; SDS: salidroside; SOD: superoxide dismutase; TC: total
+cholesterol; TG: triglycerides.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+ND was responsible for a conception design. Rats model and qPCR were
+performed by ZY and TZ at the University of Dalian Medical university.
+Biochemical test were performed by LG. Data recoding and statistics were
+performed by HW. The manuscript was written through contributions of all
+authors. All authors have given approval to the final version of the manuscript.
+Acknowledgments
+This project was supported by Liaoning province nature science fund
+(201102 051).
+Author details
+1Department
+Medical University, 222, Zhongshan Road, Dalian 116011, Liaoning Province,
+China. 2Department of Digestive Physiology, Dalian Medical University,
+Dalian, Liaoning Province, China.
+Received: 19 July 2015 Accepted: 29 March 2016
+References
+1.
+Ludwig J, Viggiano TR, McGill DB, Oh BJ. Nonalcoholic steatohepatitis:
+Mayo Clinic experiences with a hitherto unnamed disease. Mayo Clin Proc.
+1980;55(7):434-8.
+2.
+Charlton MR, Burns JM, Pedersen RA, Watt KD, Heimbach JK, Dierkhising RA.
+Frequency and outcomes of liver transplantation for nonalcoholic
+steatohepatitis in the United States. Gastroenterology. 2011;141(4):1249-53.
+3.
+Day CP, James OF. Steatohepatitis: a tale of two “hits”? Gastroenterology.
+1998;114(4):842-5.
+4.
+Koek GH, Liedorp PR, Bast A. The role of oxidative stress in non-alcoholic
+steatohepatitis. Clin Chim Acta. 2011;412(15-16):1297-305.
+5.
+Sies H. Oxidative stress: oxidants and antioxidants. Exp Physiol. 1997;82(2):291-5.
+6.
+Sreekumar R, Rosado B, Rasmussen D, Charlton M. Hepatic gene expression
+in histologically progressive nonalcoholic steatohepatitis. Hepatology.
+2003;38(1):244-51.
+7.
+Sanyal AJ, Chalasani N, Kowdley KV, McCullough A, Diehl AM, Bass NM,
+Neuschwander-Tetri BA, Lavine JE, Tonascia J, Unalp A, Van Natta M, Clark J,
+Brunt EM, Kleiner DE, Hoofnagle JH, Robuck PR, NASH CRN. Pioglitazone,
+vitamin E, or placebo for nonalcoholic steatohepatitis. N Engl J Med. 2010;
+362(18):1675-85.
+8.
+Yu P, Hu C, Meehan EJ, Chen L. X-ray crystal structure and antioxidant activity
+of salidroside, a phenylethanoid glycoside. Chem Biodivers. 2007;4(3):508-13.
+9.
+Dhar P, Bajpai PK, Tayade AB, Chaurasia OP, Srivastava RB, Singh SB. Chemical
+composition and antioxidant capacities of phytococktail extracts from 
+trans-Himalayan cold desert. BMC Complement Altern Med. 2013;13:259.
+of Gastroenterology, the first Affiliated Hospital of Dalian
+10.
+Wu YL, Lian LH, Jiang YZ, Nan JX. Hepatoprotective effects of salidroside on
+fulminant hepatic failure induced by D-galactosamine and lipopolysaccharide
+in mice. J Pharm Pharmacol. 2009;61(10):1375-82.
+11.
+Wu YL, Piao DM, Han XH, Nan JX. Protective effects of salidroside against
+acetaminophen-induced toxicity in mice. Biol Pharm Bull. 2008;31(8):1523-9.
+12.
+Yuan Y, Wu SJ, Liu X, Zhang LL. Antioxidant effect of salidroside and its
+protective effect against furan-induced hepatocyte damage in mice. Food
+Funct. 2013;4(5):763-9.
+13.
+Brunt EM, Kleiner DE, Wilson LA, Belt P, Neuschwander-Tetri BA, NASH Clinical
+Research Network (CRN). Nonalcoholic fatty liver disease (NAFLD) activity score
+and the histopathologic diagnosis in NAFLD: distinctclinicopathologic
+meanings. Hepatology. 2011;53(3):810-82.
+14.
+Folch J, Lees M, Sloane Stanley GH. A simple method for the isolation
+and purification of total lipides from animal tissues. J Biol Chem.
+1957;226(1):497-509.
+15.
+Carr TP, Andresen CJ, Rudel LL. Enzymatic determination of triglyc-eride,
+free cholesterol, and total cholesterol in tissue lipid extracts. Clin Biochem.
+1993;26(1):39-42.
+16.
+Korish AA, Arafah MM. Camel milk ameliorates steatohepatitis, insulin
+resistance and lipid peroxidation in experimental non-alcoholic fatty liver
+disease. BMC Complement Altern Med. 2013;13:264.
+17.
+Lee GH, Bhandary B, Lee EM, Park JK, Jeong KS, Kim IK, Kim HR, Chae HJ.
+The roles of ER stress and P450 2E1 in CCl4-induced steatosis. Int J
+Biochem Cell Biol. 2011;43:1469-82.
+18.
+Kathirvel E, Chen P, Morgan K, French SW, Morgan TR. Oxidative stress
+and regulation of anti-oxidant enzymes in cytochrome P4502E1
+transgenic mouse model of non-alcoholic fatty liver. J Gastroenterol
+Hepatol. 2010;25(6):1136-43.
+19.
+Abdelmegeed MA, Banerjee A, Yoo SH, Jang SH, Gonzalez FJ, Song BJ.
+Critical role of cytochrome P450 2E1 (CYP2E1) in the development of high
+fat-induced nonalcoholic steatohepatitis. J Hepatol. 2012;57(4):860-6.
+20.
+Shah A, Kumar S, Simon SD, Singh DP, Kumar A. HIV gp120- and
+methamphetamine-mediated oxidative stress induces astrocyte apoptosis
+via cytochrome P450 2E1. Cell Death Dis. 2013;4:e850.
+21.
+Del Ben M, Polimeni L, Carnevale R, Bartimoccia S, Nocella C, Baratta F,
+Loffredo L, Pignatelli P, Violi F, Angelico F. Nox2-generated oxidative stress
+is associated with severity of ultrasound liver steatosis in patients with 
+nonalcoholic fatty liver disease. BMC Gastroenterol. 2014;14:81.
+22.
+Kuo KK, Wu BN, Chiu EY, Tseng CJ, Yeh JL, Liu CP, Chai CY, Chen IJ. NO
+donor KMUP-1 improves hepatic ischemia-reperfusion and hypoxic cell
+injury by inhibiting oxidative stress and pro-inflammatory signaling. Int J
+Immunopathol Pharmacol. 2013;26(1):93-106.
+23.
+Eid AA, Gorin Y, Fagg BM, Maalouf R, Barnes JL, Block K, Abboud HE.
+Mechanisms of podocyte injury in diabetes: role of cytochrome P450 and
+NADPH oxidases. Diabetes. 2009;58(5):1201-11.
+24.
+Wang X, Ke Z, Chen G, Xu M, Bower KA, Frank JA, Zhang Z, Shi X, Luo J.
+Cdc42-dependent activation of NADPH oxidase is involved in 
+ethanol-induced neuronal oxidative stress. PLoS One. 2012;7:e38075.
+25.
+Cairns B, Kim JY, Tang XN, Yenari MA. Nox inhibitors as a therapeutic
+strategy for stroke and neurodegenerative disease. Curr Drug Targets.
+2012;13(2):199-206.
+26.
+Sorce S, Krause KH, Jaquet V. Targeting Nox enzymes in the central nervous
+system: therapeutic opportunities. Cell Mol Life Sci. 2012;69(14):2387-240.
+27.
+Zhu J, Wan X, Zhu Y. Evaluation of salidroside in vitro and in vivo genotoxicity.
+Drug Chem Toxicol. 2010;33(2):220-6.
+NAS score
+AST aactivities   U/L
+TC (mg/g tissue)  ##
+ALT activities  U/L
+TG (mg/g tissue)
+Nox2 mRNA
+CYP2E1  mRNA
+
+Table 1 Effects of SDS on liver MDA and SOD, GSH, GPX, CAT contents in NASH rats 
+Group 
+MDA (nmol/mg prot) 
+SOD (U/mg prot) 
+GSH (mg/g prot) 
+GPX (U/mg prot) 
+CAT (U/mg prot) 
+Control 
+0.61 ± 0.22 
+101.51 ± 2.58 
+13.15 ± 2.65 
+456.76 ± 55.42 
+36.61 ± 6.71 
+NASH model 
+1.71 ± 0.23* 
+46.42 ± 9.31* 
+6.48 ± 1.25* 
+295.76 ± 64.32* 
+19.51 ± 8.06* 
+SDS treatment (150 mg/kg) 
+1.09 ± 0.20** 
+72.01 ± 3.38** 
+9.98 ± 1.62** 
+398.12 ± 39.13** 
+26.19 ± 5.73** 
+SDS treatment (300 mg/kg) 
+0.67 ± 0.18*** 
+97.21 ± 3.52*** 
+12.23 ± 1.32*** 
+425.32 ± 49.23** 
+31.76 ± 5.32** 
+Data are mean + SD, n = 10 per group 
+*P < 0.01 vs Control group 
+**P < 0.05,***P < 0.01 vs NASH model group 
+
+a 
+b 
+c 
+d 7 
+## 
+6 
+5 
+4 
+3 
+** 
+** 
+2 
+1 
+0 
+Control 
+NASH model SDS 
+SDS 
+150mg/kg 300mg/kg 
+Fig. 1 SDS improved histological features of NASH (1A-1C)- induced 
+by high-fat and high-cholesterol diet in rats (a: normal H&E 100x 
+magnification; b: NASH model H&E 100x magnification; c: SDS 300 mg/kg. 
+H&E 100x magnification) and NAS score (1d). (Data are mean+ SD, n= 10 
+per group. ##P< 0.01 compared to normal control; **P< 0.01 compared 
+to NASH model) 
+
+Yang et al. BMC Pharmacology and Toxicology  (2016) 17:16 Page 4 of 6 
+a 
+c 
+80 
+70 
+## 
+## 
+70 
+60 
+60 
+* 
+50 
+50 
+** 
+* 
+40 
+40 
+30 
+** 
+30 
+20 
+20 
+10 
+10 
+0 
+0 
+Control 
+NASH model SDS 
+SDS 
+Control 
+NASH model SDS 
+SDS 
+150mg/kg 
+300mg/kg 
+150mg/kg 300mg/kg 
+b 
+d 
+90 
+35 
+## 
+80 
+30 
+70 
+* 
+25 
+60 
+** 
+50 
+20 
+* 
+40 
+15 
+** 
+30 
+10 
+20 
+10 
+5 
+0 
+0 
+Control 
+NASH model SDS 
+SDS 
+Control 
+NASH model SDS 
+SDS 
+150mg/kg 300mg/kg 
+150mg/kg 300mg/kg 
+Fig. 2 SDS (150 mg/kg and 300 mg/kg) dose-dependent decreased ALT (2a), AST (2b) in the serum and TG (2c), TC (2d) in the hepatocyte 
+of NASH-induced by high-fat and high-cholesterol diet in rats. (Data are mean + SD, n = 10 per group. ##P < 0.01 compared to normal control; 
+*P < 0.05, **P < 0.01 compared to NASH model) 
+
+cascade of the process that leads to liver 
+injury and 
+a 
+5 
+## 
+4.5 
+4 
+3.5 
+* 
+3 
+2.5 
+2 
+** 
+1.5 
+1 
+0.5 
+0 
+Control 
+NASH model SDS 
+SDS 
+150mg/kg 
+300mg/kg 
+b 
+6 
+## 
+5 
+4 
+* 
+3 
+** 
+2 
+1 
+0 
+Control 
+NASH model SDS 
+SDS 
+150mg/kg 
+300mg/kg 
+Fig. 3 Dose-dependent inhibitory effects of SDS (150 mg/kg and 
+300 mg/kg) on hepatic CYP2E1 (3a) and Nox2 (3b) mRNA expression 
+in liver with NASH-induced by high-fat and high-cholesterol diet in rats. 
+

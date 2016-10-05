@@ -1,0 +1,1530 @@
+>>>section: conclusion
+
+>>>section: references
+References
+Black AT, Joseph LB, Casillas RP, Heck DE, Gerecke DR, Sinko PJ, Laskin DL, Laskin JD. Role of
+MAP kinases in regulating expression of antioxidants and inflammatory mediators in mouse
+keratinocytes following exposure to the half mustard, 2-chloroethyl ethyl sulfide. Toxicol Appl
+Pharmacol. 2010; 245:352-360. [PubMed: 20382172]
+Blank JA, Lane LA, Menton RG, Casillas RP. Procedure for assessing myeloperoxidase and
+inflammatory mediator responses in hairless mouse skin. J Appl Toxicol. 2000; 20(Suppl 1):S137-
+139. [PubMed: 11428626]
+Brennan ML, Anderson MM, Shih DM, Qu XD, Wang X, Mehta AC, Lim LL, Shi W, Hazen SL,
+Jacob JS, Crowley JR, Heinecke JW, Lusis AJ. Increased atherosclerosis in 
+myeloperoxidase-deficient mice. J Clin Invest. 2001; 107:419-430. [PubMed: 11181641]
+Casillas RP, Kiser RC, Truxall JA, Singer AW, Shumaker SM, Niemuth NA, Ricketts KM,
+Mitcheltree LW, Castrejon LR, Blank JA. Therapeutic approaches to dermatotoxicity by sulfur
+mustard. I Modulaton of sulfur mustard-induced cutaneous injury in the mouse ear vesicant model. J
+Appl Toxicol. 2000; 20(Suppl 1):S145-151. [PubMed: 11428628]
+Chang YC, Sabourin CL, Lu SE, Sasaki T, Svoboda KK, Gordon MK, Riley DJ, Casillas RP, Gerecke
+DR. Upregulation of gamma-2 laminin-332 in the mouse ear vesicant wound model. J Biochem Mol
+Toxicol. 2009; 23:172-184. [PubMed: 19526566]
+Cowan FM, Broomfield CA, Lenz DE, Smith WJ. Putative role of proteolysis and inflammatory
+response in the toxicity of nerve and blister chemical warfare agents: implications for multi-threat
+medical countermeasures. J Appl Toxicol. 2003; 23:177-186. [PubMed: 12794939]
+Dacre JC, Goldman M. Toxicology and pharmacology of the chemical warfare agent sulfur mustard.
+Pharmacol Rev. 1996; 48:289-326. [PubMed: 8804107]
+El Kebir D, Jozsef L, Pan W, Filep JG. Myeloperoxidase delays neutrophil apoptosis through CD11b/
+CD18 integrins and prolongs inflammation. Circ Res. 2008; 103:352-359. [PubMed: 18617697]
+Ghabili K, Agutter PS, Ghanei M, Ansarin K, Shoja MM. Mustard gas toxicity: the acute and chronic
+pathological effects. J Appl Toxicol. 2010; 30:627-643. [PubMed: 20836142]
+Glinski W, Jarzabek-Chorzelska M, Kuligowski M, Pierozynska-Dubowska M, Glinska-Ferenz M,
+Jablonska S. Basement membrane zone as a target for human neutrophil elastase in psoriasis. Arch
+Dermatol Res. 1990; 282:506-511. [PubMed: 1707254]
+Graham JS, Chilcott RP, Rice P, Milner SM, Hurst CG, Maliner BI. Wound healing of cutaneous
+sulfur mustard injuries: strategies for the development of improved therapies. J Burns Wounds.
+2005; 4:e1. [PubMed: 16921406]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 11
+Ham HY, Hong CW, Lee SN, Kwon MS, Kim YJ, Song DK. Sulfur mustard primes human
+neutrophils for increased degranulation and stimulates cytokine release via TRPM2/p38 MAPK
+signaling. Toxicol Appl Pharmacol. 2012; 258:82-88. [PubMed: 22036725]
+Hayden PJ, Petrali JP, Stolper G, Hamilton TA, Jackson GR Jr, Wertz PW, Ito S, Smith WJ, Klausner
+M. Microvesicating effects of sulfur mustard on an in vitro human skin model. Toxicol In Vitro.
+2009; 23:1396-1405. [PubMed: 19619636]
+Hess JF, FitzGerald PG. Treatment of keratin intermediate filaments with sulfur mustard analogs.
+Biochem Biophys Res Commun. 2007; 359:616-621. [PubMed: 17548056]
+Inturi S, Tewari-Singh N, Gu M, Shrotriya S, Gomez J, Agarwal C, White CW, Agarwal R.
+Mechanisms of sulfur mustard analog 2-chloroethyl ethyl sulfide-induced DNA damage in skin
+epidermal cells and fibroblasts. Free Radic Biol Med. 2011; 51:2272-2280. [PubMed: 21920433]
+Inturi S, Tewari-Singh N, Jain AK, Roy S, White CW, Agarwal R. Absence of a p53 allele delays
+nitrogen mustard-induced early apoptosis and inflammation of murine skin. Toxicology. 2013;
+311:184-190. [PubMed: 23845566]
+Jain AK, Tewari-Singh N, Gu M, Inturi S, White CW, Agarwal R. Sulfur mustard analog, 
+2-chloroethyl ethyl sulfide-induced skin injury involves DNA damage and induction of
+inflammatory mediators, in part via oxidative stress, in SKH-1 hairless mouse skin. Toxicol Lett.
+2011a; 205:293-301. [PubMed: 21722719]
+Jain AK, Tewari-Singh N, Orlicky DJ, White CW, Agarwal R. 2-Chloroethyl ethyl sulfide causes
+microvesication and inflammation-related histopathological changes in male hairless mouse skin.
+Toxicology. 2011b; 282:129-138. [PubMed: 21295104]
+Joseph LB, Gerecke DR, Heck DE, Black AT, Sinko PJ, Cervelli JA, Casillas RP, Babin MC, Laskin
+DL, Laskin JD. Structural changes in the skin of hairless mice following exposure to sulfur
+mustard correlate with inflammation and DNA damage. Exp Mol Pathol. 2011; 91:515-527.
+[PubMed: 21672537]
+Kehe K, Balszuweit F, Steinritz D, Thiermann H. Molecular toxicology of sulfur mustard-induced
+cutaneous inflammation and blistering. Toxicology. 2009; 263:12-19. [PubMed: 19651324]
+Kehe K, Szinicz L. Medical aspects of sulphur mustard poisoning. Toxicology. 2005; 214:198-209.
+[PubMed: 16084004]
+Klebanoff SJ. Myeloperoxidase: friend and foe. J Leukoc Biol. 2005; 77:598-625. [PubMed:
+15689384]
+Korkmaz A, Yaren H, Topal T, Oter S. Molecular targets against mustard toxicity: implication of cell
+surface receptors, peroxynitrite production, and PARP activation. Arch Toxicol. 2006; 80:662-
+670. [PubMed: 16552503]
+Laskin JD, Black AT, Jan YH, Sinko PJ, Heindel ND, Sunil V, Heck DE, Laskin DL. Oxidants and
+antioxidants in sulfur mustard-induced injury. Ann N Y Acad Sci. 2010; 1203:92-100. [PubMed:
+20716289]
+Lau D, Mollnau H, Eiserich JP, Freeman BA, Daiber A, Gehling UM, Brummer J, Rudolph V, Munzel
+T, Heitzer T, Meinertz T, Baldus S. Myeloperoxidase mediates neutrophil activation by
+association with CD11b/CD18 integrins. Proc Natl Acad Sci U S A. 2005; 102:431-436.
+[PubMed: 15625114]
+Levitt JM, Lodhi IJ, Nguyen PK, Ngo V, Clift R, Hinshaw DB, Sweeney JF. Low-dose sulfur mustard
+primes oxidative function and induces apoptosis in human polymorphonuclear leukocytes. Int
+Immunopharmacol. 2003; 3:747-756. [PubMed: 12757743]
+Lindsay CD, Rice P. Assessment of the biochemical effects of percutaneous exposure of sulphur
+mustard in an in vitro human skin system. Hum Exp Toxicol. 1996; 15:237-244. [PubMed:
+8839212]
+Liu Z, Giudice GJ, Zhou X, Swartz SJ, Troy JL, Fairley JA, Till GO, Diaz LA. A major role for
+neutrophils in experimental bullous pemphigoid. J Clin Invest. 1997; 100:1256-1263. [PubMed:
+9276744]
+Liu Z, Shapiro SD, Zhou X, Twining SS, Senior RM, Giudice GJ, Fairley JA, Diaz LA. A critical role
+for neutrophil elastase in experimental bullous pemphigoid. J Clin Invest. 2000; 105:113-123.
+[PubMed: 10619867]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 12
+Loria V, Dato I, Graziani F, Biasucci LM. Myeloperoxidase: a new biomarker of inflammation in
+ischemic heart disease and acute coronary syndromes. Mediators Inflamm. 2008:135625.
+[PubMed: 18382609]
+Lowry OH, Rosebrough NJ, Farr AL, Randall RJ. Protein measurement with the Folin phenol reagent.
+J Biol Chem. 1951; 193:265-275. [PubMed: 14907713]
+Malle E, Furtmuller PG, Sattler W, Obinger C. Myeloperoxidase: a target for new drug development?
+Br J Pharmacol. 2007; 152:838-854. [PubMed: 17592500]
+McManus J, Huebner K. Vesicants. Crit Care Clin. 2005; 21:707-718. vi. [PubMed: 16168310]
+Mellor SG, Rice P, Cooper GJ. Vesicant burns. Br J Plast Surg. 1991; 44:434-437. [PubMed:
+1933115]
+Millard CB, Bongiovanni R, Broomfield CA. Cutaneous exposure to bis-(2-chloroethyl)sulfide results
+in neutrophil infiltration and increased solubility of 180,000 Mr subepidermal collagens. Biochem
+Pharmacol. 1997; 53:1405-1412. [PubMed: 9260866]
+Miyamoto S, Martinez GR, Rettori D, Augusto O, Medeiros MH, Di Mascio P. Linoleic acid
+hydroperoxide reacts with hypochlorous acid, generating peroxyl radical intermediates and singlet
+molecular oxygen. Proc Natl Acad Sci U S A. 2006; 103:293-298. [PubMed: 16387855]
+Mol MA, van den Berg RM, Benschop HP. Involvement of caspases and transmembrane
+metalloproteases in sulphur mustard-induced microvesication in adult human skin in organ culture:
+directions for therapy. Toxicology. 2009; 258:39-46. [PubMed: 19167455]
+Mutze S, Hebling U, Stremmel W, Wang J, Arnhold J, Pantopoulos K, Mueller S. 
+Myeloperoxidase-derived hypochlorous acid antagonizes the oxidative stress-mediated activation of iron regulatory
+protein 1. J Biol Chem. 2003; 278:40542-40549. [PubMed: 12888561]
+Naghii MR. Sulfur mustard intoxication, oxidative stress, and antioxidants. Mil Med. 2002; 167:573-
+575. [PubMed: 12125850]
+Pal A, Tewari-Singh N, Gu M, Agarwal C, Huang J, Day BJ, White CW, Agarwal R. Sulfur mustard
+analog induces oxidative stress and activates signaling cascades in the skin of SKH-1 hairless
+mice. Free Radic Biol Med. 2009; 47:1640-1651. [PubMed: 19761830]
+Papirmeister B, Gross CL, Meier HL, Petrali JP, Johnson JB. Molecular basis for mustard-induced
+vesication. Fundam Appl Toxicol. 1985; 5:S134-149. [PubMed: 2419197]
+Paromov V, Suntres Z, Smith M, Stone WL. Sulfur mustard toxicity following dermal exposure: role
+of oxidative stress, and antioxidant therapy. J Burns Wounds. 2007; 7:e7. [PubMed: 18091984]
+Ray P, Chakrabarti AK, Broomfield CA, Ray R. Sulfur mustard-stimulated protease: a target for
+antivesicant drugs. J Appl Toxicol. 2002; 22:139-140. [PubMed: 11920939]
+Rice P. Sulphur mustard injuries of the skin. Pathophysiology and management. Toxicol Rev. 2003;
+22:111-118. [PubMed: 15071821]
+Ries C, Popp T, Egea V, Kehe K, Jochum M. Matrix metalloproteinase-9 expression and release from
+skin fibroblasts interacting with keratinocytes: Upregulation in response to sulphur mustard.
+Toxicology. 2009; 263:26-31. [PubMed: 18809459]
+Rogakou EP, Pilch DR, Orr AH, Ivanova VS, Bonner WM. DNA double-stranded breaks induce
+histone H2AX phosphorylation on serine 139. J Biol Chem. 1998; 273:5858-5868. [PubMed:
+9488723]
+Sabourin CL, Danne MM, Buxton KL, Casillas RP, Schlager JJ. Cytokine, chemokine, and matrix
+metalloproteinase response after sulfur mustard injury to weanling pig skin. J Biochem Mol
+Toxicol. 2002; 16:263-272. [PubMed: 12481301]
+Saladi RN, Smith E, Persaud AN. Mustard: a potential agent of chemical warfare and terrorism. Clin
+Exp Dermatol. 2006; 31:1-5. [PubMed: 16309468]
+Segal AW. How neutrophils kill microbes. Annu Rev Immunol. 2005; 23:197-223. [PubMed:
+15771570]
+Shakarjian MP, Bhatt P, Gordon MK, Chang YC, Casbohm SL, Rudge TL, Kiser RC, Sabourin CL,
+Casillas RP, Ohman-Strickland P, Riley DJ, Gerecke DR. Preferential expression of matrix
+metalloproteinase-9 in mouse skin after sulfur mustard exposure. J Appl Toxicol. 2006; 26:239-
+246. [PubMed: 16489579]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 13
+Shakarjian MP, Heck DE, Gray JP, Sinko PJ, Gordon MK, Casillas RP, Heindel ND, Gerecke DR,
+Laskin DL, Laskin JD. Mechanisms mediating the vesicant actions of sulfur mustard after
+cutaneous exposure. Toxicol Sci. 2010; 114:5-19. [PubMed: 19833738]
+Sharma M, Vijayaraghavan R, Agrawal OP. Comparative toxic effect of nitrogen mustards (HN-1,
+HN-2, and HN-3) and sulfur mustard on hematological and biochemical variables and their
+protection by DRDE-07 and its analogues. Int J Toxicol. 2010; 29:391-401. [PubMed: 20466873]
+Shiba Y, Kinoshita T, Chuman H, Taketani Y, Takeda E, Kato Y, Naito M, Kawabata K, Ishisaka A,
+Terao J, Kawai Y. Flavonoids as substrates and inhibitors of myeloperoxidase: molecular actions
+of aglycone and metabolites. Chem Res Toxicol. 2008; 21:1600-1609. [PubMed: 18620432]
+Smith KJ, Graham JS, Moeller RB, Okerberg CV, Skelton H, Hurst CG. Histopathologic features seen
+in sulfur mustard induced cutaneous lesions in hairless guinea pigs. J Cutan Pathol. 1995; 22:260-
+268. [PubMed: 7593821]
+Smith KJ, Smith WJ, Hamilton T, Skelton HG, Graham JS, Okerberg C, Moeller R, Hackley BE Jr.
+Histopathologic and immunohistochemical features in human skin after exposure to nitrogen and
+sulfur mustard. Am J Dermatopathol. 1998; 20:22-28. [PubMed: 9504665]
+Tewari-Singh N, Gu M, Agarwal C, White CW, Agarwal R. Biological and molecular mechanisms of
+sulfur mustard analogue-induced toxicity in JB6 and HaCaT cells: possible role of ataxia
+telangiectasia-mutated/ataxia telangiectasia-Rad3-related cell cycle checkpoint pathway. Chem
+Res Toxicol. 2010; 23:1034-1044. [PubMed: 20469912]
+Tewari-Singh N, Jain AK, Inturi S, White CW, Agarwal R. Clinically-Relevant Cutaneous Lesions by
+Nitrogen Mustard: Useful Biomarkers of Vesicants Skin Injury in SKH-1 Hairless and C57BL/6
+Mice. PLoS One. 2013; 8:e67557. [PubMed: 23826320]
+Tewari-Singh N, Rana S, Gu M, Pal A, Orlicky DJ, White CW, Agarwal R. Inflammatory biomarkers
+of sulfur mustard analog 2-chloroethyl ethyl sulfide-induced skin injury in SKH-1 hairless mice.
+Toxicol Sci. 2009; 108:194-206. [PubMed: 19075041]
+Vavra AK, Laurent CJ, Ngo V, Sweeney JF, Levitt JM. Sulfur mustard primes phagocytosis and
+degranulation in human polymorphonuclear leukocytes. Int Immunopharmacol. 2004; 4:437-445.
+[PubMed: 15037221]
+Walker IG. Intrastrand bifunctional alkylation of DNA in mammalian cells treated with mustard gas.
+Can J Biochem. 1971; 49:332-336. [PubMed: 5549736]
+Weiss SJ. Tissue destruction by neutrophils. N Engl J Med. 1989; 320:365-376. [PubMed: 2536474]
+Wormser U. Toxicology of mustard gas. Trends Pharmacol Sci. 1991; 12:164-167. [PubMed:
+2063482]
+Wormser U, Brodsky B, Proscura E, Foley JF, Jones T, Nyska A. Involvement of tumor necrosis
+factor-alpha in sulfur mustard-induced skin lesion; effect of topical iodine. Arch Toxicol. 2005;
+79:660-670. [PubMed: 16001271]
+Wormser U, Brodsky B, Reich R. Topical treatment with povidone iodine reduces nitrogen 
+mustard-induced skin collagenolytic activity. Arch Toxicol. 2002; 76:119-121. [PubMed: 11914782]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+•
+Myeloperoxidase (MPO) plays an important role in nitrogen mustard (NM)-
+induced skin injuries.
+Highlights
+•
+Study was carried out in C57BL/6J wild type (WT) and B6.129X1-
+MPOtm1Lus/J (MPO KO) mice.
+•
+MPO deletion attenuated inflammatory response and microvesication,
+•
+MPO deletion attenuated DNA damage and cell death.
+•
+Deletion of MPO might be affecting various signaling pathways and oxidative
+stress.
+Page 14
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Page 19
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+
+>>>section: methods
+2. Materials and methods
+2.1 Materials
+Hematoxylin and eosin stains and NM (mechlorethamine hydrochloride; purity, 98%) were
+obtained from Sigma-Aldrich Chemicals Co. (St. Louis, MO). Paraffin wax for tissue block
+preparation was obtained from Triangle Biomedical Sciences (Durham, NC). DeadEnd™
+Colorimetric TUNEL (TdT-mediated dUTP Nick-End Labeling) system was purchased from
+Promega (Madison, WI) and Fluoro MPO™ Fluorescent MPO Detection Kit was obtained
+from Cell Technology (Mountain View, CA). Primary antibodies for H2A.X and MMP-9,
+COX-2, and iNOS were obtained from Cell Signaling (Beverly, MA, USA), Cayman
+Chemicals (Ann Arbor, MI, USA), and Abcam (Cambridge, MA), respectively. We used β
+actin antibody from Sigma-Aldrich (St. Louis, MO).
+2.2 Animal exposure with NM
+Male C57BL/6J wild type (hereafter refereed as WT mice) and B6.129X1-Mpotm1Lus/J
+mice, homozygous null for MPO gene where no MPO gene product is detected (hereafter
+refereed as MPO KO mice), were purchased from Jackson Laboratory (Bar Harbor, Maine).
+Before starting the experiments, mice were acclimatized for one week under standard
+housing and feeding conditions and all experiments were performed according to approved
+IACUC protocols of the University of Colorado Denver, CO (Protocol No - 57912(08)1E).
+Prior to NM exposure, mice were shaved using clippers to remove hair from their dorsal
+skin. Both wild type and MPO KO mice (n=3) were exposed with 6 mg NM in 200 μL of
+acetone/mouse applied topically to the dorsal shaved skin. Mice were 5-6 weeks of age with
+mean weight of 25g at the start of the experiment. Acetone (200 μL) alone was applied as
+vehicle control for NM and another group of mice were kept without any exposure, and used
+as untreated control. All the results following NM exposure were compared with vehicle
+control group and each study group consisted of three mice. Since MPO plays an important
+role in SM-induced skin injury and inflammation, we employed a high dose of NM to assess
+the effect of MPO deletion on skin injuries in both MPO KO and WT mice. Skin bi-fold
+thickness was measured at 12 h and 24 h post-exposure using digital calipers as reported
+earlier (Tewari-Singh et al. 2009). Immediately following measurement, at 12 h and 24 h
+post-exposure, mice were euthanized, dorsal skin collected and skin punches fixed for
+histology and immunohistochemical (IHC) analyses. The rest of the skin tissue was snap
+frozen in liquid nitrogen for molecular studies.
+Page 3
+Tewari-Singh et al., 2010). Though some studies have examined the role of neutrophils in
+injury with SM (Ham et al., 2012; Levitt et al., 2003; Shakarjian et al., 2010; Vavra et al.,
+2004), little is known about the mechanism and role of neutrophil-derived MPO-mediated
+inflammation and injury in vesicant-exposed skin tissue. Accordingly, the current study was
+designed to evaluate the role of neutrophil derived MPO in NM-induced skin injury by
+utilizing C57BL/6J wild type and MPO knockout (B6.129X1-Mpotm1Lus/J) mice. Our
+results showed an attenuation of NM-induced skin injury biomarkers in MPO KO mice,
+indicating an important role of neutrophil-derived MPO in vesicant-induced skin injury and
+inflammation.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+2.3 Histopathological analysis
+Page 4
+2.4 TUNEL assay
+Skin tissues were fixed O/N in 10% (v/v) phosphate buffered formalin and dehydrated in
+ascending concentrations of ethanol, cleared with xylene and embedded in paraffin. 5μm
+thick skin sections were processed for H&E staining as reported earlier (Jain et al., 2011b;
+Tewari-Singh et al., 2009). H&E slides were microscopically evaluated for measurement of
+epidermal thickness, neutrophil infiltration, dermal injury and the incidences of
+microvesication as reported earlier (Jain et al., 2011b).
+Apoptotic cell death was detected using DeadEnd™ Colorimetric TUNEL assay according to
+the vendor’s protocol as detailed earlier (Jain et al., 2011b; Tewari-Singh et al., 2010). At
+the end of the assay, TUNEL positive cells (brown colored) were quantified in 15 randomly
+selected fields using 400 magnification. Apoptotic cell index (% apoptotic cell death) was
+calculated as the number of apoptotic cells × 100 divided by total number of cells.
+2.5 Immunohistochemical staining
+Phospho-H2A.X ser139 (a marker of DNA damage) was analyzed by IHC as described
+previously (Jain et al., 2011a). Briefly, paraffin embedded skin sections were deparaffinized,
+rehydrated and treated for antigen retrieval by heat treatment in sodium citrate buffer
+(pH-6). The endogenous peroxidase activity was blocked and sections were incubated with
+rabbit polyclonal phospho-H2A.X ser139 antibody (1:100) O/N in humidified chamber.
+After washing with PBS, sections were incubated with appropriate biotin conjugated
+secondary antibody and then with streptavidin-HRP conjugates. Following another wash
+step, sections were incubated with DAB (3,3-diaminobenzidine) for immunopositivity
+reaction and color development. Thereafter, slides were mounted for microscopic
+observation. After IHC staining, cells in the skin epidermis were counted in 15 randomly
+selected fields using 400 magnification and the percent of phospho-H2A.X ser139 positive
+cells were quantified according to the method described above. All the H&E and IHC
+stained slides were observed using a Zeiss Axioscope 2 microscope (Carl Zeiss, Inc.,
+Germany) and image analysis and representative pictures were taken by using Carl Zeiss
+Axiovision Rel 4.5 software.
+2.6 MPO activity assay
+MPO activity was measured in skin tissue samples through use of the Fluorescent
+Myeloperoxidase Detection Kit from Cell Technology as reported earlier (Tewari-Singh et
+al. 2009). In brief, approximately 100 mg tissue samples were homogenized in
+homogenization buffer (provided in kit) and isolated protein was measured by Lowry’s
+method (Bio-Rad DC protein assay kit, Bio-Rad Laboratories, Hercules, CA). A 50 μg of
+protein/tissue sample was used to determine MPO activity from three separate animals as
+described previously (Jain et al., 2011b). MPO activity was expressed as mU/μg of protein
+using MPO standard curve.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+2.7 Western Blot analysis
+Page 5
+2.8 Statistical analysis
+Statistically significant differences between groups was determined by one-way ANOVA
+using SigmaStat 3.5 software (Jandel scientific, San Rafael, CA) and the Tukey test for
+multiple comparisons, with p-value of < 0.05 considered as significant. Data is represented
+in ± SEM from three replicate animals.
+
+>>>section: fulltext
+NIH Public Access
+Author Manuscript
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Published in final edited form as:
+Toxicology. 2014 June 5; 320: 25-33. doi:10.1016/j.tox.2014.02.013.
+Myeloperoxidase deficiency attenuates nitrogen 
+mustard-induced skin injuries
+Anil K Jain1, Neera Tewari-Singh1, Swetha Inturi1, David J. Orlicky2, Carl W. White3, and
+Rajesh Agarwal1,*
+Anil K Jain: anil.jain@ucdenver.edu; Neera Tewari-Singh: Neera.Tewari-Singh@ucdenver.edu; Swetha Inturi:
+Swetha.Inturi@ucdenver.edu; David J. Orlicky: David.Orlicky@ucdenver.edu; Carl W. White: Carl.White@ucdenver.edu
+1Department of Pharmaceutical Sciences, University of Colorado Denver, Aurora, CO 80045,
+USA
+2Department of Pathology, University of Colorado Denver, Aurora, CO 80045, USA
+3Department of Pediatrics, University of Colorado Denver, Aurora, CO 80045, USA
+Abstract
+The pathologic mechanisms of skin injuries, following the acute inflammatory response induced
+by vesicating agents sulfur mustard (SM) and nitrogen mustard (NM) exposure, are poorly
+understood. Neutrophils which accumulate at the site of injury, abundantly express
+myeloperoxidase (MPO), a heme protein that is implicated in oxidant-related antimicrobial and
+cytotoxic responses. Our previous studies have shown that exposure to SM analog 2-chloroethyl
+ethyl sulfide (CEES) or NM results in an inflammatory response including increased neutrophilic
+infiltration and MPO activity. To further define the role of neutrophil-derived MPO in 
+NM-induced skin injury, here we used a genetic approach and examined the effect of NM exposure (12
+h and 24 h) on previously established injury endpoints in C57BL/6J wild type (WT) and
+B6.129X1-MPOtm1Lus/J mice (MPO KO), homozygous null for MPO gene. NM exposure
+caused a significant increase in skin bi-fold thickness, epidermal thickness, microvesication, DNA
+damage and apoptosis in WT mice compared to MPO KO mice. MPO KO mice showed relatively
+insignificant effect. Similarly, NM-induced increases in the expression of inflammatory and
+proteolytic mediators, including COX-2, iNOS and MMP-9 in WT mice, while having a
+significantly lower effect in MPO KO mice. Collectively, these results show that MPO, which
+generates microbicidal oxidants, plays an important role in NM-induced skin injuries. This
+suggests the development of mechanism-based treatments against NM- and SM-induced skin
+injuries that inhibit MPO activity and attenuate MPO-derived oxidants.
+© 2014 Elsevier Ireland Ltd. All rights reserved.
+*Corresponding  author:  Rajesh  Agarwal,  Department  of  Pharmaceutical  Sciences,  University  of  Colorado  Denver  School  of  Pharmacy
+12850 E. Montview Blvd, Room V20- 2118, Mail Box C238, Aurora, CO 80045, USA, Phone: 303-724-4055, Fax: 303-724-7266.
+Rajesh.Agarwal@ucdenver.edu.
+Publisher's  Disclaimer:  This  is  a  PDF  file  of  an  unedited  manuscript  that  has  been  accepted  for  publication.  As  a  service  to  our
+customers  we  are  providing  this  early  version  of  the  manuscript.  The  manuscript  will  undergo  copyediting,  typesetting,  and  review  of
+the  resulting  proof  before  it  is  published  in  its  final  citable  form.  Please  note  that  during  the  production  process  errors  may  be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Jain et al.
+Keywords
+1. Introduction
+Page 2
+Sulfur mustard; nitrogen mustard; myeloperoxidase; inflammation; apoptosis; DNA damage
+Sulfur mustard [SM; bis (2-chloroethyl) sulfide] and nitrogen mustard (NM;
+mechlorethamine) are primary vesicating agents, which pose potential threat for use in
+chemical warfare and terrorist attack (Saladi et al., 2006; Sharma et al., 2010; Smith et al.,
+1995). Both of these mustard agents are highly toxic bifunctional alkylating agents, which
+upon exposure cause severe skin injury including inflammation and disruption of 
+epidermal-dermal layers leading to vesication (Graham et al., 2005; Hayden et al., 2009; Jain et al.,
+2011b; Joseph et al., 2011; Laskin et al., 2010; McManus and Huebner, 2005). In the past
+few years, numerous studies have been carried out to explore the mechanisms of cell death,
+inflammation and vesication caused by warfare and alkylating agent SM exposure (Casillas
+et al., 2000; Inturi et al., 2011; Jain et al., 2011b; Kehe et al., 2009; Kehe and Szinicz, 2005;
+Pal et al., 2009; Rice, 2003; Shakarjian et al., 2010; Tewari-Singh et al., 2010). However,
+further investigations are needed to define the mechanism of skin injury and healing
+processes after vesicant exposure, especially pathogenesis involving the inflammatory
+response where infiltration of polymorphonuclear lymphocytes (PMNs) is reported to play
+an important role (Dacre and Goldman, 1996; Graham et al., 2005; Millard et al., 1997;
+Wormser, 1991).
+SM-induced PMN infiltration, mainly neutrophils, has been shown as an early event
+occurring within 30 min and peaking at 6-12 h post-exposure in human skin (Lindsay and
+Rice, 1996; Millard et al., 1997; Wormser et al., 2005). Neutrophil infiltration plays a key
+role in host defense. However, its excessive stimulation induces the release of cytokines and
+growth factors which contribute to the healing process (Segal, 2005; Weiss, 1989).
+Conversely, neutrophils and to some extent monocytes and macrophages, secrete
+myeloperoxidase (MPO). MPO is a member of heme peroxidase-cyclooxygenase family, at
+the site of tissue injury generating powerful oxidants, free radicals and hypochlorous acid,
+which can cause tissue injury (Brennan et al., 2001; Klebanoff, 2005; Shiba et al., 2008).
+Infiltration of neutrophils also plays an important role in blister formation by secreting a
+variety of proteolytic enzymes including collagenase, gelatinase and elastase. These
+enzymesare able to degrade specific elements in the extracellular matrix leading to
+epidermal-dermal separation as observed in skin diseases like psoriasis (Glinski et al., 1990)
+and bullous pemphigoid (Liu et al., 1997; Liu et al., 2000). SM-induced biochemical
+changes include high MPO activity, free radical generation and cytokine production (Ham et
+al., 2012). Our previous studies with SM analog 2, chloroethyl ethyl sulfide (CEES) and NM
+have shown an increase in neutrophil infiltration and MPO (a marker indicating neutrophil
+infiltration) activity in mouse skin (Jain et al., 2011b; Tewari-Singh et al., 2009). We have
+also shown that both CEES and NM exposure induces DNA damage, cell death, oxidative
+stress, microvesication, activation of proteolytic and inflammatory mediators as well as
+related signaling pathways. These previous studies indicated that neutrophil-derived MPO
+could play a vital role in vesicant-induced skin lesions (Jain et al., 2011a; Pal et al., 2009;
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+2. Materials and methods
+2.1 Materials
+Hematoxylin and eosin stains and NM (mechlorethamine hydrochloride; purity, 98%) were
+obtained from Sigma-Aldrich Chemicals Co. (St. Louis, MO). Paraffin wax for tissue block
+preparation was obtained from Triangle Biomedical Sciences (Durham, NC). DeadEnd™
+Colorimetric TUNEL (TdT-mediated dUTP Nick-End Labeling) system was purchased from
+Promega (Madison, WI) and Fluoro MPO™ Fluorescent MPO Detection Kit was obtained
+from Cell Technology (Mountain View, CA). Primary antibodies for H2A.X and MMP-9,
+COX-2, and iNOS were obtained from Cell Signaling (Beverly, MA, USA), Cayman
+Chemicals (Ann Arbor, MI, USA), and Abcam (Cambridge, MA), respectively. We used β
+actin antibody from Sigma-Aldrich (St. Louis, MO).
+2.2 Animal exposure with NM
+Male C57BL/6J wild type (hereafter refereed as WT mice) and B6.129X1-Mpotm1Lus/J
+mice, homozygous null for MPO gene where no MPO gene product is detected (hereafter
+refereed as MPO KO mice), were purchased from Jackson Laboratory (Bar Harbor, Maine).
+Before starting the experiments, mice were acclimatized for one week under standard
+housing and feeding conditions and all experiments were performed according to approved
+IACUC protocols of the University of Colorado Denver, CO (Protocol No - 57912(08)1E).
+Prior to NM exposure, mice were shaved using clippers to remove hair from their dorsal
+skin. Both wild type and MPO KO mice (n=3) were exposed with 6 mg NM in 200 μL of
+acetone/mouse applied topically to the dorsal shaved skin. Mice were 5-6 weeks of age with
+mean weight of 25g at the start of the experiment. Acetone (200 μL) alone was applied as
+vehicle control for NM and another group of mice were kept without any exposure, and used
+as untreated control. All the results following NM exposure were compared with vehicle
+control group and each study group consisted of three mice. Since MPO plays an important
+role in SM-induced skin injury and inflammation, we employed a high dose of NM to assess
+the effect of MPO deletion on skin injuries in both MPO KO and WT mice. Skin bi-fold
+thickness was measured at 12 h and 24 h post-exposure using digital calipers as reported
+earlier (Tewari-Singh et al. 2009). Immediately following measurement, at 12 h and 24 h
+post-exposure, mice were euthanized, dorsal skin collected and skin punches fixed for
+histology and immunohistochemical (IHC) analyses. The rest of the skin tissue was snap
+frozen in liquid nitrogen for molecular studies.
+Page 3
+Tewari-Singh et al., 2010). Though some studies have examined the role of neutrophils in
+injury with SM (Ham et al., 2012; Levitt et al., 2003; Shakarjian et al., 2010; Vavra et al.,
+2004), little is known about the mechanism and role of neutrophil-derived MPO-mediated
+inflammation and injury in vesicant-exposed skin tissue. Accordingly, the current study was
+designed to evaluate the role of neutrophil derived MPO in NM-induced skin injury by
+utilizing C57BL/6J wild type and MPO knockout (B6.129X1-Mpotm1Lus/J) mice. Our
+results showed an attenuation of NM-induced skin injury biomarkers in MPO KO mice,
+indicating an important role of neutrophil-derived MPO in vesicant-induced skin injury and
+inflammation.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+2.3 Histopathological analysis
+Page 4
+2.4 TUNEL assay
+Skin tissues were fixed O/N in 10% (v/v) phosphate buffered formalin and dehydrated in
+ascending concentrations of ethanol, cleared with xylene and embedded in paraffin. 5μm
+thick skin sections were processed for H&E staining as reported earlier (Jain et al., 2011b;
+Tewari-Singh et al., 2009). H&E slides were microscopically evaluated for measurement of
+epidermal thickness, neutrophil infiltration, dermal injury and the incidences of
+microvesication as reported earlier (Jain et al., 2011b).
+Apoptotic cell death was detected using DeadEnd™ Colorimetric TUNEL assay according to
+the vendor’s protocol as detailed earlier (Jain et al., 2011b; Tewari-Singh et al., 2010). At
+the end of the assay, TUNEL positive cells (brown colored) were quantified in 15 randomly
+selected fields using 400 magnification. Apoptotic cell index (% apoptotic cell death) was
+calculated as the number of apoptotic cells × 100 divided by total number of cells.
+2.5 Immunohistochemical staining
+Phospho-H2A.X ser139 (a marker of DNA damage) was analyzed by IHC as described
+previously (Jain et al., 2011a). Briefly, paraffin embedded skin sections were deparaffinized,
+rehydrated and treated for antigen retrieval by heat treatment in sodium citrate buffer
+(pH-6). The endogenous peroxidase activity was blocked and sections were incubated with
+rabbit polyclonal phospho-H2A.X ser139 antibody (1:100) O/N in humidified chamber.
+After washing with PBS, sections were incubated with appropriate biotin conjugated
+secondary antibody and then with streptavidin-HRP conjugates. Following another wash
+step, sections were incubated with DAB (3,3-diaminobenzidine) for immunopositivity
+reaction and color development. Thereafter, slides were mounted for microscopic
+observation. After IHC staining, cells in the skin epidermis were counted in 15 randomly
+selected fields using 400 magnification and the percent of phospho-H2A.X ser139 positive
+cells were quantified according to the method described above. All the H&E and IHC
+stained slides were observed using a Zeiss Axioscope 2 microscope (Carl Zeiss, Inc.,
+Germany) and image analysis and representative pictures were taken by using Carl Zeiss
+Axiovision Rel 4.5 software.
+2.6 MPO activity assay
+MPO activity was measured in skin tissue samples through use of the Fluorescent
+Myeloperoxidase Detection Kit from Cell Technology as reported earlier (Tewari-Singh et
+al. 2009). In brief, approximately 100 mg tissue samples were homogenized in
+homogenization buffer (provided in kit) and isolated protein was measured by Lowry’s
+method (Bio-Rad DC protein assay kit, Bio-Rad Laboratories, Hercules, CA). A 50 μg of
+protein/tissue sample was used to determine MPO activity from three separate animals as
+described previously (Jain et al., 2011b). MPO activity was expressed as mU/μg of protein
+using MPO standard curve.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+2.7 Western Blot analysis
+Page 5
+2.8 Statistical analysis
+Statistically significant differences between groups was determined by one-way ANOVA
+using SigmaStat 3.5 software (Jandel scientific, San Rafael, CA) and the Tukey test for
+multiple comparisons, with p-value of < 0.05 considered as significant. Data is represented
+in ± SEM from three replicate animals.
+3. Results
+3.1 MPO deletion in mice attenuated NM-induced tissue MPO activity
+Our previous studies in mice have shown a profound increase in neutrophil infiltration and
+MPO activity in skin after dorsal exposure with CEES and NM at 12 h and 24 h time points
+(Inturi et al., 2013; Jain et al., 2011b; Tewari-Singh et al., 2009). To further investigate the
+role of the neutrophil-derived MPO enzyme in NM-induced skin injury, we employed a
+genetic approach using MPO KO mice where neutrophil infiltration and MPO activity were
+determined following NM exposure. H&E staining of the skin tissue sections from wild type
+and MPO KO mice 12 h and 24 h after NM exposure showed high neutrophil infiltration and
+dermal edema in NM-exposed wild type mice as compared with an untreated control (Fig.
+1A). However, the NM-induced increase in neutrophil infiltration or edema was not evident
+in MPO KO mice (Fig. 1C). To confirm the absence of MPO activity and the markedly
+diminished neutrophil infiltration in MPO KO mice, MPO activity was measured in wild
+type and MPO KO mice (Fig. 1B and D). In comparison with control wild type mice where
+MPO activity was 2.4 mU/μg protein, high MPO activity was observed after 12 h (16.3
+mU/μg protein) of NM exposure. This was maximal at 24 h (116.9 mU/μg protein) 
+post-exposure (Fig. 1B). Conversely, very low MPO activity was observed in MPO KO mice at
+12 h (2.14 mU/μg protein) and 24 h (1.40 mU/μg protein) post-NM exposure, which was
+comparable to MPO activity in control mice (1.48 mU/μg protein; Fig. 1D).
+3.2 MPO deletion in mice attenuated NM-induced skin bi-fold thickness and epidermal
+thickness increases
+Our previous studies have shown that CEES and NM caused an increase in skin bi-fold
+thickness and epidermal thickness in mice (Jain et al., 2011b; Tewari-Singh et al., 2013;
+Tewari-Singh et al., 2009). To examine whether similar effects were present in NM-treated
+COX-2, iNOS and MMP-9 were detected in frozen skin tissue samples by Western blotting.
+Approximately 100 mg of tissue was taken from the skin samples and homogenized in lysis
+buffer as published earlier (Jain et al., 2011a) and protein content was measured using
+Lowry’s method (Lowry et al., 1951). For western blotting, 50 μg of protein from three
+animals per group was subjected to SDS-PAGE and separated proteins were transferred onto
+nitrocellulose membrane by western blotting. After blocking, membranes were probed with
+primary antibodies against COX-2 (1:500), iNOS (1:500), and MMP-9 (1:500) for overnight
+at 4°C, followed by peroxidase-conjugated appropriate secondary antibodies for 1 h at room
+temperature. Protein bands were visualized by an enhanced chemiluminescence detection
+system (GE Healthcare Life Sciences, Pittsburgh, PA). In each case, protein loading was
+monitored by stripping and re-probing the blots with β-actin.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 6
+MPO KO mice, we first measured the skin bi-fold thickness at 12 h and 24 h post-exposure.
+In WT mice, NM caused a significant (p<0.05) increase in skin bi-fold thickness after 24 h
+(1.46 fold) in comparison with the untreated control. On the other hand, a significant
+increase in bi-fold thickness was not observed in MPO KO mice at 12 h (1.3 fold) or 24 h
+(1.04 fold) post-NM exposure in comparison with control (Fig. 2A). H&E stained tissue
+sections from both types of mice were next analyzed for epidermal thickness at 12 h and 24
+h after NM exposure. In wild type mice, NM caused a significant (P<0.05) 2.2-fold increase
+in epidermal thickness at 12 h following exposure (Fig. 2C). On the other hand, there was no
+significant effect of NM on epidermal thickness in MPO KO mice at 12 h or 24 h 
+post-exposure (Fig. 2E).
+3.3 MPO deletion in mice attenuated NM-induced microvesication
+Our previous studies have reported that CEES and NM cause microvesication in mice, and
+established this lesion as an important biomarker of vesicant skin injury (Jain et al., 2011b;
+Tewari-Singh et al., 2013; Tewari-Singh et al., 2009). Similar to our previous reports,
+microvesication (epidermal-dermal separation) was observed 12 h and 24 h post-NM
+exposure in WT mice. However, these events were reduced in MPO KO mice (Fig. 3A and
+C). The incidence of microvesication was quantified according to their size; small
+(<100μm2), medium (100-500 μm2) and large (>500 μm2) per skin section of mice. In WT
+mice, small NM-induced lesions of microvesication were 5.0 ± 0.70 at 12 h and 4.05 ± 0.65
+at 24 h post-exposure (Fig. 3B). NM-induced lesions of medium and large sized
+microvesicles gradually increased and were maximal at 24 h post-exposure (Fig. 3A and B)
+In MPO KO mice, lesser incidences of all sizes of microvesication lesions were observed in
+comparison with WT mice at both 12 h and 24 h post-NM exposure (Fig. 3 C and D).
+Maximal occurrence of small sized NM-induced lesions of microvesication in WT mice,
+were 2.5 ± 0.71 and 3.15 ± 0.70 at 12 h and 24 h post-exposure, respectively, in MPO KO
+mice (Fig. 3D).
+3.4 MPO deletion in mice attenuated NM-induced DNA damage and apoptotic cell death
+Phospho-H2A.X Ser139 is a marker of DNA damage (Rogakou et al., 1998), that is shown
+to increase following vesicant exposure indicating DNA damage (Inturi et al., 2011; Jain et
+al., 2011a; Joseph et al., 2011; Tewari-Singh et al., 2010). Previously, our studies have
+shown that CEES or NM exposure causes DNA damage leading to cell death of skin
+keratinocytes, and this could be a major contributor of skin injury (Inturi et al., 2013; Jain et
+al., 2011a; Pal et al., 2009; Tewari-Singh et al., 2010). Since MPO takes part in the
+production of free radicals which may cause DNA damage and apoptotic cell death, we
+examined the hypothesis that ablation of PMN and MPO activity would decrease the DNA
+damage and cell death following NM treatment. In WT mice, NM exposure resulted in a
+significant (p<0.05) increase in the number of phospho-H2A.X Ser139 positive cells (Fig.
+4A). After 12 h and 24 h of NM exposure in WT mice, 48.2 ± 3.5% and 47.6 ± 1.4% H2A.X
+Ser139 positive cells, respectively, were observed in NM-exposed mice compared with only
+20 ± 1.0% phospho-H2A.X Ser139 positive cells in control mice skin (Fig. 4B). In skin
+tissue from MPO KO mice, 33 ± 4.8% and 37 ± 1.3% phospho-H2A.X Ser139 positive cells
+were observed at 12 h and 24 h post-NM exposure compared with 18 ± 8.2% positive cells
+in control. However, this increase was not significant (Fig. 4C and D). Apoptotic cell death,
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 7
+which is one of the early responses in NM-induced skin injury, was analyzed by TUNEL
+staining. Quantification of data from TUNEL-stained skin sections from WT mice showed a
+significantly (P<0.05) increased percent of apoptotic cell death at 12 h (49 ± 2.5%) and 24 h
+(42 ± 0.68%) after NM exposure in comparison with the untreated control (26.%; Fig. 4E
+and F). However, in skin tissues from MPO KO mice, no significant increase in apoptotic
+cell death was observed at 12 h (19 ± 3.4%) and 24 h (25 ± 2.2%) after NM exposure, again
+when compared with control (16 ± 6.8%; Fig. 4G and H).
+3.5 MPO deletion in mice attenuated NM-induced COX-2, iNOS and MMP-9 levels
+It has been previously reported that COX-2 and iNOS play important roles in SM and 
+SM-analog induced skin injury and inflammation (Jain et al., 2011a; Pal et al., 2009). Therefore,
+levels of COX-2 and iNOS were quantitated by western blotting following NM exposure.
+These blots clearly showed an NM-induced increase in expression of COX-2 at 12 h (18.3
+fold) and 24 h (15.9 fold) post-exposure; this increase was completely attenuated in MPO
+KO mice (Fig. 5A). Similarly, NM exposure also caused an increase in iNOS levels at 12 h
+(5.3 fold) and 24 h (7.3 fold) post-NM exposure, when compared to control skin tissue in
+WT mice (Fig. 5 A). In MPO KO mice, NM-exposure failed to increase the quantity of
+iNOS at 12 h post-exposure. However, at 24 h post-exposure NM induced an increase in
+iNOS in the MPO KO mice albeit less than that observed in WT mice (Fig. 5A).
+As described above, NM exposure caused an increased number of microvesication lesions in
+WT mice when compared to MPO KO mice. MMP-9 levels are reported to increase after
+vesicant exposure and this plays a role in microvesication because it can degrade the
+components of extracellular matrix and basement membrane allowing epidermal dermal
+separation (Jain et al., 2011a; Pal et al., 2009; Shakarjian et al., 2010). To elucidate the role
+of the MPO enzyme in microvesication, MMP-9 expression was measured at 12 h and 24 h
+following NM exposure in both WT and MPO KO mice (Fig. 5B). NM exposure caused an
+increase in MMP-9 levels at 12 h (26 fold) and 24 h (10.2 fold) post-exposure in WT mice.
+However, in MPO KO mice, NM exposure induced only a slight increase in MMP-9 levels
+at both 12 h (3.3 fold) and 24 h (4.4 fold) post-exposure (Fig. 5 B).
+4. Discussion
+Although substantial research efforts have focused on understanding the mechanisms of skin
+injuries from SM exposure, process causing cutaneous lesions via acute inflammatory
+response after SM exposure is poorly understood. Earlier studies have shown that PMNs,
+mainly neutrophils, accumulate at the site of injury after SM exposure (Joseph et al., 2011;
+Shakarjian et al., 2010; Vavra et al., 2004). Similarly, our studies following exposure to SM
+analogs CEES and NM have also shown infiltration of inflammatory cells including
+neutrophils with greatly elevated MPO activity in mouse skin (Inturi et al., 2011; Jain et al.,
+2011a; Jain et al., 2011b; Pal et al., 2009; Tewari-Singh et al., 2009). Vesicant-induced
+neutrophil infiltration elicits MPO enzyme secretion which could enhance oxidative stress
+and inflammation in skin, and this plays an important role in resulting skin injuries.
+Therefore, in the present study we investigated the role of neutrophil derived MPO enzyme
+in the inflammation-related mechanism of NM-induced skin injuries. Our results from this
+study using MPO KO mice demonstrate for the first time that MPO plays an important role
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 8
+in NM-induced skin injury by attenuating DNA damage, cell death, vesication and
+inflammation.
+Due to limited access to SM, we used NM in this study because both SM and NM are
+vesicating and powerful alkylating and vesicating agents that show toxic effects following
+cutaneous exposure (Smith et al., 1998; Tewari-Singh et al., 2013; Wormser et al., 2002).
+We employed established NM-induced endpoints from our previous studies (Inturi et al.,
+2013 and unpublished data) in this study in C57BL/6J mice, since MPO KO mice were
+produced on a C57BL/6 background.
+Both SM- and NM-induced skin injuries occur mainly due to their alkylating properties and
+direct DNA damage (Inturi et al., 2011; Kehe and Szinicz, 2005; Walker, 1971). However,
+generation of reactive oxygen/nitrogen species (ROS or RNS) after SM and NM exposure
+also have been shown to cause DNA damage leading to injuries (Kehe et al., 2009; Laskin et
+al., 2010; Naghii, 2002; Shakarjian et al., 2010). These injuries occur largely due to the
+sensitivity of the basal epidermal keratinocytes to SM where DNA damage is a major
+element (Dacre and Goldman, 1996; Graham et al., 2005; Kehe and Szinicz, 2005;
+Papirmeister et al., 1985). The Inflammatory response is considered to play a vital role in
+SM-induced pathology; neutrophil infiltration is a major early event in the inflammatory
+response (Lindsay and Rice, 1996; Millard et al., 1997). The neutrophil infiltration could
+contribute to oxidative stress and DNA damage, and could cause secondary injuries and
+inflammation. This may be attributed to the secretion of MPO by azurophilic granules of
+activated neutrophils at the site of inflammation which oxidizes Cl− to hypoclorus acid
+(HOCl), a reactive oxidant, and causes indirect DNA damage (El Kebir et al., 2008; Loria et
+al., 2008; Miyamoto et al., 2006; Mutze et al., 2003). In the present study therefore, the role
+of MPO in these important events leading to NM-induced skin pathology was analyzed
+using MPO KO mice. Similar to earlier reports with SM and to our previous studies with
+CEES and NM, NM exposure in WT mice caused a robust NM-induced increase in
+neutrophil infiltration and MPO activity (Blank et al., 2000; Inturi et al., 2013; Jain et al.,
+2011b; Millard et al., 1997; Tewari-Singh et al., 2009; Vavra et al., 2004). However, this
+NM-induced increase in MPO activity was not observed in MPO KO mice confirming these
+mice were suitable for this study. Skin edema and hyperproliferation are important events of
+vesicant exposure that are referred to as injury and healing markers, respectively, as reported
+in our earlier studies (Jain et al., 2011b; Tewari-Singh et al., 2009). NM caused an increase
+in skin bi-fold and epidermal thickness of WT mice. However, no significant NM-induced
+increment in either of these markers was observed in MPO KO mice, indicating less injury
+and proliferation of cells to compensate for the cell death of effected epidermal
+keratinocytes. Our data also showed much lower NM-induced DNA damage (Phospho-
+H2A.X Ser139 IHC staining) and apoptotic cell death (TUNEL staining) in epidermal
+keratinocytes of MPO KO mice compared to WT mice. Since, DNA damage and apoptotic
+cell death are main consequences of SM exposure leading to skin injuries (Kehe and Szinicz,
+2005; Mellor et al., 1991; Papirmeister et al., 1985; Paromov et al., 2007), a decrease in
+these effects evidenced in MPO KO mice suggests a vital role of MPO in NM-induced DNA
+damage and cell death. These are probably due to MPO’s ability to induce oxidative stress.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 9
+SM exposure causes blister formation (vesication) in human skin and microvesication in
+animals’ skin (Cowan et al., 2003; Ghabili et al., 2010; Shakarjian et al., 2010; Smith et al.,
+1995). Vesication occurs due to apoptosis in basal keratinocytes and degradation of the
+anchoring filaments. laminin-5, collagen and other extracellular matrix proteins (ECM) after
+SM exposure (Hess and FitzGerald, 2007). These proteases are either secreted by
+neutrophils or are directly activated by SM at the time of injury, leading to blister formation
+(Chang et al., 2009; Mol et al., 2009; Ray et al., 2002; Sabourin et al., 2002). Similar to the
+microvesication observed following SM exposure as well as our previous studies with CEES
+and NM, in this study NM induced microvesication in WT mice in this study. However this
+lesion was attenuated in the NM treated MPO KO mice. Since, vesication is associated with
+apoptotic cell death, decreased NM-induced apoptotic cell death in keratinocytes of MPO
+KO mice in comparison with WT mice observed here could contribute to decreased
+microvesication in MPO KO mice. It has been reported that proteases such as MMP-9,
+which degrade collagen and other ECM proteins are important mediators in 
+vesicant-induced blister formation (Jain et al., 2011a; Pal et al., 2009; Ries et al., 2009; Shakarjian et
+al., 2006). Attenuation of the NM-induced MMP-9 expression in MPO KO mice here further
+suggests a role for MPO in vesicating effects of NM. Our findings support previous studies
+which show that MPO-derived HOCl modulated the activity of MMPs (Lau et al., 2005).
+Many studies have reported an increased expression and importance of inflammatory
+mediators like COX-2 (the rate limiting enzyme in prostaglandin biosynthesis) in the skin
+after exposure to SM or its analog CEES (Black et al., 2010; Jain et al., 2011a; Joseph et al.,
+2011; Pal et al., 2009; Shakarjian et al., 2010). This increase in COX-2 expression could
+enhance vascular permeability and the further influx of inflammatory cells (Jain et al.,
+2011a). Our earlier studies also documented that CEES induced an increase in the
+expression of iNOS, an inducible form of the rate limiting enzyme that makes nitric oxide
+(NO) in mouse skin. This could be due to neutrophil and macrophage infiltration in the skin
+(Jain et al., 2011a; Pal et al., 2009). In our study, the observed decrease in NM-induced
+expression of both COX-2 and iNOS in MPO KO mice compared to WT mice could have
+further caused decreased inflammatory response in KO mice. Nitric oxide (NO) synthesized
+by iNOS also plays a potential role in wound healing depending on the production of
+peroxynitrite (ONOO−), which can lead to oxidation of cellular molecules, targets (Korkmaz
+et al., 2006). MPO-derived secondary oxidants play a role in modulating signaling pathways
+by oxidizing endothelial-derived NO (Lau et al., 2005). Results here also suggest that MPO
+deficiency caused a reduction in NM-induced induction of iNOS expression in MPO KO
+mice as compared to control mice at corresponding time points. This could decrease
+ONOO− by modulating NO-related pathways and subsequent DNA damage as well as cell
+death.
+Earlier reports have shown the involvement of oxidative stress in vesicant-induced
+activation of DNA damage and MAPK/Akt-NF-kB/AP-1 signaling pathways, and induction
+of inflammatory mediators in resulting skin injuries (Black et al., 2010; Jain et al., 2011a;
+Laskin et al., 2010; Pal et al., 2009). The NM-induced WT skin injury could, in part, be due
+to oxidative stress caused by numerous reactive oxidants from HOCl production or
+enhanced iNOS expression following the release of MPO from neutrophils. In addition,
+HOCl generation from MPO can also activate regulatory molecules like p53 and members of
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 10
+the MAPK pathway (Mutze et al., 2003). Therefore, deletion of MPO in MPO KO mice
+might be affecting various signaling pathways and oxidative stress, and the injury effects
+related to DNA damage, cell death and inflammation in these mice. However, these same
+pro-inflammatory properties of MPO make it a major player in the innate response to
+foreign invasion and contribute to the microbicidal activity of neutrophils, an important
+aspect of host defense (Malle et al., 2007). This positive aspect of MPO is important to
+consider during the development of mechanism-based MPO inhibitors for treatment of
+injuries. This study also forms the basis of further critical investigation of mechanisms
+involved in MPO-derived oxidant-induced tissue damage and initiation as well as
+progression of the SM- and NM-related inflammatory response.
+Acknowledgments
+This work was supported by the Countermeasures Against Chemical Threats (CounterACT) Program, National
+Institutes of Health Office of the Director, and the National Institute of Environmental Health Sciences [Grant
+U54ES-015678]. The study sponsors have no involvement in the study design; collection, analysis and
+interpretation of data; the writing of the manuscript; and the decision to submit the manuscript for publication.
+References
+Black AT, Joseph LB, Casillas RP, Heck DE, Gerecke DR, Sinko PJ, Laskin DL, Laskin JD. Role of
+MAP kinases in regulating expression of antioxidants and inflammatory mediators in mouse
+keratinocytes following exposure to the half mustard, 2-chloroethyl ethyl sulfide. Toxicol Appl
+Pharmacol. 2010; 245:352-360. [PubMed: 20382172]
+Blank JA, Lane LA, Menton RG, Casillas RP. Procedure for assessing myeloperoxidase and
+inflammatory mediator responses in hairless mouse skin. J Appl Toxicol. 2000; 20(Suppl 1):S137-
+139. [PubMed: 11428626]
+Brennan ML, Anderson MM, Shih DM, Qu XD, Wang X, Mehta AC, Lim LL, Shi W, Hazen SL,
+Jacob JS, Crowley JR, Heinecke JW, Lusis AJ. Increased atherosclerosis in 
+myeloperoxidase-deficient mice. J Clin Invest. 2001; 107:419-430. [PubMed: 11181641]
+Casillas RP, Kiser RC, Truxall JA, Singer AW, Shumaker SM, Niemuth NA, Ricketts KM,
+Mitcheltree LW, Castrejon LR, Blank JA. Therapeutic approaches to dermatotoxicity by sulfur
+mustard. I Modulaton of sulfur mustard-induced cutaneous injury in the mouse ear vesicant model. J
+Appl Toxicol. 2000; 20(Suppl 1):S145-151. [PubMed: 11428628]
+Chang YC, Sabourin CL, Lu SE, Sasaki T, Svoboda KK, Gordon MK, Riley DJ, Casillas RP, Gerecke
+DR. Upregulation of gamma-2 laminin-332 in the mouse ear vesicant wound model. J Biochem Mol
+Toxicol. 2009; 23:172-184. [PubMed: 19526566]
+Cowan FM, Broomfield CA, Lenz DE, Smith WJ. Putative role of proteolysis and inflammatory
+response in the toxicity of nerve and blister chemical warfare agents: implications for multi-threat
+medical countermeasures. J Appl Toxicol. 2003; 23:177-186. [PubMed: 12794939]
+Dacre JC, Goldman M. Toxicology and pharmacology of the chemical warfare agent sulfur mustard.
+Pharmacol Rev. 1996; 48:289-326. [PubMed: 8804107]
+El Kebir D, Jozsef L, Pan W, Filep JG. Myeloperoxidase delays neutrophil apoptosis through CD11b/
+CD18 integrins and prolongs inflammation. Circ Res. 2008; 103:352-359. [PubMed: 18617697]
+Ghabili K, Agutter PS, Ghanei M, Ansarin K, Shoja MM. Mustard gas toxicity: the acute and chronic
+pathological effects. J Appl Toxicol. 2010; 30:627-643. [PubMed: 20836142]
+Glinski W, Jarzabek-Chorzelska M, Kuligowski M, Pierozynska-Dubowska M, Glinska-Ferenz M,
+Jablonska S. Basement membrane zone as a target for human neutrophil elastase in psoriasis. Arch
+Dermatol Res. 1990; 282:506-511. [PubMed: 1707254]
+Graham JS, Chilcott RP, Rice P, Milner SM, Hurst CG, Maliner BI. Wound healing of cutaneous
+sulfur mustard injuries: strategies for the development of improved therapies. J Burns Wounds.
+2005; 4:e1. [PubMed: 16921406]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 11
+Ham HY, Hong CW, Lee SN, Kwon MS, Kim YJ, Song DK. Sulfur mustard primes human
+neutrophils for increased degranulation and stimulates cytokine release via TRPM2/p38 MAPK
+signaling. Toxicol Appl Pharmacol. 2012; 258:82-88. [PubMed: 22036725]
+Hayden PJ, Petrali JP, Stolper G, Hamilton TA, Jackson GR Jr, Wertz PW, Ito S, Smith WJ, Klausner
+M. Microvesicating effects of sulfur mustard on an in vitro human skin model. Toxicol In Vitro.
+2009; 23:1396-1405. [PubMed: 19619636]
+Hess JF, FitzGerald PG. Treatment of keratin intermediate filaments with sulfur mustard analogs.
+Biochem Biophys Res Commun. 2007; 359:616-621. [PubMed: 17548056]
+Inturi S, Tewari-Singh N, Gu M, Shrotriya S, Gomez J, Agarwal C, White CW, Agarwal R.
+Mechanisms of sulfur mustard analog 2-chloroethyl ethyl sulfide-induced DNA damage in skin
+epidermal cells and fibroblasts. Free Radic Biol Med. 2011; 51:2272-2280. [PubMed: 21920433]
+Inturi S, Tewari-Singh N, Jain AK, Roy S, White CW, Agarwal R. Absence of a p53 allele delays
+nitrogen mustard-induced early apoptosis and inflammation of murine skin. Toxicology. 2013;
+311:184-190. [PubMed: 23845566]
+Jain AK, Tewari-Singh N, Gu M, Inturi S, White CW, Agarwal R. Sulfur mustard analog, 
+2-chloroethyl ethyl sulfide-induced skin injury involves DNA damage and induction of
+inflammatory mediators, in part via oxidative stress, in SKH-1 hairless mouse skin. Toxicol Lett.
+2011a; 205:293-301. [PubMed: 21722719]
+Jain AK, Tewari-Singh N, Orlicky DJ, White CW, Agarwal R. 2-Chloroethyl ethyl sulfide causes
+microvesication and inflammation-related histopathological changes in male hairless mouse skin.
+Toxicology. 2011b; 282:129-138. [PubMed: 21295104]
+Joseph LB, Gerecke DR, Heck DE, Black AT, Sinko PJ, Cervelli JA, Casillas RP, Babin MC, Laskin
+DL, Laskin JD. Structural changes in the skin of hairless mice following exposure to sulfur
+mustard correlate with inflammation and DNA damage. Exp Mol Pathol. 2011; 91:515-527.
+[PubMed: 21672537]
+Kehe K, Balszuweit F, Steinritz D, Thiermann H. Molecular toxicology of sulfur mustard-induced
+cutaneous inflammation and blistering. Toxicology. 2009; 263:12-19. [PubMed: 19651324]
+Kehe K, Szinicz L. Medical aspects of sulphur mustard poisoning. Toxicology. 2005; 214:198-209.
+[PubMed: 16084004]
+Klebanoff SJ. Myeloperoxidase: friend and foe. J Leukoc Biol. 2005; 77:598-625. [PubMed:
+15689384]
+Korkmaz A, Yaren H, Topal T, Oter S. Molecular targets against mustard toxicity: implication of cell
+surface receptors, peroxynitrite production, and PARP activation. Arch Toxicol. 2006; 80:662-
+670. [PubMed: 16552503]
+Laskin JD, Black AT, Jan YH, Sinko PJ, Heindel ND, Sunil V, Heck DE, Laskin DL. Oxidants and
+antioxidants in sulfur mustard-induced injury. Ann N Y Acad Sci. 2010; 1203:92-100. [PubMed:
+20716289]
+Lau D, Mollnau H, Eiserich JP, Freeman BA, Daiber A, Gehling UM, Brummer J, Rudolph V, Munzel
+T, Heitzer T, Meinertz T, Baldus S. Myeloperoxidase mediates neutrophil activation by
+association with CD11b/CD18 integrins. Proc Natl Acad Sci U S A. 2005; 102:431-436.
+[PubMed: 15625114]
+Levitt JM, Lodhi IJ, Nguyen PK, Ngo V, Clift R, Hinshaw DB, Sweeney JF. Low-dose sulfur mustard
+primes oxidative function and induces apoptosis in human polymorphonuclear leukocytes. Int
+Immunopharmacol. 2003; 3:747-756. [PubMed: 12757743]
+Lindsay CD, Rice P. Assessment of the biochemical effects of percutaneous exposure of sulphur
+mustard in an in vitro human skin system. Hum Exp Toxicol. 1996; 15:237-244. [PubMed:
+8839212]
+Liu Z, Giudice GJ, Zhou X, Swartz SJ, Troy JL, Fairley JA, Till GO, Diaz LA. A major role for
+neutrophils in experimental bullous pemphigoid. J Clin Invest. 1997; 100:1256-1263. [PubMed:
+9276744]
+Liu Z, Shapiro SD, Zhou X, Twining SS, Senior RM, Giudice GJ, Fairley JA, Diaz LA. A critical role
+for neutrophil elastase in experimental bullous pemphigoid. J Clin Invest. 2000; 105:113-123.
+[PubMed: 10619867]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 12
+Loria V, Dato I, Graziani F, Biasucci LM. Myeloperoxidase: a new biomarker of inflammation in
+ischemic heart disease and acute coronary syndromes. Mediators Inflamm. 2008:135625.
+[PubMed: 18382609]
+Lowry OH, Rosebrough NJ, Farr AL, Randall RJ. Protein measurement with the Folin phenol reagent.
+J Biol Chem. 1951; 193:265-275. [PubMed: 14907713]
+Malle E, Furtmuller PG, Sattler W, Obinger C. Myeloperoxidase: a target for new drug development?
+Br J Pharmacol. 2007; 152:838-854. [PubMed: 17592500]
+McManus J, Huebner K. Vesicants. Crit Care Clin. 2005; 21:707-718. vi. [PubMed: 16168310]
+Mellor SG, Rice P, Cooper GJ. Vesicant burns. Br J Plast Surg. 1991; 44:434-437. [PubMed:
+1933115]
+Millard CB, Bongiovanni R, Broomfield CA. Cutaneous exposure to bis-(2-chloroethyl)sulfide results
+in neutrophil infiltration and increased solubility of 180,000 Mr subepidermal collagens. Biochem
+Pharmacol. 1997; 53:1405-1412. [PubMed: 9260866]
+Miyamoto S, Martinez GR, Rettori D, Augusto O, Medeiros MH, Di Mascio P. Linoleic acid
+hydroperoxide reacts with hypochlorous acid, generating peroxyl radical intermediates and singlet
+molecular oxygen. Proc Natl Acad Sci U S A. 2006; 103:293-298. [PubMed: 16387855]
+Mol MA, van den Berg RM, Benschop HP. Involvement of caspases and transmembrane
+metalloproteases in sulphur mustard-induced microvesication in adult human skin in organ culture:
+directions for therapy. Toxicology. 2009; 258:39-46. [PubMed: 19167455]
+Mutze S, Hebling U, Stremmel W, Wang J, Arnhold J, Pantopoulos K, Mueller S. 
+Myeloperoxidase-derived hypochlorous acid antagonizes the oxidative stress-mediated activation of iron regulatory
+protein 1. J Biol Chem. 2003; 278:40542-40549. [PubMed: 12888561]
+Naghii MR. Sulfur mustard intoxication, oxidative stress, and antioxidants. Mil Med. 2002; 167:573-
+575. [PubMed: 12125850]
+Pal A, Tewari-Singh N, Gu M, Agarwal C, Huang J, Day BJ, White CW, Agarwal R. Sulfur mustard
+analog induces oxidative stress and activates signaling cascades in the skin of SKH-1 hairless
+mice. Free Radic Biol Med. 2009; 47:1640-1651. [PubMed: 19761830]
+Papirmeister B, Gross CL, Meier HL, Petrali JP, Johnson JB. Molecular basis for mustard-induced
+vesication. Fundam Appl Toxicol. 1985; 5:S134-149. [PubMed: 2419197]
+Paromov V, Suntres Z, Smith M, Stone WL. Sulfur mustard toxicity following dermal exposure: role
+of oxidative stress, and antioxidant therapy. J Burns Wounds. 2007; 7:e7. [PubMed: 18091984]
+Ray P, Chakrabarti AK, Broomfield CA, Ray R. Sulfur mustard-stimulated protease: a target for
+antivesicant drugs. J Appl Toxicol. 2002; 22:139-140. [PubMed: 11920939]
+Rice P. Sulphur mustard injuries of the skin. Pathophysiology and management. Toxicol Rev. 2003;
+22:111-118. [PubMed: 15071821]
+Ries C, Popp T, Egea V, Kehe K, Jochum M. Matrix metalloproteinase-9 expression and release from
+skin fibroblasts interacting with keratinocytes: Upregulation in response to sulphur mustard.
+Toxicology. 2009; 263:26-31. [PubMed: 18809459]
+Rogakou EP, Pilch DR, Orr AH, Ivanova VS, Bonner WM. DNA double-stranded breaks induce
+histone H2AX phosphorylation on serine 139. J Biol Chem. 1998; 273:5858-5868. [PubMed:
+9488723]
+Sabourin CL, Danne MM, Buxton KL, Casillas RP, Schlager JJ. Cytokine, chemokine, and matrix
+metalloproteinase response after sulfur mustard injury to weanling pig skin. J Biochem Mol
+Toxicol. 2002; 16:263-272. [PubMed: 12481301]
+Saladi RN, Smith E, Persaud AN. Mustard: a potential agent of chemical warfare and terrorism. Clin
+Exp Dermatol. 2006; 31:1-5. [PubMed: 16309468]
+Segal AW. How neutrophils kill microbes. Annu Rev Immunol. 2005; 23:197-223. [PubMed:
+15771570]
+Shakarjian MP, Bhatt P, Gordon MK, Chang YC, Casbohm SL, Rudge TL, Kiser RC, Sabourin CL,
+Casillas RP, Ohman-Strickland P, Riley DJ, Gerecke DR. Preferential expression of matrix
+metalloproteinase-9 in mouse skin after sulfur mustard exposure. J Appl Toxicol. 2006; 26:239-
+246. [PubMed: 16489579]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 13
+Shakarjian MP, Heck DE, Gray JP, Sinko PJ, Gordon MK, Casillas RP, Heindel ND, Gerecke DR,
+Laskin DL, Laskin JD. Mechanisms mediating the vesicant actions of sulfur mustard after
+cutaneous exposure. Toxicol Sci. 2010; 114:5-19. [PubMed: 19833738]
+Sharma M, Vijayaraghavan R, Agrawal OP. Comparative toxic effect of nitrogen mustards (HN-1,
+HN-2, and HN-3) and sulfur mustard on hematological and biochemical variables and their
+protection by DRDE-07 and its analogues. Int J Toxicol. 2010; 29:391-401. [PubMed: 20466873]
+Shiba Y, Kinoshita T, Chuman H, Taketani Y, Takeda E, Kato Y, Naito M, Kawabata K, Ishisaka A,
+Terao J, Kawai Y. Flavonoids as substrates and inhibitors of myeloperoxidase: molecular actions
+of aglycone and metabolites. Chem Res Toxicol. 2008; 21:1600-1609. [PubMed: 18620432]
+Smith KJ, Graham JS, Moeller RB, Okerberg CV, Skelton H, Hurst CG. Histopathologic features seen
+in sulfur mustard induced cutaneous lesions in hairless guinea pigs. J Cutan Pathol. 1995; 22:260-
+268. [PubMed: 7593821]
+Smith KJ, Smith WJ, Hamilton T, Skelton HG, Graham JS, Okerberg C, Moeller R, Hackley BE Jr.
+Histopathologic and immunohistochemical features in human skin after exposure to nitrogen and
+sulfur mustard. Am J Dermatopathol. 1998; 20:22-28. [PubMed: 9504665]
+Tewari-Singh N, Gu M, Agarwal C, White CW, Agarwal R. Biological and molecular mechanisms of
+sulfur mustard analogue-induced toxicity in JB6 and HaCaT cells: possible role of ataxia
+telangiectasia-mutated/ataxia telangiectasia-Rad3-related cell cycle checkpoint pathway. Chem
+Res Toxicol. 2010; 23:1034-1044. [PubMed: 20469912]
+Tewari-Singh N, Jain AK, Inturi S, White CW, Agarwal R. Clinically-Relevant Cutaneous Lesions by
+Nitrogen Mustard: Useful Biomarkers of Vesicants Skin Injury in SKH-1 Hairless and C57BL/6
+Mice. PLoS One. 2013; 8:e67557. [PubMed: 23826320]
+Tewari-Singh N, Rana S, Gu M, Pal A, Orlicky DJ, White CW, Agarwal R. Inflammatory biomarkers
+of sulfur mustard analog 2-chloroethyl ethyl sulfide-induced skin injury in SKH-1 hairless mice.
+Toxicol Sci. 2009; 108:194-206. [PubMed: 19075041]
+Vavra AK, Laurent CJ, Ngo V, Sweeney JF, Levitt JM. Sulfur mustard primes phagocytosis and
+degranulation in human polymorphonuclear leukocytes. Int Immunopharmacol. 2004; 4:437-445.
+[PubMed: 15037221]
+Walker IG. Intrastrand bifunctional alkylation of DNA in mammalian cells treated with mustard gas.
+Can J Biochem. 1971; 49:332-336. [PubMed: 5549736]
+Weiss SJ. Tissue destruction by neutrophils. N Engl J Med. 1989; 320:365-376. [PubMed: 2536474]
+Wormser U. Toxicology of mustard gas. Trends Pharmacol Sci. 1991; 12:164-167. [PubMed:
+2063482]
+Wormser U, Brodsky B, Proscura E, Foley JF, Jones T, Nyska A. Involvement of tumor necrosis
+factor-alpha in sulfur mustard-induced skin lesion; effect of topical iodine. Arch Toxicol. 2005;
+79:660-670. [PubMed: 16001271]
+Wormser U, Brodsky B, Reich R. Topical treatment with povidone iodine reduces nitrogen 
+mustard-induced skin collagenolytic activity. Arch Toxicol. 2002; 76:119-121. [PubMed: 11914782]
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+•
+Myeloperoxidase (MPO) plays an important role in nitrogen mustard (NM)-
+induced skin injuries.
+Highlights
+•
+Study was carried out in C57BL/6J wild type (WT) and B6.129X1-
+MPOtm1Lus/J (MPO KO) mice.
+•
+MPO deletion attenuated inflammatory response and microvesication,
+•
+MPO deletion attenuated DNA damage and cell death.
+•
+Deletion of MPO might be affecting various signaling pathways and oxidative
+stress.
+Page 14
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Page 19
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+NIH-PAAuthorManuscript
+
+>>>section: acknowledgements
+Acknowledgments
+This work was supported by the Countermeasures Against Chemical Threats (CounterACT) Program, National
+Institutes of Health Office of the Director, and the National Institute of Environmental Health Sciences [Grant
+U54ES-015678]. The study sponsors have no involvement in the study design; collection, analysis and
+interpretation of data; the writing of the manuscript; and the decision to submit the manuscript for publication.
+
+>>>section: abstract
+Abstract
+The pathologic mechanisms of skin injuries, following the acute inflammatory response induced
+by vesicating agents sulfur mustard (SM) and nitrogen mustard (NM) exposure, are poorly
+understood. Neutrophils which accumulate at the site of injury, abundantly express
+myeloperoxidase (MPO), a heme protein that is implicated in oxidant-related antimicrobial and
+cytotoxic responses. Our previous studies have shown that exposure to SM analog 2-chloroethyl
+ethyl sulfide (CEES) or NM results in an inflammatory response including increased neutrophilic
+infiltration and MPO activity. To further define the role of neutrophil-derived MPO in 
+NM-induced skin injury, here we used a genetic approach and examined the effect of NM exposure (12
+h and 24 h) on previously established injury endpoints in C57BL/6J wild type (WT) and
+B6.129X1-MPOtm1Lus/J mice (MPO KO), homozygous null for MPO gene. NM exposure
+caused a significant increase in skin bi-fold thickness, epidermal thickness, microvesication, DNA
+damage and apoptosis in WT mice compared to MPO KO mice. MPO KO mice showed relatively
+insignificant effect. Similarly, NM-induced increases in the expression of inflammatory and
+proteolytic mediators, including COX-2, iNOS and MMP-9 in WT mice, while having a
+significantly lower effect in MPO KO mice. Collectively, these results show that MPO, which
+generates microbicidal oxidants, plays an important role in NM-induced skin injuries. This
+suggests the development of mechanism-based treatments against NM- and SM-induced skin
+injuries that inhibit MPO activity and attenuate MPO-derived oxidants.
+© 2014 Elsevier Ireland Ltd. All rights reserved.
+*Corresponding  author:  Rajesh  Agarwal,  Department  of  Pharmaceutical  Sciences,  University  of  Colorado  Denver  School  of  Pharmacy
+12850 E. Montview Blvd, Room V20- 2118, Mail Box C238, Aurora, CO 80045, USA, Phone: 303-724-4055, Fax: 303-724-7266.
+Rajesh.Agarwal@ucdenver.edu.
+Publisher's  Disclaimer:  This  is  a  PDF  file  of  an  unedited  manuscript  that  has  been  accepted  for  publication.  As  a  service  to  our
+customers  we  are  providing  this  early  version  of  the  manuscript.  The  manuscript  will  undergo  copyediting,  typesetting,  and  review  of
+the  resulting  proof  before  it  is  published  in  its  final  citable  form.  Please  note  that  during  the  production  process  errors  may  be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Jain et al.
+Keywords
+
+>>>section: discussion
+4. Discussion
+Although substantial research efforts have focused on understanding the mechanisms of skin
+injuries from SM exposure, process causing cutaneous lesions via acute inflammatory
+response after SM exposure is poorly understood. Earlier studies have shown that PMNs,
+mainly neutrophils, accumulate at the site of injury after SM exposure (Joseph et al., 2011;
+Shakarjian et al., 2010; Vavra et al., 2004). Similarly, our studies following exposure to SM
+analogs CEES and NM have also shown infiltration of inflammatory cells including
+neutrophils with greatly elevated MPO activity in mouse skin (Inturi et al., 2011; Jain et al.,
+2011a; Jain et al., 2011b; Pal et al., 2009; Tewari-Singh et al., 2009). Vesicant-induced
+neutrophil infiltration elicits MPO enzyme secretion which could enhance oxidative stress
+and inflammation in skin, and this plays an important role in resulting skin injuries.
+Therefore, in the present study we investigated the role of neutrophil derived MPO enzyme
+in the inflammation-related mechanism of NM-induced skin injuries. Our results from this
+study using MPO KO mice demonstrate for the first time that MPO plays an important role
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 8
+in NM-induced skin injury by attenuating DNA damage, cell death, vesication and
+inflammation.
+Due to limited access to SM, we used NM in this study because both SM and NM are
+vesicating and powerful alkylating and vesicating agents that show toxic effects following
+cutaneous exposure (Smith et al., 1998; Tewari-Singh et al., 2013; Wormser et al., 2002).
+We employed established NM-induced endpoints from our previous studies (Inturi et al.,
+2013 and unpublished data) in this study in C57BL/6J mice, since MPO KO mice were
+produced on a C57BL/6 background.
+Both SM- and NM-induced skin injuries occur mainly due to their alkylating properties and
+direct DNA damage (Inturi et al., 2011; Kehe and Szinicz, 2005; Walker, 1971). However,
+generation of reactive oxygen/nitrogen species (ROS or RNS) after SM and NM exposure
+also have been shown to cause DNA damage leading to injuries (Kehe et al., 2009; Laskin et
+al., 2010; Naghii, 2002; Shakarjian et al., 2010). These injuries occur largely due to the
+sensitivity of the basal epidermal keratinocytes to SM where DNA damage is a major
+element (Dacre and Goldman, 1996; Graham et al., 2005; Kehe and Szinicz, 2005;
+Papirmeister et al., 1985). The Inflammatory response is considered to play a vital role in
+SM-induced pathology; neutrophil infiltration is a major early event in the inflammatory
+response (Lindsay and Rice, 1996; Millard et al., 1997). The neutrophil infiltration could
+contribute to oxidative stress and DNA damage, and could cause secondary injuries and
+inflammation. This may be attributed to the secretion of MPO by azurophilic granules of
+activated neutrophils at the site of inflammation which oxidizes Cl− to hypoclorus acid
+(HOCl), a reactive oxidant, and causes indirect DNA damage (El Kebir et al., 2008; Loria et
+al., 2008; Miyamoto et al., 2006; Mutze et al., 2003). In the present study therefore, the role
+of MPO in these important events leading to NM-induced skin pathology was analyzed
+using MPO KO mice. Similar to earlier reports with SM and to our previous studies with
+CEES and NM, NM exposure in WT mice caused a robust NM-induced increase in
+neutrophil infiltration and MPO activity (Blank et al., 2000; Inturi et al., 2013; Jain et al.,
+2011b; Millard et al., 1997; Tewari-Singh et al., 2009; Vavra et al., 2004). However, this
+NM-induced increase in MPO activity was not observed in MPO KO mice confirming these
+mice were suitable for this study. Skin edema and hyperproliferation are important events of
+vesicant exposure that are referred to as injury and healing markers, respectively, as reported
+in our earlier studies (Jain et al., 2011b; Tewari-Singh et al., 2009). NM caused an increase
+in skin bi-fold and epidermal thickness of WT mice. However, no significant NM-induced
+increment in either of these markers was observed in MPO KO mice, indicating less injury
+and proliferation of cells to compensate for the cell death of effected epidermal
+keratinocytes. Our data also showed much lower NM-induced DNA damage (Phospho-
+H2A.X Ser139 IHC staining) and apoptotic cell death (TUNEL staining) in epidermal
+keratinocytes of MPO KO mice compared to WT mice. Since, DNA damage and apoptotic
+cell death are main consequences of SM exposure leading to skin injuries (Kehe and Szinicz,
+2005; Mellor et al., 1991; Papirmeister et al., 1985; Paromov et al., 2007), a decrease in
+these effects evidenced in MPO KO mice suggests a vital role of MPO in NM-induced DNA
+damage and cell death. These are probably due to MPO’s ability to induce oxidative stress.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 9
+SM exposure causes blister formation (vesication) in human skin and microvesication in
+animals’ skin (Cowan et al., 2003; Ghabili et al., 2010; Shakarjian et al., 2010; Smith et al.,
+1995). Vesication occurs due to apoptosis in basal keratinocytes and degradation of the
+anchoring filaments. laminin-5, collagen and other extracellular matrix proteins (ECM) after
+SM exposure (Hess and FitzGerald, 2007). These proteases are either secreted by
+neutrophils or are directly activated by SM at the time of injury, leading to blister formation
+(Chang et al., 2009; Mol et al., 2009; Ray et al., 2002; Sabourin et al., 2002). Similar to the
+microvesication observed following SM exposure as well as our previous studies with CEES
+and NM, in this study NM induced microvesication in WT mice in this study. However this
+lesion was attenuated in the NM treated MPO KO mice. Since, vesication is associated with
+apoptotic cell death, decreased NM-induced apoptotic cell death in keratinocytes of MPO
+KO mice in comparison with WT mice observed here could contribute to decreased
+microvesication in MPO KO mice. It has been reported that proteases such as MMP-9,
+which degrade collagen and other ECM proteins are important mediators in 
+vesicant-induced blister formation (Jain et al., 2011a; Pal et al., 2009; Ries et al., 2009; Shakarjian et
+al., 2006). Attenuation of the NM-induced MMP-9 expression in MPO KO mice here further
+suggests a role for MPO in vesicating effects of NM. Our findings support previous studies
+which show that MPO-derived HOCl modulated the activity of MMPs (Lau et al., 2005).
+Many studies have reported an increased expression and importance of inflammatory
+mediators like COX-2 (the rate limiting enzyme in prostaglandin biosynthesis) in the skin
+after exposure to SM or its analog CEES (Black et al., 2010; Jain et al., 2011a; Joseph et al.,
+2011; Pal et al., 2009; Shakarjian et al., 2010). This increase in COX-2 expression could
+enhance vascular permeability and the further influx of inflammatory cells (Jain et al.,
+2011a). Our earlier studies also documented that CEES induced an increase in the
+expression of iNOS, an inducible form of the rate limiting enzyme that makes nitric oxide
+(NO) in mouse skin. This could be due to neutrophil and macrophage infiltration in the skin
+(Jain et al., 2011a; Pal et al., 2009). In our study, the observed decrease in NM-induced
+expression of both COX-2 and iNOS in MPO KO mice compared to WT mice could have
+further caused decreased inflammatory response in KO mice. Nitric oxide (NO) synthesized
+by iNOS also plays a potential role in wound healing depending on the production of
+peroxynitrite (ONOO−), which can lead to oxidation of cellular molecules, targets (Korkmaz
+et al., 2006). MPO-derived secondary oxidants play a role in modulating signaling pathways
+by oxidizing endothelial-derived NO (Lau et al., 2005). Results here also suggest that MPO
+deficiency caused a reduction in NM-induced induction of iNOS expression in MPO KO
+mice as compared to control mice at corresponding time points. This could decrease
+ONOO− by modulating NO-related pathways and subsequent DNA damage as well as cell
+death.
+Earlier reports have shown the involvement of oxidative stress in vesicant-induced
+activation of DNA damage and MAPK/Akt-NF-kB/AP-1 signaling pathways, and induction
+of inflammatory mediators in resulting skin injuries (Black et al., 2010; Jain et al., 2011a;
+Laskin et al., 2010; Pal et al., 2009). The NM-induced WT skin injury could, in part, be due
+to oxidative stress caused by numerous reactive oxidants from HOCl production or
+enhanced iNOS expression following the release of MPO from neutrophils. In addition,
+HOCl generation from MPO can also activate regulatory molecules like p53 and members of
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 10
+the MAPK pathway (Mutze et al., 2003). Therefore, deletion of MPO in MPO KO mice
+might be affecting various signaling pathways and oxidative stress, and the injury effects
+related to DNA damage, cell death and inflammation in these mice. However, these same
+pro-inflammatory properties of MPO make it a major player in the innate response to
+foreign invasion and contribute to the microbicidal activity of neutrophils, an important
+aspect of host defense (Malle et al., 2007). This positive aspect of MPO is important to
+consider during the development of mechanism-based MPO inhibitors for treatment of
+injuries. This study also forms the basis of further critical investigation of mechanisms
+involved in MPO-derived oxidant-induced tissue damage and initiation as well as
+progression of the SM- and NM-related inflammatory response.
+
+>>>section: results
+3. Results
+3.1 MPO deletion in mice attenuated NM-induced tissue MPO activity
+Our previous studies in mice have shown a profound increase in neutrophil infiltration and
+MPO activity in skin after dorsal exposure with CEES and NM at 12 h and 24 h time points
+(Inturi et al., 2013; Jain et al., 2011b; Tewari-Singh et al., 2009). To further investigate the
+role of the neutrophil-derived MPO enzyme in NM-induced skin injury, we employed a
+genetic approach using MPO KO mice where neutrophil infiltration and MPO activity were
+determined following NM exposure. H&E staining of the skin tissue sections from wild type
+and MPO KO mice 12 h and 24 h after NM exposure showed high neutrophil infiltration and
+dermal edema in NM-exposed wild type mice as compared with an untreated control (Fig.
+1A). However, the NM-induced increase in neutrophil infiltration or edema was not evident
+in MPO KO mice (Fig. 1C). To confirm the absence of MPO activity and the markedly
+diminished neutrophil infiltration in MPO KO mice, MPO activity was measured in wild
+type and MPO KO mice (Fig. 1B and D). In comparison with control wild type mice where
+MPO activity was 2.4 mU/μg protein, high MPO activity was observed after 12 h (16.3
+mU/μg protein) of NM exposure. This was maximal at 24 h (116.9 mU/μg protein) 
+post-exposure (Fig. 1B). Conversely, very low MPO activity was observed in MPO KO mice at
+12 h (2.14 mU/μg protein) and 24 h (1.40 mU/μg protein) post-NM exposure, which was
+comparable to MPO activity in control mice (1.48 mU/μg protein; Fig. 1D).
+3.2 MPO deletion in mice attenuated NM-induced skin bi-fold thickness and epidermal
+thickness increases
+Our previous studies have shown that CEES and NM caused an increase in skin bi-fold
+thickness and epidermal thickness in mice (Jain et al., 2011b; Tewari-Singh et al., 2013;
+Tewari-Singh et al., 2009). To examine whether similar effects were present in NM-treated
+COX-2, iNOS and MMP-9 were detected in frozen skin tissue samples by Western blotting.
+Approximately 100 mg of tissue was taken from the skin samples and homogenized in lysis
+buffer as published earlier (Jain et al., 2011a) and protein content was measured using
+Lowry’s method (Lowry et al., 1951). For western blotting, 50 μg of protein from three
+animals per group was subjected to SDS-PAGE and separated proteins were transferred onto
+nitrocellulose membrane by western blotting. After blocking, membranes were probed with
+primary antibodies against COX-2 (1:500), iNOS (1:500), and MMP-9 (1:500) for overnight
+at 4°C, followed by peroxidase-conjugated appropriate secondary antibodies for 1 h at room
+temperature. Protein bands were visualized by an enhanced chemiluminescence detection
+system (GE Healthcare Life Sciences, Pittsburgh, PA). In each case, protein loading was
+monitored by stripping and re-probing the blots with β-actin.
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 6
+MPO KO mice, we first measured the skin bi-fold thickness at 12 h and 24 h post-exposure.
+In WT mice, NM caused a significant (p<0.05) increase in skin bi-fold thickness after 24 h
+(1.46 fold) in comparison with the untreated control. On the other hand, a significant
+increase in bi-fold thickness was not observed in MPO KO mice at 12 h (1.3 fold) or 24 h
+(1.04 fold) post-NM exposure in comparison with control (Fig. 2A). H&E stained tissue
+sections from both types of mice were next analyzed for epidermal thickness at 12 h and 24
+h after NM exposure. In wild type mice, NM caused a significant (P<0.05) 2.2-fold increase
+in epidermal thickness at 12 h following exposure (Fig. 2C). On the other hand, there was no
+significant effect of NM on epidermal thickness in MPO KO mice at 12 h or 24 h 
+post-exposure (Fig. 2E).
+3.3 MPO deletion in mice attenuated NM-induced microvesication
+Our previous studies have reported that CEES and NM cause microvesication in mice, and
+established this lesion as an important biomarker of vesicant skin injury (Jain et al., 2011b;
+Tewari-Singh et al., 2013; Tewari-Singh et al., 2009). Similar to our previous reports,
+microvesication (epidermal-dermal separation) was observed 12 h and 24 h post-NM
+exposure in WT mice. However, these events were reduced in MPO KO mice (Fig. 3A and
+C). The incidence of microvesication was quantified according to their size; small
+(<100μm2), medium (100-500 μm2) and large (>500 μm2) per skin section of mice. In WT
+mice, small NM-induced lesions of microvesication were 5.0 ± 0.70 at 12 h and 4.05 ± 0.65
+at 24 h post-exposure (Fig. 3B). NM-induced lesions of medium and large sized
+microvesicles gradually increased and were maximal at 24 h post-exposure (Fig. 3A and B)
+In MPO KO mice, lesser incidences of all sizes of microvesication lesions were observed in
+comparison with WT mice at both 12 h and 24 h post-NM exposure (Fig. 3 C and D).
+Maximal occurrence of small sized NM-induced lesions of microvesication in WT mice,
+were 2.5 ± 0.71 and 3.15 ± 0.70 at 12 h and 24 h post-exposure, respectively, in MPO KO
+mice (Fig. 3D).
+3.4 MPO deletion in mice attenuated NM-induced DNA damage and apoptotic cell death
+Phospho-H2A.X Ser139 is a marker of DNA damage (Rogakou et al., 1998), that is shown
+to increase following vesicant exposure indicating DNA damage (Inturi et al., 2011; Jain et
+al., 2011a; Joseph et al., 2011; Tewari-Singh et al., 2010). Previously, our studies have
+shown that CEES or NM exposure causes DNA damage leading to cell death of skin
+keratinocytes, and this could be a major contributor of skin injury (Inturi et al., 2013; Jain et
+al., 2011a; Pal et al., 2009; Tewari-Singh et al., 2010). Since MPO takes part in the
+production of free radicals which may cause DNA damage and apoptotic cell death, we
+examined the hypothesis that ablation of PMN and MPO activity would decrease the DNA
+damage and cell death following NM treatment. In WT mice, NM exposure resulted in a
+significant (p<0.05) increase in the number of phospho-H2A.X Ser139 positive cells (Fig.
+4A). After 12 h and 24 h of NM exposure in WT mice, 48.2 ± 3.5% and 47.6 ± 1.4% H2A.X
+Ser139 positive cells, respectively, were observed in NM-exposed mice compared with only
+20 ± 1.0% phospho-H2A.X Ser139 positive cells in control mice skin (Fig. 4B). In skin
+tissue from MPO KO mice, 33 ± 4.8% and 37 ± 1.3% phospho-H2A.X Ser139 positive cells
+were observed at 12 h and 24 h post-NM exposure compared with 18 ± 8.2% positive cells
+in control. However, this increase was not significant (Fig. 4C and D). Apoptotic cell death,
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+Page 7
+which is one of the early responses in NM-induced skin injury, was analyzed by TUNEL
+staining. Quantification of data from TUNEL-stained skin sections from WT mice showed a
+significantly (P<0.05) increased percent of apoptotic cell death at 12 h (49 ± 2.5%) and 24 h
+(42 ± 0.68%) after NM exposure in comparison with the untreated control (26.%; Fig. 4E
+and F). However, in skin tissues from MPO KO mice, no significant increase in apoptotic
+cell death was observed at 12 h (19 ± 3.4%) and 24 h (25 ± 2.2%) after NM exposure, again
+when compared with control (16 ± 6.8%; Fig. 4G and H).
+3.5 MPO deletion in mice attenuated NM-induced COX-2, iNOS and MMP-9 levels
+It has been previously reported that COX-2 and iNOS play important roles in SM and 
+SM-analog induced skin injury and inflammation (Jain et al., 2011a; Pal et al., 2009). Therefore,
+levels of COX-2 and iNOS were quantitated by western blotting following NM exposure.
+These blots clearly showed an NM-induced increase in expression of COX-2 at 12 h (18.3
+fold) and 24 h (15.9 fold) post-exposure; this increase was completely attenuated in MPO
+KO mice (Fig. 5A). Similarly, NM exposure also caused an increase in iNOS levels at 12 h
+(5.3 fold) and 24 h (7.3 fold) post-NM exposure, when compared to control skin tissue in
+WT mice (Fig. 5 A). In MPO KO mice, NM-exposure failed to increase the quantity of
+iNOS at 12 h post-exposure. However, at 24 h post-exposure NM induced an increase in
+iNOS in the MPO KO mice albeit less than that observed in WT mice (Fig. 5A).
+As described above, NM exposure caused an increased number of microvesication lesions in
+WT mice when compared to MPO KO mice. MMP-9 levels are reported to increase after
+vesicant exposure and this plays a role in microvesication because it can degrade the
+components of extracellular matrix and basement membrane allowing epidermal dermal
+separation (Jain et al., 2011a; Pal et al., 2009; Shakarjian et al., 2010). To elucidate the role
+of the MPO enzyme in microvesication, MMP-9 expression was measured at 12 h and 24 h
+following NM exposure in both WT and MPO KO mice (Fig. 5B). NM exposure caused an
+increase in MMP-9 levels at 12 h (26 fold) and 24 h (10.2 fold) post-exposure in WT mice.
+However, in MPO KO mice, NM exposure induced only a slight increase in MMP-9 levels
+at both 12 h (3.3 fold) and 24 h (4.4 fold) post-exposure (Fig. 5 B).
+
+>>>section: introduction
+NIH Public Access
+Author Manuscript
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Published in final edited form as:
+Toxicology. 2014 June 5; 320: 25-33. doi:10.1016/j.tox.2014.02.013.
+Myeloperoxidase deficiency attenuates nitrogen 
+mustard-induced skin injuries
+Anil K Jain1, Neera Tewari-Singh1, Swetha Inturi1, David J. Orlicky2, Carl W. White3, and
+Rajesh Agarwal1,*
+Anil K Jain: anil.jain@ucdenver.edu; Neera Tewari-Singh: Neera.Tewari-Singh@ucdenver.edu; Swetha Inturi:
+Swetha.Inturi@ucdenver.edu; David J. Orlicky: David.Orlicky@ucdenver.edu; Carl W. White: Carl.White@ucdenver.edu
+1Department of Pharmaceutical Sciences, University of Colorado Denver, Aurora, CO 80045,
+USA
+2Department of Pathology, University of Colorado Denver, Aurora, CO 80045, USA
+3Department of Pediatrics, University of Colorado Denver, Aurora, CO 80045, USA
+1. Introduction
+Page 2
+Sulfur mustard; nitrogen mustard; myeloperoxidase; inflammation; apoptosis; DNA damage
+Sulfur mustard [SM; bis (2-chloroethyl) sulfide] and nitrogen mustard (NM;
+mechlorethamine) are primary vesicating agents, which pose potential threat for use in
+chemical warfare and terrorist attack (Saladi et al., 2006; Sharma et al., 2010; Smith et al.,
+1995). Both of these mustard agents are highly toxic bifunctional alkylating agents, which
+upon exposure cause severe skin injury including inflammation and disruption of 
+epidermal-dermal layers leading to vesication (Graham et al., 2005; Hayden et al., 2009; Jain et al.,
+2011b; Joseph et al., 2011; Laskin et al., 2010; McManus and Huebner, 2005). In the past
+few years, numerous studies have been carried out to explore the mechanisms of cell death,
+inflammation and vesication caused by warfare and alkylating agent SM exposure (Casillas
+et al., 2000; Inturi et al., 2011; Jain et al., 2011b; Kehe et al., 2009; Kehe and Szinicz, 2005;
+Pal et al., 2009; Rice, 2003; Shakarjian et al., 2010; Tewari-Singh et al., 2010). However,
+further investigations are needed to define the mechanism of skin injury and healing
+processes after vesicant exposure, especially pathogenesis involving the inflammatory
+response where infiltration of polymorphonuclear lymphocytes (PMNs) is reported to play
+an important role (Dacre and Goldman, 1996; Graham et al., 2005; Millard et al., 1997;
+Wormser, 1991).
+SM-induced PMN infiltration, mainly neutrophils, has been shown as an early event
+occurring within 30 min and peaking at 6-12 h post-exposure in human skin (Lindsay and
+Rice, 1996; Millard et al., 1997; Wormser et al., 2005). Neutrophil infiltration plays a key
+role in host defense. However, its excessive stimulation induces the release of cytokines and
+growth factors which contribute to the healing process (Segal, 2005; Weiss, 1989).
+Conversely, neutrophils and to some extent monocytes and macrophages, secrete
+myeloperoxidase (MPO). MPO is a member of heme peroxidase-cyclooxygenase family, at
+the site of tissue injury generating powerful oxidants, free radicals and hypochlorous acid,
+which can cause tissue injury (Brennan et al., 2001; Klebanoff, 2005; Shiba et al., 2008).
+Infiltration of neutrophils also plays an important role in blister formation by secreting a
+variety of proteolytic enzymes including collagenase, gelatinase and elastase. These
+enzymesare able to degrade specific elements in the extracellular matrix leading to
+epidermal-dermal separation as observed in skin diseases like psoriasis (Glinski et al., 1990)
+and bullous pemphigoid (Liu et al., 1997; Liu et al., 2000). SM-induced biochemical
+changes include high MPO activity, free radical generation and cytokine production (Ham et
+al., 2012). Our previous studies with SM analog 2, chloroethyl ethyl sulfide (CEES) and NM
+have shown an increase in neutrophil infiltration and MPO (a marker indicating neutrophil
+infiltration) activity in mouse skin (Jain et al., 2011b; Tewari-Singh et al., 2009). We have
+also shown that both CEES and NM exposure induces DNA damage, cell death, oxidative
+stress, microvesication, activation of proteolytic and inflammatory mediators as well as
+related signaling pathways. These previous studies indicated that neutrophil-derived MPO
+could play a vital role in vesicant-induced skin lesions (Jain et al., 2011a; Pal et al., 2009;
+Toxicology. Author manuscript; available in PMC 2015 June 05.
+Jain et al.
+
+>>>section: figure_1
+Page 15 
+Figure 1. Effect of MPO deletion on MPO activity and neutrophil infiltration after NM exposure 
+Dorsal skin of wild type and MPO KO mice was exposed to 6 mg NM or acetone alone 
+(vehicle control). Following 12 h and 24 h of NM exposure, skin tissue was collected, 
+processed, sectioned and subjected to H&E staining as detailed under Materials and 
+Methods. The H&E stained skin tissue sections from both wild type and MPO KO mice 
+were analyzed microscopically for inflammatory cells including neutrophils in the dermis (A 
+and C). To further assess the MPO activity indicating neutrophil infiltration in the dermis, 
+following similar NM exposure, MPO activity was measured in the skin tissues from wild 
+type and MPO KO mice as detailed under Materials and Methods (B and D). Data presented 
+are mean ± SEM of three animals. *, p < 0.05 as compared to vehicle control group. D, 
+dermis; WT, wild type mice; MPO KO, MPO knockout mice; red arrows, inflammatory 
+cells. 
+
+>>>section: figure_2
+Page 16 
+Figure 2. Effect of MPO deletion on skin bi-fo ld thickness and epidermal thickness after NM 
+exposure 
+Dorsal skin of wild type and MPO KO mice was exposed to 6 mg NM or acetone alone 
+(vehicle control). After 12 h and 24 h of exposure, skin bi-fold thickness was measured 
+using digital calipers (A). Following 12 and 24 h of NM exposure, skin tissue was collected, 
+processed, sectioned and subjected to H&E staining as detailed under Materials and 
+Methods. The H&E stained skin tissue sections from both the wild type and MPO KO mice 
+were analyzed for epidermal thickness (B-E). The NM-induced epidermal thickness in wild 
+type and MPO KO mice shown in representative pictures (B and D) was further quantified 
+(C and D) as detailed under Materials and Methods. Data presented are mean ± SEM of 
+three animals *, p < 0.05 as compared to vehicle control group. e, epidermis; d, dermis; WT, 
+wild type mice; MPO KO, MPO knockout mice. 
+
+>>>section: figure_3
+Page 17 
+Figure 3. Effect of MPO deletion on microvesication after NM exposure 
+Dorsal skin of wild type and MPO KO mice was exposed to 6 mg NM or acetone alone 
+(vehicle control). Following 12 h and 24 h of NM exposure, skin tissue was collected, 
+processed, sectioned and subjected to H&E staining as detailed under Materials and 
+Methods. The H&E stained skin tissue sections from both the wild type and MPO KO mice 
+were analyzed for microvesication. The NM-induced incidences of microvesication in wild 
+type and MPO KO mice shown in representative pictures (A and C), were counted according 
+to their sizes and classified into three categories; small (<100μm2), medium (100-500μm2) 
+and large (>500 μm2) (B and D). Data presented are mean ± SEM of three animals *, p < 
+0.05 as compared to vehicle control group. e, epidermis; d, dermis; WT, wild type mice; 
+MPO KO, MPO knockout mice 
+
+>>>section: figure_4
+Page 18 
+Figure 4. Effect of MPO deletion on DNA damage and apoptotic cell death after NM exposure 
+Dorsal skin of wild type and MPO KO mice was exposed to 6 mg NM or acetone alone 
+(vehicle control). Following 12 h and 24 h of NM exposure, skin tissue was collected, 
+processed, sectioned and analyzed for DNA damage (IHC localization of phospho-H2A.X 
+Ser139, A-D) and cell death (TUNEL assay, E-H) as detailed under Materials and Methods. 
+The NM-induced increase in IHC localization of phospho-H2A.X Ser139 in wild type and 
+MPO KO mice shown in representative pictures (A and C) was quantified (B and D) as 
+detailed under Materials and Methods. The NM induced apoptotic cell death in wild type 
+and MPO KO mice shown in representative pictures (E and G) was further quantified (F and 
+H) as detailed under Materials and Methods. Data presented are mean ± SEM of three 
+animals of each group. *, p<0.001 as compared to vehicle control group. e, epidermis; d, 
+dermis; red arrows, TUNEL positive cells and phosphor-H2A.X Ser139. 
+
+>>>section: figure_5
+Figure 5. Effect of MPO deletion on the expression of COX2, iNOS, and MMP-9 after NM 
+exposure 
+Dorsal skin of wild type and MPO KO mice was exposed to 6 mg NM or acetone alone 
+(vehicle control). Following 12 h and 24 h of NM exposure, skin tissue from wild type and 
+MPO KO mice was collected and processed, and subjected to western blot analysis for 
+COX-2 and iNOS (A), and MMP-9 (B) as detailed under Materials and Methods. Data are 
+presented as fold change in comparison with their respective controls. Protein loading was 
+determined by stripping and reprobing of the same membrane for β-actin. 
+
+**References**
+ References
+Black AT Joseph LB Casillas RP Heck DE Gerecke DR Sinko PJ Laskin DL Laskin JD Role of MAP kinases in regulating expression of antioxidants and inflammatory mediators in mouse keratinocytes following exposure to the half mustard 2-chloroethyl ethyl sulfide Toxicol Appl Pharmacol 2010 245352-360 [PubMed 20382172]
+Blank JA Lane LA Menton RG Casillas RP Procedure for assessing myeloperoxidase and inflammatory mediator responses in hairless mouse skin J Appl Toxicol 2000 20(Suppl 1)S137- 139 [PubMed 11428626]
+Brennan ML Anderson MM Shih DM Qu XD Wang X Mehta AC Lim LL Shi W Hazen SL Jacob JS Crowley JR Heinecke JW Lusis AJ Increased atherosclerosis in myeloperoxidase- deficient mice J Clin Invest 2001 107419-430 [PubMed 11181641]
+Casillas RP Kiser RC Truxall JA Singer AW Shumaker SM Niemuth NA Ricketts KM Mitcheltree LW Castrejon LR Blank JA Therapeutic approaches to dermatotoxicity by sulfur mustard I Modulaton of sulfur mustard-induced cutaneous injury in the mouse ear vesicant model J Appl Toxicol 2000 20(Suppl 1)S145-151 [PubMed 11428628]
+Chang YC Sabourin CL Lu SE Sasaki T Svoboda KK Gordon MK Riley DJ Casillas RP Gerecke DR Upregulation of gamma-2 laminin-332 in the mouse ear vesicant wound model J Biochem Mol Toxicol 2009 23172-184 [PubMed 19526566]
+Cowan FM Broomfield CA Lenz DE Smith WJ Putative role of proteolysis and inflammatory response in the toxicity of nerve and blister chemical warfare agents implications for multi-threat medical countermeasures J Appl Toxicol 2003 23177-186 [PubMed 12794939]
+Dacre JC Goldman M Toxicology and pharmacology of the chemical warfare agent sulfur mustard Pharmacol Rev 1996 48289-326 [PubMed 8804107]
+El Kebir D Jozsef L Pan W Filep JG Myeloperoxidase delays neutrophil apoptosis through CD11b/ CD18 integrins and prolongs inflammation Circ Res 2008 103352-359 [PubMed 18617697]
+Ghabili K Agutter PS Ghanei M Ansarin K Shoja MM Mustard gas toxicity the acute and chronic pathological effects J Appl Toxicol 2010 30627-643 [PubMed 20836142]
+Glinski W Jarzabek-Chorzelska M Kuligowski M Pierozynska-Dubowska M Glinska-Ferenz M Jablonska S Basement membrane zone as a target for human neutrophil elastase in psoriasis Arch Dermatol Res 1990 282506-511 [PubMed 1707254]
+Graham JS Chilcott RP Rice P Milner SM Hurst CG Maliner BI Wound healing of cutaneous sulfur mustard injuries strategies for the development of improved therapies J Burns Wounds 2005 4e1 [PubMed 16921406] Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Page 11
+Ham HY Hong CW Lee SN Kwon MS Kim YJ Song DK Sulfur mustard primes human neutrophils for increased degranulation and stimulates cytokine release via TRPM2/p38 MAPK signaling Toxicol Appl Pharmacol 2012 25882-88 [PubMed 22036725]
+Hayden PJ Petrali JP Stolper G Hamilton TA Jackson GR Jr Wertz PW Ito S Smith WJ Klausner M Microvesicating effects of sulfur mustard on an in vitro human skin model Toxicol In Vitro 2009 231396-1405 [PubMed 19619636]
+Hess JF FitzGerald PG Treatment of keratin intermediate filaments with sulfur mustard analogs Biochem Biophys Res Commun 2007 359616-621 [PubMed 17548056]
+Inturi S Tewari-Singh N Gu M Shrotriya S Gomez J Agarwal C White CW Agarwal R Mechanisms of sulfur mustard analog 2-chloroethyl ethyl sulfide-induced DNA damage in skin epidermal cells and fibroblasts Free Radic Biol Med 2011 512272-2280 [PubMed 21920433]
+Inturi S Tewari-Singh N Jain AK Roy S White CW Agarwal R Absence of a p53 allele delays nitrogen mustard-induced early apoptosis and inflammation of murine skin Toxicology 2013 311184-190 [PubMed 23845566]
+Jain AK Tewari-Singh N Gu M Inturi S White CW Agarwal R Sulfur mustard analog 2- chloroethyl ethyl sulfide-induced skin injury involves DNA damage and induction of inflammatory mediators in part via oxidative stress in SKH-1 hairless mouse skin Toxicol Lett 2011a 205293-301 [PubMed 21722719]
+Jain AK Tewari-Singh N Orlicky DJ White CW Agarwal R 2-Chloroethyl ethyl sulfide causes microvesication and inflammation-related histopathological changes in male hairless mouse skin Toxicology 2011b 282129-138 [PubMed 21295104]
+Joseph LB Gerecke DR Heck DE Black AT Sinko PJ Cervelli JA Casillas RP Babin MC Laskin DL Laskin JD Structural changes in the skin of hairless mice following exposure to sulfur mustard correlate with inflammation and DNA damage Exp Mol Pathol 2011 91515-527 [PubMed 21672537]
+Kehe K Balszuweit F Steinritz D Thiermann H Molecular toxicology of sulfur mustard-induced cutaneous inflammation and blistering Toxicology 2009 26312-19 [PubMed 19651324]
+Kehe K Szinicz L Medical aspects of sulphur mustard poisoning Toxicology 2005 214198-209 [PubMed 16084004]
+Klebanoff SJ Myeloperoxidase friend and foe J Leukoc Biol 2005 77598-625 [PubMed 15689384]
+Korkmaz A Yaren H Topal T Oter S Molecular targets against mustard toxicity implication of cell surface receptors peroxynitrite production and PARP activation Arch Toxicol 2006 80662- 670 [PubMed 16552503]
+Laskin JD Black AT Jan YH Sinko PJ Heindel ND Sunil V Heck DE Laskin DL Oxidants and antioxidants in sulfur mustard-induced injury Ann N Y Acad Sci 2010 120392-100 [PubMed 20716289]
+Lau D Mollnau H Eiserich JP Freeman BA Daiber A Gehling UM Brummer J Rudolph V Munzel T Heitzer T Meinertz T Baldus S Myeloperoxidase mediates neutrophil activation by association with CD11b/CD18 integrins Proc Natl Acad Sci U S A 2005 102431-436 [PubMed 15625114]
+Levitt JM Lodhi IJ Nguyen PK Ngo V Clift R Hinshaw DB Sweeney JF Low-dose sulfur mustard primes oxidative function and induces apoptosis in human polymorphonuclear leukocytes Int Immunopharmacol 2003 3747-756 [PubMed 12757743]
+Lindsay CD Rice P Assessment of the biochemical effects of percutaneous exposure of sulphur mustard in an in vitro human skin system Hum Exp Toxicol 1996 15237-244 [PubMed 8839212]
+Liu Z Giudice GJ Zhou X Swartz SJ Troy JL Fairley JA Till GO Diaz LA A major role for neutrophils in experimental bullous pemphigoid J Clin Invest 1997 1001256-1263 [PubMed 9276744]
+Liu Z Shapiro SD Zhou X Twining SS Senior RM Giudice GJ Fairley JA Diaz LA A critical role for neutrophil elastase in experimental bullous pemphigoid J Clin Invest 2000 105113-123 [PubMed 10619867] Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Page 12
+Loria V Dato I Graziani F Biasucci LM Myeloperoxidase a new biomarker of inflammation in ischemic heart disease and acute coronary syndromes Mediators Inflamm 2008135625 [PubMed 18382609]
+Lowry OH Rosebrough NJ Farr AL Randall RJ Protein measurement with the Folin phenol reagent J Biol Chem 1951 193265-275 [PubMed 14907713]
+Malle E Furtmuller PG Sattler W Obinger C Myeloperoxidase a target for new drug development? Br J Pharmacol 2007 152838-854 [PubMed 17592500]
+McManus J Huebner K Vesicants Crit Care Clin 2005 21707-718 vi [PubMed 16168310]
+Mellor SG Rice P Cooper GJ Vesicant burns Br J Plast Surg 1991 44434-437 [PubMed 1933115]
+Millard CB Bongiovanni R Broomfield CA Cutaneous exposure to bis-(2-chloroethyl)sulfide results in neutrophil infiltration and increased solubility of 180000 Mr subepidermal collagens Biochem Pharmacol 1997 531405-1412 [PubMed 9260866]
+Miyamoto S Martinez GR Rettori D Augusto O Medeiros MH Di Mascio P Linoleic acid hydroperoxide reacts with hypochlorous acid generating peroxyl radical intermediates and singlet molecular oxygen Proc Natl Acad Sci U S A 2006 103293-298 [PubMed 16387855]
+Mol MA van den Berg RM Benschop HP Involvement of caspases and transmembrane metalloproteases in sulphur mustard-induced microvesication in adult human skin in organ culture directions for therapy Toxicology 2009 25839-46 [PubMed 19167455]
+Mutze S Hebling U Stremmel W Wang J Arnhold J Pantopoulos K Mueller S Myeloperoxidase- derived hypochlorous acid antagonizes the oxidative stress-mediated activation of iron regulatory protein 1 J Biol Chem 2003 27840542-40549 [PubMed 12888561]
+Naghii MR Sulfur mustard intoxication oxidative stress and antioxidants Mil Med 2002 167573- 575 [PubMed 12125850]
+Pal A Tewari-Singh N Gu M Agarwal C Huang J Day BJ White CW Agarwal R Sulfur mustard analog induces oxidative stress and activates signaling cascades in the skin of SKH-1 hairless mice Free Radic Biol Med 2009 471640-1651 [PubMed 19761830]
+Papirmeister B Gross CL Meier HL Petrali JP Johnson JB Molecular basis for mustard-induced vesication Fundam Appl Toxicol 1985 5S134-149 [PubMed 2419197]
+Paromov V Suntres Z Smith M Stone WL Sulfur mustard toxicity following dermal exposure role of oxidative stress and antioxidant therapy J Burns Wounds 2007 7e7 [PubMed 18091984]
+Ray P Chakrabarti AK Broomfield CA Ray R Sulfur mustard-stimulated protease a target for antivesicant drugs J Appl Toxicol 2002 22139-140 [PubMed 11920939]
+Rice P Sulphur mustard injuries of the skin Pathophysiology and management Toxicol Rev 2003 22111-118 [PubMed 15071821]
+Ries C Popp T Egea V Kehe K Jochum M Matrix metalloproteinase-9 expression and release from skin fibroblasts interacting with keratinocytes Upregulation in response to sulphur mustard Toxicology 2009 26326-31 [PubMed 18809459]
+Rogakou EP Pilch DR Orr AH Ivanova VS Bonner WM DNA double-stranded breaks induce histone H2AX phosphorylation on serine 139 J Biol Chem 1998 2735858-5868 [PubMed 9488723]
+Sabourin CL Danne MM Buxton KL Casillas RP Schlager JJ Cytokine chemokine and matrix metalloproteinase response after sulfur mustard injury to weanling pig skin J Biochem Mol Toxicol 2002 16263-272 [PubMed 12481301]
+Saladi RN Smith E Persaud AN Mustard a potential agent of chemical warfare and terrorism Clin Exp Dermatol 2006 311-5 [PubMed 16309468]
+Segal AW How neutrophils kill microbes Annu Rev Immunol 2005 23197-223 [PubMed 15771570]
+Shakarjian MP Bhatt P Gordon MK Chang YC Casbohm SL Rudge TL Kiser RC Sabourin CL Casillas RP Ohman-Strickland P Riley DJ Gerecke DR Preferential expression of matrix metalloproteinase-9 in mouse skin after sulfur mustard exposure J Appl Toxicol 2006 26239- 246 [PubMed 16489579] Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Page 13
+Shakarjian MP Heck DE Gray JP Sinko PJ Gordon MK Casillas RP Heindel ND Gerecke DR Laskin DL Laskin JD Mechanisms mediating the vesicant actions of sulfur mustard after cutaneous exposure Toxicol Sci 2010 1145-19 [PubMed 19833738]
+Sharma M Vijayaraghavan R Agrawal OP Comparative toxic effect of nitrogen mustards (HN-1 HN-2 and HN-3) and sulfur mustard on hematological and biochemical variables and their protection by DRDE-07 and its analogues Int J Toxicol 2010 29391-401 [PubMed 20466873]
+Shiba Y Kinoshita T Chuman H Taketani Y Takeda E Kato Y Naito M Kawabata K Ishisaka A Terao J Kawai Y Flavonoids as substrates and inhibitors of myeloperoxidase molecular actions of aglycone and metabolites Chem Res Toxicol 2008 211600-1609 [PubMed 18620432]
+Smith KJ Graham JS Moeller RB Okerberg CV Skelton H Hurst CG Histopathologic features seen in sulfur mustard induced cutaneous lesions in hairless guinea pigs J Cutan Pathol 1995 22260- 268 [PubMed 7593821]
+Smith KJ Smith WJ Hamilton T Skelton HG Graham JS Okerberg C Moeller R Hackley BE Jr Histopathologic and immunohistochemical features in human skin after exposure to nitrogen and sulfur mustard Am J Dermatopathol 1998 2022-28 [PubMed 9504665]
+Tewari-Singh N Gu M Agarwal C White CW Agarwal R Biological and molecular mechanisms of sulfur mustard analogue-induced toxicity in JB6 and HaCaT cells possible role of ataxia telangiectasia-mutated/ataxia telangiectasia-Rad3-related cell cycle checkpoint pathway Chem Res Toxicol 2010 231034-1044 [PubMed 20469912]
+Tewari-Singh N Jain AK Inturi S White CW Agarwal R Clinically-Relevant Cutaneous Lesions by Nitrogen Mustard Useful Biomarkers of Vesicants Skin Injury in SKH-1 Hairless and C57BL/6 Mice PLoS One 2013 8e67557 [PubMed 23826320]
+Tewari-Singh N Rana S Gu M Pal A Orlicky DJ White CW Agarwal R Inflammatory biomarkers of sulfur mustard analog 2-chloroethyl ethyl sulfide-induced skin injury in SKH-1 hairless mice Toxicol Sci 2009 108194-206 [PubMed 19075041]
+Vavra AK Laurent CJ Ngo V Sweeney JF Levitt JM Sulfur mustard primes phagocytosis and degranulation in human polymorphonuclear leukocytes Int Immunopharmacol 2004 4437-445 [PubMed 15037221]
+Walker IG Intrastrand bifunctional alkylation of DNA in mammalian cells treated with mustard gas Can J Biochem 1971 49332-336 [PubMed 5549736]
+Weiss SJ Tissue destruction by neutrophils N Engl J Med 1989 320365-376 [PubMed 2536474]
+Wormser U Toxicology of mustard gas Trends Pharmacol Sci 1991 12164-167 [PubMed 2063482]
+Wormser U Brodsky B Proscura E Foley JF Jones T Nyska A Involvement of tumor necrosis factor-alpha in sulfur mustard-induced skin lesion effect of topical iodine Arch Toxicol 2005 79660-670 [PubMed 16001271]
+Wormser U Brodsky B Reich R Topical treatment with povidone iodine reduces nitrogen mustard- induced skin collagenolytic activity Arch Toxicol 2002 76119-121 [PubMed 11914782] Toxicology Author manuscript available in PMC 2015 June 05 Jain et al
+• Myeloperoxidase (MPO) plays an important role in nitrogen mustard (NM)- induced skin injuries Highlights
+• Study was carried out in C57BL/6J wild type (WT) and B6129X1- MPOtm1Lus/J (MPO KO) mice
+• MPO deletion attenuated inflammatory response and microvesication
+• MPO deletion attenuated DNA damage and cell death
+• Deletion of MPO might be affecting various signaling pathways and oxidative stress Page 14 Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Toxicology Author manuscript available in PMC 2015 June 05 Jain et al Toxicology Author manuscript available in PMC 2015 June 05 Page 19

@@ -1,0 +1,1724 @@
+>>>section: conclusion
+5. Conclusion
+The current study provides novel data suggesting that Hg2+, probably as a thiol S-conjugate,
+is taken up by the placenta and subsequently gains access to fetal organs. In addition, we
+suggest that the accumulation of Hg2+ in fetal tissues is heavily dependent upon the dose of
+Page 11
+contents into the tubular lumen for excretion in urine. Indeed, the amount of Hg2+ detected
+in urine 48 h after exposure was significantly greater than that excreted during the first 6 h.
+This excretion of Hg2+ may lead to a reduction of other pools of Hg2+, such as that in
+placental and fetal tissues.
+Histological analyses were performed on maternal kidneys in order to characterize the Hg2+-
+induced nephropathy in kidneys of dams. Exposure of dams to 0.5 μmol kg−1 HgCl2 for 6 or
+48 h did not result in detectable renal injury, which is consistent with findings from previous
+studies using this dose of HgCl2 (Bridges and Zalups, 2005, 2010; Zalups, 2000). Moreover,
+when dams were exposed to the 2.5-μmol kg−1 dose for 6 h, no obvious pathological
+alterations were observed in the kidneys. In contrast, when rats were exposed to 2.5 μmol
+kg−1 HgCl2 for 48 h, areas of significant cellular injury and necrosis were evident in the
+inner cortex and OSOM of the kidneys. These data correspond to our previous findings
+(Bridges et al., 2014; Zalups and Diamond, 1987) and suggest that an exposure period of
+longer than 6 h (at the 2.5-μmol kg−1 dose) is necessary to induce histologically
+demonstrable signs of renal injury. The current analyses of plasma creatinine and the 
+real-time PCR analyses of Kim-1, a biomarker of renal injury, tend to support this conclusion.
+With regard to the hepatic burden of Hg2+ in dams, we found that when dams were exposed
+to either dose of HgCl2, the amount of Hg2+ in the liver 48 h after exposure was
+significantly lower than that 6 h after exposure. This finding suggests that a fraction of the
+hepatic burden of Hg2+ is eliminated between 6 and 48 h after exposure. Indeed,
+hepatobiliary elimination of Hg2+ has been shown to occur in the hours/days following
+exposure (Zalups, 1995; Zalups and Koropatnick, 2000). The fecal elimination of Hg2+
+increased during the 48 h following exposure to either dose of HgCl2, suggesting that
+hepatic Hg2+ is eliminated in feces via the biliary tract.
+The disposition of Hg2+ in blood of dams followed a pattern similar to that of the liver. In
+rats that were exposed to HgCl2 for 48 h, the hematologic burden of Hg2+ (at either dose)
+was significantly lower than that of rats in the corresponding 6-h groups. The reduction in
+the burden of Hg2+ in blood is likely due to rapid uptake of Hg2+ by the kidneys and liver as
+well as some glomerular filtration of low molecular weight thiol S-conjugates of Hg2+.
+When dams were exposed to the 0.5-μmol kg−1 dose of HgCl2, the burden of Hg2+ in the
+maternal brain after 6 h and 48 h was similar, suggesting that accumulation of Hg2+ in the
+brain does not change between 6 h and 48 h. However, when dams were exposed to the 2.5-
+μmol kg−1 dose, the burden of Hg2+ decreased slightly between 6 h and 48 h. This decrease
+may be due to changes in the Hg2+ content of the blood that supplies the brain. In fact, it
+should be noted that much of the Hg2+ in the brain may represent Hg2+ associated with
+erythrocytes or the endothelium of blood vessels within the brain.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+
+>>>section: references
+References
+Amini FG, Rafieian-Kopaei M, Nematbakhsh M, Baradaran A, Nasri H. Ameliorative effects of
+metformin on renal histologic and biochemical alterations of gentamicin-induced renal toxicity in
+Wistar rats. J Res Med Sci. 2012; 17:621-625. [PubMed: 23798920]
+Ask K, Akesson A, Berglund M, Vahter M. Inorganic mercury and methylmercury in placentas of
+Swedish women. Environ Health Perspect. 2002; 110:523-526. [PubMed: 12003757]
+ATSDR AfTSaDR. Toxicological Profile for Mercury, (U.S. Department of Health and Human
+Services PHS ed). Centers for Disease Control; Atlanta, GA: 2008.
+Barbier O, Jacquillet G, Tauc M, Cougnon M, Poujeol P. Effect of heavy metals on, and handling by,
+the kidney. Nephron Physiol. 2005; 99:105-110.
+Belanger M, Westin A, Barfuss DW. Some health physics aspectsofworking with 203Hg in university
+research. Health Phys. 2001; 80:S28-S30. [PubMed: 11197511]
+Bridges CC, Bauch C, Verrey F, Zalups RK. Mercuric conjugates of cysteine are transported by the
+amino acid transporter system b(0,+): implications of molecular mimicry. J Am Soc Nephrol. 2004;
+15:663-673. [PubMed: 14978168]
+Bridges CC, Joshee L, Zalups RK. Effect of DMPS and DMSAon the placental and fetal disposition of
+methylmercury. Placenta. 2009; 30:800-805. [PubMed: 19615742]
+Bridges CC, Joshee L, Zalups RK. Placental and fetal disposition of mercuric ions in rats exposed to
+methylmercury: role of Mrp2. Reprod Toxicol. 2012; 34:628-634. [PubMed: 23059061]
+Bridges CC, Joshee L, Zalups RK. Aging and the disposition and toxicity of mercury in rats. Exp
+Gerontol. 2014; 53:31-39. [PubMed: 24548775]
+Bridges CC, Zalups RK. Molecular and ionic mimicry and the transport of toxic metals. Toxicol Appl
+Pharmacol. 2005; 204:274-308. [PubMed: 15845419]
+Bridges CC, Zalups RK. Transport of inorganic mercury and methylmercury in target tissues and
+organs. J Toxicol Environ Health B: Crit Rev. 2010; 13:385-410. [PubMed: 20582853]
+Castoldi AF, Coccini T, Ceccatelli S, Manzo L. Neurotoxicity and molecular effects of
+methylmercury. Brain Res Bull. 2001; 55:197-203. [PubMed: 11470315]
+Chehimi L, Roy V, Jeljeli M, Sakly M. Chronic exposure to mercuric chloride during gestation affects
+sensorimotor development and later behaviour in rats. Behav Brain Res. 2012; 234:43-50.
+[PubMed: 22705860]
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 13
+Clarkson TW, Magos L, Myers GJ. The toxicology of mercury-current exposures and clinical
+manifestations. N Engl J Med. 2003; 349:1731-1737. [PubMed: 14585942]
+Daniel JW. The biotransformation of organomer curycompounds. Biochem J. 1972; 130:64P-65P.
+Debes F, Budtz-Jorgensen E, Weihe P, White RF, Grandjean P. Impact of prenatal methylmercury
+exposure on neurobehavioral function at age 14 years. Neurotoxicol Teratol. 2006; 28:536-547.
+[PubMed: 17067778]
+Drevnick PE, Lamborg CH, Horgan MJ. Increase in mercury in Pacific yellowfin tuna. Environ
+Toxicol Chem. 2015
+Favero AM, Oliveira CS, Franciscato C, Oliveira VA, Pereira JS, Bertoncheli CM, da Luz SC,
+Dressler VL, Flores EM, Pereira ME. Lactating and nonlactating rats differ to renal toxicity
+induced by mercuric chloride: the preventive effect of zinc chloride. Cell Biochem Funct. 2014a
+Favero AM, Oliveira CS, Franciscato C, Oliveira VA, Pereira JS, Bertoncheli CM, da Luz SC,
+Dressler VL, Flores EM, Pereira ME. Lactating and nonlactating rats differ to renal toxicity
+induced by mercuric chloride: the preventive effect of zinc chloride. Cell Biochem Funct. 2014b;
+32:420-428. [PubMed: 24619859]
+Feng W, Wang M, Li B, Liu J, Chai Z, Zhao J, Deng G. Mercury and trace element distribution in
+organic tissues and regional brain of fetal rat after in utero and weaning exposure to low dose of
+inorganic mercury. Toxicol Lett. 2004; 152:223-234. [PubMed: 15331131]
+Gage JC. Distribution and excretion of methyl and phenyl mercury salts. Br J Ind Med. 1964; 21:197-
+202. [PubMed: 14180477]
+Grandjean P, Herz KT. Methylmercury and brain development: imprecision and underestimation of
+developmental neurotoxicity in humans. Mt Sinai J Med New York. 2011; 78:107-118.
+Karagas MR, Choi AL, Oken E, Horvat M, Schoeny R, Kamai E, Cowell W, Grandjean P, Korrick S.
+Evidence on the human health effects of low-level methylmercury exposure. Environ Health
+Perspect. 2012; 120:799-806. [PubMed: 22275730]
+Lee HB, Blaufox MD. Blood volume in the rat. J Nucl Med. 1985; 26:72-76. [PubMed: 3965655]
+Lorscheider FL, Vimy MJ, Summers AO. Mercury exposure from silver tooth fillings: emerging
+evidence questions a traditional dental paradigm. FASEB J. 1995; 9:504-508. [PubMed: 7737458]
+Moeini M, Nematbakhsh M, Fazilati M, Talebi A, Pilehvarian AA, Azarkish F, Eshraghi-Jazi F,
+Pezeshki Z. Protective role of recombinant human erythropoietin in kidney and lung injury
+following renal bilateral ischemia-reperfusion in rat model. Int J Prev Med. 2013; 4:648-655.
+[PubMed: 23930182]
+Myers GJ, Davidson PW, Cox C, Shamlaye C, Cernichiari E, Clarkson TW. Twenty-seven years
+studying the human neurotoxicity of methylmercury exposure. Environ Res. 2000; 83:275-285.
+[PubMed: 10944071]
+Nair A, Jordan M, Watkins S, Washam R, DuClos C, Jones S, Palcic J, Pawlowicz M, Blackmore C.
+Fish consumption and hair mercury levels in women of childbearing age, martin county, Florida.
+Matern Child Health J. 2014; 18:2352-2361. [PubMed: 24807406]
+Norseth T, Clarkson TW. Biotransformation of methylmercury salts in the rat studied by specific
+determination of inorganic mercury. Biochem Pharmacol. 1970a; 19:2775-2783. [PubMed:
+5478586]
+Norseth T, Clarkson TW. Studies on the biotransformation of 203Hg-labeled methyl mercury chloride
+in rats. Arch Environ Health. 1970b; 21:717-727. [PubMed: 5478557]
+Norseth T, Clarkson TW. Intestinal transport of 203 Hg-labeled methyl mercury chloride. Role of
+biotransformation in rats. Arch Environ Health. 1971; 22:568-577. [PubMed: 5550173]
+Oliveira CS, Oliveira VA, Ineu RP, Moraes-Silva L, Pereira ME. Biochemical parameters of pregnant
+rats and their offspring exposed to different doses of inorganic mercury in drinking water. Food
+Chem Toxicol. 2012; 50:2382-2387. [PubMed: 22580302]
+Palm M, Lundblad A. Creatinine concentration in plasma from dog, rat, and mouse: a comparison of 3
+different methods. Vet Clin Pathol. 2005; 34:232-236. [PubMed: 16134070]
+Sakamoto M, Yasutake A, Domingo JL, Chan HM, Kubota M, Murata K. Relationships between trace
+element concentrations in chorionic tissue of placenta and umbilical cord tissue: potential use as
+indicators for prenatal exposure. Environ Int. 2013; 60:106-111. [PubMed: 24028800]
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 14
+Soon R, Dye TD, Ralston NV, Berry MJ, Sauvage LM. Seafood consumption and umbilical cord
+blood mercury concentrations in a multiethnic maternal and child health cohort. BMC Pregnancy
+Childbirth. 2014; 14:209. [PubMed: 24942346]
+Xu X, Newman MC. Mercury exposure as a function of fish consumption in two asian communities in
+Coastal Virginia, USA. Arch Environ Contam Toxicol. 2014
+Yang JM, Jiang XZ, Chen QY, Li PJ, Zhou YF, Wang YL. The distribution of HgCl2 in rat body and
+its effects on fetus. Biomed Environ Sci.: BES. 1996; 9:437-442. [PubMed: 8988814]
+Yorifuji T, Tsuda T, Takao S, Suzuki E, Harada M. Total mercury content in hair and neurologic
+signs: historic data from Minamata. Epidemiology. 2009; 20:188-193. [PubMed: 19057389]
+Yoshida M. Placental to fetal transfer of mercury and fetotoxicity. Tohoku J Exp Med. 2002; 196:79-
+88. [PubMed: 12498319]
+Zalups RK. Early aspects of the intrarenal distribution of mercury after the intravenous administration
+of mercuric chloride. Toxicology. 1993; 79:215-228. [PubMed: 8316951]
+Zalups RK. Progressive losses of renal mass and the renal and hepatic disposition of administered
+inorganic mercury. Toxicol Appl Pharmacol. 1995; 130:121-131. [PubMed: 7839359]
+Zalups RK. Reductions in renal mass and the nephropathy induced by mercury. Toxicol Appl
+Pharmacol. 1997; 143:366-379. [PubMed: 9144453]
+Zalups RK. Molecular interactions with mercury in the kidney. Pharmacol Rev. 2000; 52:113-143.
+[PubMed: 10699157]
+Zalups RK, Diamond GL. Mercuric chloride-induced nephrotoxicity in the rat following unilateral
+nephrectomy and compensatory renal growth. Virchows Arch B: Cell Pathol Incl Mol Pathol.
+1987; 53:336-346. [PubMed: 2891217]
+Zalups RK, Gelein RM, Cernichiari E. DMPS as a rescue agent for the nephropathy induced by
+mercuric chloride. J Pharmacol Exp Ther. 1991; 256:1-10. [PubMed: 1671092]
+Zalups RK, Joshee L, Bridges CC. Novel hg2+-induced nephropathy in rats and mice lacking mrp2:
+evidence of axial heterogeneity in the handling of hg2+ along the proximal tubule. Toxicol Sci.
+2014; 142:250-260. [PubMed: 25145654]
+Zalups RK, Koropatnick J. Temporal changes in metallothionein gene transcription in rat kidney and
+liver: relationship to content of mercury and metallothionein protein. J Pharmacol Exp Ther. 2000;
+295:74-82. [PubMed: 10991963]
+Zalups RK, Minor KH. Luminal and basolateral mechanisms involved in the renal tubular uptake of
+inorganic mercury. J Toxicol Environ Health. 1995; 46:73-100. [PubMed: 7666495]
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+dose for 6 h. +Significantly different (p < 0.05) from the mean for the corresponding group
+of rats exposed to 0.5 μmol HgCl2 kg−1.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
++Significantly different (p < 0.05) from the mean for the corresponding group of rats
+exposed to 0.5 μmol HgCl2 kg−1.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Amount of Hg (nmol g−1) detected in fetal organs following exposure to a non-nephrotoxic (0.5 μmol kg−1) or
+a nephrotoxic (2.5 μmol kg−1) dose of HgCl2 for 6 h or 48 h. Dams exposed for 6 h were injected and
+euthanized on GD20. Dams exposed for 48 h were injected on GD 18 and euthanized on GD20.
+0.5 μmol kg−1 (6h)
+Total renal mass
+Liver
+Brain
+0.265 ± 0.03
+0.024 ± 0.004
+0.010 ± 0.0004
+Table 1
+0.5 μmol kg−1 (48 h)
+0.317 ± 0.07
+0.048 ± 0.004
+0.020 ± 0.0006
+2.5 μmol kg−1 (6 h)
+5.75 ± 0.42
+0.246 ± 0.031
+0.087 ± 0.01
+2.5 μmol kg−1 (48 h)
+2.88 ± 0.54
+0.248 ± 0.004
+0.112 ± 0.007
+Page 24
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Plasma creatinine levels. Wistar dams were exposed intravenously to 0.5 μmol or 2.5 μmol kg−1 HgCl2 for 6
+or 48 h. Dams exposed for 6 h were injected on GD 20 and were euthanized on GD20. Dams exposed for 48 h
+were injected on GD18 and euthanized on GD20.
+0.5 μmol kg−1
+2.5 μmol kg−1
+aSignificantly different (p < 0.05) from the mean for the group of rats exposed to the same dose for 6h.
+bSignificantly  different  (p  <  0.05)  from  the  mean  for  the  group  of  rats  exposed  to  0.5  μmol  HgCl2  kg−1  for  the  same  time.
+6 h Exposure
+0.35 ± 0.08
+0.54 ± 0.05b
+48 h Exposure
+0.38 ± 0.04
+0.74 ± 0.06a,b
+Table 2
+Page 25
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+
+>>>section: methods
+2. Materials and methods
+2.1. Animals
+Page 3
+Male and female Wistar rats were obtained from our breeding colony housed in the Mercer
+University School of Medicine animal facility. Female Wistar rats, weighing 275-300 g,
+were mated with male Wistar rats in our facility for 36 h in order to obtain pregnant dams.
+All animals were provided a commercial laboratory diet (Tekland 6% rat diet, Harlan
+Laboratories) and water ad libitum throughout all aspects of experimentation. The animal
+protocol for the current study was reviewed and approved by the Institutional Animal Care
+and Use Committee. Animals were handled in accordance with the Guide for the Care and
+Use of Laboratory Animals as adopted by the National Institutes of Health.
+2.2. Exposure of animals to HgCl2
+Four groups of pregnant dams were injected intravenously with HgCl2. Dams in Group A
+were injected intravenously (i.v.) with a non-nephrotoxic dose of HgCl2 (0.5 μmol kg−12 mL
+0.9% NaCl containing 1 μCi of [203Hg2+] per rat) (Zalups, 1997) while dams in Group B
+were injected with a nephrotoxic dose of HgCl2 (2.5 μmol kg−1 2 mL saline containing 1
+μCi of [203Hg2+] per rat) (Zalups et al., 1991). Groups A and B were injected with HgCl2 on
+day 20 of gestation (ED20) and were euthanized 6 h later in order to assess the disposition of
+Hg2+ prior to or near the time of the induction of renal injury. Dams in Group C were
+injected intravenously (i.v.) with a non-nephrotoxic dose of HgCl2 (0.5 μmol kg−1 2 mL
+0.9% NaCl containing 1 μCi of [203Hg2+] per rat) while dams in Group D were injected with
+a nephrotoxic dose of HgCl2 (2.5 μmol kg−1 2 mL saline containing 1
+μCiof[203Hg2+]perrat). Rats in groups C and D were injected on ED18 and were euthanized
+on ED 20 in order to assess the disposition of Hg2+ in dams with acute nephrotoxic injury.
+There were no obvious physiological or pathological changes in any of the rats at the time of
+injection.
+At the time of injection, each animal was anesthetized with 2-5% isoflurane and a small
+incision was made in the skin in the midventral region of the thigh to expose the femoral
+vein and artery. The dose of HgCl2 was administered into the femoral vein and then the
+wound was closed with two 9-mm wound clips. Subsequently, all animals were housed
+individually in plastic metabolic cages.
+2.3. Radioactive Hg [203Hg2+]
+Radioactive Hg [203Hg2+] was produced by neutron activation of mercuric oxide (enriched
+with Hg202) at the Missouri University Research Reactor (MURR) facility as described
+previously (Belanger et al., 2001; Bridges et al., 2004). Briefly, a 3-mg sample of mercuric
+oxide was irradiated for 4 weeks at MURR. Following irradiation, the sample was dissolved
+in 1 mL of 1 N HCl and the activity was measured using a Fluka ion chamber. The specific
+activities ranged from 10 to 15mCi/mg.
+2.4. Collection of tissues and organs
+At the time of euthanasia, rats were anesthetized with an intraperitoneal (i.p.) injection of
+ketamine and xylazine (70/30 mg kg−1 in 2mL saline). A 3-mL sample of blood was first
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 4
+obtained from the inferior vena cava and 1 mL was placed in a polystyrene tube for
+estimation of [203Hg2+] content. Approximately 0.5 mL of blood was placed in a blood
+separation tube in order to separate plasma from the cellular contents of blood. Total blood
+volume was estimated to be 6% of body weight (Lee and Blaufox, 1985).
+Right and left kidneys were then removed and each kidney was trimmed of fat and fascia,
+weighed, and cut in half along the mid-traverse plane. One-half of the right kidney was
+placed in fixative (40% formaldehyde, 50% glutaraldehyde in 96.7 mM NaH2PO4 and 67.5
+mM NaOH) in preparation for histological analyses. The remaining half was frozen in liquid
+nitrogen for future RNA analyses. A 3-mm transverse slice of the left kidney was utilized to
+obtain samples of cortex, outer stripe of outer medulla (OSOM), inner stripe of outer
+medulla (ISOM) and inner medulla. Each zone of the kidney was weighed and placed in a
+separate polystyrene tube for estimation of [203Hg2+] content. The liver was then excised,
+weighed, and a 1-g section was removed for determination of [203Hg2+] content.
+In groups A and B, urine and feces were collected 6 h after injection with HgCl2. In groups
+C and D, urine and feces were collected for 24-h periods with the first collection taking
+place 24 h after the injection with HgCl2. The second 24-h collection occurred 48 h after the
+injection with HgCl2. For all groups, urine from each animal was mixed and a 1-mL sample
+was weighed and placed in a polystyrene tube for estimation of [203Hg2+] content. All of the
+feces excreted by each animal during each collection period were counted to determine
+accurately the total fecal content of [203Hg2+]. The content of [203Hg2+] in each sample was
+determined by counting in a Wallac Wizard 3 automatic gamma counter (PerkinElmer).
+2.5. Collection of amniotic fluid, placentas, and fetuses
+The uterus of each pregnant rat was removed and each fetus and placenta was extracted.
+Each placenta was weighed and placed in a polystyrene tube for estimation of [203Hg2+]
+content. Amniotic fluid was collected on a piece of Whatman paper which was placed in a
+polystyrene tube. Each fetus was weighed, decapitated, and placed in 5mL of 80% ethanol
+(w/v) in a glass scintillation vial. After the entire fetus was counted, the brain, kidneys and
+liver of each fetus were removed. Each organ was weighed and placed in a separate
+polystyrene tube. The content of [203Hg2+] in each sample was determined by counting in a
+Wallac Wizard 3 automatic gamma counter. The amount of Hg in each sample was
+estimated using standard computational methods.
+2.6. Measurement of plasma creatinine
+For determination of plasma creatinine, 30 μL of plasma was utilized and the concentration
+of creatinine was assessed using the QuantiChrome creatinine assay (BioAssay).
+2.7. Real-time PCR
+Analysis of kidney injury molecule-1 (Kim-1) was performed with an ABI Prism 7000
+Detection System as described previously (Bridges et al., 2014). A Gene Expression Assay
+was utilized to detect Kim-1 (Kim-1: Rn00597701_m1) in samples. Glyceraldehyde 
+3-phosphate dehydrogenase (Gapdh; Rn01775763_g1) was used as a reference gene.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+2.8. Histological analyses
+Page 5
+2.9. Data analyses
+Data were analyzed first with the Kolmogorov-Smirnov test for normality and then with
+statistical significance.
+
+>>>section: fulltext
+HHS Public Access
+Author manuscript
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Published in final edited form as:
+Toxicology. 2015 September 1; 335: 62-71. doi:10.1016/j.tox.2015.07.006.
+Disposition of inorganic mercury in pregnant rats and their
+offspring
+Cláudia S. Oliveira, Lucy Joshee, Rudolfs K. Zalups, Maria E. Pereira1, and Christy C.
+Bridges*
+Mercer University School of Medicine, Division of Basic Medical Sciences, Macon, GA, USA
+Abstract
+Environmental toxicants such as methylmercury have been shown to negatively impact fetal
+health. Despite the prevalence of inorganic mercury (Hg2+) in the environment and the ability of
+methylmercury to biotransform into Hg2+, little is known about the ability of Hg2+ to cross the
+placenta into fetal tissues. Therefore, it is important to understand the handing and disposition of
+Hg2+ in the reproductive system. The purpose of the current study was to assess the disposition
+and transport of Hg2+ in placental and fetal tissues, and to test the hypothesis that acute renal
+injury in dams can alter the accumulation of Hg2+ in fetal tissues. Pregnant Wistar rats were
+injected intravenously with 0.5 or 2.5 μmol kg−1 HgCl2 for 6 or 48 h and the disposition of Hg2+
+was measured. Accumulation of Hg2+ in the placenta was rapid and dose-dependent. Very little
+Hg2+ was eliminated during the initial 48 h after exposure. When dams were exposed to the low
+dose of HgCl2, fetal accumulation of Hg2+ increased between 6 h and 48 h, while at the higher
+dose, accumulation was similar at each time point. Within fetal organs, the greatest concentration
+of Hg2+ (nmol/g) was localized in the kidneys, followed by the liver and brain. A dose-dependent
+increase in the accumulation of Hg2+ in fetal organs was observed, suggesting that continued
+maternal exposure may lead to increased fetal exposure. Taken together, these data indicate that
+Hg2+ is capable of crossing the placenta and gaining access to fetal organs in a dose-dependent
+manner.
+Keywords
+Mercury; Placenta; Transport; Nephrotoxicity
+1. Introduction
+There is significant risk of humans being exposed to inorganic (Hg2+) and/or methylmercury
+(CH3Hg+) through environmental, occupational or dietary means. Exposure to Hg2+ and
+CH3Hg+ can lead to serious toxicological consequences in the renal, hepatic, cardiovascular,
+reproductive, and nervous systems (ATSDR, 2008; Bridges and Zalups, 2010). Of particular
+*Corresponding  author  at:  Mercer  University  School  of  Medicine,  Department  of  Basic  Medical  Sciences,  1550  College  St.,  Macon,
+GA 31207, USA. bridges_cc@mercer.edu (C.C. Bridges).
+1Present  address:  Post-Graduate  Course  in  Biological  Science-Toxicological  Biochemistry,  Federal  University  of  Santa  Maria,  Santa
+Maria, RS, Brazil.
+Conflict of interests
+None.
+Oliveira et al.
+Page 2
+concern is the effect of mercuric species on the reproductive system and the developing
+fetus. Despite guidelines from the Environmental Protection Agency (EPA), certain
+populations of pregnant women continue to consume more than the recommended amount
+of seafood (Nair et al., 2014; Soon et al., 2014; Xu and Newman, 2014). Interestingly, the
+content of CH3Hg+ in certain species of fish is increasing (Drevnick et al., 2015), which
+further increases the risk of mercury (Hg) exposure in fish-eating human populations.
+Numerous studies have shown that following ingestion of CH3Hg+, mercuric ions can
+readily cross the placenta and accumulate in the fetus (Bridges et al., 2009, 2012; Sakamoto
+et al., 2013; Yorifuji et al., 2009). In contrast, little is known about the ability of Hg2+ to
+cross the placenta despite evidence that CH3Hg+ can be biotransformed to Hg2+, either in
+plasma or target cells (Lorscheider et al., 1995; Norseth and Clarkson, 1970a; Norseth and
+Clarkson, 1971). It has been suggested indirectly that Hg2+ is unable to gain access to fetal
+tissues even though Hg2+ has been shown to accumulate in the placenta (Ask et al., 2002;
+Chehimi et al., 2012; Feng et al., 2004; Oliveira et al., 2012; Yang et al., 1996; Yoshida,
+2002). Considering the placental accumulation of Hg2+, it seems possible that Hg2+ may
+also gain access to fetal tissues and organs. Therefore, one aim of the current study was to
+determine the nature and pattern of accumulation and disposition of Hg2+ in placental and
+fetal tissues.
+Given that the biotransformation of CH3Hg+−Hg2+ probably occurs primarily in maternal
+blood and organs, it is important to understand how Hg2+ is handled in maternal organs, as
+well those of the fetus. In adults, the primary site of Hg2+ accumulation and toxicity is the
+kidney, specifically the epithelial cells of the proximal tubule (Zalups, 2000). In fact, in as
+little as three hours after intravenous exposure to Hg2+ (as HgCl2), approximately 55% of
+the administrated dose can be detected in the kidneys (Zalups, 1993). In animals exposed to
+nephrotoxic doses of HgCl2, pathological changes such as cellular necrosis, tubular
+dilatation and atrophy, proteinaceous casts, inflammation, and interstitial collagen
+deposition have been identified in and around proximal tubules (Bridges et al., 2014; Favero
+et al., 2014b). Increases in blood urea nitrogen (BUN) and plasma creatinine levels have also
+been reported, which suggests that glomerular filtration rate (e.g., renal function) is reduced
+following exposure to highly nephrotoxic doses of HgCl2 (Bridges et al., 2014; Zalups et al.,
+2014). When maternal exposure to HgCl2 is great enough to cause reductions in renal
+function, it is possible that the maternal burden and corporal disposition of Hg2+ is altered
+because of a reduced ability to eliminate mercuric ions in urine. Consequently, it is possible
+that the placental and fetal burden of Hg will also be altered, leading to greater toxicological
+consequences in the fetus. Therefore, a second aim of this study was to test the hypothesis
+that acute renal injury in pregnant dams alters the fetal accumulation of Hg2+.
+In the present study, we exposed pregnant Wistar rats to either a non-nephrotoxic or a
+nephrotoxic dose of HgCl2 and assessed the disposition and toxicity of mercuric ions not
+only in placental tissues, but also in fetal organs, either six or 48 h after exposure to Hg2+.
+Understanding how mercuric ions accumulate in the placenta and fetus will provide insight
+into the toxicity and the mechanisms by which mercuric ions are handled fetuses.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+2. Materials and methods
+2.1. Animals
+Page 3
+Male and female Wistar rats were obtained from our breeding colony housed in the Mercer
+University School of Medicine animal facility. Female Wistar rats, weighing 275-300 g,
+were mated with male Wistar rats in our facility for 36 h in order to obtain pregnant dams.
+All animals were provided a commercial laboratory diet (Tekland 6% rat diet, Harlan
+Laboratories) and water ad libitum throughout all aspects of experimentation. The animal
+protocol for the current study was reviewed and approved by the Institutional Animal Care
+and Use Committee. Animals were handled in accordance with the Guide for the Care and
+Use of Laboratory Animals as adopted by the National Institutes of Health.
+2.2. Exposure of animals to HgCl2
+Four groups of pregnant dams were injected intravenously with HgCl2. Dams in Group A
+were injected intravenously (i.v.) with a non-nephrotoxic dose of HgCl2 (0.5 μmol kg−12 mL
+0.9% NaCl containing 1 μCi of [203Hg2+] per rat) (Zalups, 1997) while dams in Group B
+were injected with a nephrotoxic dose of HgCl2 (2.5 μmol kg−1 2 mL saline containing 1
+μCi of [203Hg2+] per rat) (Zalups et al., 1991). Groups A and B were injected with HgCl2 on
+day 20 of gestation (ED20) and were euthanized 6 h later in order to assess the disposition of
+Hg2+ prior to or near the time of the induction of renal injury. Dams in Group C were
+injected intravenously (i.v.) with a non-nephrotoxic dose of HgCl2 (0.5 μmol kg−1 2 mL
+0.9% NaCl containing 1 μCi of [203Hg2+] per rat) while dams in Group D were injected with
+a nephrotoxic dose of HgCl2 (2.5 μmol kg−1 2 mL saline containing 1
+μCiof[203Hg2+]perrat). Rats in groups C and D were injected on ED18 and were euthanized
+on ED 20 in order to assess the disposition of Hg2+ in dams with acute nephrotoxic injury.
+There were no obvious physiological or pathological changes in any of the rats at the time of
+injection.
+At the time of injection, each animal was anesthetized with 2-5% isoflurane and a small
+incision was made in the skin in the midventral region of the thigh to expose the femoral
+vein and artery. The dose of HgCl2 was administered into the femoral vein and then the
+wound was closed with two 9-mm wound clips. Subsequently, all animals were housed
+individually in plastic metabolic cages.
+2.3. Radioactive Hg [203Hg2+]
+Radioactive Hg [203Hg2+] was produced by neutron activation of mercuric oxide (enriched
+with Hg202) at the Missouri University Research Reactor (MURR) facility as described
+previously (Belanger et al., 2001; Bridges et al., 2004). Briefly, a 3-mg sample of mercuric
+oxide was irradiated for 4 weeks at MURR. Following irradiation, the sample was dissolved
+in 1 mL of 1 N HCl and the activity was measured using a Fluka ion chamber. The specific
+activities ranged from 10 to 15mCi/mg.
+2.4. Collection of tissues and organs
+At the time of euthanasia, rats were anesthetized with an intraperitoneal (i.p.) injection of
+ketamine and xylazine (70/30 mg kg−1 in 2mL saline). A 3-mL sample of blood was first
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 4
+obtained from the inferior vena cava and 1 mL was placed in a polystyrene tube for
+estimation of [203Hg2+] content. Approximately 0.5 mL of blood was placed in a blood
+separation tube in order to separate plasma from the cellular contents of blood. Total blood
+volume was estimated to be 6% of body weight (Lee and Blaufox, 1985).
+Right and left kidneys were then removed and each kidney was trimmed of fat and fascia,
+weighed, and cut in half along the mid-traverse plane. One-half of the right kidney was
+placed in fixative (40% formaldehyde, 50% glutaraldehyde in 96.7 mM NaH2PO4 and 67.5
+mM NaOH) in preparation for histological analyses. The remaining half was frozen in liquid
+nitrogen for future RNA analyses. A 3-mm transverse slice of the left kidney was utilized to
+obtain samples of cortex, outer stripe of outer medulla (OSOM), inner stripe of outer
+medulla (ISOM) and inner medulla. Each zone of the kidney was weighed and placed in a
+separate polystyrene tube for estimation of [203Hg2+] content. The liver was then excised,
+weighed, and a 1-g section was removed for determination of [203Hg2+] content.
+In groups A and B, urine and feces were collected 6 h after injection with HgCl2. In groups
+C and D, urine and feces were collected for 24-h periods with the first collection taking
+place 24 h after the injection with HgCl2. The second 24-h collection occurred 48 h after the
+injection with HgCl2. For all groups, urine from each animal was mixed and a 1-mL sample
+was weighed and placed in a polystyrene tube for estimation of [203Hg2+] content. All of the
+feces excreted by each animal during each collection period were counted to determine
+accurately the total fecal content of [203Hg2+]. The content of [203Hg2+] in each sample was
+determined by counting in a Wallac Wizard 3 automatic gamma counter (PerkinElmer).
+2.5. Collection of amniotic fluid, placentas, and fetuses
+The uterus of each pregnant rat was removed and each fetus and placenta was extracted.
+Each placenta was weighed and placed in a polystyrene tube for estimation of [203Hg2+]
+content. Amniotic fluid was collected on a piece of Whatman paper which was placed in a
+polystyrene tube. Each fetus was weighed, decapitated, and placed in 5mL of 80% ethanol
+(w/v) in a glass scintillation vial. After the entire fetus was counted, the brain, kidneys and
+liver of each fetus were removed. Each organ was weighed and placed in a separate
+polystyrene tube. The content of [203Hg2+] in each sample was determined by counting in a
+Wallac Wizard 3 automatic gamma counter. The amount of Hg in each sample was
+estimated using standard computational methods.
+2.6. Measurement of plasma creatinine
+For determination of plasma creatinine, 30 μL of plasma was utilized and the concentration
+of creatinine was assessed using the QuantiChrome creatinine assay (BioAssay).
+2.7. Real-time PCR
+Analysis of kidney injury molecule-1 (Kim-1) was performed with an ABI Prism 7000
+Detection System as described previously (Bridges et al., 2014). A Gene Expression Assay
+was utilized to detect Kim-1 (Kim-1: Rn00597701_m1) in samples. Glyceraldehyde 
+3-phosphate dehydrogenase (Gapdh; Rn01775763_g1) was used as a reference gene.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+2.8. Histological analyses
+Page 5
+2.9. Data analyses
+Data were analyzed first with the Kolmogorov-Smirnov test for normality and then with
+statistical significance.
+3. Results
+3.1. Disposition of Hg2+ in fetal tissues
+0.5-μmol kg−1 dose at both 6 h and 48 h after exposure.
+3.2. Content of Hg2+ in the total renal mass of fetuses
+fetuses from dams exposed to 0.5 μmol kg−1 HgCl2 at 6 h and 48 h.
+3.3. Content of Hg2+ in fetal liver
+Following fixation, kidneys were washed twice with normal saline and placed in 70%
+ethanol. Tissues were processed in a Tissue-Tek VIP processor using the following
+sequence: 95% ethanol for 30min (twice); 100% ethanol for 30 min (twice); 100% xylene
+(twice). Tissue was subsequently embedded in POLY/Fin paraffin (Fisher). 5-μm sections
+were cut using a Leitz 1512 microtome and were subsequently mounted on glass slides.
+Sections were stained with hematoxylin and eosin (H & E) and were viewed using an
+Olympus IX70 microscope. Images were captured with a Jenoptix Progress C12 digital
+camera.
+Levene’s test for homogeneity of variances. Data were then analyzed using a 2 × 2 two-way
+analysis of variance (ANOVA) to assess the effect of dose of HgCl2 and time of exposure
+followed by Tukey’s post hoc testing. A p-value of <0.05 was chosen a priori to represent
+Fig. 1 shows the total fetal burden of Hg2+ per dam following exposure to 0.5 μmol kg−1 or
+2.5 μmol kg−1 HgCl2. When dams were exposed to the 0.5-μmol kg−1 dose, the total fetal
+burden of Hg2+ was significantly greater after 48 h of exposure than after 6 h. In contrast,
+when dams were exposed to the 2.5-μmol kg−1 dose, there was no significant difference in
+the total fetal burden of Hg2+ between 6 and 48 h. The total fetal burden of Hg2+ of dams
+exposed to the 2.5-μmol kg−1 dose was significantly greater than that of dams exposed to the
+The content of Hg2+ in fetal kidney, liver and brain is shown in Fig. 2A-C, respectively. In
+Fig. 2, data are expressed as the burden of Hg (nmol) in the total number of fetal kidneys,
+liver, or brains per dam. In order to take the weight of each fetal organ into consideration,
+data are also expressed as nmol g−1 tissue (Table 1). The amount of Hg2+ (Fig. 2A) in the
+total renal mass of all fetuses from dams exposed to 0.5 μmol kg−1 HgCl2 was significantly
+greater 6 h after exposure than after 48 h. Similarly, when dams were exposed to 2.5 μmol
+kg−1 HgCl2, the amount of Hg2+ in the total renal mass of all fetuses was significantly
+greater 6 h after exposure than after 48 h. The amount of Hg2+ in the total renal mass of
+fetuses from dams exposed to 2.5 μmol kg−1 of HgCl2 was significantly greater than of
+The burden of Hg2+ in liver (Fig. 2B) of fetuses from dams exposed to 0.5 μmol kg−1 was
+significantly greater 6 h after exposure than after 48 h. Similarly, the hepatic burden of Hg2+
+of fetuses from dams exposed to the 2.5-μmol kg−1 dose of HgCl2 also greater 6 h after
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+3.4. Content of Hg2+ in fetal brain
+Page 6
+exposure than after 48 h. At both exposure periods, the hepatic burden of Hg2+ of fetuses
+from dams exposed to 2.5 μmol kg−1 HgCl2 was significantly greater than that of fetuses
+harvested from corresponding dams exposed to the 0.5-μmol kg−1 dose.
+The amount of Hg2+ in the brain (Fig. 2C) of fetuses from dams exposed to 0.5 μmol kg−1
+HgCl2 for 6 h was not significantly different from that of fetuses from dams exposed to the
+same dose for 48 h. In contrast, the burden of Hg2+ in fetal brains from dams exposed to 2.5
+μmol kg−1 HgCl2 for 6 h was significantly greater than that from corresponding dams
+exposed for 48 h. The burden of Hg2+ in fetal brain was significantly greater in dams
+exposed to the 2.5-μmol kg−1 dose of HgCl2 than in dams exposed to the 0.5-μmol kg−1
+dose. This was true at both periods of study.
+3.5. Disposition of Hg2+ in maternal tissues
+3.5.1. Content of Hg2+ in uterus, placenta, and amniotic fluid-In dams exposed
+to 0.5 μmol kg−1 HgCl2, the uterine burden (Fig. 3A) of Hg2+ was significantly lower after
+48 h than after 6h. Similarly, the uterine content of Hg2+ in the dams exposed to 2.5 μmol
+kg−1 HgCl2 was significantly greater 6 h after exposure to HgCl2 than after 48 h after
+exposure. The uterine burden of Hg2+ was significantly greater in dams exposed to 2.5 μmol
+kg−1 HgCl2 than in corresponding dams exposed to the 0.5 μmol kg−1 dose at both, 6 h and
+48 h after exposure to HgCl2.
+The total placental burden of Hg2+ per dam is shown in Fig. 3B. In dams exposed to 0.5
+μmol kg−1 HgCl2, the placental burden of Hg2+ was significantly greater 6 h after exposure
+than after 48 h. A similar pattern was observed when dams were exposed to the 2.5-μmol
+kg−1 dose of HgCl2. As might be expected, the burden of Hg2+ was significantly greater in
+placentas from dams exposed to 2.5 μmol kg−1 HgCl2 than in placentas from corresponding
+dams exposed to the 0.5-μmol kg−1 dose, at both exposure times.
+The amount of Hg2+ in the total volume of amniotic fluid per dam is shown in Fig. 3C. In
+dams exposed to 0.5 μmol kg−1 HgCl2, the amount of Hg2+ in the amniotic fluid was
+significantly greater after 6 h of exposure than after 48 h. Similarly, when dams were
+exposed to 2.5 μmol kg−1 HgCl2, the content of Hg2+ in amniotic fluid was greater after 6 h
+than after 48 h. The content of Hg2+ in amniotic fluid was greater in dams exposed to 2.5
+μmol kg−1 HgCl2 than in corresponding dams exposed to 0.5 μmol kg−1 after 6 h and 48 h.
+3.6. Content of Hg2+ in the total renal mass and urine of dams
+The burden of Hg2+ in the total renal mass of dams exposed to HgCl2 is shown in Fig. 4A.
+The majority of the administered dose was detected in maternal kidneys. When dams were
+exposed to 0.5 μmol kg−1 HgCl2, the renal burden of Hg2+ 6 h after exposure was not
+significantly different from that 48 h after exposure. In dams exposed to 2.5 μmol kg−1
+HgCl2, the renal burden of Hg2+ was significantly greater 6 h after exposure than after 48 h.
+The renal burden of Hg2+ of dams exposed to 2.5 μmol HgCl2 kg−1 for either 6 h or 48 h
+was significantly greater than that of corresponding dams exposed to 0.5 μmol HgCl2 kg−1.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 7
+The amount of Hg2+ excreted in urine of dams is shown in Fig. 4B. The 24-h collection
+represents the initial 24 h after injection with HgCl2 while the 48-h collection represents the
+second 24-h after injection with HgCl2. When dams were exposed to 0.5 μmol kg−1 HgCl2,
+the urinary excretion of Hg2+ after 6 h of exposure was significantly lower than that detected
+in the 24-h and 48-h collections. A similar pattern of urinary excretion of Hg2+ was
+observed in dams exposed to 2.5 μmol kg−1 HgCl2. The amount of Hg2+ excreted in urine
+by the dams exposed to 2.5 μmol kg−1 HgCl2 was significantly greater than that excreted by
+the corresponding rats exposed to the 0.5-μmol kg−1 dose at each time measured after
+exposure to HgCl2.
+3.7. Concentration of Hg2+ in renal zones
+The concentration of Hg2+ detected in the renal cortex (nmol g−1; Fig. 5A) 6 h after
+exposure of dams to 0.5 μmol kg−1 HgCl2 was not significantly different from that detected
+48 h after exposure. In contrast, the concentration of Hg2+ in the renal cortex of dams 6 h
+after exposure to 2.5 μmol kg−1 HgCl2 was significantly greater than that in the cortex of
+corresponding dams 48 h after exposure. The cortical concentration of Hg2+ was
+significantly greater in dams exposed to 2.5 μmol kg−1 HgCl2 than in dams exposed to 0.5
+μmol kg−1 HgCl2 after either 6 h or 48 h.
+The concentration of Hg2+ detected in the OSOM (nmol g−1; Fig. 5B) 6 h after dams were
+exposed to 0.5 μmol kg−1 HgCl2 was significantly lower from that detected 48 h after
+exposure. The concentration of Hg in the OSOM of dams 6 h after exposure to the 2.5-μmol
+kg−1 dose was significantly greater than that in the OSOM of corresponding dams 48 h after
+exposure. The concentration of Hg2+ in the OSOM of dams exposed to 2.5 μmol kg−1 HgCl2
+was significantly greater than that of dams exposed to 0.5 μmol kg−1 for either exposure
+period. The amount of Hg2+ detected in the ISOM and the inner medulla was minimal (data
+not shown).
+3.8. Content of Hg2+ in liver and feces
+The hepatic burden of Hg2+ of dams exposed to 0.5 μmol kg−1− HgCl2 was significantly
+greater after 6 h of exposure than after 48 h (Fig. 6A). A similar pattern of accumulation was
+observed in dams that were exposed to the 2.5-μmol kg−1 dose. When dams were exposed to
+2.5 μmol HgCl2 kg−1, the hepatic burden of Hg2+ was significantly greater than that in
+corresponding dams exposed to 0.5 μmol HgCl2 kg−1 at both 6 h and 48 h after exposure.
+The amount of Hg2+ excreted in feces by dams is shown in Fig. 6B. The 24-h collection
+represents the initial 24 h after injection with HgCl2 while the 48-h collection represents the
+second 24-h after injection with HgCl2. It should be noted that the fecal mass varied among
+rats. The amount of Hg2+ excreted in feces by dams exposed to 0.5 μmol kg−1 HgCl2 for 6 h
+was significantly lower than that excreted in either of the 24-h periods of the 48-exposure to
+HgCl2. A similar pattern of fecal excretion was observed in dams exposed to the 2.5-μmol
+kg−1 dose of HgCl2. There was no significant difference in the fecal excretion of Hg2+
+between rats exposed to 0.5 μmol kg−1 HgCl2 and rats exposed to 2.5-μmol kg−1 HgCl2 for
+6 h. Moreover, the fecal excretion of Hg2+ during the first 24-h period of the 48-h exposure
+period was not significantly different between dams exposed to 0.5 μmol kg−1 HgCl2 and
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+3.9. Burden of Hg2+ in blood and brain of dams
+Page 8
+those exposed to the 2.5-μmol kg−1 dose. However, during the second 24-h period of the 
+48-h exposure period, the fecal excretion of Hg2+ was significantly greater in dams exposed to
+the 2.5-μmol kg−1 dose than in dams exposed to the 0.5-μmol kg−1 dose.
+The hematologic burden of Hg2+ in dams exposed to either dose of HgCl2 was significantly
+greater after 6 h of exposure than after 48 h (Fig. 7A). Exposure of dams to 2.5 μmol HgCl2
+kg−1 resulted in a hematologic burden of Hg2+ that was significantly greater than that in
+corresponding dams exposed to 0.5 μmol HgCl2 kg−1 at 6 h and 48 h.
+The amount of Hg2+ detected in the brain of dams was low but detectable (Fig. 7B). In dams
+exposed to 0.5 μmol kg−1 HgCl2, the burden of Hg2+ in the brain was not significantly
+different between dams exposed for 6 h and those exposed for 48 h. In dams exposed to 2.5
+μmol kg−1 HgCl2, the amount of Hg2+ in brain was significantly greater after 6 h of
+exposure than after 48 h.
+3.10. Assessment of Hg2+-induced nephropathy
+Real-time PCR analyses (Fig. 8) were performed in order to evaluate the expression of
+Kim-1, a biomarker of renal injury, in kidneys of dams exposed to 0.5 or 2.5 μmol kg−1
+HgCl2. The expression of Kim-1 was significantly greater in kidneys of dams exposed to
+either dose of HgCl2 for 48 h than in kidneys of corresponding dams exposed for 6 h. The
+expression of Kim-1 was significantly greater in kidneys isolated from dams exposed to 2.5
+μmol kg−1 HgCl2 than in kidneys from corresponding dams exposed to 0.5 μmol kg−1
+HgCl2. This observation was true for both exposure periods.
+Analyses of plasma creatinine levels (Table 2) support the results of the PCR analyses.
+Samples of plasma, collected from dams 6 or 48 h after injection with either dose of HgCl2,
+were utilized for analysis of plasma creatinine. In dams exposed to 0.5 μmol kg−1 HgCl2,
+plasma creatinine levels were similar to that reported previously for normal Wistar rats
+(Amini et al., 2012; Bridges et al., 2014; Moeini et al., 2013; Palm and Lundblad, 2005).
+Exposure of dams to 2.5 μmol kg−1 HgCl2 for 48 h led to plasma creatinine levels that were
+significantly greater than those measured after exposure to the same dose of HgCl2 for 6h.
+Furthermore, exposure of dams to either dose of HgCl2 for 48 h resulted in levels of plasma
+creatinine that were significantly greater than that detected after 6 h of exposure.
+Fig. 9 shows the histological features of kidneys from dams exposed to 0.5 μmol or 2.5 μmol
+kg−1 HgCl2 for 48 h. No histological alterations were observed in kidneys from dams
+exposed to either dose of Hg2+ for 6 h (data not shown). In kidneys of dams exposed to 0.5
+μmol kg−1 HgCl2, the renal structures in the cortex (Fig. 9A) and OSOM (Fig. 9B) appeared
+normal. Similarly, in kidneys of dams exposed to the 2.5-μmol dose of HgCl2, significant
+pathological alterations were not observed in the cortex (Fig. 9C). However, the OSOM
+(Fig. 9D) exhibited significant cellular injury and necrosis throughout, particularly at the
+cortico-medullary junction. Approximately 50% of proximal tubules located in the OSOM
+displayed signs of complete tubular necrosis, which is characterized by eosinophilic
+cytoplasm, pyknotic nuclei, and death and shedding of epithelial cells. Tubular lumens were
+filled with proteinaceous material and numerous leukocytes were present in the interstitial
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+4. Discussion
+A strong body of scientific evidence indicates that CH3Hg+ can cross the placental barrier
+and compromise fetal health (ATSDR, 2008; Bridges et al., 2009, 2012; Castoldi et al.,
+2001; Chehimi et al., 2012; Clarkson et al., 2003; Myers et al., 2000). However, little is
+known about the ability of Hg2+ to cross the placenta. Since CH3Hg+ can be biotransformed
+to Hg2+ within biological systems (Daniel, 1972; Gage, 1964; Norseth and Clarkson,
+1970a,b), it is important to understand how Hg2+ is handled by placental and fetal tissues.
+Therefore, the principal aims of the current study were to (1) test the hypothesis that Hg2+
+can accumulate in the placenta and fetus following maternal exposure to HgCl2 and (2) to
+test the hypothesis that maternal exposure to a nephrotoxic dose of HgCl2 alters the maternal
+and fetal disposition of Hg2+. To our knowledge, this study is the first to report the
+disposition of Hg2+ in fetal tissues following maternal exposure to a nephrotoxic or 
+non-nephrotoxic dose of Hg2+.
+The findings of the current study provide important insight into the handling of Hg2+ in
+placental and fetal tissues. Following exposure to 0.5 μmol kg−1 HgCl2, the placental burden
+of Hg2+ 6 h after exposure was similar to that 48 h after exposure. This finding suggests that
+(1) placental accumulation of Hg2+ is rapid and (2) the placenta does not have efficient
+mechanisms to eliminate mercuric ions. In addition, the placental accumulation of Hg2+
+appeared to be directly dependent upon the dose of HgCl2 to which dams were exposed
+(e.g., a higher dose led to increased accumulation). Hg2+ has been shown previously to be
+retained in the placenta (Ask et al., 2002), which may be due, in part, to the binding of Hg2+
+in blood to the endothelium of placental blood vessels. The present data, however, indicate
+that at least a fraction of the Hg2+ that gains access to the placenta subsequently enters fetal
+tissues. The Hg2+ that is transported into fetal tissues likely exists as a conjugate of a 
+thiol-containing biomolecule (Bridges et al., 2009; Bridges and Zalups, 2010), which may utilize
+a number of various transport proteins to cross the placenta and access fetal organs/tissues.
+When the fetal burden of Hg2+ was examined in dams exposed to the 0.5-μmol kg−1 dose of
+HgCl2, the total fetal accumulation of Hg2+ was greater 48 h after exposure than 6 h after
+exposure. This finding suggests that fetal accumulation of Hg2+ continues to increase during
+Page 9
+space. In addition, about 25% of proximal tubules displayed the initial stages of cellular
+necrosis, which are characterized by swelling and blebbing of epithelial cells and
+condensation of nuclear chromatin. This pattern of injury is similar to that reported
+previously for HgCl2-induced nephrotoxicity.
+the initial 48 h after exposure to HgCl2. Interestingly, when dams were exposed to the higher
+dose of HgCl2, there was no difference in fetal burden between 6-h and 48-h of exposure.
+This lack of difference may be due to saturation of transport mechanisms involved in the
+transplacental movement and fetal accumulation of Hg2+. Collectively, these findings tend
+to suggest that even acute exposure to HgCl2 can lead to measureable accumulation of Hg2+
+in fetal tissues. Furthermore, regular and/or continuous exposure of pregnant women to
+mercuric compounds, either through environmental or dietary exposure, may lead to
+significant exposure of the fetus to Hg2+. It should also be noted that fetal organs,
+particularly the brain, may be more susceptible to low-level exposure to Hg. Indeed, 
+Hg-Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 10
+induced fetal neurotoxicity has been reported at doses that did not result in toxicological
+consequences in the mother (Grandjean and Herz, 2011; Karagas et al., 2012).
+To our knowledge, the current findings represent the first report of the distribution of
+mercuric ions in fetal organs following maternal exposure to Hg2+. Among fetal organs, the
+total renal mass had the greatest amount of Hg2+ per gram of tissue, followed by liver and
+brain. This pattern of accumulation is similar to that observed previously when dams were
+exposed to methylmercury (Bridges et al., 2009, 2012). This similarity may be due to the
+biotransformation of a fraction of methylmercury to Hg2+ resulting in accumulation of Hg2+
+in addition to methylmercury. Since the kidney is the primary site of accumulation of Hg2+
+in dams (Bridges and Zalups, 2010; Favero et al., 2014a; Zalups, 2000), it is not surprising
+that it is also the primary site of accumulation in the fetus. Furthermore, these findings
+indicate that accumulation of Hg2+ in fetal organs is dependent upon the dose of Hg2+
+received by the dam. Previous reports also suggest that the fetal burden of Hg correlates
+directly with the maternal dose and that continued maternal exposure to mercuric species
+can lead to neurological deficits in fetuses (Debes et al., 2006; Karagas et al., 2012). The
+inefficient elimination of Hg2+ from fetal tissues and the enhanced sensitivity of these
+tissues to the effects of Hg2+ may lead to significant deleterious effects in the fetuses
+without manifestation of clinical symptoms in the mother (Grandjean and Herz, 2011;
+Karagas et al., 2012). Moreover, in the current study, when renal injury was evident in dams
+(following exposure to 2.5 μmol kg−1 HgCl2 for 48 h), the burden of Hg2+ in fetal organs
+was decreased, possibly due to an increase in urinary excretion of Hg2+ by dams.
+It should be noted that when dams were exposed to 0.5 μmol kg−1 HgCl2, the accumulation
+of Hg2+ in maternal kidneys was similar 6 and 48 h after exposure. In other words, the renal
+accumulation of Hg2+ was rapid and the elimination of Hg2+ from the kidney was minimal.
+The rapid accumulation of Hg2+ in the kidney corresponds with previous findings indicating
+that 40% of the administered dose of Hg2+ is present in the kidney within 3 h of exposure
+(Zalups, 1993; Zalups and Minor, 1995). The lack of elimination is likely due to complex
+intracellular binding reactions between mercuric ions and intracellular proteins and 
+non-protein thiols, which consequently restricts movement of mercuric ions out of proximal
+tubular cells (Barbier et al., 2005; Zalups, 2000).
+When the accumulation of Hg2+ was measured in each renal zone, we discovered that the
+majority of accumulation occurred in the cortex and OSOM. This pattern of renal
+accumulation of Hg2+ is significant in that known carriers of Hg2+ are present in proximal
+tubular segments located in the cortex and OSOM (Bridges and Zalups, 2010).
+The results of the current study also show clear differences in the renal handling and
+disposition of Hg2+ following the exposure of dams to a non-nephrotoxic or a nephrotoxic
+dose of HgCl2. When dams were exposed to 2.5 μmol kg−1 HgCl2 (for either 6 h or 48 h),
+we observed that the accumulation of Hg2+ in maternal kidneys was dose-dependent during
+the first 6 h after exposure. In contrast, 48 h after exposure to the 2.5-μmol kg−1 dose, the
+renal burden of Hg2+ was only twofold greater than that after the 0.5-μmol kg−1 dose. The
+apparent lack of dose-dependent accumulation at the 48-h time point may be due to injury
+and death of proximal tubular cells, which leads to sloughing off of these cells and their
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+5. Conclusion
+The current study provides novel data suggesting that Hg2+, probably as a thiol S-conjugate,
+is taken up by the placenta and subsequently gains access to fetal organs. In addition, we
+suggest that the accumulation of Hg2+ in fetal tissues is heavily dependent upon the dose of
+Page 11
+contents into the tubular lumen for excretion in urine. Indeed, the amount of Hg2+ detected
+in urine 48 h after exposure was significantly greater than that excreted during the first 6 h.
+This excretion of Hg2+ may lead to a reduction of other pools of Hg2+, such as that in
+placental and fetal tissues.
+Histological analyses were performed on maternal kidneys in order to characterize the Hg2+-
+induced nephropathy in kidneys of dams. Exposure of dams to 0.5 μmol kg−1 HgCl2 for 6 or
+48 h did not result in detectable renal injury, which is consistent with findings from previous
+studies using this dose of HgCl2 (Bridges and Zalups, 2005, 2010; Zalups, 2000). Moreover,
+when dams were exposed to the 2.5-μmol kg−1 dose for 6 h, no obvious pathological
+alterations were observed in the kidneys. In contrast, when rats were exposed to 2.5 μmol
+kg−1 HgCl2 for 48 h, areas of significant cellular injury and necrosis were evident in the
+inner cortex and OSOM of the kidneys. These data correspond to our previous findings
+(Bridges et al., 2014; Zalups and Diamond, 1987) and suggest that an exposure period of
+longer than 6 h (at the 2.5-μmol kg−1 dose) is necessary to induce histologically
+demonstrable signs of renal injury. The current analyses of plasma creatinine and the 
+real-time PCR analyses of Kim-1, a biomarker of renal injury, tend to support this conclusion.
+With regard to the hepatic burden of Hg2+ in dams, we found that when dams were exposed
+to either dose of HgCl2, the amount of Hg2+ in the liver 48 h after exposure was
+significantly lower than that 6 h after exposure. This finding suggests that a fraction of the
+hepatic burden of Hg2+ is eliminated between 6 and 48 h after exposure. Indeed,
+hepatobiliary elimination of Hg2+ has been shown to occur in the hours/days following
+exposure (Zalups, 1995; Zalups and Koropatnick, 2000). The fecal elimination of Hg2+
+increased during the 48 h following exposure to either dose of HgCl2, suggesting that
+hepatic Hg2+ is eliminated in feces via the biliary tract.
+The disposition of Hg2+ in blood of dams followed a pattern similar to that of the liver. In
+rats that were exposed to HgCl2 for 48 h, the hematologic burden of Hg2+ (at either dose)
+was significantly lower than that of rats in the corresponding 6-h groups. The reduction in
+the burden of Hg2+ in blood is likely due to rapid uptake of Hg2+ by the kidneys and liver as
+well as some glomerular filtration of low molecular weight thiol S-conjugates of Hg2+.
+When dams were exposed to the 0.5-μmol kg−1 dose of HgCl2, the burden of Hg2+ in the
+maternal brain after 6 h and 48 h was similar, suggesting that accumulation of Hg2+ in the
+brain does not change between 6 h and 48 h. However, when dams were exposed to the 2.5-
+μmol kg−1 dose, the burden of Hg2+ decreased slightly between 6 h and 48 h. This decrease
+may be due to changes in the Hg2+ content of the blood that supplies the brain. In fact, it
+should be noted that much of the Hg2+ in the brain may represent Hg2+ associated with
+erythrocytes or the endothelium of blood vessels within the brain.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Acknowledgments
+Abbreviations
+Hg2+
+HgCl2
+[203Hg+]
+OSOM
+ISOM
+Kim-1
+Page 12
+Hg2+ received by the mother. In order to fully characterize the transport and accumulation of
+Hg2+ across the placenta and into fetal tissues, additional studies are required.
+This work was supported by the National Institutes of Health (National Institute of Environmental Health Sciences)
+grant awarded to Dr. Bridges (ES019991).
+inorganic mercury
+mercuric chloride
+radioactive mercury
+outer stripe of the outer medulla
+inner stripe of the outer medulla
+Kidney injury molecule-1
+References
+Amini FG, Rafieian-Kopaei M, Nematbakhsh M, Baradaran A, Nasri H. Ameliorative effects of
+metformin on renal histologic and biochemical alterations of gentamicin-induced renal toxicity in
+Wistar rats. J Res Med Sci. 2012; 17:621-625. [PubMed: 23798920]
+Ask K, Akesson A, Berglund M, Vahter M. Inorganic mercury and methylmercury in placentas of
+Swedish women. Environ Health Perspect. 2002; 110:523-526. [PubMed: 12003757]
+ATSDR AfTSaDR. Toxicological Profile for Mercury, (U.S. Department of Health and Human
+Services PHS ed). Centers for Disease Control; Atlanta, GA: 2008.
+Barbier O, Jacquillet G, Tauc M, Cougnon M, Poujeol P. Effect of heavy metals on, and handling by,
+the kidney. Nephron Physiol. 2005; 99:105-110.
+Belanger M, Westin A, Barfuss DW. Some health physics aspectsofworking with 203Hg in university
+research. Health Phys. 2001; 80:S28-S30. [PubMed: 11197511]
+Bridges CC, Bauch C, Verrey F, Zalups RK. Mercuric conjugates of cysteine are transported by the
+amino acid transporter system b(0,+): implications of molecular mimicry. J Am Soc Nephrol. 2004;
+15:663-673. [PubMed: 14978168]
+Bridges CC, Joshee L, Zalups RK. Effect of DMPS and DMSAon the placental and fetal disposition of
+methylmercury. Placenta. 2009; 30:800-805. [PubMed: 19615742]
+Bridges CC, Joshee L, Zalups RK. Placental and fetal disposition of mercuric ions in rats exposed to
+methylmercury: role of Mrp2. Reprod Toxicol. 2012; 34:628-634. [PubMed: 23059061]
+Bridges CC, Joshee L, Zalups RK. Aging and the disposition and toxicity of mercury in rats. Exp
+Gerontol. 2014; 53:31-39. [PubMed: 24548775]
+Bridges CC, Zalups RK. Molecular and ionic mimicry and the transport of toxic metals. Toxicol Appl
+Pharmacol. 2005; 204:274-308. [PubMed: 15845419]
+Bridges CC, Zalups RK. Transport of inorganic mercury and methylmercury in target tissues and
+organs. J Toxicol Environ Health B: Crit Rev. 2010; 13:385-410. [PubMed: 20582853]
+Castoldi AF, Coccini T, Ceccatelli S, Manzo L. Neurotoxicity and molecular effects of
+methylmercury. Brain Res Bull. 2001; 55:197-203. [PubMed: 11470315]
+Chehimi L, Roy V, Jeljeli M, Sakly M. Chronic exposure to mercuric chloride during gestation affects
+sensorimotor development and later behaviour in rats. Behav Brain Res. 2012; 234:43-50.
+[PubMed: 22705860]
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 13
+Clarkson TW, Magos L, Myers GJ. The toxicology of mercury-current exposures and clinical
+manifestations. N Engl J Med. 2003; 349:1731-1737. [PubMed: 14585942]
+Daniel JW. The biotransformation of organomer curycompounds. Biochem J. 1972; 130:64P-65P.
+Debes F, Budtz-Jorgensen E, Weihe P, White RF, Grandjean P. Impact of prenatal methylmercury
+exposure on neurobehavioral function at age 14 years. Neurotoxicol Teratol. 2006; 28:536-547.
+[PubMed: 17067778]
+Drevnick PE, Lamborg CH, Horgan MJ. Increase in mercury in Pacific yellowfin tuna. Environ
+Toxicol Chem. 2015
+Favero AM, Oliveira CS, Franciscato C, Oliveira VA, Pereira JS, Bertoncheli CM, da Luz SC,
+Dressler VL, Flores EM, Pereira ME. Lactating and nonlactating rats differ to renal toxicity
+induced by mercuric chloride: the preventive effect of zinc chloride. Cell Biochem Funct. 2014a
+Favero AM, Oliveira CS, Franciscato C, Oliveira VA, Pereira JS, Bertoncheli CM, da Luz SC,
+Dressler VL, Flores EM, Pereira ME. Lactating and nonlactating rats differ to renal toxicity
+induced by mercuric chloride: the preventive effect of zinc chloride. Cell Biochem Funct. 2014b;
+32:420-428. [PubMed: 24619859]
+Feng W, Wang M, Li B, Liu J, Chai Z, Zhao J, Deng G. Mercury and trace element distribution in
+organic tissues and regional brain of fetal rat after in utero and weaning exposure to low dose of
+inorganic mercury. Toxicol Lett. 2004; 152:223-234. [PubMed: 15331131]
+Gage JC. Distribution and excretion of methyl and phenyl mercury salts. Br J Ind Med. 1964; 21:197-
+202. [PubMed: 14180477]
+Grandjean P, Herz KT. Methylmercury and brain development: imprecision and underestimation of
+developmental neurotoxicity in humans. Mt Sinai J Med New York. 2011; 78:107-118.
+Karagas MR, Choi AL, Oken E, Horvat M, Schoeny R, Kamai E, Cowell W, Grandjean P, Korrick S.
+Evidence on the human health effects of low-level methylmercury exposure. Environ Health
+Perspect. 2012; 120:799-806. [PubMed: 22275730]
+Lee HB, Blaufox MD. Blood volume in the rat. J Nucl Med. 1985; 26:72-76. [PubMed: 3965655]
+Lorscheider FL, Vimy MJ, Summers AO. Mercury exposure from silver tooth fillings: emerging
+evidence questions a traditional dental paradigm. FASEB J. 1995; 9:504-508. [PubMed: 7737458]
+Moeini M, Nematbakhsh M, Fazilati M, Talebi A, Pilehvarian AA, Azarkish F, Eshraghi-Jazi F,
+Pezeshki Z. Protective role of recombinant human erythropoietin in kidney and lung injury
+following renal bilateral ischemia-reperfusion in rat model. Int J Prev Med. 2013; 4:648-655.
+[PubMed: 23930182]
+Myers GJ, Davidson PW, Cox C, Shamlaye C, Cernichiari E, Clarkson TW. Twenty-seven years
+studying the human neurotoxicity of methylmercury exposure. Environ Res. 2000; 83:275-285.
+[PubMed: 10944071]
+Nair A, Jordan M, Watkins S, Washam R, DuClos C, Jones S, Palcic J, Pawlowicz M, Blackmore C.
+Fish consumption and hair mercury levels in women of childbearing age, martin county, Florida.
+Matern Child Health J. 2014; 18:2352-2361. [PubMed: 24807406]
+Norseth T, Clarkson TW. Biotransformation of methylmercury salts in the rat studied by specific
+determination of inorganic mercury. Biochem Pharmacol. 1970a; 19:2775-2783. [PubMed:
+5478586]
+Norseth T, Clarkson TW. Studies on the biotransformation of 203Hg-labeled methyl mercury chloride
+in rats. Arch Environ Health. 1970b; 21:717-727. [PubMed: 5478557]
+Norseth T, Clarkson TW. Intestinal transport of 203 Hg-labeled methyl mercury chloride. Role of
+biotransformation in rats. Arch Environ Health. 1971; 22:568-577. [PubMed: 5550173]
+Oliveira CS, Oliveira VA, Ineu RP, Moraes-Silva L, Pereira ME. Biochemical parameters of pregnant
+rats and their offspring exposed to different doses of inorganic mercury in drinking water. Food
+Chem Toxicol. 2012; 50:2382-2387. [PubMed: 22580302]
+Palm M, Lundblad A. Creatinine concentration in plasma from dog, rat, and mouse: a comparison of 3
+different methods. Vet Clin Pathol. 2005; 34:232-236. [PubMed: 16134070]
+Sakamoto M, Yasutake A, Domingo JL, Chan HM, Kubota M, Murata K. Relationships between trace
+element concentrations in chorionic tissue of placenta and umbilical cord tissue: potential use as
+indicators for prenatal exposure. Environ Int. 2013; 60:106-111. [PubMed: 24028800]
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 14
+Soon R, Dye TD, Ralston NV, Berry MJ, Sauvage LM. Seafood consumption and umbilical cord
+blood mercury concentrations in a multiethnic maternal and child health cohort. BMC Pregnancy
+Childbirth. 2014; 14:209. [PubMed: 24942346]
+Xu X, Newman MC. Mercury exposure as a function of fish consumption in two asian communities in
+Coastal Virginia, USA. Arch Environ Contam Toxicol. 2014
+Yang JM, Jiang XZ, Chen QY, Li PJ, Zhou YF, Wang YL. The distribution of HgCl2 in rat body and
+its effects on fetus. Biomed Environ Sci.: BES. 1996; 9:437-442. [PubMed: 8988814]
+Yorifuji T, Tsuda T, Takao S, Suzuki E, Harada M. Total mercury content in hair and neurologic
+signs: historic data from Minamata. Epidemiology. 2009; 20:188-193. [PubMed: 19057389]
+Yoshida M. Placental to fetal transfer of mercury and fetotoxicity. Tohoku J Exp Med. 2002; 196:79-
+88. [PubMed: 12498319]
+Zalups RK. Early aspects of the intrarenal distribution of mercury after the intravenous administration
+of mercuric chloride. Toxicology. 1993; 79:215-228. [PubMed: 8316951]
+Zalups RK. Progressive losses of renal mass and the renal and hepatic disposition of administered
+inorganic mercury. Toxicol Appl Pharmacol. 1995; 130:121-131. [PubMed: 7839359]
+Zalups RK. Reductions in renal mass and the nephropathy induced by mercury. Toxicol Appl
+Pharmacol. 1997; 143:366-379. [PubMed: 9144453]
+Zalups RK. Molecular interactions with mercury in the kidney. Pharmacol Rev. 2000; 52:113-143.
+[PubMed: 10699157]
+Zalups RK, Diamond GL. Mercuric chloride-induced nephrotoxicity in the rat following unilateral
+nephrectomy and compensatory renal growth. Virchows Arch B: Cell Pathol Incl Mol Pathol.
+1987; 53:336-346. [PubMed: 2891217]
+Zalups RK, Gelein RM, Cernichiari E. DMPS as a rescue agent for the nephropathy induced by
+mercuric chloride. J Pharmacol Exp Ther. 1991; 256:1-10. [PubMed: 1671092]
+Zalups RK, Joshee L, Bridges CC. Novel hg2+-induced nephropathy in rats and mice lacking mrp2:
+evidence of axial heterogeneity in the handling of hg2+ along the proximal tubule. Toxicol Sci.
+2014; 142:250-260. [PubMed: 25145654]
+Zalups RK, Koropatnick J. Temporal changes in metallothionein gene transcription in rat kidney and
+liver: relationship to content of mercury and metallothionein protein. J Pharmacol Exp Ther. 2000;
+295:74-82. [PubMed: 10991963]
+Zalups RK, Minor KH. Luminal and basolateral mechanisms involved in the renal tubular uptake of
+inorganic mercury. J Toxicol Environ Health. 1995; 46:73-100. [PubMed: 7666495]
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+dose for 6 h. +Significantly different (p < 0.05) from the mean for the corresponding group
+of rats exposed to 0.5 μmol HgCl2 kg−1.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
++Significantly different (p < 0.05) from the mean for the corresponding group of rats
+exposed to 0.5 μmol HgCl2 kg−1.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Amount of Hg (nmol g−1) detected in fetal organs following exposure to a non-nephrotoxic (0.5 μmol kg−1) or
+a nephrotoxic (2.5 μmol kg−1) dose of HgCl2 for 6 h or 48 h. Dams exposed for 6 h were injected and
+euthanized on GD20. Dams exposed for 48 h were injected on GD 18 and euthanized on GD20.
+0.5 μmol kg−1 (6h)
+Total renal mass
+Liver
+Brain
+0.265 ± 0.03
+0.024 ± 0.004
+0.010 ± 0.0004
+Table 1
+0.5 μmol kg−1 (48 h)
+0.317 ± 0.07
+0.048 ± 0.004
+0.020 ± 0.0006
+2.5 μmol kg−1 (6 h)
+5.75 ± 0.42
+0.246 ± 0.031
+0.087 ± 0.01
+2.5 μmol kg−1 (48 h)
+2.88 ± 0.54
+0.248 ± 0.004
+0.112 ± 0.007
+Page 24
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Plasma creatinine levels. Wistar dams were exposed intravenously to 0.5 μmol or 2.5 μmol kg−1 HgCl2 for 6
+or 48 h. Dams exposed for 6 h were injected on GD 20 and were euthanized on GD20. Dams exposed for 48 h
+were injected on GD18 and euthanized on GD20.
+0.5 μmol kg−1
+2.5 μmol kg−1
+aSignificantly different (p < 0.05) from the mean for the group of rats exposed to the same dose for 6h.
+bSignificantly  different  (p  <  0.05)  from  the  mean  for  the  group  of  rats  exposed  to  0.5  μmol  HgCl2  kg−1  for  the  same  time.
+6 h Exposure
+0.35 ± 0.08
+0.54 ± 0.05b
+48 h Exposure
+0.38 ± 0.04
+0.74 ± 0.06a,b
+Table 2
+Page 25
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+
+>>>section: acknowledgements
+Acknowledgments
+Abbreviations
+Hg2+
+HgCl2
+[203Hg+]
+OSOM
+ISOM
+Kim-1
+Page 12
+Hg2+ received by the mother. In order to fully characterize the transport and accumulation of
+Hg2+ across the placenta and into fetal tissues, additional studies are required.
+This work was supported by the National Institutes of Health (National Institute of Environmental Health Sciences)
+grant awarded to Dr. Bridges (ES019991).
+inorganic mercury
+mercuric chloride
+radioactive mercury
+outer stripe of the outer medulla
+inner stripe of the outer medulla
+Kidney injury molecule-1
+
+>>>section: abstract
+Abstract
+Environmental toxicants such as methylmercury have been shown to negatively impact fetal
+health. Despite the prevalence of inorganic mercury (Hg2+) in the environment and the ability of
+methylmercury to biotransform into Hg2+, little is known about the ability of Hg2+ to cross the
+placenta into fetal tissues. Therefore, it is important to understand the handing and disposition of
+Hg2+ in the reproductive system. The purpose of the current study was to assess the disposition
+and transport of Hg2+ in placental and fetal tissues, and to test the hypothesis that acute renal
+injury in dams can alter the accumulation of Hg2+ in fetal tissues. Pregnant Wistar rats were
+injected intravenously with 0.5 or 2.5 μmol kg−1 HgCl2 for 6 or 48 h and the disposition of Hg2+
+was measured. Accumulation of Hg2+ in the placenta was rapid and dose-dependent. Very little
+Hg2+ was eliminated during the initial 48 h after exposure. When dams were exposed to the low
+dose of HgCl2, fetal accumulation of Hg2+ increased between 6 h and 48 h, while at the higher
+dose, accumulation was similar at each time point. Within fetal organs, the greatest concentration
+of Hg2+ (nmol/g) was localized in the kidneys, followed by the liver and brain. A dose-dependent
+increase in the accumulation of Hg2+ in fetal organs was observed, suggesting that continued
+maternal exposure may lead to increased fetal exposure. Taken together, these data indicate that
+Hg2+ is capable of crossing the placenta and gaining access to fetal organs in a dose-dependent
+manner.
+Keywords
+Mercury; Placenta; Transport; Nephrotoxicity
+
+>>>section: discussion
+4. Discussion
+A strong body of scientific evidence indicates that CH3Hg+ can cross the placental barrier
+and compromise fetal health (ATSDR, 2008; Bridges et al., 2009, 2012; Castoldi et al.,
+2001; Chehimi et al., 2012; Clarkson et al., 2003; Myers et al., 2000). However, little is
+known about the ability of Hg2+ to cross the placenta. Since CH3Hg+ can be biotransformed
+to Hg2+ within biological systems (Daniel, 1972; Gage, 1964; Norseth and Clarkson,
+1970a,b), it is important to understand how Hg2+ is handled by placental and fetal tissues.
+Therefore, the principal aims of the current study were to (1) test the hypothesis that Hg2+
+can accumulate in the placenta and fetus following maternal exposure to HgCl2 and (2) to
+test the hypothesis that maternal exposure to a nephrotoxic dose of HgCl2 alters the maternal
+and fetal disposition of Hg2+. To our knowledge, this study is the first to report the
+disposition of Hg2+ in fetal tissues following maternal exposure to a nephrotoxic or 
+non-nephrotoxic dose of Hg2+.
+The findings of the current study provide important insight into the handling of Hg2+ in
+placental and fetal tissues. Following exposure to 0.5 μmol kg−1 HgCl2, the placental burden
+of Hg2+ 6 h after exposure was similar to that 48 h after exposure. This finding suggests that
+(1) placental accumulation of Hg2+ is rapid and (2) the placenta does not have efficient
+mechanisms to eliminate mercuric ions. In addition, the placental accumulation of Hg2+
+appeared to be directly dependent upon the dose of HgCl2 to which dams were exposed
+(e.g., a higher dose led to increased accumulation). Hg2+ has been shown previously to be
+retained in the placenta (Ask et al., 2002), which may be due, in part, to the binding of Hg2+
+in blood to the endothelium of placental blood vessels. The present data, however, indicate
+that at least a fraction of the Hg2+ that gains access to the placenta subsequently enters fetal
+tissues. The Hg2+ that is transported into fetal tissues likely exists as a conjugate of a 
+thiol-containing biomolecule (Bridges et al., 2009; Bridges and Zalups, 2010), which may utilize
+a number of various transport proteins to cross the placenta and access fetal organs/tissues.
+When the fetal burden of Hg2+ was examined in dams exposed to the 0.5-μmol kg−1 dose of
+HgCl2, the total fetal accumulation of Hg2+ was greater 48 h after exposure than 6 h after
+exposure. This finding suggests that fetal accumulation of Hg2+ continues to increase during
+Page 9
+space. In addition, about 25% of proximal tubules displayed the initial stages of cellular
+necrosis, which are characterized by swelling and blebbing of epithelial cells and
+condensation of nuclear chromatin. This pattern of injury is similar to that reported
+previously for HgCl2-induced nephrotoxicity.
+the initial 48 h after exposure to HgCl2. Interestingly, when dams were exposed to the higher
+dose of HgCl2, there was no difference in fetal burden between 6-h and 48-h of exposure.
+This lack of difference may be due to saturation of transport mechanisms involved in the
+transplacental movement and fetal accumulation of Hg2+. Collectively, these findings tend
+to suggest that even acute exposure to HgCl2 can lead to measureable accumulation of Hg2+
+in fetal tissues. Furthermore, regular and/or continuous exposure of pregnant women to
+mercuric compounds, either through environmental or dietary exposure, may lead to
+significant exposure of the fetus to Hg2+. It should also be noted that fetal organs,
+particularly the brain, may be more susceptible to low-level exposure to Hg. Indeed, 
+Hg-Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 10
+induced fetal neurotoxicity has been reported at doses that did not result in toxicological
+consequences in the mother (Grandjean and Herz, 2011; Karagas et al., 2012).
+To our knowledge, the current findings represent the first report of the distribution of
+mercuric ions in fetal organs following maternal exposure to Hg2+. Among fetal organs, the
+total renal mass had the greatest amount of Hg2+ per gram of tissue, followed by liver and
+brain. This pattern of accumulation is similar to that observed previously when dams were
+exposed to methylmercury (Bridges et al., 2009, 2012). This similarity may be due to the
+biotransformation of a fraction of methylmercury to Hg2+ resulting in accumulation of Hg2+
+in addition to methylmercury. Since the kidney is the primary site of accumulation of Hg2+
+in dams (Bridges and Zalups, 2010; Favero et al., 2014a; Zalups, 2000), it is not surprising
+that it is also the primary site of accumulation in the fetus. Furthermore, these findings
+indicate that accumulation of Hg2+ in fetal organs is dependent upon the dose of Hg2+
+received by the dam. Previous reports also suggest that the fetal burden of Hg correlates
+directly with the maternal dose and that continued maternal exposure to mercuric species
+can lead to neurological deficits in fetuses (Debes et al., 2006; Karagas et al., 2012). The
+inefficient elimination of Hg2+ from fetal tissues and the enhanced sensitivity of these
+tissues to the effects of Hg2+ may lead to significant deleterious effects in the fetuses
+without manifestation of clinical symptoms in the mother (Grandjean and Herz, 2011;
+Karagas et al., 2012). Moreover, in the current study, when renal injury was evident in dams
+(following exposure to 2.5 μmol kg−1 HgCl2 for 48 h), the burden of Hg2+ in fetal organs
+was decreased, possibly due to an increase in urinary excretion of Hg2+ by dams.
+It should be noted that when dams were exposed to 0.5 μmol kg−1 HgCl2, the accumulation
+of Hg2+ in maternal kidneys was similar 6 and 48 h after exposure. In other words, the renal
+accumulation of Hg2+ was rapid and the elimination of Hg2+ from the kidney was minimal.
+The rapid accumulation of Hg2+ in the kidney corresponds with previous findings indicating
+that 40% of the administered dose of Hg2+ is present in the kidney within 3 h of exposure
+(Zalups, 1993; Zalups and Minor, 1995). The lack of elimination is likely due to complex
+intracellular binding reactions between mercuric ions and intracellular proteins and 
+non-protein thiols, which consequently restricts movement of mercuric ions out of proximal
+tubular cells (Barbier et al., 2005; Zalups, 2000).
+When the accumulation of Hg2+ was measured in each renal zone, we discovered that the
+majority of accumulation occurred in the cortex and OSOM. This pattern of renal
+accumulation of Hg2+ is significant in that known carriers of Hg2+ are present in proximal
+tubular segments located in the cortex and OSOM (Bridges and Zalups, 2010).
+The results of the current study also show clear differences in the renal handling and
+disposition of Hg2+ following the exposure of dams to a non-nephrotoxic or a nephrotoxic
+dose of HgCl2. When dams were exposed to 2.5 μmol kg−1 HgCl2 (for either 6 h or 48 h),
+we observed that the accumulation of Hg2+ in maternal kidneys was dose-dependent during
+the first 6 h after exposure. In contrast, 48 h after exposure to the 2.5-μmol kg−1 dose, the
+renal burden of Hg2+ was only twofold greater than that after the 0.5-μmol kg−1 dose. The
+apparent lack of dose-dependent accumulation at the 48-h time point may be due to injury
+and death of proximal tubular cells, which leads to sloughing off of these cells and their
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+
+>>>section: results
+3. Results
+3.1. Disposition of Hg2+ in fetal tissues
+0.5-μmol kg−1 dose at both 6 h and 48 h after exposure.
+3.2. Content of Hg2+ in the total renal mass of fetuses
+fetuses from dams exposed to 0.5 μmol kg−1 HgCl2 at 6 h and 48 h.
+3.3. Content of Hg2+ in fetal liver
+Following fixation, kidneys were washed twice with normal saline and placed in 70%
+ethanol. Tissues were processed in a Tissue-Tek VIP processor using the following
+sequence: 95% ethanol for 30min (twice); 100% ethanol for 30 min (twice); 100% xylene
+(twice). Tissue was subsequently embedded in POLY/Fin paraffin (Fisher). 5-μm sections
+were cut using a Leitz 1512 microtome and were subsequently mounted on glass slides.
+Sections were stained with hematoxylin and eosin (H & E) and were viewed using an
+Olympus IX70 microscope. Images were captured with a Jenoptix Progress C12 digital
+camera.
+Levene’s test for homogeneity of variances. Data were then analyzed using a 2 × 2 two-way
+analysis of variance (ANOVA) to assess the effect of dose of HgCl2 and time of exposure
+followed by Tukey’s post hoc testing. A p-value of <0.05 was chosen a priori to represent
+Fig. 1 shows the total fetal burden of Hg2+ per dam following exposure to 0.5 μmol kg−1 or
+2.5 μmol kg−1 HgCl2. When dams were exposed to the 0.5-μmol kg−1 dose, the total fetal
+burden of Hg2+ was significantly greater after 48 h of exposure than after 6 h. In contrast,
+when dams were exposed to the 2.5-μmol kg−1 dose, there was no significant difference in
+the total fetal burden of Hg2+ between 6 and 48 h. The total fetal burden of Hg2+ of dams
+exposed to the 2.5-μmol kg−1 dose was significantly greater than that of dams exposed to the
+The content of Hg2+ in fetal kidney, liver and brain is shown in Fig. 2A-C, respectively. In
+Fig. 2, data are expressed as the burden of Hg (nmol) in the total number of fetal kidneys,
+liver, or brains per dam. In order to take the weight of each fetal organ into consideration,
+data are also expressed as nmol g−1 tissue (Table 1). The amount of Hg2+ (Fig. 2A) in the
+total renal mass of all fetuses from dams exposed to 0.5 μmol kg−1 HgCl2 was significantly
+greater 6 h after exposure than after 48 h. Similarly, when dams were exposed to 2.5 μmol
+kg−1 HgCl2, the amount of Hg2+ in the total renal mass of all fetuses was significantly
+greater 6 h after exposure than after 48 h. The amount of Hg2+ in the total renal mass of
+fetuses from dams exposed to 2.5 μmol kg−1 of HgCl2 was significantly greater than of
+The burden of Hg2+ in liver (Fig. 2B) of fetuses from dams exposed to 0.5 μmol kg−1 was
+significantly greater 6 h after exposure than after 48 h. Similarly, the hepatic burden of Hg2+
+of fetuses from dams exposed to the 2.5-μmol kg−1 dose of HgCl2 also greater 6 h after
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+3.4. Content of Hg2+ in fetal brain
+Page 6
+exposure than after 48 h. At both exposure periods, the hepatic burden of Hg2+ of fetuses
+from dams exposed to 2.5 μmol kg−1 HgCl2 was significantly greater than that of fetuses
+harvested from corresponding dams exposed to the 0.5-μmol kg−1 dose.
+The amount of Hg2+ in the brain (Fig. 2C) of fetuses from dams exposed to 0.5 μmol kg−1
+HgCl2 for 6 h was not significantly different from that of fetuses from dams exposed to the
+same dose for 48 h. In contrast, the burden of Hg2+ in fetal brains from dams exposed to 2.5
+μmol kg−1 HgCl2 for 6 h was significantly greater than that from corresponding dams
+exposed for 48 h. The burden of Hg2+ in fetal brain was significantly greater in dams
+exposed to the 2.5-μmol kg−1 dose of HgCl2 than in dams exposed to the 0.5-μmol kg−1
+dose. This was true at both periods of study.
+3.5. Disposition of Hg2+ in maternal tissues
+3.5.1. Content of Hg2+ in uterus, placenta, and amniotic fluid-In dams exposed
+to 0.5 μmol kg−1 HgCl2, the uterine burden (Fig. 3A) of Hg2+ was significantly lower after
+48 h than after 6h. Similarly, the uterine content of Hg2+ in the dams exposed to 2.5 μmol
+kg−1 HgCl2 was significantly greater 6 h after exposure to HgCl2 than after 48 h after
+exposure. The uterine burden of Hg2+ was significantly greater in dams exposed to 2.5 μmol
+kg−1 HgCl2 than in corresponding dams exposed to the 0.5 μmol kg−1 dose at both, 6 h and
+48 h after exposure to HgCl2.
+The total placental burden of Hg2+ per dam is shown in Fig. 3B. In dams exposed to 0.5
+μmol kg−1 HgCl2, the placental burden of Hg2+ was significantly greater 6 h after exposure
+than after 48 h. A similar pattern was observed when dams were exposed to the 2.5-μmol
+kg−1 dose of HgCl2. As might be expected, the burden of Hg2+ was significantly greater in
+placentas from dams exposed to 2.5 μmol kg−1 HgCl2 than in placentas from corresponding
+dams exposed to the 0.5-μmol kg−1 dose, at both exposure times.
+The amount of Hg2+ in the total volume of amniotic fluid per dam is shown in Fig. 3C. In
+dams exposed to 0.5 μmol kg−1 HgCl2, the amount of Hg2+ in the amniotic fluid was
+significantly greater after 6 h of exposure than after 48 h. Similarly, when dams were
+exposed to 2.5 μmol kg−1 HgCl2, the content of Hg2+ in amniotic fluid was greater after 6 h
+than after 48 h. The content of Hg2+ in amniotic fluid was greater in dams exposed to 2.5
+μmol kg−1 HgCl2 than in corresponding dams exposed to 0.5 μmol kg−1 after 6 h and 48 h.
+3.6. Content of Hg2+ in the total renal mass and urine of dams
+The burden of Hg2+ in the total renal mass of dams exposed to HgCl2 is shown in Fig. 4A.
+The majority of the administered dose was detected in maternal kidneys. When dams were
+exposed to 0.5 μmol kg−1 HgCl2, the renal burden of Hg2+ 6 h after exposure was not
+significantly different from that 48 h after exposure. In dams exposed to 2.5 μmol kg−1
+HgCl2, the renal burden of Hg2+ was significantly greater 6 h after exposure than after 48 h.
+The renal burden of Hg2+ of dams exposed to 2.5 μmol HgCl2 kg−1 for either 6 h or 48 h
+was significantly greater than that of corresponding dams exposed to 0.5 μmol HgCl2 kg−1.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+Page 7
+The amount of Hg2+ excreted in urine of dams is shown in Fig. 4B. The 24-h collection
+represents the initial 24 h after injection with HgCl2 while the 48-h collection represents the
+second 24-h after injection with HgCl2. When dams were exposed to 0.5 μmol kg−1 HgCl2,
+the urinary excretion of Hg2+ after 6 h of exposure was significantly lower than that detected
+in the 24-h and 48-h collections. A similar pattern of urinary excretion of Hg2+ was
+observed in dams exposed to 2.5 μmol kg−1 HgCl2. The amount of Hg2+ excreted in urine
+by the dams exposed to 2.5 μmol kg−1 HgCl2 was significantly greater than that excreted by
+the corresponding rats exposed to the 0.5-μmol kg−1 dose at each time measured after
+exposure to HgCl2.
+3.7. Concentration of Hg2+ in renal zones
+The concentration of Hg2+ detected in the renal cortex (nmol g−1; Fig. 5A) 6 h after
+exposure of dams to 0.5 μmol kg−1 HgCl2 was not significantly different from that detected
+48 h after exposure. In contrast, the concentration of Hg2+ in the renal cortex of dams 6 h
+after exposure to 2.5 μmol kg−1 HgCl2 was significantly greater than that in the cortex of
+corresponding dams 48 h after exposure. The cortical concentration of Hg2+ was
+significantly greater in dams exposed to 2.5 μmol kg−1 HgCl2 than in dams exposed to 0.5
+μmol kg−1 HgCl2 after either 6 h or 48 h.
+The concentration of Hg2+ detected in the OSOM (nmol g−1; Fig. 5B) 6 h after dams were
+exposed to 0.5 μmol kg−1 HgCl2 was significantly lower from that detected 48 h after
+exposure. The concentration of Hg in the OSOM of dams 6 h after exposure to the 2.5-μmol
+kg−1 dose was significantly greater than that in the OSOM of corresponding dams 48 h after
+exposure. The concentration of Hg2+ in the OSOM of dams exposed to 2.5 μmol kg−1 HgCl2
+was significantly greater than that of dams exposed to 0.5 μmol kg−1 for either exposure
+period. The amount of Hg2+ detected in the ISOM and the inner medulla was minimal (data
+not shown).
+3.8. Content of Hg2+ in liver and feces
+The hepatic burden of Hg2+ of dams exposed to 0.5 μmol kg−1− HgCl2 was significantly
+greater after 6 h of exposure than after 48 h (Fig. 6A). A similar pattern of accumulation was
+observed in dams that were exposed to the 2.5-μmol kg−1 dose. When dams were exposed to
+2.5 μmol HgCl2 kg−1, the hepatic burden of Hg2+ was significantly greater than that in
+corresponding dams exposed to 0.5 μmol HgCl2 kg−1 at both 6 h and 48 h after exposure.
+The amount of Hg2+ excreted in feces by dams is shown in Fig. 6B. The 24-h collection
+represents the initial 24 h after injection with HgCl2 while the 48-h collection represents the
+second 24-h after injection with HgCl2. It should be noted that the fecal mass varied among
+rats. The amount of Hg2+ excreted in feces by dams exposed to 0.5 μmol kg−1 HgCl2 for 6 h
+was significantly lower than that excreted in either of the 24-h periods of the 48-exposure to
+HgCl2. A similar pattern of fecal excretion was observed in dams exposed to the 2.5-μmol
+kg−1 dose of HgCl2. There was no significant difference in the fecal excretion of Hg2+
+between rats exposed to 0.5 μmol kg−1 HgCl2 and rats exposed to 2.5-μmol kg−1 HgCl2 for
+6 h. Moreover, the fecal excretion of Hg2+ during the first 24-h period of the 48-h exposure
+period was not significantly different between dams exposed to 0.5 μmol kg−1 HgCl2 and
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+3.9. Burden of Hg2+ in blood and brain of dams
+Page 8
+those exposed to the 2.5-μmol kg−1 dose. However, during the second 24-h period of the 
+48-h exposure period, the fecal excretion of Hg2+ was significantly greater in dams exposed to
+the 2.5-μmol kg−1 dose than in dams exposed to the 0.5-μmol kg−1 dose.
+The hematologic burden of Hg2+ in dams exposed to either dose of HgCl2 was significantly
+greater after 6 h of exposure than after 48 h (Fig. 7A). Exposure of dams to 2.5 μmol HgCl2
+kg−1 resulted in a hematologic burden of Hg2+ that was significantly greater than that in
+corresponding dams exposed to 0.5 μmol HgCl2 kg−1 at 6 h and 48 h.
+The amount of Hg2+ detected in the brain of dams was low but detectable (Fig. 7B). In dams
+exposed to 0.5 μmol kg−1 HgCl2, the burden of Hg2+ in the brain was not significantly
+different between dams exposed for 6 h and those exposed for 48 h. In dams exposed to 2.5
+μmol kg−1 HgCl2, the amount of Hg2+ in brain was significantly greater after 6 h of
+exposure than after 48 h.
+3.10. Assessment of Hg2+-induced nephropathy
+Real-time PCR analyses (Fig. 8) were performed in order to evaluate the expression of
+Kim-1, a biomarker of renal injury, in kidneys of dams exposed to 0.5 or 2.5 μmol kg−1
+HgCl2. The expression of Kim-1 was significantly greater in kidneys of dams exposed to
+either dose of HgCl2 for 48 h than in kidneys of corresponding dams exposed for 6 h. The
+expression of Kim-1 was significantly greater in kidneys isolated from dams exposed to 2.5
+μmol kg−1 HgCl2 than in kidneys from corresponding dams exposed to 0.5 μmol kg−1
+HgCl2. This observation was true for both exposure periods.
+Analyses of plasma creatinine levels (Table 2) support the results of the PCR analyses.
+Samples of plasma, collected from dams 6 or 48 h after injection with either dose of HgCl2,
+were utilized for analysis of plasma creatinine. In dams exposed to 0.5 μmol kg−1 HgCl2,
+plasma creatinine levels were similar to that reported previously for normal Wistar rats
+(Amini et al., 2012; Bridges et al., 2014; Moeini et al., 2013; Palm and Lundblad, 2005).
+Exposure of dams to 2.5 μmol kg−1 HgCl2 for 48 h led to plasma creatinine levels that were
+significantly greater than those measured after exposure to the same dose of HgCl2 for 6h.
+Furthermore, exposure of dams to either dose of HgCl2 for 48 h resulted in levels of plasma
+creatinine that were significantly greater than that detected after 6 h of exposure.
+Fig. 9 shows the histological features of kidneys from dams exposed to 0.5 μmol or 2.5 μmol
+kg−1 HgCl2 for 48 h. No histological alterations were observed in kidneys from dams
+exposed to either dose of Hg2+ for 6 h (data not shown). In kidneys of dams exposed to 0.5
+μmol kg−1 HgCl2, the renal structures in the cortex (Fig. 9A) and OSOM (Fig. 9B) appeared
+normal. Similarly, in kidneys of dams exposed to the 2.5-μmol dose of HgCl2, significant
+pathological alterations were not observed in the cortex (Fig. 9C). However, the OSOM
+(Fig. 9D) exhibited significant cellular injury and necrosis throughout, particularly at the
+cortico-medullary junction. Approximately 50% of proximal tubules located in the OSOM
+displayed signs of complete tubular necrosis, which is characterized by eosinophilic
+cytoplasm, pyknotic nuclei, and death and shedding of epithelial cells. Tubular lumens were
+filled with proteinaceous material and numerous leukocytes were present in the interstitial
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+
+>>>section: introduction
+HHS Public Access
+Author manuscript
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Published in final edited form as:
+Toxicology. 2015 September 1; 335: 62-71. doi:10.1016/j.tox.2015.07.006.
+Disposition of inorganic mercury in pregnant rats and their
+offspring
+Cláudia S. Oliveira, Lucy Joshee, Rudolfs K. Zalups, Maria E. Pereira1, and Christy C.
+Bridges*
+Mercer University School of Medicine, Division of Basic Medical Sciences, Macon, GA, USA
+1. Introduction
+There is significant risk of humans being exposed to inorganic (Hg2+) and/or methylmercury
+(CH3Hg+) through environmental, occupational or dietary means. Exposure to Hg2+ and
+CH3Hg+ can lead to serious toxicological consequences in the renal, hepatic, cardiovascular,
+reproductive, and nervous systems (ATSDR, 2008; Bridges and Zalups, 2010). Of particular
+*Corresponding  author  at:  Mercer  University  School  of  Medicine,  Department  of  Basic  Medical  Sciences,  1550  College  St.,  Macon,
+GA 31207, USA. bridges_cc@mercer.edu (C.C. Bridges).
+1Present  address:  Post-Graduate  Course  in  Biological  Science-Toxicological  Biochemistry,  Federal  University  of  Santa  Maria,  Santa
+Maria, RS, Brazil.
+Conflict of interests
+None.
+Oliveira et al.
+Page 2
+concern is the effect of mercuric species on the reproductive system and the developing
+fetus. Despite guidelines from the Environmental Protection Agency (EPA), certain
+populations of pregnant women continue to consume more than the recommended amount
+of seafood (Nair et al., 2014; Soon et al., 2014; Xu and Newman, 2014). Interestingly, the
+content of CH3Hg+ in certain species of fish is increasing (Drevnick et al., 2015), which
+further increases the risk of mercury (Hg) exposure in fish-eating human populations.
+Numerous studies have shown that following ingestion of CH3Hg+, mercuric ions can
+readily cross the placenta and accumulate in the fetus (Bridges et al., 2009, 2012; Sakamoto
+et al., 2013; Yorifuji et al., 2009). In contrast, little is known about the ability of Hg2+ to
+cross the placenta despite evidence that CH3Hg+ can be biotransformed to Hg2+, either in
+plasma or target cells (Lorscheider et al., 1995; Norseth and Clarkson, 1970a; Norseth and
+Clarkson, 1971). It has been suggested indirectly that Hg2+ is unable to gain access to fetal
+tissues even though Hg2+ has been shown to accumulate in the placenta (Ask et al., 2002;
+Chehimi et al., 2012; Feng et al., 2004; Oliveira et al., 2012; Yang et al., 1996; Yoshida,
+2002). Considering the placental accumulation of Hg2+, it seems possible that Hg2+ may
+also gain access to fetal tissues and organs. Therefore, one aim of the current study was to
+determine the nature and pattern of accumulation and disposition of Hg2+ in placental and
+fetal tissues.
+Given that the biotransformation of CH3Hg+−Hg2+ probably occurs primarily in maternal
+blood and organs, it is important to understand how Hg2+ is handled in maternal organs, as
+well those of the fetus. In adults, the primary site of Hg2+ accumulation and toxicity is the
+kidney, specifically the epithelial cells of the proximal tubule (Zalups, 2000). In fact, in as
+little as three hours after intravenous exposure to Hg2+ (as HgCl2), approximately 55% of
+the administrated dose can be detected in the kidneys (Zalups, 1993). In animals exposed to
+nephrotoxic doses of HgCl2, pathological changes such as cellular necrosis, tubular
+dilatation and atrophy, proteinaceous casts, inflammation, and interstitial collagen
+deposition have been identified in and around proximal tubules (Bridges et al., 2014; Favero
+et al., 2014b). Increases in blood urea nitrogen (BUN) and plasma creatinine levels have also
+been reported, which suggests that glomerular filtration rate (e.g., renal function) is reduced
+following exposure to highly nephrotoxic doses of HgCl2 (Bridges et al., 2014; Zalups et al.,
+2014). When maternal exposure to HgCl2 is great enough to cause reductions in renal
+function, it is possible that the maternal burden and corporal disposition of Hg2+ is altered
+because of a reduced ability to eliminate mercuric ions in urine. Consequently, it is possible
+that the placental and fetal burden of Hg will also be altered, leading to greater toxicological
+consequences in the fetus. Therefore, a second aim of this study was to test the hypothesis
+that acute renal injury in pregnant dams alters the fetal accumulation of Hg2+.
+In the present study, we exposed pregnant Wistar rats to either a non-nephrotoxic or a
+nephrotoxic dose of HgCl2 and assessed the disposition and toxicity of mercuric ions not
+only in placental tissues, but also in fetal organs, either six or 48 h after exposure to Hg2+.
+Understanding how mercuric ions accumulate in the placenta and fetus will provide insight
+into the toxicity and the mechanisms by which mercuric ions are handled fetuses.
+Toxicology. Author manuscript; available in PMC 2016 September 01.
+Oliveira et al.
+
+>>>section: figure_1
+Page 15 
+Fig. 1.  
+Total fetal burden of Hg2+ 6 h or 48 h after intravenous injection of pregnant Wistar dams  
+with 0.5 μmol HgCl2 kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL. Data represent mean ± SE of  
+three or six dams. *Significantly different (p < 0.05) from the mean for the group of rats  
+exposed to the same dose for 6 h. +Significantly different (p < 0.05) from the mean for the  
+corresponding group of rats exposed to 0.5 μmol HgCl2 kg−1. 
+
+>>>section: figure_2
+Page 16 
+Fig. 2.  
+Content of Hg2+ in total renal mass (A), liver (B), and brain (C) of fetuses from Wistar dams  
+injected intravenously with 0.5 μmol HgCl2kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL  
+Kidneys, liver and brain were obtained from fetuses that were harvested 6 or 48 h after dams  
+were injected with HgCl2. Data represent mean ± SE of fetuses harvested from three or six  
+dams. *Significantly different (p < 0.05) from the mean for the group of rats exposed to the  
+same dose for 6 h. +Significantly different (p < 0.05) from the mean for the corresponding  
+group of rats exposed to 0.5 μmol HgCl2 kg−1. 
+
+>>>section: figure_3
+Page 17 
+Fig. 3.  
+Content of Hg2+ in uterus (A), placenta (B) and amniotic fluid (C) of pregnant Wistar dams  
+injected intravenously with 0.5 μmol HgCl2 kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL.  
+*Significantly different (p < 0.05) from the mean for the group of rats exposed to the same  
+
+>>>section: figure_4
+Page 18 
+Fig. 4.  
+Renal burden (A) and urinary excretion (B) of Hg2+ 6 h or 48 h after intravenous injection  
+of pregnant Wistar dams with 0.5 μmol HgCl2 kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL.  
+Urine was collected 6,24, and/or 48 h after injection with HgCl2. Data represent mean ± SE  
+of three or six dams. *Significantly different (p < 0.05) from the mean for the group of rats  
+exposed to the same dose for 6h. +Significantly different (p < 0.05) from the mean for the  
+corresponding group of rats exposed to 0.5 μmol HgCl2 kg−1. 
+
+>>>section: figure_5
+Page 19 
+Fig. 5.  
+Content of Hg2+ in cortex (A) and outer stripe of outer medulla (OSOM) (B) of kidneys  
+from pregnant Wistar dams injected intravenously with 0.5 μmol HgCl2 kg−1 2 mL or 2.5  
+μmol HgCl2 kg−1 2 mL Cortex and OSOM were dissected from kidneys harvested 6 h or 48  
+h after injection with HgCl2. Data represent mean ± SE of three or six dams. *Significantly  
+different (p < 0.05) from the mean for the group of rats exposed to the same dose for 6 h.  
+
+>>>section: figure_6
+Page 20 
+Fig. 6.  
+Hepatic burden (A) and fecal elimination (B) of Hg2+ 6 h or 48 h after intravenous injection  
+of pregnant Wistar dams with 0.5 μmol HgCl2 kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL.  
+Data represent mean ± SE of three or six dams. *Significantly different (p < 0.05) from the  
+mean for the group of rats exposed to the same dose for 6h. +Significantly different (p<0.05)  
+from the mean for the corresponding group of rats exposed to 0.5 μmol HgCl2 kg−1. 
+
+>>>section: figure_7
+Page 21 
+Fig. 7.  
+Content of Hg2+ in blood (A) and brain (B) of pregnant Wistar dams injected intravenously  
+with 0.5 μmol HgCl2 kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL. Feces were collected 6, 24,  
+and/or 48 h after injection with HgCl2. *Significantly different (p < 0.05) from the mean for  
+the group of rats exposed to the same dose for 6h. +Significantly different (p < 0.05) from  
+the mean for the corresponding group of rats exposed to 0.5 μmol HgCl2 kg−1. 
+
+>>>section: figure_8
+Page 22 
+Fig. 8.  
+Real-time PCR analyses of Kim-1 in RNA isolated from kidneys of pregnant Wistar dams  
+injected intravenously with 0.5 μmol HgCl2 kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL  
+*Significantly different (p < 0.05) from the mean for the group of rats exposed to the same  
+dose for 6h. +Significantly different (p < 0.05) from the mean for the corresponding group  
+of rats exposed to 0.5 μmol HgCl2 kg−1. 
+
+>>>section: figure_9
+Page 23 
+Fig. 9.  
+Histological analyses of kidneys from pregnant Wistar dams injected intravenously with 0.5  
+μmol HgCl2 kg−1 2 mL or 2.5 μmol HgCl2 kg−1 2 mL. In kidneys of rats injected with 0.5  
+μmol HgCl2 kg−1 2 mL, no histological alterations or pathological changes were observed in  
+the cortex (A) or outer stripe of the outer medulla (B). In kidneys of rats injected with 2.5  
+μmol HgCl2kg−1 2mL, the cortex (C) appeared normal; however, significant areas of  
+necrosis (arrows) were evident in the outer stripe of the outer medulla (D). Bar= 100 μm. 
+
+**References**
+ References
+Amini FG Rafieian-Kopaei M Nematbakhsh M Baradaran A Nasri H Ameliorative effects of metformin on renal histologic and biochemical alterations of gentamicin-induced renal toxicity in Wistar rats J Res Med Sci 2012 17621-625 [PubMed 23798920]
+Ask K Akesson A Berglund M Vahter M Inorganic mercury and methylmercury in placentas of Swedish women Environ Health Perspect 2002 110523-526 [PubMed 12003757]
+ATSDR AfTSaDR Toxicological Profile for Mercury (US Department of Health and Human Services PHS ed) Centers for Disease Control Atlanta GA 2008
+Barbier O Jacquillet G Tauc M Cougnon M Poujeol P Effect of heavy metals on and handling by the kidney Nephron Physiol 2005 99105-110
+Belanger M Westin A Barfuss DW Some health physics aspectsofworking with 203Hg in university research Health Phys 2001 80S28-S30 [PubMed 11197511]
+Bridges CC Bauch C Verrey F Zalups RK Mercuric conjugates of cysteine are transported by the amino acid transporter system b(0+) implications of molecular mimicry J Am Soc Nephrol 2004 15663-673 [PubMed 14978168]
+Bridges CC Joshee L Zalups RK Effect of DMPS and DMSAon the placental and fetal disposition of methylmercury Placenta 2009 30800-805 [PubMed 19615742]
+Bridges CC Joshee L Zalups RK Placental and fetal disposition of mercuric ions in rats exposed to methylmercury role of Mrp2 Reprod Toxicol 2012 34628-634 [PubMed 23059061]
+Bridges CC Joshee L Zalups RK Aging and the disposition and toxicity of mercury in rats Exp Gerontol 2014 5331-39 [PubMed 24548775]
+Bridges CC Zalups RK Molecular and ionic mimicry and the transport of toxic metals Toxicol Appl Pharmacol 2005 204274-308 [PubMed 15845419]
+Bridges CC Zalups RK Transport of inorganic mercury and methylmercury in target tissues and organs J Toxicol Environ Health B Crit Rev 2010 13385-410 [PubMed 20582853]
+Castoldi AF Coccini T Ceccatelli S Manzo L Neurotoxicity and molecular effects of methylmercury Brain Res Bull 2001 55197-203 [PubMed 11470315]
+Chehimi L Roy V Jeljeli M Sakly M Chronic exposure to mercuric chloride during gestation affects sensorimotor development and later behaviour in rats Behav Brain Res 2012 23443-50 [PubMed 22705860] Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Page 13
+Clarkson TW Magos L Myers GJ The toxicology of mercury-current exposures and clinical manifestations N Engl J Med 2003 3491731-1737 [PubMed 14585942]
+Daniel JW The biotransformation of organomer curycompounds Biochem J 1972 13064P-65P
+Debes F Budtz-Jorgensen E Weihe P White RF Grandjean P Impact of prenatal methylmercury exposure on neurobehavioral function at age 14 years Neurotoxicol Teratol 2006 28536-547 [PubMed 17067778]
+Drevnick PE Lamborg CH Horgan MJ Increase in mercury in Pacific yellowfin tuna Environ Toxicol Chem 2015
+Favero AM Oliveira CS Franciscato C Oliveira VA Pereira JS Bertoncheli CM da Luz SC Dressler VL Flores EM Pereira ME Lactating and nonlactating rats differ to renal toxicity induced by mercuric chloride the preventive effect of zinc chloride Cell Biochem Funct 2014a
+Favero AM Oliveira CS Franciscato C Oliveira VA Pereira JS Bertoncheli CM da Luz SC Dressler VL Flores EM Pereira ME Lactating and nonlactating rats differ to renal toxicity induced by mercuric chloride the preventive effect of zinc chloride Cell Biochem Funct 2014b 32420-428 [PubMed 24619859]
+Feng W Wang M Li B Liu J Chai Z Zhao J Deng G Mercury and trace element distribution in organic tissues and regional brain of fetal rat after in utero and weaning exposure to low dose of inorganic mercury Toxicol Lett 2004 152223-234 [PubMed 15331131]
+Gage JC Distribution and excretion of methyl and phenyl mercury salts Br J Ind Med 1964 21197- 202 [PubMed 14180477]
+Grandjean P Herz KT Methylmercury and brain development imprecision and underestimation of developmental neurotoxicity in humans Mt Sinai J Med New York 2011 78107-118
+Karagas MR Choi AL Oken E Horvat M Schoeny R Kamai E Cowell W Grandjean P Korrick S Evidence on the human health effects of low-level methylmercury exposure Environ Health Perspect 2012 120799-806 [PubMed 22275730]
+Lee HB Blaufox MD Blood volume in the rat J Nucl Med 1985 2672-76 [PubMed 3965655]
+Lorscheider FL Vimy MJ Summers AO Mercury exposure from silver tooth fillings emerging evidence questions a traditional dental paradigm FASEB J 1995 9504-508 [PubMed 7737458]
+Moeini M Nematbakhsh M Fazilati M Talebi A Pilehvarian AA Azarkish F Eshraghi-Jazi F Pezeshki Z Protective role of recombinant human erythropoietin in kidney and lung injury following renal bilateral ischemia-reperfusion in rat model Int J Prev Med 2013 4648-655 [PubMed 23930182]
+Myers GJ Davidson PW Cox C Shamlaye C Cernichiari E Clarkson TW Twenty-seven years studying the human neurotoxicity of methylmercury exposure Environ Res 2000 83275-285 [PubMed 10944071]
+Nair A Jordan M Watkins S Washam R DuClos C Jones S Palcic J Pawlowicz M Blackmore C Fish consumption and hair mercury levels in women of childbearing age martin county Florida Matern Child Health J 2014 182352-2361 [PubMed 24807406]
+Norseth T Clarkson TW Biotransformation of methylmercury salts in the rat studied by specific determination of inorganic mercury Biochem Pharmacol 1970a 192775-2783 [PubMed 5478586]
+Norseth T Clarkson TW Studies on the biotransformation of 203Hg-labeled methyl mercury chloride in rats Arch Environ Health 1970b 21717-727 [PubMed 5478557]
+Norseth T Clarkson TW Intestinal transport of 203 Hg-labeled methyl mercury chloride Role of biotransformation in rats Arch Environ Health 1971 22568-577 [PubMed 5550173]
+Oliveira CS Oliveira VA Ineu RP Moraes-Silva L Pereira ME Biochemical parameters of pregnant rats and their offspring exposed to different doses of inorganic mercury in drinking water Food Chem Toxicol 2012 502382-2387 [PubMed 22580302]
+Palm M Lundblad A Creatinine concentration in plasma from dog rat and mouse a comparison of 3 different methods Vet Clin Pathol 2005 34232-236 [PubMed 16134070]
+Sakamoto M Yasutake A Domingo JL Chan HM Kubota M Murata K Relationships between trace element concentrations in chorionic tissue of placenta and umbilical cord tissue potential use as indicators for prenatal exposure Environ Int 2013 60106-111 [PubMed 24028800] Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Page 14
+Soon R Dye TD Ralston NV Berry MJ Sauvage LM Seafood consumption and umbilical cord blood mercury concentrations in a multiethnic maternal and child health cohort BMC Pregnancy Childbirth 2014 14209 [PubMed 24942346]
+Xu X Newman MC Mercury exposure as a function of fish consumption in two asian communities in Coastal Virginia USA Arch Environ Contam Toxicol 2014
+Yang JM Jiang XZ Chen QY Li PJ Zhou YF Wang YL The distribution of HgCl2 in rat body and its effects on fetus Biomed Environ Sci BES 1996 9437-442 [PubMed 8988814]
+Yorifuji T Tsuda T Takao S Suzuki E Harada M Total mercury content in hair and neurologic signs historic data from Minamata Epidemiology 2009 20188-193 [PubMed 19057389]
+Yoshida M Placental to fetal transfer of mercury and fetotoxicity Tohoku J Exp Med 2002 19679- 88 [PubMed 12498319]
+Zalups RK Early aspects of the intrarenal distribution of mercury after the intravenous administration of mercuric chloride Toxicology 1993 79215-228 [PubMed 8316951]
+Zalups RK Progressive losses of renal mass and the renal and hepatic disposition of administered inorganic mercury Toxicol Appl Pharmacol 1995 130121-131 [PubMed 7839359]
+Zalups RK Reductions in renal mass and the nephropathy induced by mercury Toxicol Appl Pharmacol 1997 143366-379 [PubMed 9144453]
+Zalups RK Molecular interactions with mercury in the kidney Pharmacol Rev 2000 52113-143 [PubMed 10699157]
+Zalups RK Diamond GL Mercuric chloride-induced nephrotoxicity in the rat following unilateral nephrectomy and compensatory renal growth Virchows Arch B Cell Pathol Incl Mol Pathol 1987 53336-346 [PubMed 2891217]
+Zalups RK Gelein RM Cernichiari E DMPS as a rescue agent for the nephropathy induced by mercuric chloride J Pharmacol Exp Ther 1991 2561-10 [PubMed 1671092]
+Zalups RK Joshee L Bridges CC Novel hg2+-induced nephropathy in rats and mice lacking mrp2 evidence of axial heterogeneity in the handling of hg2+ along the proximal tubule Toxicol Sci 2014 142250-260 [PubMed 25145654]
+Zalups RK Koropatnick J Temporal changes in metallothionein gene transcription in rat kidney and liver relationship to content of mercury and metallothionein protein J Pharmacol Exp Ther 2000 29574-82 [PubMed 10991963]
+Zalups RK Minor KH Luminal and basolateral mechanisms involved in the renal tubular uptake of inorganic mercury J Toxicol Environ Health 1995 4673-100 [PubMed 7666495] Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al dose for 6 h +Significantly different (p < 005) from the mean for the corresponding group of rats exposed to 05 μmol HgCl2 kg−1 Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al +Significantly different (p < 005) from the mean for the corresponding group of rats exposed to 05 μmol HgCl2 kg−1 Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Toxicology Author manuscript available in PMC 2016 September 01 Oliveira et al Amount of Hg (nmol g−1) detected in fetal organs following exposure to a non-nephrotoxic (05 μmol kg−1) or a nephrotoxic (25 μmol kg−1) dose of HgCl2 for 6 h or 48 h Dams exposed for 6 h were injected and euthanized on GD20 Dams exposed for 48 h were injected on GD 18 and euthanized on GD20 05 μmol kg−1 (6h)
+Total renal mass
+Liver
+Brain 0265 ± 003 0024 ± 0004 0010 ± 00004 Table 1 05 μmol kg−1 (48 h) 0317 ± 007 0048 ± 0004 0020 ± 00006 25 μmol kg−1 (6 h) 575 ± 042 0246 ± 0031 0087 ± 001 25 μmol kg−1 (48 h) 288 ± 054 0248 ± 0004 0112 ± 0007 Page 24 Toxicology Author manuscript available in PMC 2016 September 01
+Oliveira et al
+Plasma creatinine levels Wistar dams were exposed intravenously to 05 μmol or 25 μmol kg−1 HgCl2 for 6
+or 48 h Dams exposed for 6 h were injected on GD 20 and were euthanized on GD20 Dams exposed for 48 h
+were injected on GD18 and euthanized on GD20 05 μmol kg−1 25 μmol kg−1
+aSignificantly different (p < 005) from the mean for the group of rats exposed to the same dose for 6h
+bSignificantly  different  (p  <  005)  from  the  mean  for  the  group  of  rats  exposed  to  05  μmol  HgCl2  kg−1  for  the  same  time 6 h Exposure 035 ± 008 054 ± 005b 48 h Exposure 038 ± 004 074 ± 006ab Table 2 Page 25 Toxicology Author manuscript available in PMC 2016 September 01

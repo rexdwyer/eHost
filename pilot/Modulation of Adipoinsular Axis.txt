@@ -1,0 +1,1063 @@
+0013-7227/04/$15.00/0
+Printed in U.S.A.
+Modulation of Adipoinsular Axis in Prediabetic Zucker
+Diabetic Fatty Rats by Diazoxide
+RAMIN ALEMZADEH AND KATHRYN M. TUSHAUS
+Department of Pediatrics, Section of Endocrinology and Metabolism, Medical College of Wisconsin, Milwaukee, Wisconsin
+53226
+Dysregulation of the adipoinsular axis in male obese Zucker
+diabetic fatty (ZDF; fa/fa) rats, a model of type 2 diabetes,
+results in chronic hyperinsulinemia and increased de novo
+lipogenesis in islets, leading to -cell failure and diabetes.
+Diazoxide (DZ; 150 mg/kgd), an inhibitor of insulin secretion,
+was administered to prediabetic ZDF animals for 8 wk as a
+strategy for prevention of diabetes. DZ reduced food intake
+(P < 0.02) and rate of weight gain only in ZDF rats (P < 0.01).
+Plasma insulin response to glucose load was attenuated in
+DZ-Zucker lean rats (ZL; P < 0.01), whereas DZ-ZDF had
+higher insulin response to glucose than controls (P < 0.001).
+DZ improvedhemoglobinA1c (P< 0.001) andglucose tolerance
+in ZDF (P< 0.001), but deteriorated hemoglobin A1c in ZL rats
+(P < 0.02) despite normal tolerance in the fasted state. DZ
+lowered plasma leptin (P < 0.001), free fatty acid, and 
+triglyceride (P < 0.001) levels, but increased adiponectin levels (P <
+Endocrinology 145(12):5476-5484
+Copyright © 2004 by The Endocrine Society
+doi: 10.1210/en.2003-1523
+0.02) only in ZDF rats. DZ enhanced 3-adrenoreceptormRNA
+(P< 0.005) and adenylate cyclase activity (P< 0.01) in adipose
+tissue from ZDF rats only, whereas it enhanced islet 3-
+adrenergic receptor mRNA (P < 0.005) but paradoxically 
+decreased islet adenylate cyclase activity (P < 0.005) in these
+animals. Islet fatty acid synthase mRNA (P < 0.03), acyl 
+coenzyme A carboxylase mRNA (P< 0.01), uncoupling protein-2
+mRNA (P < 0.01), and triglyceride content (P < 0.005) were
+only decreased in DZ-ZDF rats, whereas islet insulin mRNA
+and insulin content were increased in DZ-ZDF (P < 0.01) and
+DZ-ZL rats (P < 0.03). DZ-induced -cell rest improved the
+lipid profile, enhanced themetabolic efficiency of insulin, and
+prevented -cell dysfunction and diabetes in diabetes-prone
+animals. This therapeutic strategy may be beneficial in 
+preventing -cell failure and progression to diabetes in humans.
+(Endocrinology 145: 5476-5484, 2004)
+TYPE 2 DIABETES mellitus (DM) has become the
+complication of obesity worldwide (1). Obesemostcommon
+humans and experimental animals characteristically 
+manifest hyperinsulinemia, insulin resistance, and 
+hyperlipid-emia, which predispose to glucose intolerance and diabetes
+(2). Dysregulation of the adipoinsular axis in obese 
+individuals due to defective leptin, an Ob gene product, reception
+by -cells, is believed to result in chronic hyperinsulinemia
+and may contribute to the pathogenesis of adipogenic 
+diabetes (2). Similarly, the inability of leptin to suppress insulin
+secretion in leptin-insensitive pancreatic islets of male obese
+Zucker diabetic fatty (ZDF fa/fa) male rats, a model of type
+2 DM, results in chronic hyperinsulinemia and increased de
+novo lipogenesis in pancreatic islets (3, 4). Enhanced activity
+of fatty acid synthase (FAS), a key insulin-sensitive enzyme
+regulating lipogenesis, and overaccumulation of fat in 
+pancreatic islets of obese ZDF rats cause -cell failure with a
+predictable progression from the prediabetic to the diabetic
+state (5).
+There is abundant evidence linking high plasma free fatty
+acid (FFA) levels of obesity to the increased risk of type 2 DM
+Abbreviations: AC, Adenylate cyclase; ACC, acyl coenzyme A 
+carboxylase; ACRP30, adipocyte complement-related protein of 30 kDa;
+AUC, area under the curve; 3AR, 3-adrenergic receptor; BW, body
+weight; C-ZDF, control ZDF; C-ZL, control ZL; DM, diabetes mellitus;
+DZ, diazoxide; FAS, fatty acid synthase; FFA, free fatty acid; HbA1c,
+hemoglobin A1c; IPGTT, ip glucose tolerance test; PF, pair fed; TG,
+triglyceride; UCP-2, uncoupling protein-2; ZDF, Zucker diabetic fatty;
+ZL, Zucker lean.
+Endocrinology is publishedmonthly by The Endocrine Society (http://
+www.endo-society.org), the foremost professional society serving the
+endocrine community.
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+in humans and rodents (6, 7). Male ZDF rats develop 
+progressive insulin resistance and glucose intolerance between
+3 and 8 wk of age and become overtly diabetic usually 
+between 8 and 10 wk (8). In obese prediabetic ZDF fa/fa rats, a
+rapid rise in plasma FFA levels 2 wk before the appearance
+of hyperglycemia (4) is associated with a 10-fold increase in
+islet triglyceride (TG) content, which coincides with the onset
+of islet dysfunction and overt diabetes (7). High tissue levels
+of fatty acyl coenzyme A interfere with glucose metabolism,
+not only in skeletal muscle (9), where they play an important
+role in insulin resistance (10), but also in -cells, where they
+may cause the secretory dysfunction that characterizes type
+2 DM (11). Over time, hyperglycemia worsens, a 
+phenomenon that has been attributed to the deleterious effect of
+chronic hyperglycemia (glucotoxicity) (12, 13) or chronic 
+hy-perlipidemia (lipotoxicity) (14, 15) on -cell function, and is
+often accompanied by increased TG content and decreased
+insulin gene expression (16, 17). A leptin receptor mutation
+in ZDF rats is believed to interfere with leptin’s modulation
+of islet
+its antisteatotic effect with 
+result-KATP channel and
+ant chronic hyperinsulinemia and islet cell lipotoxicity,
+which lead to -cell failure and diabetes (4, 18). Attenuation
+of insulin release by
+KATP channel openers like diazoxide
+(DZ) (19) can improve the insulin release pattern in both
+human and animal models of type 2 DM. This effect is likely
+mediated via hyperpolarization of -cells, thereby providing
+-cell rest by reducing insulin release (20, 21). Chronic 
+suppression of hyperinsulinemia in mildly hyperglycemic obese
+Zucker (fa/fa) rats by DZ also reduces plasma FFA, TG, and
+leptin levels and down-regulates adipose tissue, FAS 
+activity, and lipoprotein lipase mRNA (22). To assess the 
+meta-5476
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+bolic effects of DZ-induced -cell rest in prediabetic ZDF, as
+a strategy for prevention of diabetes in prediabetic ZDF rats,
+we measured insulin sensitivity, glucose tolerance, lipid 
+profile, 3-adrenoreceptor (3-AR) gene expression, and 
+adenylate cyclase (AC) activity in pancreatic islets and adipose
+tissue and expression of liporegulatory genes and insulin
+gene expression in islets.
+Materials and Methods
+Animals
+Six-week-old male prediabetic ZDF and Zucker lean (ZL) rats (Ge-
+netic Models, Inc., Indianapolis, IN) were provided rat chow, PMI 
+Lab-Diet 5001 (Purina Mills Inc., St. Louis, MO), and water ad libitum. The
+obese and lean rats were divided into three subgroups (n
+6 per
+subgroup): DZ (DZ-ZDF), pair-fed (PF-ZDF), and control (C-ZDF). DZ
+[150 mg/kg body weightd; Proglycem suspension 50 mg/ml (Baker-
+Norton Pharmaceuticals, Miami, FL)] or an equivalent volume of vehicle
+(to PF-ZDF and C-ZDF) was administered by gavage needle twice daily
+for a period of 8 wk.
+Metabolic and biochemical studies
+Rats were weighed twice weekly, and food consumption was 
+measured in separate metabolic cages during the 2nd and 6th wk of the
+study. Blood samples from tail vein were obtained for analysis of glucose
+after an 18-hour fast once weekly. When animals were fasted, doses of
+DZ or vehicle were withheld for at least 18 h. At the end of the 8-wk
+period, ip glucose tolerance tests (IPGTTs; 1.0 g glucose/kg body
+weight) were performed after an overnight fast (18 h). Blood for glucose
+and insulin was drawn into heparinized tubes from the supraorbital
+sinus 0, 15, 30, and 60 min after glucose administration under anesthesia
+by im ketamine (65-100 mg/kg body weight). On a separate day, fasting
+blood samples were obtained for glucose, insulin, leptin, adiponectin/
+adipocyte complement-related protein of 30 kDa (ACRP30), FFAs, TGs,
+and hemoglobin A1c (HbA1c).
+Pancreatic islet studies
+After an overnight fast (18 h), a pancreatic islet isolation procedure
+was performed between 0900 and 1100 h. Rats were anesthetized by im
+injections of Nembutal (50 mg/kg) and ketamine (90 mg/kg). Pancreatic
+islets were isolated as previously described by Naber et al. (23). The
+pancreatic tissue was digested in collagenase buffer mix, and islets were
+separated from acinar tissue on a discontinuous Ficoll gradient. The
+RNA extraction was performed from freshly isolated islets in PBS (see
+below). Also, groups of 100-300 islets were immediately frozen in 
+meth-anol-dry ice and stored at 80 C until used for TG, insulin, and AC
+assays. The animals were then euthanized by a terminal cardiac 
+puncture and exsanguinations, omental adipose tissue was also harvested for
+RNA extraction, and the remainder was stored in 80 C. The Medical
+College of Wisconsin Animal Resource Center approved the animal
+procedures.
+Assays
+Plasma glucose, insulin, leptin, and adiponectin/ACRP30. Glucose level was
+measured by the glucose oxidase method (Sigma Chemical Co., St.
+Louis, MO). Plasma concentrations of insulin, leptin, and adiponectin
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+Endocrinology, December 2004, 145(12):5476-5484 5477
+were determined by RIA kits using a double-antibody method (LINCO
+Research, St. Louis, MO).
+Plasma TGs and FFAs. Plasma TG level was measured by an enzymatic
+method (Sigma Diagnostics, St. Louis, MO). Plasma FFA was 
+determined by an enzymatic colorimetric method (Wako Chemicals, 
+Richmond, VA).
+Hemoglobin A1c. Glycosylated HbA1c was measured using the DCA 2000
+latex immunoagglutination method (Bayer, Tarrytown, CA).
+Extraction of total RNA and multiple real-time RT-PCR quantitation. Total
+RNA was extracted by the TRIzol isolation method (Life Technologies,
+Gaithersburg, MD). The RNA yield from isolated pancreatic islets
+(300-500) was 12-20 ı`g per ZL and ZDF rat. RNA was treated with
+ribonuclease-free deoxyribonuclease (Promega, Madison, WI) and
+stored in Ambion RNA storage solution (Ambion, Austin, TX) at80 C.
+First-strand cDNA was generated from 1 ı`g RNA in a 10-l solution
+containing 200 U Superscript II (Invitrogen Life Technologies, Carlsbad,
+CA), 1 mm deoxynucleotide triphosphate mix, 2 U Rnasin (Promega,
+Madison, WI), 2.5 m random hexamers (Life Technologies, Inc.), 5
+first-strand buffer (Invitrogen), and diethylpyrocarbonate water. After
+incubation for 1 h at 42 C, the reaction mixture was heated to 94 C for
+2 min. The cDNA was then stored at 20 C.
+PCR amplification and analysis was performed using a Smartcycler
+II instrument and software version 1.2 (Cepheid, Sunnyvale, CA) (24).
+The final reaction mix of 25 l consisted of 2 l cDNA, 0.5 m each
+primer, 12.5 l QuantiTect SYBR Green Master Mix (Qiagen, Valencia,
+CA), and 8.0 l H2O. For all primer pairs except 18S RNA (internal
+control), the cDNA was denatured by incubation at 95 C for 10 min. The
+template was amplified for 55 cycles of 30 sec at 95 C, 40 sec at 60 C, and
+30 sec at 72 C. The 18S RNA primer pair was incubated at 95 C for 10
+min; the template was then amplified for 65 cycles of 30 sec at 95 C, 40
+sec at 55 C, and 30 sec at 72 C. Fluorescent data were acquired during
+each extension phase. A standard curve was created for each primer set
+using a serial dilution series of 1:5, 1:25, 1:125, and 1:625 using control
+sample cDNA. All samples and standard curve dilutions were run in
+duplicate. After all cycles were complete, a melting curve was generated
+by cooling samples to 60 C and slowly heating the samples at 0.2 C/sec
+to 95 C. Cycle threshold is defined as the first cycle in which there is
+significant increase in fluorescence above the background, which 
+correlates to the log-linear phase of PCR amplification. Cycle threshold
+values were used to calculate relative amount values in samples.
+Table 1 summarizes the sequences of the primers, 3-adrenergic 
+receptor (3AR), FAS, acyl coenzyme A carboxylase (ACC), uncoupling
+protein-2 (UCP-2), and insulin, which were used to amplify first-strand
+cDNA for gene products. The products were run on 1% agarose gel for
+confirmation. 18S rRNA (Quantum-RNA kit; Ambion) was used as an
+internal control, and levels of FAS, ACC, UCP-2, 3AR, and insulin
+mRNA were expressed as the ratio for gene mRNA relative to 18S
+mRNA. All primers were obtained from Integrated Technologies (Cor-
+alville, IA).
+Islet TG content. Fifty to 100 islet homogenates were prepared as 
+previously described by Danno et al. (25). The homogenates underwent
+chloroform/methanol extraction before TG measurement. 
+Measurements were made in duplicate using the Sigma (GPO-Trinder) kit as
+previously described (7).
+Islet insulin content. For measurement of islet insulin content, 10 islets in
+0.5 ml PBS were sonicated three times for 15 sec, and then the 
+homog-enate underwent acid extraction before determination of insulin content,
+5478 Endocrinology, December 2004, 145(12):5476-5484
+as previously described (11). Insulin content was determined by using
+a double-antibody RIA with rat standards (LINCO Research, St. Louis,
+MO).
+Islet AC activity in islets and adipose tissue.Before the assay, the 10-50 islets
+were homogenized in a medium consisting of 0.25 m sucrose and 5 mm
+Tris-HCl at pH 8.0. Adipose tissues were minced and plasma 
+membranes were prepared as previously described (26). The enzyme activity
+was assayed using a bioluminescent assay for AC activity, which was
+expressed as cAMP (picomoles per minute per milligram of protein) (27).
+Protein content of islet and adipose tissue fractions was estimated using
+the Lowry method (28).
+Statistical analysis
+The reported values represent the mean se. Statistical comparisons
+between subgroups were assessed by one-way ANOVA and Dunnett’s
+and Tukey’s tests. P  0.05 was considered statistically significant.
+Results
+Effect of DZ on food intake and body weight
+Table 2 shows weight and food intake in ZDF and ZL rats.
+C-ZDF rats exhibited higher initial weight and greater
+weight gain over the 8-wk period than ZL animals (P
+0.001). The final body weight and average weight gain in
+DZ-ZDF animals were reduced compared with PF-ZDF (P
+0.02) and C-ZDF rats (P 0.001), respectively. Also, PF-ZDF
+rats had lower final weight (P 0.02) and rate of weight gain
+(P  0.02) than C-ZDF animals. Body weight differences
+between DZ-ZDF and C-ZDF (P  0.02) and PF-ZDF and
+C-ZDF (P  0.02) first emerged at ages 8 and 9 wk, 
+respectively (data not shown). Body weight differences between
+DZ-ZDF and PF-ZDF (P 0.02) were first observed at 13 wk
+of age. DZ treatment did not affect body weight in ZL rats.
+When food intake was measured during the treatment period
+(2nd and 6th wk), C-ZDF rats consumed larger amounts of
+food than C-ZL animals (P  0.001). DZ treatment reduced
+food intake in ZDF rats compared with PF-ZDF (P  0.02)
+and C-ZDF rats (P 0.001) without a significant effect in ZL
+animals.
+Data are mean  SE and were analyzed by one-way ANOVA. wt, weight; BW, body weight; Cal, calories; NS, not significant.
+a Only DZ vs. PF.
+b Only DZ vs. C.
+c Male ZDF (DZ, PF, and C) vs. ZL (DZ, PF, and C).
+d Only PF vs. C.
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+Effect of DZ on fasting plasma glucose, insulin, leptin,
+adiponectin, lipid concentrations, and HbA1c
+Figure 1 illustrates weekly fasting plasma glucose in obese
+ZDF and ZL animals. DZ-treated ZDF rats had lower fasting
+plasma glucose concentrations than C-ZDF and PF-ZDF rats
+(P  0.0001) at the completion of the study. Fasting plasma
+glucose differences between DZ-ZDF and C-ZDF (P 0.005)
+initially appeared at age 8 wk. Also, PF-ZDF had lower
+fasting plasma glucose levels than C-ZDF (P  0.02) during
+the last 2 wk of the study.
+Table 3 shows fasting plasma levels of glucose, insulin,
+leptin, adiponectin, FFAs, and TG, after 8 wk of DZ or vehicle
+treatment. Fasting plasma glucose and insulin 
+concentrations were higher among ZDF animals compared with ZL
+rats (P  0.001). Fasting plasma glucose was lower in 
+DZ-ZDF compared with PF-ZDF (P  0.002) and C-ZDF (P
+0.001). However, PF-ZDF had lower plasma glucose than
+C-ZDF rats (P  0.02). Fasting plasma insulin levels were
+higher in DZ-ZDF (P  0.001) compared with PF-ZDF and
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+Data are mean  SE and were analyzed by one-way ANOVA.
+IRI, Immunoreactive insulin; NS, not significant.
+a Only DZ vs. PF.
+b Only DZ vs. C.
+c ZDF (DZ, PF, and C) vs. ZL (DZ, PF, and C).
+d Only PF vs. C.
+C-ZDF animals (P  0.001). PF-ZDF also had higher fasting
+plasma insulin levels than C-ZDF rats (P  0.01).
+Fasting plasma leptin levels were higher in ZDF than in ZL
+animals (P 0.001). Although DZ treatment reduced plasma
+leptin in ZDF animals (P 0.001), it did not affect leptin level
+in ZL rats. Furthermore, ZL animals showed higher fasting
+plasma adiponectin levels than ZDF rats (P  0.005). DZ
+resulted in higher plasma adiponectin levels in ZDF rats
+compared with controls (P  0.02), without any effect in ZL
+rats.
+Fasting plasma levels of FFA and TG were higher in ZDF
+than in ZL animals (P  0.001). The plasma FFA levels were
+decreased in DZ-ZDF compared with PF-ZDF (P 0.02) and
+C-ZDF (P  0.001) rats. DZ-ZDF animals also had lower
+plasma TGs than PF-ZDF and C-ZDF (P 0.0001) rats. 
+Fasting plasma FFAs and TGs were not altered in DZ-ZL rats
+compared with their controls.
+C-ZDF animals had higher HbA1c levels compared with
+C-ZL (P  0.0001). Whereas DZ lowered HbA1c in ZDF rats
+compared with controls (P 0.001), it increased HbA1c level
+in ZL rats (P  0.02).
+Effect of DZ on glucose tolerance
+Figure 2 illustrates the glucose and insulin responses to ip
+glucose load (1 g/kg) after an 18-hour fast in ZDF and ZL
+animals at the termination of the 8-wk study. The area under
+the curve (AUC) for glucose (mmmin) and insulin
+(pmolmin) data were analyzed for each subgroup of ZDF
+and ZL rats. DZ treatment prevented the development of
+diabetes in ZDF rats (AUC glucose: 928  55 vs. 1504  53
+and 1748  64 mmmin; P  0.0005) and preserved insulin
+response to IPGTT (AUC insulin: 149  7 vs. 116  6 and
+112  7 pmolmin; P  0.01) compared with PF and C rats.
+The PF-ZDF rats also showed improved glucose response
+(P 0.02) because of a decreased rate of weight gain but only
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+a modest improvement (not significant) in insulin response
+compared with controls. DZ-ZL rats showed suppression of
+insulin response (AUC insulin: 24.0  2 vs. 49  7 and 47
+8 pmolmin; P 0.01) compared with PF and C rats, without
+any effect on glucose response during IPGTT (AUC glucose:
+719  54 vs. 691  45 and 694  30 mmmin).
+Effect of DZ treatment on islet 3AR mRNA content and
+AC activity
+Figure 3 illustrates the islet 3AR mRNA levels and basal
+AC activity. C-ZDF rats showed lower 3AR expression than
+C-ZL animals (P  0.0001) (Fig. 3A). Whereas 3AR mRNA
+was higher in DZ-ZDF than PF and C-ZDF rats (P  0.005),
+Endocrinology, December 2004, 145(12):5476-5484 5479
+5480 Endocrinology, December 2004, 145(12):5476-5484
+it did not increase in DZ-ZL rats. However, C-ZDF rats had
+higher basal AC activity than ZL animals (P  0.0001). DZ
+treatment decreased AC activity only in ZDF rats (P 0.005)
+but not in ZL rats (Fig. 3B).
+Effect of DZ treatment on adipose 3AR mRNA content and
+AC activity
+Figure 4 shows the adipose tissue 3AR mRNA levels in
+ZDF and ZL rats. C-ZDF rats showed lower 3AR expression
+than C-ZL animals (P  0.0001) (Fig. 4A). Whereas 3AR
+mRNA was higher in DZ-ZDF than PF and C-ZDF rats (P
+0.005), it did not increase in DZ-ZL rats. C-ZDF rats had
+lower basal AC activity than ZL animals (P  0.0001). DZ
+treatment increased basal AC activity in adipose tissue only
+in ZDF rats (P  0.01) but not in ZL rats (Fig. 4B).
+Effect of DZ treatment on pancreatic islet FAS and ACC
+mRNA contents
+Figure 5 illustrates the pancreatic islet FAS and ACC
+mRNA levels in ZDF and ZL rats. C-ZDF rats showed higher
+islet FAS mRNA than ZL rats (P  0.0001) (Fig. 5A). DZ
+caused lower islet FAS mRNA content compared with 
+PF-ZDF (P  0.03) and C-ZDF (P  0.01) rats (Fig. 4A) without
+any effect in ZL rats. Similarly, ZDF rats had higher islet ACC
+mRNA than ZL rats (P 0.0001) (Fig. 5B). Whereas DZ-ZDF
+animals showed lower ACC mRNA levels than PF-ZDF (P
+0.01) and C-ZDF animals (P  0.005), islet ACC mRNA was
+not altered in DZ-ZL rats.
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+Effect of DZ treatment on pancreatic islet UCP-2 and
+insulin mRNA contents
+Figure 6 shows the pancreatic islet UCP-2 and insulin
+mRNA levels in ZDF and ZL rats. C-ZDF rats showed higher
+islet UCP-2 mRNA content than ZL rats (Fig. 6A). DZ 
+treatment caused lower islet UCP-2 mRNA levels in ZDF (DZ vs.
+PF, P  01; DZ vs. C, P  0.007) animals, without any effect
+in ZL islets. C-ZDF had higher islet insulin mRNA than ZL
+rats (P  0.0001) (Fig. 6B). DZ treatment increased islet 
+insulin mRNA content in ZDF (DZ vs. PF and C, P 0.01) and
+ZL (DZ vs. PF and C, P  0.02).
+Effect of DZ treatment on pancreatic islet TG and
+insulin contents
+Figure 7 illustrates TG and insulin contents in freshly
+isolated pancreatic islets of ZDF and ZL rats. Control ZDF
+rats had higher islet TG than ZL rats (P  0.0001) (Fig. 7A).
+DZ treatment reduced islet TG content in ZDF animals (P
+0.005), without any effect in their PF-ZDF and ZL rats. 
+Control ZDF rats demonstrated higher islet insulin content than
+ZL rats (P  0.01) (Fig. 7B). DZ treatment increased islet
+insulin content in ZDF (P  0.001) and ZL (P  0.03) rats
+compared with their controls.
+Discussion
+In our study, DZ treatment of prediabetic male ZDF rats
+decreased food consumption and the rate of weight gain. In
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+addition, DZ improved lipid profile and insulin sensitivity,
+restored adipose tissue 3AR function, preserved insulin 
+response to glucose, and prevented the development of 
+diabetes in these animals. These metabolic changes were 
+accompanied by altered 3AR function and decreased
+expression of the key genes regulating lipogenesis and islet
+TG content in pancreatic islets, but increased islet gene 
+expression and insulin content.
+Because insulin acts centrally to decrease body weight (29),
+a possible hypothesis is that the obesity state and 
+hyperpha-gia observed in Zucker rats are in part due to insulin 
+resistance in the brain, as manifested by reduced capillary insulin
+binding, which is thought to mediate the transport of insulin
+into the brain. DZ treatment has significant anorectic and
+antiobesity effects only in obese hyperphagic Zucker rats (30,
+31), which are, in part, attributed to enhancement of central
+nervous system insulin sensitivity and uptake (32) and 
+reduction of lipogenesis, leading to a decrease in food intake
+and rate of weight gain. In our study, DZ-treated ZDF rats
+had a lower rate of weight gain than PF-ZDF and C-ZDF
+animals, suggesting that the antiobesity effect of DZ is due
+not only to decreased food intake but also to down-regula-
+tion of key lipogenic enzymes (FAS and lipoprotein lipase)
+in adipose tissue (22).
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+Endocrinology, December 2004, 145(12):5476-5484 5481
+In the obesity state, adipose cellular enlargement is 
+associated with a decreasing maximum capacity for total glucose
+utilization (33), whereas glucose carbons are increasingly
+diverted to TG glycerol synthesis at the expense of fatty acid
+synthesis and glucose oxidation through the hexose-mono-
+phosphate shunt (34). These alterations in relative activities
+of the pathway for glucose metabolism are probably 
+mediated by an observed increase in intracellular FFA with 
+increasing adipocyte cell size (34, 35). DZ treatment of obese
+Zucker rats reduces plasma TG and enhances glucose 
+transport into adipocytes (31), suggesting reversal of increased TG
+glycerol synthesis and enhanced glucose oxidation. Indeed,
+the lipid-lowering effect of DZ in ZDF rats is partially due to
+reduction in rate of weight gain and lower plasma glucose,
+given that PF-ZDF rats showed only a modest reduction in
+body weight and plasma glucose without significant 
+reduction in plasma TG levels.
+Consistent with our previous studies in obese Zucker rats,
+DZ-ZDF animals were normoglycemic and showed higher
+insulin sensitivity than controls (30, 31), whereas their higher
+fasting insulin and insulin response to glucose compared
+with controls appeared paradoxical. Induction of -cell rest
+by short-term DZ dosing in insulin-treated patients with type
+2 DM has been shown to improve -cell function without a
+5482 Endocrinology, December 2004, 145(12):5476-5484
+significant change in mean plasma glucose levels and body
+weight (20). Song et al. demonstrated that in vitro DZ 
+treatment of human islets resulted in attenuation of 
+glucose-induced defects in first-phase insulin release and pulsatile
+insulin secretion (36). Also, Aizawa et al. (37) demonstrated
+that chronic suppression of hyperinsulinemia by DZ in 
+Ot-suka Long-Evans Tokushima Fatty rats resulted in marked
+improvement of glucose tolerance and disappearance of 
+exaggerated -cell insulin response in vitro. Therefore, 
+reduction of -cell workload by DZ in ZDF rats improved glucose
+tolerance and insulin secretory responsiveness similar to a
+recent study (21). However, DZ resulted in relative 
+hypoin-sulinemia and deterioration in ambient glucose in ZL rats
+during the fed state.
+Glucose is the major physiological activator of insulin 
+secretion from pancreatic -cells. Although the regulation of
+this activation is complex, elevated intracellular levels of
+cAMP potentiate insulin secretion in a glucose-dependent
+manner (38). The intracellular concentration of cAMP is 
+established by the balance between its synthesis by AC and
+degradation by phosphodiesterases (39). Stimulation of AC
+through 3ARs results in marked increase in the plasma
+insulin concentrations in rats (40). Increasing levels of 
+intracellular calcium further augment -cell AC activity (41). On
+the other hand, 3AR agonists are believed to have an 
+an-tidiabetic effect by modulating carbohydrate and lipid 
+metabolism in rodents’ adipose tissue (42). Surwit et al. showed
+that a diet-induced animal model of diabetes and 
+hyperin-sulinemic obesity is associated with blunting of 3AR 
+function in adipocytes, which is then reversed by DZ suppression
+of insulin (43). In our study, DZ treatment enhanced basal
+3AR expression in adipose tissue of ZDF rats with a parallel
+increase in AC activity. The absence of a DZ effect on basal
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+3AR and AC in ZL rats may be due to unaltered ambient
+glucose during the fasting state compared with their controls.
+On the other hand, DZ treatment enhanced 3AR expression
+but lowered AC activity in pancreatic islets of ZDF rats. It is
+possible that decreased islet AC activity in only DZ-treated
+ZDF rats was due to improved ambient glucose but not to an
+inhibitory effect of DZ on calcium channels (44) given that no
+changes in islet AC activity were observed in DZ-ZL rats. We
+speculate that paradoxical up-regulation of islet 3AR 
+expression in ZDF rats is a compensatory response to a marked
+increase in islet insulin content, whereas unaltered 3AR
+expression in ZL islets is likely due to only a modest increase
+in islet insulin content. Our data suggest that chronic insulin
+suppression restored 3-adrenergic function in both 
+pancreatic islets and adipose tissue, leading to increased insulin
+response to glucose and enhanced metabolic efficiency of
+insulin.
+Long-term exposure of pancreatic -cells to FFA could
+alter the coupling of glucose metabolism to insulin secretion
+by increasing basal insulin secretion, through changes in the
+cytosolic ATP-to-ADP ratio leading to the closure of KATP
+channels (45), but markedly decreasing insulin secretion in
+response to glucose (44, 45). Chronic FFA exposure also alters
+the energy metabolism of the -cell, elevates the redox state,
+and increases basal oxygen consumption; this suggests an
+effect at the level of ATP generation (46) or beyond. The
+UCP-2 is located in the inner mitochondrial membrane of the
+islets and acts as a proton channel or transporter (47) and
+uncouples the electrochemical gradient produced by the 
+respiratory chain from ATP synthesis. Fatty acids or dietary
+fats increase UCP-2 mRNA and protein levels in several
+tissues (48, 49). Indeed, chronic exposure of the islets to FFAs
+increases the expression level of the UCP-2 gene and 
+decreases the effects of glucose on the ATP-to-ADP ratio and on
+the plasma membrane and mitochondrial membrane 
+potentials (50). However, changes in plasma FFA level did not
+correlate with changes in islet TG or insulin mRNA level by
+Harmon et al. (51), implying that antecedent hyperglycemia,
+not hyperlipidemia, increases islet lipogenesis, with a 
+resultant decrease in islet insulin mRNA levels in ZDF rats. In our
+study, a decrease in islet UCP-2 mRNA of DZ-ZDF rats was
+accompanied by increased islet insulin content and insulin
+mRNA. These metabolic effects in islets are, in part, due to
+improved ambient glucose (as evidenced by lower HbA1c in
+ZDF rats) and lipids. On the other hand, the increased islet
+insulin and insulin mRNA contents in DZ-ZL rats during the
+fasted (basal) state are likely due to induction of -cell rest
+despite deterioration of glycemic control secondary to 
+relative hypoinsulinemia during the fed state.
+However, because DZ-ZL rats had higher ambient glucose
+during the fed state (elevated HbA1c) than control lean rats,
+the novel adipokine, adiponectin/ACRP30, appears to play
+an important role in modulating glucose tolerance and 
+insulin sensitivity (52), without a compensatory effect on 
+insulin secretion. Adiponectin is the most abundant 
+adipose-specific protein and is exclusively expressed and secreted
+from adipose tissue (53). Plasma adiponectin levels are 
+decreased in obesity and type 2 DM (54, 55) and are inversely
+correlated with fasting insulin and plasma TG (56). In our
+study, plasma adiponectin levels were higher in DZ-ZDF rats
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+than in their controls, which corresponded to higher insulin
+sensitivity, normoglycemic state, and improved plasma
+lipids.
+Insulin stimulates the synthesis of leptin in adipose tissue
+(57), whereas leptin inhibits the production of insulin in
+-cells by modulation of KATP channel (19) and activation
+of cyclic nucleotide phosphodiesterase 3B and subsequent
+suppression of cAMP levels (58). Consistent with our 
+previous studies, chronic suppression of insulin by DZ in 
+prediabetic Zucker rats reduced plasma leptin levels (22, 31)
+without any alteration in DZ-treated ZL rats. The plasma
+leptin reduction in DZ-ZDF rats appears to be due to a
+significant role of body fat and adipose tissue leptin 
+production on plasma leptin levels (59).
+In conclusion, prophylactic DZ treatment in prediabetic
+ZDF rats decreased rate of weight gain, improved lipid 
+profile, increased insulin sensitivity, restored 3AR function in
+adipose tissue, enhanced islet insulin content, and preserved
+the pancreatic insulin response to glucose. This was 
+accompanied by alteration of 3AR function and decreased 
+lipogenesis in pancreatic islets. These findings suggest that 
+induction of -cell by DZ in the prediabetic state may serve as
+a valuable therapeutic strategy in the prevention of -cell
+failure and progression to diabetes in humans.
+Acknowledgments
+Received November 10, 2003. Accepted August 9, 2004.
+Address all correspondence and requests for reprints to: Ramin
+Alemzadeh, M.D., Associate Professor Department of Pediatrics, Section
+of Endocrinology and Metabolism, Medical College of Wisconsin,
+8701 Watertown Plank Road, Milwaukee, Wisconsin 53226. E-mail:
+ralemzad@mcw.edu.
+This work was supported by a grant from the Medical College of
+Wisconsin Research Affairs Committee.
+This study was presented in part at the 63rd Annual Meeting of the
+American Diabetes Association, in New Orleans, Louisiana, June 13-17,
+2003.
+References
+1. Smith SR 1996 The endocrinology of obesity. Endocrinol Metab Clin North
+Am 25:921-942
+2. Seufert J, Kieffer TJ, Leech CA, Holz GG, Moritz W, Ricordi C, Habener JF
+1999 Leptin suppression of insulin secretion and gene expression in human
+pancreatic islets: implication for the development of adipogenic diabetes 
+mellitus. J Clin Endocrinol Metab 84:670-676
+3. Kieffer TJ, Heller RS, Leech CA, Holz GG, Habener JF 1997 Leptin 
+suppression of insulin secretion by the activation of ATP-sensitive K channels in
+pancreatic -cells. Diabetes 46:1087-1093
+4. Zhou Y-T, Shimabukuro M, Lee Y, Koyama K, Higa M, Ferguson T, Hunger
+RH 1998 Enhanced de novo lipogenesis in the leptin-unresponsive pancreatic
+islets of prediabetic Zucker diabetic fatty rats: role in the pathogenesis of
+lipotoxic diabetes. Diabetes 47:1904-1908
+5. Shimabukuro M, Higa M, Zhou Y-T, Wang M-Y, Newgard CB, Unger RH
+1998 Lipoapoptosis in the -cells of obese prediabetic fa/fa rats: role of serine
+palmitoyltransferase overexpression. J Biol Chem 49:32487-32490
+6. PaolissoG,Tataranni PA, Foley JE, BogardusC,HowardBV,RavussinE 1995
+A high concentration of fasting plasma non-esterified fatty acids is a risk factor
+for the development of NIDDM. Diabetologia 38:1213-1217
+7. Lee Y, Hirose H, OhnedaM, Johnson JH, McGarry JD, Unger RH 1994 	-cell
+lipotoxicity in the pathogenesis of non-insulin-dependent diabetes mellitus of
+obese rats: impairment in adipocyte--cell relationships. Proc Natl Acad Sci
+USA 91:10878-10882
+8. Shafrir E 1992 Animal models of non-insulin-dependent diabetes. Diabetes
+Metab 8:179-208
+9. Groop LC, Saloranta C, Shank M, Bonadonna RC, Ferrannini E, DeFronzo
+RA 1991 The role of free fatty acid metabolism in the pathogenesis of insulin
+resistance in obesity and non-insulin-dependent diabetes mellitus. J Clin 
+En-docrinol Metab 72:96-107
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+Endocrinology, December 2004, 145(12):5476-5484 5483
+10. McGarry JD 1992 What if Minkowski had been ageustic? An alternative angle
+on diabetes. Science 258:766-774
+11. Zhou Y-P, Grill VE 1994 Long-term exposure of rat pancreatic islets to fatty
+acids inhibits glucose-induced insulin secretion and biosynthesis through a
+glucose fatty acid cycle. J Clin Invest 93:870-876
+12. Leahy JL, Bonner-Weir S,WeirGC 1992-cell dysfunction induced by chronic
+hyperglycemia. Diabetes Care 15:442-455
+13. Ling Z, Kiekens R, Mahler T, Schuit FC, Pipeleers-Marichal M, Sener A,
+Kloppel G, Malaisse WJ, Pipeleers DG 1996 Effects of chronically elevated
+glucose levels on the functional properties of rat pancreatic -cells. Diabetes
+45:1774-1782
+14. Unger RH 1995 Lipotoxicity in the pathogenesis of obesity-dependent
+NIDDM: genetic and clinical implications. Diabetes 44:863-870
+15. Jacqueminet S, Briaud I, Rouault C, Reach G, Poitout V 2000 Inhibition of
+insulin gene expression by long-term exposure of pancreatic -cells to 
+palmitate is dependent on the presence of a stimulatory glucose concentration.
+Metabolism 49:532-536
+16. RobertsonRP,OlsonLK, ZhangH-J 1994 Differentiating glucose toxicity from
+glucose desensitization: a new message from the insulin gene. Diabetes 43:
+1085-1089
+17. Harmon JS, Gleason CE, Tanaka Y, Oseld EA, Hunter-Berger KK, Robertson
+RP 1999 In vivo prevention of hyperglycemia also prevents glucotoxic effect
+on PDX-1 and insulin gene expression. Diabetes 48:1995-2000
+18. Spiegelman BM, Flier JS 1996 Adipogenesis and obesity: rounding out the big
+picture. Cell 87:377-389
+19. Henquin JC,MeissnerHP 1982 Opposite effects of tolbutamide and diazoxide
+on 86 Rb fluxes and membrane potential in pancreatic B cells. Biochem
+Pharmacol 31:1407-1415
+20. Guldstrand M, Grill V, Bjorklund A, Lins PE, Adamson U 2002 Improved
+cell function after short-term treatment with diazoxide in obese subjects with
+type 2 diabetes. Diabetes Metab 28:448-456
+21. Carr RD, Brand CL, Bodvarsdottir TB, Hansen JB, Sturis J 2003 NN414, a
+SUR1/Kir6.2-selective potassium channel opener, reduces blood glucose and
+improves glucose tolerance in the VDF Zucker rats. Diabetes 52:2513-2518
+22. Standridge M, Alemzadeh R, Koontz J, Moustaid N 2000 Diazoxide 
+down-regulates leptin and lipid metabolizing enzymes in adipose tissue of Zucker
+rats. FASEB J 14:455-460
+23. Naber SP, McDonald JM, Jarett L, McDaniel ML, Ludvigsen CW, Lacy PE
+1980 Preliminary characterization of calcium binding in islet-cell plasma 
+membranes. Diabetologia 19:439-444
+24. Pedotti R, DeVoss JJ, Youssef S, Mitchell D, Wedemeyer J, Madanat R,
+Garren H, Fontoura P, Tsai M, Galli SJ, Sobel RA, Steinman L 2003 Multiple
+elements of the allergic arm of the immune response modulate autoimmune
+demyelination. Proc Natl Acad Sci USA 100:1867-1872
+25. Danno H, Jincho Y, Budiyanto S, Furokawa Y, Kimura S 1992 A simple
+enzymatic quantitative analysis of triglycerides in tissues. J Nutr Sci Vitaminol
+38:517-521
+26. Collins S, Daniel KW, Rohlfs EM, Ramkumar V, Taylor IL, Gettys TW 1994
+Impaired expression and functional activity of the 3- and 1-adrenergic 
+receptors in adipose tissue of congenitally obese (C57BL/6J ob/ob) mice. Mol
+Endocrinol 8:518-527
+27. McKnite S, Evingson M, Pennington J, Adkisson W, Sugiyama A, Lurie KG
+1996 A bioluminescent enzymatic assay for adenylylcyclase activity. Anal
+Biochem 235:103-106
+28. Lowry OH, Rosebrough NJ, Farr AL, Randall RJ 1951 Protein measurement
+with the folin phenol reagent. J Biol Chem 193:265-275
+29. Baskin DG, Figlewics DP, Woods SC, Porte Jr D, Dorsa DM 1987 Insulin in
+the brain. Annu Rev Physiol 49:335-347
+30. Alemzadeh R, Slonim AE, Zdanowics MM, Maturo J 1993 Modification of
+insulin resistance by diazoxide in obese Zucker rats. Endocrinology 133:
+705-712
+31. Alemzadeh R, Jacobs W, Pitukcheewanont P 1996 Antiobesity effect of 
+diazoxide in obese Zucker rats. Metabolism 45:334-341
+32. AlemzadehR,Holshouser S 1999 Effect of diazoxide on brain capillary insulin
+receptor binding and food intake in hyperphagic obese Zucker rats. 
+Endocrinology 140:3197-3202
+33. RichardsonDK, CzechMP 1978 Primary role of decreased fatty acid synthesis
+in insulin resistance of large rat adipocytes. Am J Physiol 234:E182-E189
+34. Salans LB, Cushman SW 1974 Hormones and adipocytes: factors influencing
+the metabolic effects of insulin and adrenaline. In: Burland WL, Samuel PD,
+Yudkin J, eds. Obesity. London: Churchill Livingstone; 204-211
+35. Salans LB, Cushman SW 1978 The roles of adiposity and diet in the 
+carbohydrate and lipid metabolic abnormalities of obesity. In: Datzen HM, Mabler
+RJ, eds. Advances in modern nutrition. Vol 2. Diabetes, obesity and vascular
+disease: metabolic and molecular interrelationships. Washington DC: Wiley;
+267-275
+36. Song SH, Rhodes CJ, Veldhuis JD, Butler PC 2003 Diazoxide attenuates
+glucose-induced defects in first-phase insulin release and pulsatile insulin
+secretion in human islets. Endocrinology 144:3399-3405
+37. Aizawa T, Tagichi N, Sato Y, Nakabayashi T, Kobuchi H, Hikada H, 
+Na-gasawa T, Ishihara F, Itoh N, Hashizume K 1995 Prophylaxis of genetically
+5484 Endocrinology, December 2004, 145(12):5476-5484
+determined diabetes by diazoxide: a study in a rat model of naturally occurring
+obese diabetes. J Pharmacol Exp Ther 275:1194-1199
+38. Malaisse WJ, Malaisse-Lagae F, Mayhew D 1967 A possible role for the
+adenylcyclase system in insulin secretion. J Clin Invest 46:1724-1734
+39. Bentley JK, Beavo JA 1992 Regulation and function of cyclic nucleotides. Curr
+Opin Cell Biol 4:233-240
+40. Atef N, Lafontan M, Double A, Helary C, Ktorza A, Penicaud L 1996 A
+specific 3-adrenoreceptor agonist induces pancreatic blood flow and insulin
+secretion in rats. Eur J Pharmacol 298:287-292
+41. Delmeire D, Flamez D, Hinke SA, Cali JJ, Pipeleers D, Schuit F 2003 Type
+VIII adenylate cyclase in rat  cells: coincidence signal detector/generator for
+glucose and GLP-1. Diabetologia 46:1383-1393
+42. Carroll MJ, Lister CA, Sennitt MV, Stewart-Long N, Cawthorne MA 1985
+Improved glycemic control in C57Bl/KSJ (db/db) mice after treatment with
+the thermogenic -adrenoreceptor agonist BRL26830A. Diabetes 34:1198-1203
+43. Surwit RS, Dixon TM, Petro AE, Daniel KW, Collins S 2000 Diazoxide
+restores 3-adrenergic receptor function in diet-induced obesity and diabetes.
+Endocrinology 141:3630-3637
+44. Antoine MH, Pirotte B, Hermann M, de Tullio P, Delarge J, Herschuelz A,
+Lebrun P 1994 Cationic and secretory effects of BPDZ 44 and diazoxide in rat
+pancreatic islets. Experientia 50:830-832
+45. LarssonO,Deeney JT, BranstromR, Berggren PO,CorkeyBE 1996 Activation
+of the ATP-sensitive K channel by long chain acyl-CoA: a role in modulation
+of pancreatic -cell glucose sensitivity. J Biol Chem 271:10623-10626
+46. Ashcroft FM, Proks P, Smith PA, Ammala C, Bokvist K, Rorsman P 1994
+Stimulus-secretion coupling in pancreatic -cells. J Cell Biochem 55:54-65
+47. Boss O, Muzzin P, Giacobino JP 1998 The uncoupling proteins: a review. Eur
+J Endocrinol 139:1-9
+48. Fleury C, NeverovaM, Collin S, Raimbault S, Champigny O, Levi-Meyrueis
+C, Bouillaud F, Seldin MF, Surwit RS, Ricquier D, Warden CH 1997 
+Uncoupling protein-2: a novel gene linked to obesity and hyperinsulinemia. Nat
+Genet 15:269-272
+49. Zhou YT, Shimabukuro M, Koyama K, Lee Y, Wang MY, Trieu F, Newgard
+CB, Unger R 1997 Induction by leptin of uncoupling protein 2 and enzymes
+of fatty acid oxidation. Proc Natl Acad Sci USA 94:6386-6390
+Endocrinology is published monthly by The Endocrine Society (http://www.endo-society.org), the foremost professional society serving the
+endocrine community.
+The  Endocrine  Society.  Downloaded  from  press.endocrine.org  by  [${individualUser.displayName}]  on  04  October  2016.  at  08:47  For  personal  use  only.  No  other  uses  without  permission.  .  All  rights  reserved.
+Alemzadeh and Tushaus • Diazoxide Prevents Diabetes in ZDF Rats
+50. Shimabukuro M, Zhou YT, Lee Y, Unger RH 1997 Induction of uncoupling
+protein-2 mRNA by troglitazone in the pancreatic islets of Zucker diabetic fatty
+rats. Biochem Biophys Res Commun 18:359-361
+51. Harmon JS, GleasonCE, Tanaka Y, Poitout V, RobertsonRP 2001 Antecedent
+hyperglycemia, not hyperlipidemia, is associated with increased islet 
+triacyl-glycerol content and decreased insulin gene mRNA level in Zucker diabetic
+fatty rats. Diabetes 50:2481-2486
+52. Lameloise N, Muzzin P, Prentki M, Assimacopoulos-Jeanet F 2001 
+Uncoupling protein 2: a possible link between fatty acid excess and impaired 
+glucose-induced insulin secretion? Diabetes 50:803-809
+53. Mora S, Pessin JE 2002 An adiponectin view of signaling and intracellular
+trafficking. Diabetes Metab Res Rev 18:345-356
+54. Arita Y, Kihara S, Ouchi N, Takahashi M, Maeda K, Miyagawa J, Hotta K,
+Shimomura I, Nakamura T,Miyaoka K, KuriyamaH, NishidaM, Yamashita
+S, Okubo K, Matsubara K, Muraguchi M, Ohmoto Y, Funahashi T, 
+Matsu-zawa Y 1999 Paradoxical decrease of an adipose-specific protein, adiponectin,
+in obesity. Biochem Biophys Res Commun 257:79-83
+55. Hotta K, Funahashi T, Arita Y, Takahashi M, Matsuda M, Okamoto Y,
+Iwahashi H, Kuriyama H, Ouchi N, Maeda K, Nishida M, Kihara S, Sakai
+N, Nakajima T, Hasegawa K, Muraguchi M, Ohmoto Y, Nakamura T, 
+Ya-mashita S, Hanafusa T, Matsuzawa Y 2000 Plasma concentrations of a novel,
+adipose-specific protein, adiponectin, in type 2 diabetic patients. Arterioscler
+Thromb Vasc Biol 20:1595-1599
+56. Weyer C, Funahashi T, Tanaka S, Hotta K, Matsuzawa Y, Pratley RE,
+Tataranni PA 2001 Hypoadiponectinemia in obesity and type 2 diabetes: close
+association with insulin resistance and hyperinsulinemia. J Clin Endocrinol
+Metab 86:1930-1935
+57. Kim JB, Wright M, Yao KM, Mueller E, Solanes C, Lowell BB, Spiegelman
+BM 1998 Nutritional and insulin regulation of fatty acid synthase and leptin
+gene expression through ADD1/SREBP1. J Clin Invest 101:1-9
+58. Zhao AZ, Bornfeldt KE, Beavo JA 1999 Leptin inhibits insulin secretion by
+activation of phosphodiesterase 3B. J Clin Invest 102:869-873
+59. Klein S, Coppack SW, Mohamed-Ali V, Landt M 1996 Adipose tissue leptin
+production and plasma leptin kinetics in humans. Diabetes 45:984-987
+
+TABLE 1. Sequences of PCR primers 
+Gene 
+Sense (5-3) 
+Antisense (3-5) 
+Size (bp) 
+GenBankaccession no. 
+3AR 
+ACCTTGGCGCTGACTGG 
+ATGGGCGCAAACGACAC 
+233 
+S56152 
+ACC 
+ATATGTTCGAAGAGCTTATATCGCCTAT 
+TGGGCAGCATGAACTGAAATT 
+105 
+J03808 
+FAS 
+GGAACAACTCATCCGTTCTCTGT 
+GGACCGAGTAATGCCGTTCA 
+105 
+M76767 
+UCP-2 
+TTGCCCGAATGCCATTG 
+GCAAGGGAGGTCGTCTGTCA 
+92 
+AF039033 
+Insulin 
+GCCCAGGCTTTTGTCAAACA 
+CTCCCCACACACCAGGTAGAG 
+90 
+J00747 
+
+TABLE 2. Body weight and food consumption data in male ZDF and ZL rats 
+Cal/d 
+Subgroup 
+n 
+Initial wt(g) 
+Final wt 
+wt gain 
+(g) 
+(per 100 g BW) 
+2nd wk 
+6th wk 
+DZ-ZDF 
+6 
+168  2 
+356  8a,b,c 
+53  1a,b,c 
+92  5b,c 
+104  5b,c 
+PF-ZDF 
+6 
+169  2 
+381  8c,d 
+56  1c,d 
+92  5c,d 
+104  6c,d 
+C-ZDF 
+6 
+168  2 
+408  9c 
+59  1c 
+104  2c 
+120  3c 
+DZ-ZL 
+6 
+118  3 
+219  6 
+40  2 
+65  2 
+60  3 
+PF-ZL 
+6 
+117  3 
+206  4 
+43  2 
+65  2 
+60  3 
+C-ZL 
+6 
+119  2 
+218  2 
+42  1 
+71  2 
+66  1 
+P 
+ZDF 
+DZ vs. PF 
+NS 
+0.02 
+0.01 
+NS 
+NS 
+DZ vs. C 
+NS 
+0.001 
+0.001 
+0.02 
+0.02 
+PF vs. C 
+NS 
+0.02 
+0.01 
+0.02 
+0.02 
+ZL 
+DZ vs. PF 
+NS 
+NS 
+NS 
+NS 
+NS 
+DZ vs. C 
+NS 
+NS 
+NS 
+NS 
+NS 
+PF vs. C 
+NS 
+NS 
+NS 
+NS 
+NS 
+ZDF vs. ZLc 
+0.001 
+0.001 
+0.001 
+0.001 
+0.001 
+
+TABLE 3. Biochemical changes in male ZDF and ZL rats 
+Subgroup 
+n 
+Plasma glucose(mmol/liter) 
+Plasma IRI 
+Plasma leptin 
+(pmol/ml) 
+(ng/ml) 
+DZ-ZDF 
+6 
+4.9  0.2a,b 
+1.7  0.10a,b,c 
+PF-ZDF 
+6 
+6.6  0.2c,d 
+1.3  0.05c,d 
+38.7  1.6 
+C-ZDF 
+6 
+7.4  0.3c 
+1.0  0.10c 
+41.0  1.5c 
+DZ-ZL 
+6 
+4.7  0.3a,b 
+0.25  0.02a,b 
+2.0  0.5a,b 
+PF-ZL 
+6 
+4.4  0.2 
+0.38  0.02 
+4.0  0.3 
+C-ZL 
+6 
+4.3  0.3 
+0.42  0.03 
+4.6  0.2 
+P 
+ZDF 
+DZ vs. PF 
+0.001 
+0.001 
+0.001 
+DZ vs. C 
+0.0001 
+0.001 
+0.001 
+PF vs. C 
+0.02 
+0.01 
+NS 
+ZL 
+DZ vs. PF 
+NS 
+0.01 
+0.005 
+DZ vs. C 
+NS 
+0.01 
+0.001 
+PF vs. C 
+NS 
+NS 
+NS 
+ZDF vs. ZLc 
+0.0001 
+0.0001 
+0.0001 
+
+FIG. 1. Weekly fasting blood glucose levels (mean SE) in obese ZDF 
+(open symbols) and ZL (closed symbols) rats. Blood glucose data from 
+PF-ZDF and C-ZDF are compared with those of DZ-ZDF rats. 
+
+Plasma adiponectin 
+Plasma FFA 
+Plasma TG 
+HbA1c 
+(g/ml) 
+(mEq/l) 
+(mmol/liter) 
+(%) 
+30.8  0.8a,b,c 
+5.1  0.3a,b 
+1.0  0.1a,b,c 
+2.1  0.05a,b,c 
+3.4  0.2a,b 
+3.9  0.2 
+1.3  0.1c 
+5.2  0.7c 
+5.9  0.3 
+3.7  0.5 
+1.4  0.1c 
+6.9  0.7c 
+6.5  0.3 
+7.6  1.0 
+0.7  0.05 
+1.5  0.05 
+3.1  0.1 
+6.3  0.6 
+0.8  0.10 
+1.6  0.1 
+2.5  0.2 
+6.5  0.3 
+0.9  0.05 
+1.6  0.05 
+2.6  0.1 
+0.03 
+0.02 
+0.0001 
+0.001 
+0.02 
+0.005 
+0.0001 
+0.001 
+NS 
+NS 
+NS 
+NS 
+NS 
+NS 
+NS 
+0.02 
+NS 
+NS 
+NS 
+0.02 
+NS 
+NS 
+NS 
+NS 
+0.001 
+0.02 
+0.0001 
+0.0001 
+FIG. 2. Plasma glucose (top) and immunoreactive insulin (IRI) (bot- 
+tom) responses (mean  SE) to IPGTT (1 g/kg) in ZDF (open symbols) 
+and ZL (closed symbols) rats after an 18-hour fast. Blood glucose data 
+from DZ-ZDF and DZ-ZL rats are compared with their controls (PF 
+and C) at each time point. 
+
+FIG. 3. 3AR mRNA levels (A) and AC activity (B) (mean  SE) of 
+pancreatic islets in ZDF and ZL rats. Islet 3AR mRNA contents and 
+AC activity from DZ-ZDF and DZ-ZL rats are compared with their 
+controls (PF and C), and C-ZDF data are compared with C-ZL. 
+
+FIG. 4. 3AR mRNA levels (A) and AC activity (B) (mean  SE) in 
+adipose tissues from ZDF and ZL rats. Adipose tissue 3AR mRNA 
+contents and AC activity from DZ-ZDF and DZ-ZL rats are compared 
+with their controls (PF and C), and C-ZDF data are compared with 
+C-ZL. 
+
+FIG. 6. UCP-2 mRNA (A) and insulin mRNA (B) levels (mean  SE) 
+of pancreatic islets in ZDF and ZL rats. Islet UCP-2 and insulin 
+mRNA contents from DZ-ZDF and DZ-ZL rats are compared with 
+their controls (PF and C), and C-ZDF data are compared with C-ZL. 
+
+FIG. 5. FAS (A) and ACC (B) mRNA contents (mean  SE) of pan- 
+creatic islets in ZDF and ZL animals. Islet FAS and ACC mRNA 
+contents from DZ-ZDF and DZ-ZL rats are compared with their con- 
+trols (PF and C), and C-ZDF data are compared with C-ZL. 
+
+FIG. 7. TG (A) and insulin (B) contents (mean  SE) of pancreatic 
+islets in ZDF and ZL rats. Islet TG and insulin contents from ZDZ-DF 
+and DZ-ZL rats are compared with their controls (PF and C); and 
+C-ZDF data are compared with C-ZL. 
+

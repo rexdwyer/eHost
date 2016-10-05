@@ -1,0 +1,1358 @@
+BIOLOGY OF REPRODUCTION 68, 2081-2091 (2003)
+Published online before print 8 Janury 2003.
+DOI 10.1095/biolreprod.102.010637
+Neonatal Estrogen Exposure of Male Rats Alters Reproductive Functions
+at Adulthood1
+H.O. Goyal,2,3 A. Robateau,3 T.D. Braden,5 C.S. Williams,3 K.K. Srivastava,4 and K. Ali3
+Department of Biomedical Sciences3 and Department of Pathobiology,4 Tuskegee University, Tuskegee, Alabama 36088
+Department of Anatomy, Physiology, and Pharmacology,5 Auburn University, Auburn, Alabama 36849
+ABSTRACT
+The effects of neonatal exposure to different doses of 
+diethylstilbestrol (DES) on the reproductive functions of male rats at
+adulthood were evaluated. Sprague-Dawley rats (5-8/group) 
+received sc injections of 25 ml olive oil containing DES (Sigma
+Chemical Co., St. Louis, MO) at a dose of 10 mg, 1 mg, 100 ng,
+10 ng, or 1 ng per rat on alternate days from Postnatal Days 
+2-12. Control animals received olive oil only. All animals were
+allowed to develop until 83-91 days of age; however, when they
+were 70 to 80 days old, four male rats each from the 10 mg, 1
+mg, 100 ng, and control groups were cohabited with untreated
+60- to 70-day-old females (1:1) for 12 days. At the end of 
+cohabitation, both mated and unmated male rats were weighed,
+and blood and tissue samples were collected and processed. 
+Results revealed that although sperm motility patterns and sperm
+morphology were adversely affected in the 10-mg group, other
+reproductive parameters, including 1) daily sperm production
+(DSP)/testis; 2) absolute and relative weights of the testis, 
+epididymis, and seminal vesicle; and 3) sperm numbers in both
+regions of the epididymis declined significantly in a dose-depen-
+dent manner in the 10- and 1-mg groups. Conversely, in the ,1-
+mg groups, none of these parameters (except DSP/testis and
+weight of the epididymis in the 100-ng group, and sperm 
+numbers in the epididymis of the 100- and 10-ng groups) was 
+different from controls. Generally, plasma testosterone levels 
+decreased in the 10- and 1-mg groups, FSH level increased in the
+10-mg group, and prolactin and LH levels were unaltered. In the
+fertility study, although each male in the 1-mg, 100-ng, and 
+control groups produced a copulatory plug and impregnated a 
+female, none could do so in the 10-mg group. The mean number
+of pups per litter was reduced to eight in the 1-mg group, in
+contrast to 15 each in the 100-ng and control groups. In 
+conclusion, exposure of neonatal male rats to DES altered sperm
+motility patterns, sperm fertility (as evident from the reduced
+number of pups in the 1-mg group), and sexual behavior (as
+evident from the absence of copulatory plugs in the 10-mg
+group) and reduced weights of reproductive organs, DSP/testis,
+and sperm numbers in the epididymis. Whether these 
+alter-ations/reductions persist in older rats (6-8 mo of age) is under
+investigation.
+epididymis, estradiol, sperm, sperm motility and transport, testis
+1This work was part of a Master’s of Science thesis (A.R.) and was 
+supported by NIH grants MBRS-5-S06-GM-08091 (to H.G.) and RCMI-5-
+G12RR03059 and by USDA grant CSR-EES-ALX-TU-CTIF.
+2Correspondence: H.O. Goyal, Department of Biomedical Sciences,
+School of Veterinary Medicine, Tuskegee University, Tuskegee, AL 36088.
+FAX: 334 727 8177; e-mail: goyalho@tuskegee.edu
+Received: 26 August 2002.
+First decision: 21 September 2002.
+Accepted: 7 January 2003.
+Q 2003 by the Society for the Study of Reproduction, Inc.
+ISSN: 0006-3363. http://www.biolreprod.org
+INTRODUCTION
+Experimental studies involving ablation and/or x-irradi-
+ation of the fetal testis [1], orchidectomy/hypophysectomy
+with or without testosterone substitution [2, 3], ligation of
+efferent ductules [4, 5], and in vitro culture [6] have 
+established that androgens are essential for development of male
+reproductive organs, sperm production, and sperm 
+maturation. Conversely, the role of estrogen in male 
+reproduction remains unclear, although it is known that the rete fluid
+contains a high concentration of estrogens [7] and that both
+estrogen receptors (ER), ERa and ERb, are widely 
+distributed in male reproductive organs of various species [8, 
+re-view], including rats [9-11]. Recent studies reporting 
+infertility in genetically altered mice lacking the aromatase
+enzyme [12, 13] or estrogen receptor a [14] and describing
+poor semen quality in male patients with a defective ERa
+gene [15] or aromatase gene [16] have indicated that 
+deprivation of estrogen or its receptors impairs male 
+reproductive functions. Similarly, an excessive exposure of estrogen
+leads to reproductive abnormalities. A higher incidence of
+retained testes, atrophic testes, sperm abnormalities, and 
+epididymal cysts has been reported in some male offspring of
+women who were exposed to estrogenic compounds during
+pregnancy [17]. Similar disorders, as well as lower fertility,
+have been found in laboratory animals that were treated
+neonatally/perinatally with estrogens [18-21].
+It is interesting that both deprivation of and excessive
+exposure to estrogens can lead to reproductive disorders,
+including infertility. Adding to the interest are recent 
+observations that estrogens at very low doses can enlarge the
+prostate gland, whereas higher doses have the opposite 
+effect [22, 23]. This interest is further heightened by reports
+of decreasing sperm counts in men over a period of decades
+[24, 25] and of a possible link between an exposure to
+estrogenic chemicals and an increase in the incidence of
+reproductive abnormalities in men [21] and wildlife [26,
+27].
+Hence it is clear from the above review that estrogens
+play an important role in male reproduction, but their 
+mechanisms of action in reproductive physiology or in inducing
+reproductive abnormalities remain unclear. By treating 
+Wis-tar rats neonatally with different doses of diethylstilbestrol
+(DES), Sharpe et al. [28] and others [29-31] have reported
+a dose-dependent decrease in testis weight and germ cell
+volume/testis and an increase in apoptotic index of germ
+cells at adulthood, implying a long-lasting effect of 
+neonatal exposure to estrogens. Furthermore, fertility in these
+rats was reduced to zero with higher doses (10 mg and 1
+mg rat21 day21 on alternate days from Postnatal Days 
+2-12) and to 50% with the lowest dose (10 ng), the dose that
+had a stimulatory effect on spermatogenesis at prepuberty
+and did not affect testis weight at adulthood [30]. 
+Interest-2081
+2082
+ingly, the latter dose of DES falls within a range that leads
+to an increase in prostate weight of adult CF-1 mice whose
+mothers received DES (2 ng/g body weight) from gestation
+Days 11
+Considering the potential implications of the above 
+results for human health, the aim of the present study is to
+determine effects of neonatal estrogen exposure on male
+reproductive parameters at adulthood in Sprague-Dawley
+rats, a strain of rat that is commonly used to assess 
+toxicological effects of endocrine disruptors and is genetically
+less sensitive
+to estrogens than other strains of rats [33, 34].
+In addition, this study broadened its scope by including
+epididymal parameters, such as numbers, morphology, and
+motility patterns of sperm in the epididymis, that have not
+been well characterized following neonatal estrogen 
+exposure.
+MATERIALS AND METHODS
+Animals and Treatments
+Timed-pregnant Sprague-Dawley female
+rats (Harlan Sprague-Dawley,
+Indianapolis, IN)
+were housed individually and observed twice daily for
+delivery. Animals were maintained under controlled conditions at 22-238C
+ambient temperature, 55%-60% relative humidity, 12L:12D cycle, and
+were supplied with water and feed (Rodent Chow 5001; Purina Mills, St.
+Louis, MO) ad libitum. Within
+24 h of delivery, the litter size
+was 
+standardized
+to eight pups per dam, with
+as many as eight males, if possible.
+Beginning from the second day (Day
+1 is the day of birth) and ending
+on
+Day 12, neonatal pups (five to eight males per group, except four males
+in the
+1-ng group) received subcutaneously 25 ml of olive oil containing
+DES (Sigma Chemical, St. Louis, MO)
+at a dose of 10 mg, 1 mg, 100 ng,
+10
+ng, or 1 ng rat21 day21 on alternate days. The control animals were
+treated the
+same way except that they received olive oil only. This protocol
+of
+treatment is essentially similar to that reported for Wistar rats [29, 30].
+Pups were weaned on Postnatal Day 22 and were observed regularly until
+used for mating
+at 70-80 days of age and/or necropsied at 83-91 days of
+age. All animal procedures
+were approved by the IACUC at Tuskegee
+University.
+Body and Organ Weights
+Beginning with Week 1, body weight
+was recorded every week until
+the day of necropsy and weight gain/loss for each period was calculated.
+The weights of the testis, caput and corpus of the epididymis, cauda of
+the epididymis, and seminal vesicle (including coagulating gland) of both
+sides
+were recorded for each animal, and relative weights (weight of the
+organ/100 g body weight)
+were calculated. Testes and epididymides were
+trimmed of fat prior
+to recording their weights. After weighing, testis and
+epididymis of the right side
+were processed for histopathology, and those
+from the left side
+were frozen at 2808C until thawed for sperm counts.
+Sperm Numbers in the Testis and the Epididymis
+Methodology for determining the number of homogenization-resistant
+spermatids/sperm in the testis, caput and corpus of the epididymis, and
+cauda of the epididymis was previously described from our laboratory
+[35]. Briefly, the testis was thawed, the capsule was detached and weighed,
+and the parenchyma was homogenized in 50 ml of PBS using a Waring
+laboratory blender (Fisher Scientific, Pittsburgh, PA) that was set at low
+speed. The homogenate was filtered through a metal sieve, and a 200 ml
+aliquot of the filtrate was mixed with 100 ml of PBS and 200 ml of 0.6%
+trypan blue, which stains elongated spermatids. An 8.5 ml aliquot of the
+latter mixture was then used to determine the average number of 
+homog-enization-resistant spermatids/sperm in each sample in duplicate using a
+hemocytometer. Daily sperm production (DSP) was calculated by dividing
+the total number of spermatids/sperm per testis or per gram of testicular
+parenchyma (testis weight minus weight of the capsule) by 6.1 days, the
+duration of step 19 spermatids in the seminiferous epithelial cycle [36].
+Sperm Motility Parameters
+Methodologies for collection of sperm from the cauda of the right
+epididymis and for analyzing sperm motion parameters using a 
+computer-to 17 [32].
+GOYAL ET AL.
+assisted semen analysis system (Integrated Visual Optical Systems, 
+Hamilton Thorn Research, Beverly, MA) were the same as previously described
+from our laboratory [35]. Briefly, 200 sperm from each animal were 
+analyzed for the following motion parameters: percentage of motile sperm
+(MSP), percentage of progressively motile sperm (PMP), average path
+velocity (VAP), straight line velocity (VSL), curvilinear velocity (VCL),
+lateral head displacement (ALH), straightness (STR) ([straight line 
+veloc-ity/average path velocity] 3 100), and linearity (LIN) ([straight line 
+ve-locity/curvilinear velocity] 3 100). Prior to recordings of sperm motility
+parameters, the instrument was optimized and the analysis was done using
+the settings described previously from our laboratory [35]. Sperm were
+considered motile if average path velocity exceeded 20 mm/sec and
+con-
+sidered progressively motile if average path velocity exceeded 100 mm/
+sec. All procedures were performed at 378C, and all equipment that came
+in contact with sperm was prewarmed to and maintained at 378C.
+Sperm Morphology
+An aliquot of sperm suspension used for motility analysis was diluted
+with formaldehyde, and a 10 ml of the diluted sample was examined with
+a phase contrast microscope. Two hundred sperm from each animal were
+evaluated and classified as follows: normal, head defect, middle piece
+defect, principal piece defect, proximal droplet, distal droplet, and 
+detached head. In sperm with two
+or more defects, only the defect affecting
+its
+more proximal portion was recorded [35].
+Hormonal Measurement
+One blood sample
+was collected from the heart of each animal prior
+to necropsy, and plasma
+was frozen at 2208C until assayed. LH, FSH,
+and prolactin
+were measured using materials obtained through NHPP,
+NIDDK, and Dr. A.F. Parlow (antibodies: NIDDK-anti-rLH-S-11, 
+NIDDK-anti-rFSH-S-11, NIDDK-anti-rPRL-S-9; reference standards: 
+NIDDK-rLH-RP-3, NIDDK-rFSH-RP-2, NIDDK-rPRL-RP-3; tracers: 
+NIDDK-rLH-I-10, NIDDK-rFSH-I-9, NIDDK-rPRL-I-6). The sensitivities of the
+assays were calculated to be 0.3, 2.3, and 0.4 ng/ml for LH, FSH, and
+prolactin, respectively. Testosterone
+was measured using a Coat-a-Count
+testosterone radioimmunoassay (Diagnostic Products Corporation, Los 
+Angeles, CA) according to the manufacturer’s protocol. The sensitivity of the
+assay
+was calculated to be 0.2 ng/ml. All samples were quantified in a
+single assay for each hormone with intraassay coefficients of variation of
+6%, 9%, 7%, and 7% for LH, FSH, prolactin, and testosterone, 
+respectively.
+Histopathology of the Testis, Rete Testis, Efferent
+Ductules, and Epididymis
+Testis. Three- to 5-mm thick slices of tissues from the middle region
+of the right testis were fixed for 24 h in 4% (w:v) paraformaldehyde in
+PBS (pH 7.4). The reason for selecting paraformaldehyde, instead of
+Bouin fluid,
+as a fixative was to use these tissues not only for histology
+but also for immunocytochemistry of steroid receptors (topic of another
+manuscript), which, in our hands, is better illustrated by fixing tissues in
+paraformaldehyde [37]. Tissues were embedded in paraffin, cut into 5 mm
+thickness, stained with periodic acid-Schiff (PAS), counterstained with 
+he-matoxylin, and examined with a light microscope. In two to three random
+paraffin sections from each animal, 20 cross-sections of stages VII and
+VIII seminiferous tubules each from the control, 10-mg, and 1-mg groups
+(n 5 5 for each group) was measured blindly for tubular diameter (basal
+lamina to basal lamina), epithelial height (basal lamina to neck of 
+elongated spermatids), and luminal diameter using a computer-assisted image
+analysis system.
+Rete testis, efferent ductules, and epididymis. The proximal end of the
+testis containing rete testis (2-3 mm thick); the entire efferent ductules
+(interposed between the testis and the epididymis); and the caput, 
+including initial segment (cut in the middle into two halves), and cauda (cut in
+the middle into two halves) regions of the epididymis were fixed and
+processed as described above for the testis, except that the proximal testis
+from the control, 10-mg, and 1-mg groups was serially sectioned. Every
+20th serial section, with as many as 15 sections spanning a distance of
+1.5-2 mm, was examined for changes in luminal diameter of the rete testis,
+since it is known that neonatal estrogen exposure causes distension of its
+lumen [31, 38, 39]. In addition, in two to three random paraffin sections
+from each animal, 15 tubular cross-sections each from the proximal and
+distal regions of the efferent ductules and the initial segment, caput, and
+cauda regions of the epididymis were measured for tubular diameter (basal
+lamina to basal lamina), epithelial height, and luminal diameter using a
+the lower dose groups revealed minimal to no adverse effects on 
+reproductive parameters studied here. Digital images of PAS-stained paraffin
+sections were captured using a Leitz Orthoplan microscope (Vashaw 
+Scientific, Inc., Norcross, GA) and Kodak Microscopy Documentation 
+System 290 (Eastman Kodak Company, Rochester, NY), and were assembled
+using Adobe Photoshop 6.0 (MicroWarehouse, Norwalk, CT).
+Fertility. Four 70- to 80-day-old male rats each from the 10 mg, 1 mg,
+100 ng, and control groups were transferred to a mating cage floored with
+a wire mesh grid and cohabited with untreated, 60- to 70-day-old female
+rats (1:1) for 12 day. Cages were checked for the presence of copulatory
+plugs, and vaginal washings were evaluated for the presence of sperm
+everyday. Females with positive plugs and/or sperm
+were separated from
+males and
+were killed at 15-18 day of pregnancy. Both uteri were removed
+and examined for the number of live fetuses and implantations. In addition,
+both ovaries were removed and the number of corpora lutea was counted.
+Data were analyzed to determine the effects of neonatal estrogen exposure
+on the number of live embryos per litter, preimplantation loss (difference
+between the number of corpora lutea and the number of implantation sites
+expressed as per number of corpora lutea), and postimplantation loss (dif-
+ference between the number of implantation sites and the number of live
+fetuses expressed as per number of implantation sites). In addition, the
+conception time, the interval between the first day of cohabitation and the
+day of plug and/or sperm,
+was recorded for each female.
+Statistics
+Statistical analyses were performed using Sigma Stat statistical 
+software (Jandel Scientific, Chicago, IL). One-way analyses of variance were
+utilized on all parameters, except the weekly body weight, which was
+analyzed by two-way analysis of variance for repeated measures. 
+Treatment groups with means significantly different (P # 0.05) from controls
+were identified using the Dunnett test. When data were not distributed
+normally, or heterogeneity of variance was identified, analyses were 
+performed on transformed data or ranked data; however, arithmetic means
+and SEM are presented in tables and figures.
+RESULTS
+Body Weight
+The final body weight at Postnatal Week 12-13 was 
+similar in the #1-mg groups and controls, but it was almost
+7% lower (P # 0.05) in the 10-mg group than in controls
+(Table 1). Similarly, the mean weekly body weight was
+lower throughout development in the 10-mg group only, but
+the decrease was not significant (P # 0.05) during the first
+5 wk of age (Fig. 1). A spurt in growth, characterized by
+a steep gain in weekly body weight, started at 5 wk and
+continued through 9 wk of age, regardless of the treatment.
+During this period, a control pup gained an average of 195
+g of weight, in contrast to 175 g in the 10-mg group (Fig.
+1). The two-way analysis of variance for repeated measures
+identified significant effects of age, treatment, and a 
+treatment by age interaction.
+ESTROGEN EXPOSURE ON MALE REPRODUCTION
+2083NEONATAL
+Both absolute (Fig. 2) and relative weights (Table 1) of
+the testis, caput and corpus of the epididymis, cauda of the
+epididymis, and seminal vesicle responded in a dose-de-
+pendent manner, with no difference from control observed
+in the 10-ng group and the maximum decrease observed in
+the 10-mg group. Conversely, the relative weight of the 
+testis and the cauda of the epididymis was significantly (P #
+0.05) higher in the 1-ng group (Table 1). Within the 10-mg
+group, the level of weight loss differed among organs. It
+was much more pronounced in the seminal vesicle (85%)
+and both regions of the epididymis (42%-50%) than in the
+testis (25%).
+Number of Sperm in the Testis and Epididymis
+The total number of homogenization-resistant sperm per
+testis was significantly reduced, in a dose-dependent 
+manner, by almost 48%, 35%, and 24% in the 10-mg, 1-mg, and
+100-ng groups, respectively (Fig. 3). However, the 14% 
+reduction in the mean observed in the 10-ng group was not
+significantly different from controls. Unlike sperm numbers
+per testis, the DSP per gram of testicular parenchyma (in-
+ed neonatally with 10 mg of DES. *Significant differences from controls
+(P # 0.05). Control, n 5 7; 10 mg, n 5 6.
+dicator for efficiency of spermatogenesis) was not altered
+in the 10-mg to 10-ng groups (Fig. 3). Both mean values
+for sperm numbers per testis and DSP per gram of testicular
+parenchyma were higher in the 1-ng group (114% and
+107% of controls, respectively), but they could not be 
+distinguished from controls.
+Sperm numbers in the epididymis were dramatically low
+in the 10-mg group and, comparatively, the decrease was
+much higher in the cauda (92%) than in the caput and 
+corpus (72%; Fig. 4). Conversely, reductions in the 1-mg to
+10-ng groups, although significant, were similar for both
+regions of the epididymis and ranged from 20% to 40%
+depending on the dose. Unlike in the higher dose groups,
+sperm numbers in the 1-ng group did not significantly differ
+from that of controls in either region of the epididymis.
+Computer-Assisted Sperm Motility Parameters
+Among various motility parameters, MSP, PMP, STR
+(percentage), and LIN (percentage) were significantly 
+decreased in the 10-mg group (Fig. 5). Of all these parameters,
+the maximum effect was observed in PMP, which was 
+reduced to 35% of controls. None of the motility parameters
+was different from controls in the #1-mg groups, except
+VCL (micrometers per second), which
+was significantly
+higher in the 1-mg group (Fig. 5).
+Sperm Morphology
+The incidence of abnormal sperm was similar in the #1-
+mg groups and controls, but it was significantly higher in
+the 10-mg group (Table 2). Of various sperm abnormalities
+affecting the head, middle piece, or principal piece, the 
+misshapen head and bent middle piece were most frequently
+encountered and constituted 78% and 10% of abnormal
+sperm, respectively, in the 10-mg group. Conversely, the
+incidence of sperm with retained distal cytoplasmic droplet
+was significantly lower in the 10-mg group (Table 2).
+Hormones
+The mean plasma concentration of testosterone was 
+significantly lower in the 10-mg and 1-mg groups (25%-30%
+of controls), but was not different from controls in the 
+lower dose groups (Fig. 6). Conversely, the mean FSH level
+was almost fourfold higher in the 10-mg group but could
+not be distinguished from controls in the other groups. 
+Neither prolactin nor LH was significantly altered in any of
+the treated groups (Fig. 6).
+ESTROGEN EXPOSURE ON MALE REPRODUCTION
+2085NEONATAL
+Histopathology of the Testis, Rete Testis, Efferent
+Ductules, and Epididymis
+Histological examination of the testis did not reveal any
+evidence of degeneration of germ cells and/or retention of
+spermatids in the seminiferous epithelium, regardless of the
+dose of DES or the stage of seminiferous epithelial cycle
+(Fig. 7, A and B). With the exception of seminiferous 
+epithelial height in the 10-mg group, mean measurements for
+the epithelial height, luminal diameter, and tubular diameter
+of stages VII and VIII tubules did not significantly differ
+between controls and treated groups (Table 3).
+An examination of serial sections of the rete testis 
+revealed that it consisted of a sac-like structure interrupted
+by trabeculae, which gave the rete an appearance of a maze
+of interconnecting tubules. The intratesticular sac of the rete
+was up to 1.7 mm deep under the capsule of the testis, and
+its luminal diameter, along the length, was highly variable
+within, as well as between, animals both in the control and
+treated groups, varying from 20 mm in some sections to
+400 mm in other sections. Compared with controls, there
+was no morphological evidence of dilation of lumen or 
+accumulation of sperm in any of the treated groups. On the
+other hand, the mean luminal diameter of the distal efferent
+ductules was increased by 60% (P # 0.05) and that of the
+proximal efferent ductules by 30% in the 10-mg group, 
+although the latter increase was not significantly different
+from controls (Table 3). However, it should be noted that
+the luminal diameter of proximal tubules varied widely not
+only among tubules within the same animal, but also along
+the length. Generally, tubules nearer their origin from the
+extratesticular rete tend to have a larger luminal diameter
+than those present distally. The general morphology of 
+ef-2086
+ferent ductules, including epithelial height, did not alter as
+a result of neonatal estrogen treatment except in the 10-mg
+group, where three of the six animals had focal, 
+mononu-clear infiltration in the epithelium, peritubular tissue, and/
+or lumen of some of the ductules. In two of the latter three
+animals, the epithelium in some tubules was hypertrophied
+GOYAL ET AL.
+and the lumen contained PAS-positive material. In addition,
+the lumen, at certain points along the length, was partially
+obstructed by a cellular, tongue-like structure. The latter, in
+serial sections, was found to be continuous with the lining
+epithelium (Fig. 7, C-F). Neither lymphocytic infiltration
+nor epithelial hypertrophy was observed in the efferent
+FIG. 7. A, B) In these micrographs of
+stage VII to VIII seminiferous tubules from
+the control (A) and the 10-mg group (B),
+the morphology of seminiferous epithelium
+is essentially similar. C-F) Efferent ductules
+from the control (C) and the 10-mg DES
+group (D-F). D) Hypertrophied epithelium
+projecting into the lumen of the ductule
+(arrows). E) Arrows show continuity of 
+hypertrophied epithelium with the lining 
+epithelium, and arrowheads indicate 
+lymphocytes that are infiltrated in the intertubular
+tissue as well as in the lumen of ductules.
+F) Note PAS-positive material in the lumen
+of the left ductule and a cellular structure
+obstructing the lumen in the right ductule.
+ESTROGEN EXPOSURE ON MALE REPRODUCTION
+2087NEONATAL
+ductules of control or #1-mg groups (n 5 5 for each group,
+except n 5 4 in the 1-ng group).
+None of the morphometric features in the initial segment
+and caput of the epididymis was different from that of 
+controls in the 10-mg or 1-mg groups (Table 3). However, both
+luminal and tubular diameters were significantly lower and
+epithelial height was significantly higher in the cauda 
+epididymis of the 10-mg group (Table 3).
+Fertility
+Fertility-related parameters studied were fertility index,
+presence of copulatory plugs and/or sperm in vaginal 
+washing, pups per litter, and pre- and postimplantation losses.
+Although all females mated with males in the control, 
+1-mg, or 100-ng groups had copulatory plugs and produced
+pups (fertility index 100%), neither copulatory plugs nor
+pups were present in females cohabited with males of the
+10-mg group (fertility index 0%; Table 4). The mean 
+number of live pups per litter was 14.5 and 14.8 in the control
+and 100-ng groups, respectively, in contrast to 7.8 in the
+1-mg group. The mean preimplantation loss (difference 
+between the number of corpora lutea and the number of 
+implantation sites expressed as per number of corpora lutea)
+was 49% for the 1 mg group, in contrast to 12% and 6%
+for the 100-ng and control groups, respectively. The mean
+values for both of the above parameters in the 1-mg group
+reflect heterogenous responses among animals. For 
+example, although females mated with two males of the group
+had very few pups (2 or 3 per litter), those mated with the
+other two males of the group had as many pups as in the
+control and lower dose groups (13 per litter). Similarly, the
+preimplantation loss for the first two females was 
+exceedingly high, whereas that for the latter two females was 
+essentially similar to that of the control and lower dose
+groups. The mean postimplantation loss (difference 
+between the number of implantation sites and the number of
+live fetuses expressed as per number of implantation sites)
+for the 1-mg, 100-ng, and control groups was 9.5%, 3.6%,
+and 3.3%, respectively. The mean conception time (interval
+between the day of cohabitation and the day of presence of
+plug/sperm) was 3.5, 3.0, and 5.3 days in the control, 
+100-ng, and 1-mg groups, respectively (Table 4).
+DISCUSSION
+This study, using different dose regimens of DES (10
+mg, 1 mg, 100 ng, 10 ng, and 1 ng) determined the effects
+of neonatal estrogen exposure on adult reproduction in male
+Sprague-Dawley rats and compared them with those 
+previously reported in Wistar rats (28-30]. Results of the study
+provided clear evidence for the first time that neonatal 
+estrogen exposure compromised sperm morphology, sperm
+motility patterns, and sperm numbers in the adult 
+epididymis. In addition, they confirmed earlier reports that 
+indicated significant changes in weights of the testis, 
+epididymis, and seminal vesicle; sperm production; plasma 
+testosterone concentration; and/or fertility at maturity following
+neonatal and/or prenatal exposure to estrogenic compounds
+in rats [28, 40-43], mice [18, 19, 44], hamsters [45], and
+rabbits [46].
+Generally, adverse effects observed in Sprague-Dawley
+rats were maximal in the 10-mg group, moderate in the 
+1-mg group, and minimal to absent in the lower dose groups.
+Similar dose-dependent effects were also reported in Wistar
+rats, but the level of effects on the testis and fertility 
+differed markedly between the two strains of rats. For 
+example, Wistar rats treated neonatally with 10 mg of DES had
+degeneration of germ cells and Sertoli cell-only 
+seminiferous tubules in 60% of animals, and atrophic, necrotic,
+and/or cryptorchid testis in 15% of animals at adulthood
+[28]. Conversely, none of these phenotypes was observed
+in Sprague-Dawley rats, regardless of the dose. Although
+none of the Wistar rats in the 1-mg group and only 50% in
+the 10-ng group sired pups [30], all Sprague-Dawley rats
+did so in the 1-mg and 100-ng groups. Hence, these 
+comparisons suggest that Sprague-Dawley rats may be less 
+sensitive than Wistar rats to disruptive actions of estrogens on
+reproductive functions. Previous studies have also shown
+that Sprague-Dawley rats and/or CD-1 mice are much more
+resistant to estrogenic compounds than other strains [33,
+34, 47]. These differences in susceptibility to estrogenic
+compounds signify the importance of understanding genetic
+mechanisms that are responsible for differential responses.
+2088
+An important finding of the study was the marked 
+differences in weight loss among reproductive organs in the
+10-mg group. Whereas the relative weight decreased by
+25% in the testis, it decreased by almost 50% in the caput
+and corpus or the cauda of the epididymis and by 85% in
+the seminal vesicle. These results are in agreement with
+those of a recent study that reported an 80% reduction in
+the weight of the seminal vesicle, in contrast to 20% in the
+testis, of adult Sprague-Dawley rats that were treated 
+neonatally with estradiol benzoate at a rate of 1500 mg/kg body
+weight (similar to 10 mg/rat in the present study) [47]. 
+Interestingly, similar differential response in weight loss of
+reproductive organs was also observed in rats following
+exposure to estrogenic compounds during adulthood in rats
+[35, 48-50]. Reasons for this differential response are not
+clear, but differences in susceptibility to estrogens and/or
+testosterone may play some role since both estrogen and
+androgen receptors are present in the testis, epididymis, and
+seminal vesicle [10, 51-55], and testosterone is reduced in
+adult animals following neonatal estrogen exposure [28, 29,
+40].
+It is well established that prenatal and/or neonatal 
+exposure to estrogenic compounds leads to smaller testes and
+lower sperm production in rodents [21, 28, 41, 56]. Our
+observations of significant, dose-dependent reductions in
+testis weight and DSP per testis (total number of sperm per
+testis/6.1 day) in the 10-mg, 1-mg, and 100-ng groups are
+in agreement with the above concept. However, despite a
+dose-dependent decrease in DSP per testis, the DSP per
+gram of testicular parenchyma did not differ between the
+control and treated animals or between treated groups.
+These results imply that neonatal estrogen exposure did not
+perturb efficiency of spermatogenesis in Sprague-Dawley
+rats, an interpretation supported by the lack of any 
+morphological evidence of degeneration of germ cells, retention
+of spermatids, and/or phagocytosis of spermatids in the
+seminiferous epithelium, regardless of the stage of tubules
+or the dose of DES. This is further supported by no adverse
+effect on seminiferous epithelial height, luminal diameter,
+or tubular diameter of stages VII and VIII tubules, the 
+stages where spermiation occurs and which are 
+testosterone-dependent [57, 58]. Contrary to these results, Wistar rats
+treated neonatally with DES at a rate of 10 mg/rat had more
+than a fourfold increase in germ cell apoptosis and more
+than a twofold increase in the lumen volume of 
+seminiferous tubules than controls at adulthood [29]. According to
+these authors, the retrograde buildup of testicular fluid in
+the lumen of seminiferous tubules, as a consequence of
+maldevelopment of the rete testis and efferent ductules [31,
+39], may account for increased germ cell degeneration and
+thus reduced efficiency of spermatogenesis in adult Wistar
+rats treated neonatally with estrogens. If this were true, then
+the lack of morphological evidence of dilation of the rete
+testis and/or lumen of the seminiferous tubules in the 
+present study goes hand in hand with the normal efficiency of
+spermatogenesis at adulthood in neonatally estrogenized
+Sprague-Dawley rats and thus again points to a genetic 
+difference in susceptibility to estrogens between these two
+strains of rats.
+The present observations of reduced testosterone are in
+agreement with those of previous studies, which also 
+reported lower testosterone in adult animals as a consequence
+of estrogen treatment of neonatal animals [28-30, 40, 59].
+Interestingly, this decline occurred without any alteration
+in LH concentration and thus suggests permanent changes
+in functions of Leydig cells, which may include reductions
+GOYAL ET AL.
+in LH receptor concentration, sensitivity of Leydig cells to
+LH, and/or enzymes associated with testosterone synthesis.
+Testosterone decline not involving the negative feedback
+inhibition of LH was also described in rats exposed to 
+estrogens during adulthood [35, 42, 50] and may be attributed
+to a direct inhibitory effect of estrogens on enzymes 
+involved in the production of testosterone [60, 61].
+Another important finding of the present study was the
+significant, dose-dependent reductions in sperm numbers in
+the epididymis, which can be partly attributed to lower 
+daily sperm production. However, comparatively the level of
+reduction in epididymal sperm numbers was 
+disproportionately higher in the 10- and 1-mg groups, especially the 
+former. For example, although daily sperm production per 
+testis was decreased by 48%, sperm numbers were decreased
+by 72% in the caput and corpus and by 92% in the cauda
+of the epididymis in the 10-mg group. A similar 
+disproportionately greater decline in epididymal sperm numbers was
+also previously reported in rats [35] and mice [62] exposed
+to estrogen during adulthood and was attributed to 
+accelerated sperm transport in the epididymis [62].
+Despite decreased sperm production and epididymal
+sperm numbers in the 10-mg, 1-mg, and 100-ng groups,
+morphology and motility patterns of sperm were adversely
+affected only in the 10-mg group, suggesting higher 
+resistance of these phenotypes in lower dose groups. Since the
+higher percentage of abnormalities affected the head and
+middle piece of sperm, it is likely that these defects 
+originated during the metamorphic stage of spermatogenesis 
+because this stage involves modeling of the head and tail of
+spermatozoa [57]. There are few studies that have examined
+effects of estrogen on motility and/or morphology of sperm.
+The percentage of motile sperm was significantly reduced
+in adult rats treated with ethinyl estradiol after 1 wk of
+treatment [50]. A higher percentage of decapitated and/or
+abnormal sperm was reported after estradiol administration
+to adult rats [49, 63, 64]. Recently, we reported that of all
+motility parameters, the percentage of sperm with 
+progressive motility was the most sensitive parameter to estrogen
+exposure in adult animals. It was reduced to less than 20%
+of controls in rats treated with DES at a rate of 40 mg to
+1 mg rat21 day21 for 12 days and to 40% of controls in the
+8-mg group [35]. Similarly, in the present study progressive
+forward motility was most severely affected and was 
+reduced to 35% of controls in the 10-mg group.
+Unlike inhibitory effects observed in the testis with
+higher doses of DES, the relative weight of the testis was
+significantly increased by 10% in the 1-ng group, indicating
+a stimulatory effect of the lowest dose of DES used in the
+present study. This stimulatory effect was coupled with a
+similar percentage increase in DSP per testis or per gram
+of testicular parenchyma, but both increases were not 
+significantly different from controls. These results are 
+essentially in accord with those of a recent study in which
+Sprague-Dawley rats treated neonatally with estradiol 
+benzoate had larger testes at postnatal Days 35 and 90 with
+lower doses, whereas the reverse was the case with higher
+doses [47]. Similarly, another study reported stimulatory
+effects of estrogen exposure on prepubertal 
+spermatogenesis, where spermatocyte nuclear volume per Sertoli cell 
+nuclear volume was significantly increased in rats treated 
+neonatally with low doses of DES [30]. Comparable 
+stimulatory effects were also reported on the prostate weight of
+rats treated with low doses of estrogens neonatally [23] or
+prenatally [22, 32]. The low-dose stimulatory effects of 
+estrogen on adult testes of rats estrogenized neonatally can
+result from a direct effect of estrogen on Sertoli cells and/
+or germ cells since both cell types have been shown to
+express estrogen receptors at all stages of development [65-
+67].
+It is well established that more than 90% of testicular
+fluid in rodents is absorbed in the efferent ductules [68],
+and a disturbance in this function can lead to dilation of
+the efferent ductules and rete testis, which is probably the
+cause of infertility seen in mutant mice lacking ERa [8].
+Several studies from Hess et al. [9, 10] have demonstrated
+that estrogens are important in testicular fluid absorption
+because efferent ductules contain higher concentration of
+ERa compared with other segments of the male 
+reproductive tract. In addition, epithelial cells lining the efferent
+ductules are shorter and contain less developed endocytotic
+apparatus (shorter microvilli and fewer pinocytotic vesicles
+and canaliculi) in ERa knockout mice than in wild mice of
+the same age [69, 70], and antiestrogen ICI 182 780 causes
+dilation of the rete testis and efferent ductules [71]. 
+Ironically, an overexposure of estrogen during the neonatal 
+period is also shown to cause dilation of the rete testis and/
+or efferent ductules in Wistar rats [31, 38, 39]. Considering
+the potential functional significance of these findings for
+human health, we wanted to determine whether neonatally
+estrogenized Sprague-Dawley rats also show dilations of
+the intratesticular rete testis or efferent ductules at 
+adulthood. In an examination of serial sections, the luminal 
+diameter of the rete testis varied widely from 20 to 400 mm
+within the same animal, as well as between animals, but
+there
+was no evidence of its unusual dilation in any of the
+treated groups.
+Unlike the rete testis, efferent ductules, especially distal
+ductules, had an increased luminal diameter in the 10-mg
+group compared with controls, suggestive of a defect in the
+absorption of testicular fluid. It will be of interest to 
+investigate whether dilation of the efferent ductules will 
+accentuate and progressively lead to distension of the lumen in
+the rete testis, with time, in older animals. Regardless, the
+above alterations in efferent ductules, along with 
+observations of leukocytic infiltration in three of the six animals
+of the 10-mg group, indicate efferent ductules
+as the 
+primary site for estrogen action in the male reproductive
+tract.
+A similar increase in the luminal diameter was also reported
+in the efferent ductules of adult Wistar rats that were treated
+with estrogens neonatally [31]; however, Fisher et al. [31],
+to our knowledge, did not make any distinction between
+proximal and distal regions of the efferent ductules.
+The final parameter studied
+was the effect of neonatal
+DES treatment on fertility-related parameters and their 
+relationships, if any, with testicular, epididymal, and/or 
+behavioral disorders. Observations that all males in the 1-mg
+and 100-ng groups sired pups, but none of the males in the
+10-mg group did, indicate that neonatal DES exposure
+at
+the highest dose used in this study was effective in inducing
+infertility in 100% of males. The absence of copulatory
+plugs or sperm in vaginal washings in females mated with
+these males suggests that infertility probably resulted from
+a compromise in sexual behavior. Additional observations
+of fewer pups per litter and higher preimplantation loss in
+the 1-mg group suggest compromised sperm fertility, 
+although this interpretation deserves caution since two of the
+four males sired normal numbers of pups per litter (13
+each). Similar to our results, Wistar male rats treated 
+neonatally with 10-mg of DES
+were infertile, and females 
+mated with them did not have copulatory plugs; however, 
+unlike our results, all Wistar male rats in the 1-mg group did
+ESTROGEN EXPOSURE ON MALE REPRODUCTION
+2089NEONATAL
+not mate [30]. The latter authors did not measure fertility
+in the 100-ng group, but 50% of males in the 10-ng group
+did not mate. These similarities and differences in fertility
+between Wistar and Sprague-Dawley rats indicate that 
+neonatal estrogen exposure can change the sexual behavior of
+rats, but the threshold for this change is lower in Wistar
+rats than Sprague-Dawley rats.
+The estrogen-induced depressed sexual behavior, as 
+evident from the absence or reduced number of copulatory
+plugs, has been reported previously in rats treated with 
+estrogens neonatally [40] or during adulthood [35, 48].
+Whether the observed decline in plasma testosterone level
+in the 10-mg group played a role in altering sexual behavior
+is doubtful since a similar decline (reduced to 30% of 
+con-trols) was also observed in the 1-mg group, which exhibited
+normal sexual behavior. Hence it appears that neonatal DES
+treatment in the 10-mg group altered the sexual 
+masculinization of the central nervous system that is necessary for
+adult male sexual behavior [72].
+In conclusion, this study provides compelling evidence
+of altered reproductive functions, including motility and
+morphology of sperm, fertility, and sexual behavior, in adult
+Sprague-Dawley rats that were neonatally treated with
+DES. Further, a comparison of present results with those
+already published in Wistar rats, using similar dose 
+regimens, suggests genetic differences in susceptibility to 
+estrogens between strains of rats.
+ACKNOWLEDGMENTS
+The authors thank Dr. John Williams for preparing histology 
+micrographs, Mr. Russell Paradise for sectioning and staining tissues, Ian Moore
+for morphometry, and Dr. Alfonza Atkinson, Dean, for his encouragement
+and support.
+REFERENCES
+1. Raynaud A, Frilley M. Destruction des glandes genitales de l’embryon
+de souris par une irradiation au moyen des rayons x, a l’age de 13
+jours. Ann Endocrinol (Paris) 1947; 8:400-419.
+2. Orgebin-Crist MC. Androgens and epididymal function. In: Bhasin D,
+Gabelnick HL, Spieler JM, Swerdloff RS, Wang C (eds.), 
+Pharmacology, Biology, and Clinical Application of Androgens. New York:
+Wiley-Liss; 1996:27-38.
+3. Goyal HO, Hutto V, Maloney MA. Effects of androgen deprivation in
+the goat epididymis. Act Anat 1994; 150:127-135.
+4. Fawcett DW, Hoffer AP. Failure of exogenous androgen to prevent
+regression of the initial segment of the rat epididymis after efferent
+duct ligation
+or orchidectomy. Biol Reprod 1979; 20:162-181.
+5. Abe K, Takano H. Early degeneration of the epithelial cells in the
+initial segment of the epididymal duct in mice after efferent duct 
+cutting. Arch Histol Cytol 1989; 52:299-310.
+6. Brooks DE. Influence of androgens on the weights of the male 
+accessory reproductive organs and on the activities of mitochondrial
+enzymes in the epididymis of the rat. J Endocrinol 1979; 82:293-303.
+7. Hess RA. Oestrogen in fluid transport in efferent ducts of the male
+reproductive tract. Rev Reprod 2000; 5:84-92.
+8. Couse JF, Korach KS. Estrogen receptor null mice: what have we
+learned and where will they lead us? Endocr Rev 1999; 20:358-417.
+9. Hess RA, Bunick D, Lee KH, Bahr J, Taylor JA, Korach KS, Lubahn
+DB. A role for oestrogens in the male reproductive system. Nature
+1997; 390:509-512.
+10. Hess RA, Gist DH, Bunick D, Lubahn DB, Farrell A, Bahr J, Cooke
+PS, Greene GL. Estrogen receptor (a and b) expression in the 
+excur-rent ducts of the adult male rat reproductive tract. J Androl 1997; 18:
+602-611.
+11. Kuiper GG, Carlsson B, Grandien K, Enmark E, Haggblad J, Nilsson
+S, Gustafsson JA. Comparison of ligand binding specificity and 
+transcript tissue distribution of estrogen receptors alpha and beta. 
+Endocrinology 1997; 138:863-870.
+12. Fisher CR, Graves KH, Parlow AF, Simpson ER. Characterization of
+2090
+mice deficient in aromatase (ARKO) because of targeted disruption
+of the cyp 19 gene. Proc Natl Acad Sci U S A 1998; 95:6965-6970.
+13. Robertson KM, O’Donnell L, Jones MEE, Meachem SJ, Boon WC,
+Fisher CR, Graves KH, McLachlan RI, Simpson ER. Impairment of
+spermatogenesis in mice lacking a functional aromatase (cyp 19) gene.
+Proc Natl Acad Sci U S A 1999; 96:7986-7991.
+14. Eddy EM, Washburn TF, Bunch DO, Goulding EH, Gladen BC, 
+Lu-bahn DB, Korach KS. Targeted disruption of estrogen receptor gene
+in male mice causes alteration of spermatogenesis and infertility. 
+Endocrinology 1996; 137:4796-4805.
+15. Smith EP, Boyd J, Frank GR, Takahashi H, Cohen RM, Specker B,
+Williams TC, Lubahn DB, Korach KS. Estrogen resistance caused by
+a mutation in the estrogen-receptor gene in man. N Engl J Med 1994;
+331:1056-1061.
+16. Carani C, Qin K, Simoni M, Faustini-Fustini M, Serpente S, Boyd J,
+Korach KS, Simpson ER. Effect of testosterone and estradiol in a man
+with aromatase deficiency. N Engl J Med 1997; 337:91-95.
+17. Gill WB, Schumacher FB, Bibbo M, Straus FHI, Schoenberg HW.
+Association of diethylstilbestrol exposure in utero with 
+cryptorchi-dism, testicular hypoplasia, and semen abnormalities. J Urol 1979;
+122:36-39.
+18. McLachlin JA, Newbold RR, Bullock, B. Reproductive tract lesions
+in male mice exposed prenatally to diethylstilbestrol. Science 1975;
+190:991-992.
+19. Jones LA. Long-term effects of neonatal administration of estrogen
+and progesterone, alone or in combination, on male BALB/c and
+BALB/cf 3H mice (40927). Proc Soc Exp Biol Med 1980; 165:17-
+25.
+20. Gray LE Jr, Ostby J, Cooper RL, Kelce WR. The estrogenic and
+antiandrogenic pesticide methoxychlor alters the reproductive tract
+and behavior without affecting pituitary size or LH and prolactin 
+secretion in male rats. Toxicol Indust Health 1999; 15:37-47.
+21. Toppari J, Larsen JC, Christiansen P, Giwercman A, Grandjean P,
+Guillette LJ, Jegou B, Jensen TK, Jouannet P, Keiding N, Leffers H,
+McLachlan JA, Meyer OM, Muller J, Rajpert-De Myets E, Scheike
+T, Sharpe R, Sumpter J, Skakkebaek NE. Male reproductive health
+and environmental xenoestrogens. Environ Health Perspect 1996; 104:
+741-803.
+22. Gupta C. Reproductive malformation of the male offspring following
+maternal exposure to estrogenic chemicals. Proc Soc Exp Biol Med
+2000; 224:61-68.
+23. Putz O, Schwartz CB, Kim S, LeBlanc GA, Cooper RL, Prins GS.
+Neonatal low- and high-dose exposure to estradiol benzoate in the
+male rat: I. Effects on the prostate gland. Biol Reprod 2001; 65:1496-
+1505.
+24. Carlsen E, Giwercman A, Keiding N, Skakkebaek NE. Evidence for
+decreasing quality of semen during past 50 years. Brit Med J 1992;
+305:609-613.
+25. Swan SH, Elkin EP, Fenster L. The question of declining sperm 
+density revisited: an analysis of 101 studies published 1934-1996. 
+Environ Health Perspect 2000; 108:961-966.
+26. Guillette LJ, Gross TS, Masson GR, Matter JM, Percival HF, 
+Woodward AR. Developmental abnormalities of the gonad and abnormal
+sex concentrations in juvenile alligators from contaminated and 
+control lakes in Florida. Environ Health Perspect 1994; 102:680-688.
+27. Guillette LJ, Pickford DB, Crain DA, Rooney AA, Percival HF. 
+Reduction in penis size and plasma testosterone concentrations in 
+juvenile alligators living in a contaminated environment. Gen Comp 
+En-docrinol 1996; 101:32-42.
+28. Sharpe RM, Atanassova N, McKinnell C, Parte P, Turner KJ, Fisher
+JS, Kerr JB, Groome NP, Macpherson S, Millar MR, Saunders PTK.
+Abnormalities in functional development of Sertoli cells in rats treated
+neonatally with diethylstilbestrol: a possible role for estrogens in 
+Ser-toli cell development. Biol Reprod 1998; 59:1084-1094.
+29. Atanassova N, McKinnell C, Walker M, Turner KJ, Fisher JS, Morley
+M, Millar MR, Groome NP, Sharpe RM. Permanent effects of neonatal
+estrogen exposure in rats on reproductive hormone levels, Sertoli cell
+number, and the efficiency of spermatogenesis in adulthood. 
+Endocrinology 1999; 140:5364-5373.
+30. Atanassova N, McKinnell C, Turner KJ, Walker M, Fisher JS, Morley
+M, Millar MR, Groome NP, Sharpe RM. Comparative effects of 
+neonatal exposure of male rats to potent and weak (environmental) 
+estrogens on spermatogenesis at puberty and the relationship to adult testis
+size and fertility: evidence for stimulatory effects of low estrogen
+levels. Endocrinology 2000; 141:3898-3907.
+31. Fisher JS, Turner KJ, Brown D, Sharpe RM. Effect of neonatal 
+exposure to estrogenic compounds on development of the excurrent
+GOYAL ET AL.
+ducts of the rat testis through puberty to adulthood. Environ Health
+Perspect 1999; 107:397-405.
+32. vom Saal FS, Timms BG, Montano MM, Palanza P, Thayer KA, Nagel
+SC, Dhar MG, Ganjam VK, Parmigiani S, Welshons WV. Prostate
+enlargement in mice due to fetal exposure to low doses of estradiol
+or diethylstilbestrol and opposite effects at high doses. Proc Natl Acad
+Sci U S A 1997; 94:2056-2061.
+33. Spearow JL, Doemeny P, Sera R, Leffler R, Barkley M. Genetic 
+variation in susceptibility to endocrine disruption by estrogen in mice.
+Science 1999; 285:1259-1261.
+34. Spearow JL, O’Henley P, Doemeny P, Sera R, Leffler R, Sofos T,
+Barkley M. Genetic variation in physiological sensitivity to estrogen
+in mice. APMIS 2001; 109:356-364.
+35. Goyal HO, Braden TD, Mansour M, Williams CS, Kamaleldin A,
+Srivastava KK. Diethylstilbestrol-treated adult rats with altered 
+epididymal sperm numbers and sperm motility parameters, but without
+alterations in sperm production and sperm morphology. Biol Reprod
+2001; 64:927-934.
+36. Robb GW, Amann RP, Killian GJ. Daily sperm production and 
+epididymal sperm reserves of pubertal and adult rats. J Reprod Fertil
+1978; 54:103-107.
+37. Goyal HO, Bartol FF, Wiley AA, Neff CW. Immunolocalization of
+receptors for androgen and estrogen in male caprine reproductive 
+tissues: unique distribution of estrogen receptors in efferent ductule 
+epithelium. Biol Reprod 1997; 56:90-101.
+38. Aceitero J, Llanero M, Parrado R, Pena E, Lopez-Beltran A. Neonatal
+exposure of male rats to estradiol benzoate causes rete testis dilation
+and backflow impairment of spermatogenesis. Anat Rec 1998; 252:
+17-33.
+39. Fisher JS, Turner KJ, Fraser HM, Saunders PTK, Brown D, Sharpe
+RM. Immunoexpression of aquaporin-1 in the efferent ducts of the rat
+and marmoset monkey during development, its modulation by 
+estrogens, and its possible role in fluid absorption. Endocrinology 1998;
+139:3935-3945.
+40. Brown-Grant K, Fink G, Greig F, Murray MA. Altered sexual 
+development in male rats after oestrogen administration during the neonatal
+period. J Reprod Fertil 1975; 44:25-42.
+41. Arai Y, Mori T, Suzuki Y, Bern HA. Long-term effects of perinatal
+exposure to sex steroids and diethylstilbestrol on the reproductive 
+system of male mammals. Int Rev Cytol 1983; 84:235-268.
+42. Bellido C, Pinilla L, Aguilar R, Gaytan F, Aguilar E. Possible role of
+changes in postnatal gonadotropin concentrations on permanent 
+impairment of the reproductive system in neonatally oestrogenized male
+rats. J Reprod Fertil 1990; 90:369-374.
+43. Lee PC. Disruption of male reproductive tract development by 
+administration of the xenoestrogen, nonylphenol, to male newborn rats.
+Endocrine 1998; 9:105-111.
+44. Thayer KA, Ruhlen RL, Howdeshell KL, Buchanan DL, Cooke PS,
+Preziosi D, Welshons WV, Haseman J, vom Saal FS. Altered prostate
+growth and daily sperm production in male mice exposed prenatally
+to subclinical doses of 17 a-ethinyl oestradiol. Hum Reprod 2001; 16:
+988-996.
+45. Khan SA, Ball RB, Hendry WJ III. Effects of neonatal administration
+of diethylstilbestrol in male hamsters: disruption of reproductive 
+function in adults after apparently normal pubertal development. Biol 
+Re-prod 1998; 58:137-142.
+46. Orgebin-Crist MC, Eller BC, Danzo BJ. The effects of estradiol, 
+ta-moxifen, and testosterone on the weights and histology of the 
+epididymis and accessory sex organs of sexually immature rabbits. 
+Endocrinology 1983; 113:1703-1715.
+47. Putz O, Scwartz CB, LeBlanc GA, Cooper RL, Prins GS. Neonatal
+low- and high-dose exposure to estradiol benzoate in the male rat: II.
+Effects on male puberty and the reproductive tract. Biol Reprod 2001;
+65:1506-1517.
+48. Robaire B, Duron J, Hales BF. Effect of estradiol-filled 
+polydime-thylsiloxane subdermal implants in adult male rats on the reproductive
+system, fertility, and progeny outcome. Biol Reprod 1987; 37:327-
+334.
+49. Boockfor FR, Blake CA. Chronic administration of 4-tert-octylphenol
+to adult male rats causes shrinkage of the testes and male accessory
+sex organs, disrupts spermatogenesis, and increases the incidence of
+sperm deformities. Biol Reprod 1997; 57:267-277.
+50. Kaneto M, Kanamori S, Hishikawa A, Kishi K. Epididymal sperm
+motion as a parameter of male reproductive toxicity: sperm motion,
+fertility, and histopathology in ethynylestradiol-treated rats. Reprod
+Toxicol 1999; 13:279-289.
+51. Danzo BJ. Environmental xenobiotics may disrupt normal endocrine
+function by interfering with the binding of physiological ligands to
+steroid receptors and binding proteins. Environ Health Perspect 1997;
+105:294-301.
+52. Pelletier G, Labrie C, Labrie F. Localization of oestrogen receptor a,
+oestrogen receptor b and androgen receptors in the rat reproductive
+organs. J Endocrinol 2000; 165:359-370.
+53. Takeda H, Chodak G, Mutchnik S, Nakamoto T, Chang C. 
+Immuno-histochemical localization of androgen receptors with mono- and 
+poly-clonal antibodies to androgen receptor. J Endocrinol 1990; 126:17-
+25.
+54. Bremner WJ, Millar MR, Sharpe RM, Saunders PTK. 
+Immunohisto-chemical localization of androgen receptor in the rat testis: evidence
+for stage-dependent expression and regulation by androgens. 
+Endocrinology 1994; 135:1227-1234.
+55. Vornberger W, Prins GS, Musto NA, Suarez-Quian CA. Androgen
+receptor distribution in rat testis:
+new implications for androgen 
+regulation of spermatogenesis. Endocrinology 1994; 134:2307-2316.
+56. Sharpe RM. The roles of oestrogen in the male. Trends Endocrinol
+Metab 1998; 9:371-377.
+57. Sharpe RM. Regulation of spermatogenesis. In: Knobil E, Neil J
+(eds.), The Physiology of Reproduction, 2nd ed. New York: Raven
+Press; 1994:1363-1434.
+58. Kerr JB, Millar M, Maddocks S, Sharpe RM. Stage dependent 
+changes in spermatogenesis and Sertoli cells in relation to the onset of
+spermatogenic failure following withdrawal of
+testosterone. Anat Rec
+1993; 235:547-559.
+59. Cook JC, Johnson L, O’Connor JC, Biegel LB, Krams CH, Frame
+SR,
+Hurtt ME. Effects of 17b-estradiol exposure on serum hormone
+concentrations and testicular parameters in male Crl:CD BR rats. 
+Tox-icol Sci 1998; 44:155-168.
+60. Tsai-Morris C, Knox G, Luna S, Dufau ML. Acquisition of 
+estradiol-mediated regulatory mechanism of steroidogenesis in cultured fetal
+Leydig cells. J Biol Chem 1986; 261:3471-3474.
+61. Majdic G, Sharpe RM, O’Shaughnessy PJ, Saunders PTK. Expression
+ESTROGEN EXPOSURE ON MALE REPRODUCTION
+2091NEONATAL
+of cytochrome P450 17a-hydroxylase/C17-20 lyase in the fetal rat
+testis is reduced by maternal exposure to estrogens. Endocrinology
+1996; 137:1063-1070.
+62. Meistrich ML, Hughes TJ, Bruce WR. Alteration of epididymal sperm
+transport and maturation in mice by oestrogen and testosterone. Nature
+1975; 258:145-147.
+63. Rao MV, Chinoy NJ. Effect of estradiol benzoate on reproductive
+organs and fertility in the male rat. Eur J Obstet Gynecol Reprod Biol
+1983; 15:189-198.
+64. Oko R, Hrudka F. Comparison of the effects of gossypol, 
+estradiol-17b and testosterone compensation on male rat reproductive organs.
+Biol Reprod 1984; 30:1198-1207.
+65. Saunders PTK, Maguire SM, Gaughan J, Millar MR. Expression of
+oestrogen receptor beta (ER-beta) in multiple rat tissues visualized by
+immunohistochemistry. J Endocrinol 1997; 154:R13-R16.
+66. Saunders PTK, Fisher JS, Sharpe RM, Millar MR. Expression of
+oes-
+trogen receptor beta (ER-beta) occurs in multiple cell types, including
+some germ cells, in the rat testis. J Endocrinol 1998; 156:R13-R17.
+67. van Pelt AM, de Rooij DG, van der Burgh B, van der Saag PT, 
+Gus-tafsson J-A, Kuiper GG. Ontogeny of estrogen receptor-beta 
+expression in rat testis. Endocrinology 1999; 140:478-483.
+68. Ilio KY, Hess RA. Structure and function of the ductuli efferentes: a
+review. Microsc Res Tech 1994; 29:432-467.
+69. Hess RA, Bunick D, Lubahn DB, Zhou Q, Bouma J. Morphologic
+changes in efferent ductules and epididymis in estrogen receptor-a
+knockout mice. J Androl 2000; 21:107-121.
+70. Lee K-H, Hess RA, Bahr JM, Lubahn DB, Taylor J, Bunick D. 
+Estrogen receptor a has
+a functional role in the mouse testis and efferent
+ductules. Biol Reprod 2000; 63:1873-1880.
+71. Oliveira CA, Carnes K, Franca LR, Hess RA. Infertility and testicular
+atrophy in the antiestrogen-treated adult male rat. Biol Reprod 2001;
+65:913-920.
+72. Gorski RA. Sexual differentiation of the endocrine brain and its 
+control. In: Motta M (ed.), Brain Endocrinology, 2nd ed. New York: 
+Raven Press; 1991:71-104.
+
+TABLE 1. Effect of neonatal DES treatment on body weight (BW) and paired relative weight (mg/100 g BW) of 
+reproductive organs at adulthood (83-91 day) in rats.a 
+EP caput and 
+DES 
+BW (g) 
+Testis 
+corpus 
+EP cauda 
+Seminal vesicle 
+Control (n 5 7) 
+398 6 7 
+919 6 9 
+167 6 2 
+104 6 2 
+327 6 17 
+10 mg (n 5 6) 
+355 6 7* 
+689 6 22* 
+97 6 3* 
+53 6 4* 
+50 6 5* 
+1 mg (n 5 5) 
+410 6 7 
+698 6 32* 
+146 6 6* 
+88 6 3* 
+257 6 21* 
+100 ng (n 5 8) 
+401 6 6 
+843 6 18* 
+147 6 4* 
+95 6 3* 
+306 6 10 
+10 ng (n 5 5) 
+407 6 10 
+892 6 23 
+167 6 4 
+105 6 2 
+353 6 14 
+1 ng (n 5 4) 
+384 6 10 
+1020 6 35* 
+172 6 4 
+120 6 3* 
+334 6 4 
+a Data are expressed as mean 6 SEM. EP, Epididymis. 
+* Significantly (P # 0.05) different from control within a row. 
+computer-assisted image analysis system. These measurements were made 
+Organ Weight 
+in the control, 10-mg, and 1-mg groups only (n 5 5 for each group) since 
+
+TABLE 2. Effect of neonatal DES treatment on sperm morphology at adulthood (83-91 day) in rats.a 
+Defective (%) 
+DES 
+Normal (%) 
+Head 
+Midpiece 
+Principal piece 
+Distal droplet 
+Detached head 
+Control (n 5 7) 
+85.1 6 4.6 
+4.86 6 1.7 
+1.14 6 0.5 
+0 6 0 
+5.3 6 1.2 
+3.6 6 2.8 
+10 mg (n 5 6) 
+66.7* 6 6.0 
+25.8* 6 5.3 
+3.3* 6 1.0 
+0.67 6 0.3 
+0.167* 6 0.2 
+3.0 6 6.0 
+1 mg (n 5 5) 
+89.2 6 1.2 
+4.6 6 2.1 
+0.4 6 0.2 
+0.4 6 0.4 
+2.6 6 0.2 
+2.8 6 4.2 
+100 mg (n 5 5) 
+84.2 6 4.6 
+5.6 6 2.0 
+1.2 6 1.2 
+0.4 6 0.4 
+5.8 6 1.1 
+2.8 6 1.5 
+10 ng (n 5 5) 
+84.4 6 2.6 
+7.2 6 2.6 
+1.2 6 0.2 
+0 6 0 
+7.2 6 0.6 
+0.6 6 0.4 
+1 ng (n 5 4) 
+89.3 6 3.1 
+4.5 6 1.7 
+0 6 0 
+0 6 0 
+5.0 6 1.4 
+1.3 6 0.8 
+a Data are expressed as mean 6 SEM. 
+* Significantly (P # 0.05) different from control. 
+
+TABLE 3. Epithelial height (EH), luminal diameter (LD), and tubular diameter (TD) in different regions of the reproductive tract of adult male rats treated 
+neonatally with DES.a 
+10 mg DES (n 5 5) 
+1 mg DES (n 5 5) 
+EH (m) 
+LD (m) 
+TD (m) 
+EH (m) 
+LD (m) 
+TD (m) 
+Testis (stages VII-VIII), tu- 
+buleb 
+66.4 6 2.4* 
+139.8 6 6.9 
+262 6 8.9 
+58.1 6 1.0 
+139.6 6 5.3 
+247.9 6 5.0 
+Rete testisc 
+5.8 6 0.45 
+80.8 6 14.1 
+92.6 6 14.7 
+5.8 6 0.21 
+76.5 6 10.9 
+86.5 6 11.2 
+Efferent ductules, proximalc 
+21.0 6 1.3 
+130.1 6 12.7 
+173.3 6 13.3 
+25.8 6 1.3 
+130.4 6 4.6* 
+179.7 6 2.9* 
+Efferent ductules, distalc 
+23.0 6 2.3 
+87.5 6 6.1* 
+131.1 6 8.8* 
+27.1 6 1.2 
+70.6 6 7.7 
+123.2 6 8.9* 
+Epididymis, initial segmentc 
+36.4 6 3.1 
+98.1 6 4.2 
+168.3 6 4.9 
+35.2 6 3.5 
+90.0 6 4.7 
+160.6 6 12.1 
+Epididymis, caputc 
+19.3 6 1.1 
+225.8 6 8.4 
+262.8 6 6.8 
+18.2 6 1.9 
+232.0 6 18.6 
+264.8 6 16.6 
+Epididymis, caudac 
+27.7 6 1.6* 
+164.3 6 15.0* 
+218.8 6 13.6* 
+21.7 6 1.5 
+226.9 6 13.7 
+267.6 6 11.0 
+a Data are expressed as mean 6 SEM. 
+b Twenty tubules per animal. 
+c Fifteen tubules per animal. 
+* Significantly (P # 0.05) different from control within a row. 
+
+TABLE 3. Extended. 
+Control (n 5 5) 
+EH (m) 
+LD (m) 
+TD (m) 
+Testis (stages VII- 
+VIII), tubuleb 
+59.4 6 1.3 
+141.1 6 5.2 
+247.5 6 5.5 
+Rete testisc 
+5.4 6 0.05 
+101.5 6 26.2 
+111.7 6 26.7 
+Efferent ductules, 
+proximalc 
+26.4 6 1.5 
+100.9 6 11.3 
+152.2 6 12.7 
+Efferent ductules, 
+distalc 
+23.8 6 0.99 
+54.8 6 4.4 
+101.2 6 3.5 
+Epididymis, initial 
+segmentc 
+42.7 6 2.8 
+102.9 6 8.7 
+188.0 6 13.0 
+Epididymis, 
+caputc 
+17.4 6 1.2 
+234.1 6 9.4 
+266.1 6 8.0 
+Epididymis, 
+caudac 
+20.4 6 1.5 
+227.6 6 6.5 
+267.2 6 4.5 
+
+TABLE 4. Effect of neonatal DES treatment on fertility at adulthood (83-91 day) in rats.a 
+Parameter 
+Interval between 
+Number of 
+cohabitation and 
+DES 
+Pregnant/mated 
+Pups/litter 
+Implantation sites 
+corpora lutea 
+plug/sperm (day) 
+Control 
+4/4 
+14, 16, 14, 14 
+15, 16, 14, 15 
+16, 16, 16, 16 
+3, 1, 2, 8 
+(14.5) 
+(15) 
+(16) 
+(3.5) 
+10 mg 
+0/4 
+N/A 
+N/A 
+N/A 
+N/A 
+1 mg 
+4/4 
+13, 2, 13, 3 
+15, 2, 13, 4 
+21, 14, 14, 16 
+8, 6, 5, 2 
+(7.8) 
+(16.3) 
+(5.3) 
+100 ng 
+4/4 
+13, 11, 20, 15 
+13, 12, 20, 16 
+20, 13, 20, 17 
+1, 5, 3, 3 
+(14.8) 
+(15.3) 
+(17.5) 
+(3) 
+a Individual data are presented; means are listed within parentheses. N/A, Not applicable. 
+
+FIG. 1. 
+Mean (6SEM) weekly body weight in Sprague-Dawley rats treat- 
+
+GOYAL ET AL. 
+FIG. 3. Mean (6SEM) number of homogenization-resistant spermatids/ 
+sperm in the testis at adulthood (83-91 days of age) in Sprague-Dawley 
+rats treated neonatally with different doses of DES. *Significant differences 
+from controls (P # 0.05). Control, n 5 7; 10 mg, n 5 6; 1 mg, n 5 5; 
+100 ng, n 5 6; 10 ng, n 5 5; 1 ng, n 5 4. 
+
+2084 
+FIG. 2. Mean (6SEM) paired absolute weight of reproductive organs at 
+adulthood (83-91 days of age) in Sprague-Dawley rats treated neonatally 
+with different doses of DES. *Significant differences from controls (P 
+# 
+0.05). Control, n 5 7; 10 mg, n 5 6; 1 mg, n 5 5; 100 ng, n 5 8; 10 ng, 
+n 5 5; 1 ng, n 5 4. 
+
+FIG. 4. Mean (6SEM) number of homogenization-resistant sperm in the 
+caput and corpus and the cauda of the epididymis at adulthood (83-91 
+days of age) in Sprague-Dawley rats treated neonatally with different dos- 
+es of DES. *Significant differences from controls (P 
+# 0.05). Control, n 5 
+7; 10 mg, n 5 6; 1 mg, n 5 5; 100 ng, n 5 6; 10 ng, n 5 5; 1 ng, 
+n 5 4. 
+
+FIG. 6. Mean (6SEM) plasma concentration of testosterone, LH, FSH, 
+and prolactin at adulthood (83-91 days of age) in Sprague-Dawley rats 
+treated neonatally with different doses of DES. *Significant differences 
+from controls (P # 0.05). Control, n 5 7; 10 mg, n 5 6; 1 mg, n 5 5; 
+100 ng, n 5 6; 10 ng, n 5 5; 1 ng, n 5 4. 
+
+FIG. 5. Motility patterns of sperm from the cauda of the epididymis at 
+adulthood (83-91 days of age) in Sprague-Dawley rats treated neonatally 
+with different doses of DES. MSP, Percentage of motile sperm; PMP, per- 
+centage of progressively motile sperm; VSL, straight line velocity; VCL, 
+curvilinear velocity; LIN, linearity; STR, straightness; VAP, average path 
+velocity; ALH, lateral head displacement. Data are expressed as percent- 
+age of controls. *Significant differences from controls (P # 0.05). Control, 
+n 
+5 6; 10 mg to 10 ng, n 5 5 in each group; 1 ng, n 5 4. 
+

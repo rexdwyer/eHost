@@ -1,0 +1,857 @@
+TOXICOLOGICAL SCIENCES 116(1), 113-121 (2010)
+doi:10.1093/toxsci/kfq104
+Advance Access publication April 12, 2010
+Pulmonary Responses to Stachybotrys chartarum and Its Toxins:
+Mouse Strain Affects Clearance and Macrophage Cytotoxicity
+Jamie H. Rosenblum Lichtenstein,*,1 Ramon M. Molina,* Thomas C. Donaghey,* Chidozie J. Amuzie†
+James J. Pestka,† Brent A. Coull,‡ and Joseph D. Brain*
+*Department of Environmental Health, Program in Molecular and
+Integrative Physiological Sciences, Harvard School of Public Health, Boston, Massachusetts 02115; †Department of Microbiology
+and Molecular Genetics, Comparative Medicine and Integrative Biology Program, Michigan State University, East Lansing,
+Michigan 48824; and ‡Department of Biostatistics, Harvard School of Public Health, Boston, Massachusetts 02115
+1To whom correspondence should be addressed at Department of Environmental Health, Program in Molecular and Integrative Physiological Sciences, Harvard
+School of Public Health, 665 Huntington Avenue, Building 2, Room 219, Boston, MA 02115. Fax: (617) 432-0014. E-mail: jrosenbl@hsph.harvard.edu.
+Received December 24, 2009; accepted March 31, 2010
+Inhalation of Stachybotrys chartarum has been associated with
+We investigated differences in the pulmonary and systemic
+clearance of Stachybotrys chartarum spores in two strains of mice,
+BALB/c and C57BL/6J. To evaluate clearance, mice were 
+intratracheally instilled with a suspension of radiolabeled S. chartarum
+spores or with unlabeled spores. The lungs of C57BL/6J mice
+showed more rapid spore clearance than the lungs of BALB/c
+mice, which correlated with increased levels of spore-associated
+radioactivity in the GI tracts of C57BL/6J as compared with
+BALB/c mice. To identify mechanisms responsible for mouse
+strain differences in spore clearance and previously described lung
+inflammatory responses, we exposed alveolar macrophages (AMs)
+lavaged from BALB/c and C57BL/6J mice to S. chartarum spores,
+S. chartarum spore toxin (SST), and satratoxin G (SG) in vitro.
+The S. chartarum spores were found to be highly toxic with most
+cells from either mouse strain being killed within 24 h when
+exposed to a spore:cell ratio of 1:75. The spores were more lethal
+to AMs from C57BL/6J than those from BALB/c mice. In mice,
+the SST elicited many of the same inflammatory responses as the
+spores in vivo, including AM recruitment, pulmonary hemorrhage,
+and cytokine production. Our data suggest that differences in
+pulmonary spore clearance may contribute to the differences in
+pulmonary responses to S. chartarum between BALB/c and
+C57BL/6J mice. Enhanced AM survival and subsequent 
+macro-phage-mediated inflammation may also contribute to the higher
+susceptibility of BALB/c mice to S. chartarum pulmonary effects.
+Analogous genetic differences among humans may contribute to
+reported variable sensitivity to S. chartarum.
+Key Words: Stachybotrys chartarum; rodent; toxicity; acute;
+safety evaluation; macrophage; immunotoxicology; lung;
+pulmonary or respiratory system; respiratory toxicology; 
+dose-response; risk assessment.
+Inhalation of fungal spores and their mycotoxins initiates
+inflammatory and allergic responses as well as pulmonary
+infections (Hendry and Cole, 1993; Larsen et al., 1996).
+The Author 2010. Published by Oxford University Press on behalf of the Society of Toxicology. All rights reserved.
+For permissions, please email: journals.permissions@oxfordjournals.org
+multiple symptoms, including muscle aches, headaches, cough,
+pulmonary hemorrhage, dermatitis, and interstitial lung disease
+(Cooley et al., 1998). Infant deaths from acute idiopathic
+pulmonary hemorrhage have been hypothesized to be caused in
+part by this fungus (Dearborn et al., 1999; Etzel et al., 1998).
+Responsiveness to S. chartarum is idiosyncratic; some humans
+respond, others do not. Because separating environmental from
+genetic effects is difficult in humans, we used a mouse model
+(Rosenblum Lichtenstein et al., 2006) and an in vitro cell assay
+to elucidate mechanisms of responses to S. chartarum and to
+clarify the importance of strain differences that reflect genetic
+components of host responses.
+Stachybotrys chartarum grows well at room temperature on
+wet surfaces composed of cellulose-containing materials such
+as paper, ceiling tiles, and cardboard (Murtoniemi et al., 2003).
+With appropriate temperature, light, and relative humidity, it
+produces mycotoxins, including macrocyclic trichothecenes
+such as satratoxin G (SG), which inhibit protein and DNA
+synthesis, induce protein degradation, disrupt cellular function,
+and cause cellular injury and inflammation (Bae et al., 2009;
+Hastings et al., 2005; Hudson et al., 2005; Kankkunen et al.,
+2009; McCrae et al., 2007; Shi et al., 2009; Yike et al., 2007).
+The fungus also releases stachylysin that can lead to pulmonary
+hemorrhage (Vesper SJ and Vesper MJ, 2002).
+Previous experiments used exposures of rats and mice to
+S. chartarum spores intranasally and intratracheally; lung tissue
+was examined for histological changes and bronchoalveolar
+lavage for evidence of injury and inflammation (Nikulin et al.,
+1996, 1997; Rao et al., 2000; Rosenblum Lichtenstein et al.,
+2006). Stachybotrys chartarum has been consistently reported
+to cause pulmonary hemorrhage and extensive inflammation as
+well as apoptosis, cytokine release, DNA damage, and changes
+in gene expression (Bae et al., 2009; Chung et al., 2003b;
+Dearborn et al., 1999; Islam et al., 2006, 2008; Penttinen et al.,
+114
+2007; Rand et al., 2002, 2003; Rosenblum Lichtenstein et al.,
+2006; Wang and Yadav, 2006, 2007). In addition to
+mycotoxins, S. chartarum releases SchS34, a 34-kD antigen
+(Rand and Miller, 2008).
+We have previously shown that BALB/c mice respond more
+to pulmonary exposure to S. chartarum spores than do C57BL/
+6J or C3H/HeJ mice (Rosenblum Lichtenstein et al., 2006).
+Lungs from exposed BALB/c mice showed the most
+hemorrhage, the highest permeability of the air-blood barrier,
+the most white blood cell recruitment, and the highest
+inflammatory cytokine and chemokine levels in response to
+intratracheally instilled spores of S. chartarum. Our data also
+show that mice have dose-dependent pulmonary responses to
+S. chartarum and that their genetic background affects the
+slope of these dose-response curves.
+We wanted to know whether strain differences influence
+clearance kinetics of spores. BALB/c mice clear both Bacillus
+anthracis and Cryptococcus neoformans from the lungs more
+efficiently than do C57BL/6J mice (Decken et al., 1998; Lyons
+et al., 2004). The mucociliary escalator and macrophage
+activity play important roles in the pulmonary clearance of
+pathogens in the lungs; multiple environmental factors
+modulate this role.
+In this study, we sought to clarify the roles of pulmonary
+clearance and macrophage cytotoxicity in modulating
+responses to S. chartarum. We hypothesized that the observed
+strain differences in S. chartarum responsiveness are mediated
+in part by different rates of pulmonary spore clearance. The two
+mouse strains we employed here, C57BL/6J and BALB/c, are
+inbred strains developed independently and differ from each
+other at over 50% of characterized genetic loci (Taconic,
+1998a,b). Both strains are TLR2þ and TLR4þ (Matsuguchi
+et al., 2003; Poltorak et al., 1998). BALB/c mice have been
+shown to be Th2 dominant, whereas C57BL/6 mice are Th1
+dominant as summarized by Rosenblum Lichtenstein et al.
+(2006). Because alveolar macrophages (AMs) from C57BL/6
+mice have been shown to have a higher phagocytic capacity
+than AMs from BALB/c mice (Su et al., 2001), we
+hypothesized that C57BL/6J mice might clear spores more
+efficiently than BALB/c mice, leading to differences in
+integrated spore dose over time. This may contribute to the
+increased pulmonary inflammation seen in BALB/c as
+compared with C57BL/6J mice. We also hypothesized that
+differences in AM sensitivity to S. chartarum-induced
+cytotoxicity influence both inflammation and spore clearance.
+MATERIALS AND METHODS
+Fungal strains and spore suspensions. A trichothecene-producing strain
+of S. chartarum was obtained from Harriet Burge (Environmental 
+Microbiology Lab, San Bruno, CA) (Rao et al., 2000) and grown on potato dextrose agar
+(PDA) plates at 15C. Spores were vacuumed from the surface of 21-day agar
+cultures using a modified filter cassette with a 37-mm, 0.4-lm polycarbonate
+ROSENBLUM LICHTENSTEIN ET AL.
+membrane filter (Poretics Corp., Livermore, CA). After the spores were
+removed from the filter, they were suspended in D-PBS (Mediatech Inc.,
+Herndon, VA) at the desired concentration, as measured under light microscopy
+at 3200 in a hemocytometer chamber. Minor hyphal fragment content and
+negligible spore clumping were observed; most spores were ovoid in shape
+with a mean size of 6 3 9 lm. Two Stachybotrys chemotypes have been
+described-an atranone-producing chemotype and a trichothecenes-producing
+chemotype (Andersen et al., 2002, 2003; Rand et al., 2006). The S. chartarum
+strain described in this study is a trichothecene-producing chemotype.
+SG ELISA. SG levels in the spore suspension were measured by a modified
+competitive direct ELISA (Chung et al., 2003a). Briefly, SG antibody was diluted
+in PBS (1:10,000), coated on microtiter plates (100 ll/well), and incubated
+overnight at 4C. Plates were washed and blocked with 1% (w/v) bovine serum
+albumin (BSA) in PBS at 25C for 1 h. SG standards (0-500 ng/ml) were made,
+and SG horseradish peroxidase conjugate was diluted (1:4000 [v/v]) in 1% (w/v)
+BSA in PBS. Equal volumes of diluted SG horseradish peroxidase conjugate
+(50 ll) and standards diluted similarly were then mixed and incubated in
+microtiter plates at 25C for 1 h. Plates were washed, and bound peroxidase was
+determined by 100 ll/well incubation with 3,3’,5,5’-tetramethylbenzidine
+(Neogen, Lansing, MI) at 25C for 0.5 h. Color reaction was stopped with 2N
+sulfuric acid (100 ll/well), and plates were read at 450 nm wavelength on ELISA
+plate reader (Molecular Devices, Menlo Park, CA). SG concentrations in samples
+were determined from the standard curve using Softmax software (Molecular
+Devices).
+Dual radiolabeled spores. Stachybotrys chartarum spores were streaked
+onto PDA plates supplemented with 1 ml of D-[U-14C] glucose (287 mCi/
+mmol, 200 lCi/ml; GE Healthcare Life Sciences, Piscataway, NJ) and 1 ml of
+[6-3H] thymidine (23 Ci/mmol, 1 mCi/ml; GE Healthcare Life Sciences).
+Growth conditions and harvesting were as described above. The dual label
+enabled tracing of both spore DNA and carbohydrate components such as the
+cell wall and glycosylated proteins. Spores were washed with saline four times
+prior to use to remove any unincorporated radiolabel. After the fourth wash, no
+radiolabel was detectable in the wash fluid.
+Animal care. Animal use protocols for these experiments were approved
+by the committee on animal experiments, and all institutional and federal
+guidelines on animal care and handling were followed. Male BALB/c (Taconic,
+Germantown, NY) and C57BL/6J (The Jackson Laboratory, Bar Harbor, ME)
+were housed at the Harvard Animal Facilities for a minimum 1-week
+acclimation period, fed Purina Mouse Chow and water ad libitum, and kept
+on a 12-h light-dark cycle. All mice in these experiments were age matched
+(7-10 weeks). All experiments described below were performed on both mouse
+strains concurrently.
+In Vivo spore clearance. Spores suspensions were delivered into the lungs
+of both mouse strains by intratracheal instillation (IT) at 7.5 ± 1 weeks. Each
+mouse received 6.25 3 105 (a concentration of 107 spores/ml saline in 62.5 ll
+saline) spores per 25-g body weight for the quantitative clearance experiments
+(visual counting) and 6.25 3 104 spores per mouse (not adjusted for body
+weight) for the radiolabeled clearance experiments. We used the same volume
+for all the animals in the experiments to standardize the administered
+radioactive dose from day to day.
+Between six and twelve mice per day were administered spores. On each
+day, the order of the strains was randomly alternated. At least three animals for
+each strain and time were sacrificed, and organs were harvested. The amount of
+radioactivity in the delivered dose was quantified by delivering an equivalent
+quantity of spore suspension to a vial (n ¼ 4) for digestion (see below) and
+subsequent counting of radioactivity.
+Immediately after the spore instillation and 24 h later, the mice were
+humanely killed by an intraperitoneal lethal dose of sodium pentobarbital
+(Anthony Products Co., Arcadia, CA) (10 mg/mouse). Mice were then
+exsanguinated by cutting the abdominal aorta and by puncturing the
+hemidiaphragm to create a bilateral pneumothorax. The lungs and trachea
+were removed en bloc, suspended in 4-ml distilled water, and homogenized
+through a stainless steel sieve with 100-lm holes. We counted intact spores on
+a hemocytometer under a light microscope at 3200 magnification. To calculate
+the number of spores in the lungs (SL), we multiplied the total volume (VH) of
+homogenized lungs (4000 ll) by the number of visible spores counted (SC) in
+the hemocytometer grids then divided by the volume of one hemocytometer
+grid (VG) (0.9 ll) multiplied by the total number (N) of grids counted (between
+4 and 10 per mouse). We used the equation SL ¼ VH ðSCÞVGðNÞ :
+For radioactivity measurements, mice were humanely killed as described
+above at 5 min, 8 h, and 1, 2, and 7 days after spore instillation. The lungs and
+trachea, stomach, cecum, and large intestine were removed and placed into
+preweighed scintillation vials. The small intestines were removed and cut into
+pieces and distributed among scintillation vials. Vials were reweighed and
+tissue weights calculated.
+Tissues were dissolved in 1.0 ml Solvable (Perkin Elmer, Boston, MA) and
+0.1 ml of 100 mM EDTA, followed by 0.3 ml 30% hydrogen peroxide. The
+caps were kept loose for 15 min to allow gas to escape. Caps were tightened,
+and the vials were incubated in a 60C water bath for 1 h. The tubes were
+cooled to room temperature, and 15 ml of Ultima Gold (Perkin Elmer) was
+added. Samples were read in a Wallac Oy WinSpectral Scintillation Counter
+(Turku, Finland) using the 3H/14C dual label program. The radioactivity
+detected in the stomach, small intestine, large intestine, and cecum was totaled
+for each mouse to determine the total radioactivity in the GI tract.
+In Vitro spore cytotoxicity. Four BALB/c and C57BL/6J mice were
+lavaged for each of the three data points, as described previously (Rosenblum
+Lichtenstein et al., 2006). We did a 1-ml wash, followed by eleven 0.75-ml
+washes with D-PBS. The bronchoalveolar lavage fluid was pooled, resulting in
+one tube for each mouse strain. Seven different experiments were performed to
+achieve a sample size of 3 per time point. BSA (30%) (Calbiochem, La Jolla,
+CA) was preadded to the ice-chilled Falcon tube at 30 ll/mouse (~9 ml of
+lavage fluid was recovered per mouse) to enhance cell survival. The cell
+suspensions were centrifuged at 200 3 g for 15 min and the supernatants
+discarded. The cells were resuspended in 1-ml red blood cell lysis solution
+(Metcalf et al., 1986) and held at room temperature for 10 min. Supplemented
+RPMI-1640 was prepared with the following: 13 Cell-Gro RPMI-1640 with
+L-glutamine (Mediatech Inc.), 1% penicillin 100 U/ml and streptomycin
+100 lg/ml (1003) (Sigma, St Louis, MO), and 10% fetal bovine serum,
+standard (HyClone, Logan, UT). Five microliters of supplemented RPMI-1640
+was added to the cells which were then centrifuged at 200 3 g for 10 min. The
+supernatant was discarded, and the cells were resuspended in 2 ml of
+supplemented RPMI-1640. The cells were counted on a hemocytometer and
+diluted to 750,000 cells/ml. One hundred microliters of the cell suspension was
+pipetted into each well of a 96-well plate (Greiner bio-one lclear plates), and
+the strains were alternated from well to well. Plates were incubated at 37C
+with 5% CO2 overnight to allow the AMs to attach. Washes in subsequent steps
+are intended to remove nonadherent cell populations (such as neutrophils) that
+we have previously shown to be less than 3% of the white cell population in
+lung lavage fluid in healthy mice (Rosenblum Lichtenstein et al., 2006). Two to
+three replicates of each pool were used for each spore dose and time point in
+each of seven experiments, including three dose-response and four time course
+experiments. Every data point shown is based on two to three replicates from
+three to seven different experiments for a total of 6-15 wells per data point.
+Spore suspensions were prepared in supplemented RPMI-1640 for each
+experiment. The spores were diluted to 250,000 spores/ml using a 
+hemocytometer. Spores were serially diluted 1:5 in supplemented RPMI-1640, resulting in
+concentrations of 5000, 1000, 200, and 40 spores per 75,000 macrophages for
+the dose-response experiments. A dose of 1000 spores per 75,000 macrophages
+was used for the time course protocols. In all cases, a negative control sample
+was prepared that contained media without spores.
+After overnight recovery from plating, the media was removed and 100 ll of
+spore preparations or control media were added to each well. Plates were
+incubated at 37C in air with 5% CO2 for 24 h for the dose response and for
+2, 5, or 24 h for the time course experiments.
+At each designated time, the cells were washed twice with 300 ll of D-PBS
+with calcium and magnesium (Cellgro, Herndon, VA). A 20-ml solution with
+LUNG RESPONSES TO S. CHARTARUM TOXINS
+115
+5 ll of ethidium homodimer 1 (EthD1, Invitrogen LIVE/DEAD Viability/
+Cytotoxicity Kit for mammalian cells, Eugene, OR) and 5 ll of calcein AM
+(Invitrogen LIVE/DEAD Viability/Cytotoxicity Kit for mammalian cells) was
+prepared and 200 ll was added to each well. The cells were stained for
+30-45 min at room temperature before examination by microscopic imaging.
+Cell treatments with Stachybotrys chartarum spore toxin and SG. We
+assessed whether a water soluble extract from S. chartarum spores would
+demonstrate comparable cytotoxicity differences as intact spores. 
+Stachybo-trys chartarum spore toxin (SST) was prepared by adding ~1.5 3 107 spores
+grown as described earlier to 15 ml of D-PBS for 1 h at room temperature.
+Spores were centrifuged, and the resulting supernatant was filtered through
+a 0.1-lm low-protein binding filter. Serial dilutions of SST (solution B, 26 ±
+3 lg SG/ml; Fig. 1B) at 1:50 (528 ng SG/ml), 1:100 (264 ng SG/ml), 1:500
+(53 ng SG/ml), 1:2500 (10 ng SG/ml), 1:12,500 (2 ng SG/ml), and saline
+controls in supplemented RPMI-1640 were added to 75,000 cells per well, as
+described above. Cells were also treated with SG isolated and purified from
+S. chartarum cultures (Islam, 2009). SG (100,000 ng) was reconstituted in 7 ml
+of saline and then diluted into supplemented RPMI-1640 at dilutions of
+1:10 (1428 ng/ml), 1:20 (714 ng/ml), 1:100 (143 ng/ml), 1:500 (29 ng/ml),
+1:2500 (5.7 ng/ml), 1:12,500 (1.1 ng/ml), media only, and saline controls.
+All toxin treatments were for 24 h, and cells were stained as described above.
+Cell viability analysis. The cells were imaged on a BD Pathway 855
+Bioimager at 2003 magnification. Cells were illuminated, and fluorescence
+emission was collected from the bottom of the plate using a field size of ~300 lm2
+and three fields per well. All images were collected using flat field correction and 2
+3 2 binning of pixels to increase the signal-to-noise ratio. Sequential confocal
+images of calcein AM and EthD1 fluorescence were collected every 1.7 lm.
+Segmentation was used to draw regions around each cell as defined by
+a fluorescent signal. The regions of interest (ROIs) for both calcein AM and
+EthD1 were analyzed using BD Attovision software. We optimized the settings to
+maximize the number of cells counted whereas minimizing the numbers of cells
+counted twice. The ROI numbers for each of three fields for each well were
+summed. The percent live cells were calculated by taking the number of calcein
+positive cells in each well and dividing by the mean of the sums of the number of
+calcein AM positive and EthD1 positive cells in the zero spores control wells.
+Statistical analyses. Statistical analyses were performed using SAS
+statistical software (Version 8.2; SAS Institute, Cary, NC). All data displayed
+116
+on a logarithmic scale were log transformed for statistical analyses. For the
+visual counting of spores in lung homogenates, ANOVA was performed. For
+the experiments measuring radiolabeled spore clearance from the lung, we used
+a repeated measures analysis that accounts for both the 3H and 14C labels for
+each mouse. For the experiments measuring radioactivity in the GI tract,
+multivariate analysis of variance (MANOVA) was used to analyze the data to
+account for the use of two different isotopes and our examining multiple
+tissues. For in vitro cytotoxicity experiments, we used a repeated measures
+analysis that allows for residual correlation among observations derived from
+the same BAL pool to account for differences among pools and spore
+preparations. In the dose-response model, we utilized a broken stick analysis to
+describe the change in the slopes of both lines at the 200 spores per well dose.
+A broken stick analysis allows us to describe two of the expected linear regions
+in a typical dose-response S-curve (Ruppert et al., 2003). In this instance, we
+have a relatively flat region at doses too low to cause significant cell death and
+a steeper region where increasing dose causes an approximately linear increase
+in cell death when the data are graphed on a log-log scale.
+RESULTS
+Stachybotrys chartarum Spore Suspension Contained SG
+Because SG is water soluble, AMs and pulmonary (log(hours)), log(y1BALB/c) ¼ 1.82  0.02 (log(hours)),
+epithelium would likely be exposed to soluble SG when log(y2C57BL/6J) ¼ 1.41 - 0.55 (log(hours)), and log(yBALB/c) ¼
+exposed to S. chartarum suspensions. We therefore measured 1.79  0.30 (log(hours)).) The methodology used in this set
+the SG concentration in this spore preparation. A 1-ml D-PBS of experiments to detect spores has the advantage of detecting
+suspension with 106 spores had an SG concentration of both degraded spore components as well as whole spores. For
+1.4 ug/ml or 1.4 pg/spore (Fig. 1), which is comparable with both mouse strains, the 3H-thymidine (DNA) was cleared more
+previous estimates of 1 pg/spore for trichothecenes and rapidly than the 14C-glucose component (most likely 
+carbohy-S. chartarum by Yike and Dearborn (2004).
+Mouse Strain Differences Influence Pulmonary Clearance of analysis; Figs. 3A and B). Radiolabel detected within the first
+Stachybotrys chartarum Spores
+C57BL/6J mice cleared S. chartarum spores from the lungs
+significantly faster than BALB/c mice (Figs. 2 and 3).
+Comparable spore numbers were delivered to the lungs of
+BALB/c and C57BL/6J mice. In C57BL/6J mice, 96.3 ± 11.1%
+(mean ± SE) were recovered, and in BALB/c mice, 81.4 ±
+9.9% were recovered (time 0, Fig. 2). After 1 day, C57BL/6J
+mice had one-third as many spores remaining in the lungs as
+the BALB/c mice (Fig. 2; p ¼ 0.02, ANOVA). Because
+S. chartarum spores have limited germination potential in the the lungs demonstrates clearance via the mucociliary escalator.
+lung (Pestka et al., 2008), the spore numbers in the lung Significantly, more spore-associated radioactivity was present
+homogenates are unlikely to reflect spore growth.
+One limitation using this methodology is that fibrous mice (p < 0.05, MANOVA; Figs 4A and B). Both strains
+material in the homogenates makes the spores difficult to showed significantly more radioactivity in the GI tract at 8 h
+count accurately. In addition, we do not count spore than at other times, suggesting that this clearance pathway
+components, only whole spores. We therefore estimated spore operates early for both strains (p ¼ 0.0001, MANOVA).
+retention in the lungs using radiolabeled spores. Both strains The C57BL/6J mice were thus more efficient at clearing the
+cleared a significant percentage of the instilled spores and spore spores from the lungs via the mucociliary escalator than the
+components (p < 0.001) over the 1-week time course. BALB/c mice.
+24 h than do BALB/c mice. Mean visible spores at 2003 magnification in
+homogenized lungs ± SE versus time (hours). N ¼ 5 mice/strain measured in
+two different experiments (ANOVA, *p ¼ 0.02 for C57BL/6J vs. BALB/c).
+1.54  0.29 (log(hours)), log(y1BALB/c) ¼ 1.64  0.10
+(log(hours)), log(y2C57BL/6J) ¼ 1.14  0.88 (log(hours)), and
+log(yBALB/c) ¼ 1.50  0.68 (log(hours)). For 14C-glucose
+clearance, the best fit lines are log(y1C57BL/6J) ¼ 1.70 - 0.21
+Consistent with the visual counts, the radiolabel data also
+showed that C57BL/6J mice cleared spores or spore compo- Stachybotrys chartarum Kills More AMs from C57BL/6J than
+nents from the lung more rapidly than BALB/c mice during the
+first 24 h after instillation (p ¼ 0.04; Figs. 3A and B). (For
+3H-thymidine clearance, the best fit lines are log(y1C57BL/6J) ¼ sooner (p ¼ 0.04) than those from BALB/c mice (Figs. 5A and
+drates, cell wall, and glycosylated proteins in the membrane,
+cytoplasm, and nucleus; p ¼ 0.0001, repeated measures
+24 h is more likely to reflect whole spores, while radiolabel
+detected at later times is more likely to reflect spore components.
+Some radioactive spore constituents might thus persist in the
+lungs following spore degradation. Taken together, these data
+suggest that C57BL/6J mice are able to clear S. chartarum
+spores more rapidly than BALB/c mice.
+Spores Are Cleared via the GI Tract
+The appearance of radioactivity in the GI tract after IT into
+in the GI tract of C57BL/6J mice 8 h after IT than BALB/c
+BALB/c
+C57BL/6J AMs died at lower spore doses (p ¼ 0.007) and
+LUNG RESPONSES TO S. CHARTARUM TOXINS
+117
+B). Although both strains exhibited significant cell death at
+both the 1000 and 5000 spore doses, significantly more
+C57BL/6J AMs died at spore doses as low as 1000 spores per
+well with 75,000 cells (p ¼ 0.0001; Fig. 5A). Many of the dead
+cells showed a punctate nuclear morphology in their staining
+with EthD1 consistent with apoptosis. At 24 h after spore
+addition, for doses less than 200 spores per 75,000 
+macrophages, the log(yC57BL/6J) ¼ 2.29 - 0.20 (log(dose)) and
+log(yBALB/c) ¼ 2.04 - 0.06 (log(dose)), where y represents the
+percent of live cells and dose represents the number of spores
+per well. For doses greater than 200 spores per 75,000 
+macrophages, the log(yC57BL/6J) ¼ 4.04 - 0.97 (log(dose)) and
+log(yBALB/c) ¼ 3.4731 - 0.68 (log(dose)), where y represents
+the percent of live cells and dose represents the number
+of spores per 75,000 macrophages. At doses higher than
+200 spores/well, the slopes are significantly different
+(p ¼ 0.007) between the two mouse strains.
+C57BL/6J AMs died more rapidly in response to S. chartarum
+than do BALB/c AMs. The equations describing their cell death
+after addition of 1000 spores are log(yC57BL/6J) ¼ 1.87 - 0.098
+(time) and log(yBALB/c) ¼ 1.84 - 0.086 (time), where y is the
+percent of live cells and time is the amount of time after spore
+addition in hours. The slopes of these two lines are significantly
+different (p ¼ 0.04). This strain difference is consistent with
+C57BL/6J mice producing significantly lower levels of 
+inflammatory cytokines in vivo (Rosenblum Lichtenstein et al., 2006).
+SST and SG Kill More AMs from C57BL/6J than BALB/c
+Increasing doses of SST cause increased cytotoxicity in AMs
+from both mouse strains (p ¼ 0.0001; Fig. 6A). This is also
+true for SG only (p ¼ 0.0001), (Fig. 6B). However, we
+observed a range of low concentrations where little change is
+seen, but at higher concentrations there is a linear relationship
+when percent survival is plotted against concentration.
+Importantly, we show that SG, although having significant
+cytotoxicity, does not account for all the cytotoxicity of SST.
+Thus, SG is a significant component, but there are also others.
+The concentration that is lethal for 25% of the cells (LC25) for
+SST for C57BL/6J is 0.017 lg/ml SG equivalents and for
+BALB/c is 0.052 lg/ml SG equivalents. The LC25 for SG for
+C57BL/6J is 0.075 lg/ml and for BALB/c is 0.243 lg/ml. We
+used LC25 rather than LC50 because LC50 is outside the known
+linear range of our data for SG in BALB/c macrophages. Based
+on these numbers, SG accounts for ~20 to 25% of the toxicity
+of the SST.
+After 1 day of treatment with SST, more C57BL/6J AMs die
+than BALB/c AMs at doses between 0.01 and 0.5 lg SG
+equivalents/ml (p ¼ 0.02). The slopes between those doses are
+-0.41 and -0.23 for C57BL/6J and BALB/c, respectively
+(Fig. 6A). Similarly, after 1 day of treatment with SG, more
+C57BL/6J AMs die than BALB/c AMs at doses between
+0.03 and 0.7 lg SG/ml (p ¼ 0.059). The slopes between those
+doses are -0.27 and -0.18 for C57BL/6J and BALB/c,
+respectively (Fig. 6B). The two mouse strains showed 
+differ-(A) Dose (SST [lg/ml SG equivalents]) verses live cells as a percent of baseline
+(baselines are calculated as the total number of cells in matched wells with
+RPMI-1640). Slopes from 0.01-0.5 lg/ml SG equivalents of SST for C57BL/
+6J (-0.41) are significantly different from BALB/c (-0.23). (B) Dose (lg SG/ml
+RPMI 1640) verses live cells as a percent of baseline (baselines are calculated
+as the total number of live and dead cells in matched wells with no SST).
+Slopes from 0.03-0.7 lg/ml SG for C57BL/6J (-0.27) are significantly
+different from BALB/c (-0.18).
+ences in sensitivity to both SST and SG, with SG accounting for
+15-30% of the cytotoxicity of SST at the calculated LD50.
+DISCUSSION
+C57BL/6J mice cleared trichothecene-producing S. 
+chartarum spores from their lungs at a faster rate than did BALB/c
+mice. When spores are delivered to the lungs of C57BL/6J
+mice, more of the spores were cleared via the mucociliary
+escalator and then swallowed and excreted through the GI tract
+than in BALB/c mice. Others may be degraded by 
+macrophages within the lungs. This more efficient clearance in
+C57BL/6J mice via innate mechanisms may partially explain
+the diminished pulmonary injury and inflammation that have
+been reported in this strain (Rosenblum Lichtenstein et al.,
+2006). In contrast, spores or spore components in the lungs of
+BALB/c mice persisted longer and thus may have elicited
+a greater response. For example, 37 ± 1% of the carbohydrate
+component of the spores persisted in the lungs of BALB/c mice
+a week after instillation, whereas only 17 ± 5% remained in the
+lungs of C57BL/6J mice. This persistence might also explain
+how an extract of S. chartarum can also induce allergic asthma
+in BALB/c mice after repeated pulmonary exposures (Viana
+et al., 2002). The carbohydrate component of the labeled
+spores most likely includes mycotoxins and glycosylated
+proteins that may be causing some of the inflammatory
+responses. Some of the remaining 14C label may also reflect
+metabolites of spores, mycotoxins, or proteins. C57BL/6J mice
+may metabolize spores or their mycotoxins more rapidly, and
+this may in part mediate the increased clearance rate in the
+C57/BL6J mice. Whichever spore components the 14C label
+represents, the additional spore-derived material remaining in
+the BALB/c mouse lungs over time is most likely mediating
+the increased inflammation observed in those lungs.
+We reported that strain differences in response to
+S. chartarum are distinct from the strain differences seen in
+response to lipopolysaccharide or to other fungi (Rosenblum
+Lichtenstein et al., 2006). C57BL/6J is the least responsive
+strain to S. chartarum and BALB/c is the most responsive, as
+indicated by both cellular and cytokine changes in lung lavage
+fluid (Rosenblum Lichtenstein et al., 2006). The nature of these
+strain differences seems to be unique to S. chartarum.
+Pulmonary exposure to Coccidioides immitis, C. neoformans,
+and Aspergillus fumigatus show that C57BL/6 mice are more
+sensitive to infection and inflammation and that BALB/c are
+more resistant (Cox et al., 1988; Hoag et al., 1995; 
+Stephens-Romero et al., 2005; Zaragoza et al., 2007). Moreover, murine
+endotoxin susceptibility also shows a different pattern of strain
+responsiveness (Wells et al., 2003). Stachybotrys chartarum is
+the only fungus that we know of to which BALB/c mice are
+more sensitive than C57BL/6J mice.
+It has been reported that C57BL/6J are generally poor at
+clearing other types of mold, such as Histoplasma capsulatum,
+B. anthracis, Coccidioides posadasii, and A. fumigatus, which
+in part explains their increased susceptibility to these molds
+(Ehrchen et al., 2008; Lyons et al., 2004; Stephens-Romero
+et al., 2005; Wu-Hsieh, 1989). In contrast, we showed that
+C57BL/6J mice may use bulk transport out of the lungs via the
+mucociliary escalator as a first step toward efficient clearance
+of the spores and their constituents from the lungs. BALB/c
+mice, on the other hand, may retain more spores in the lungs,
+which more effectively induces cytokine release, cascades of
+cytokine effects, and infiltration of neutrophils.
+C57BL/6J AMs also have significantly increased cell death
+compared with BALB/c. Increased AM death may lead to less
+cytokine release because dead cells cannot release inflammatory
+mediators. This results in less pulmonary injury and 
+inflammation as measured in bronchoalveolar lavage parameters.
+Similarly, macrophage apoptosis, which appears to be
+a contributing mechanism for cell death, has been reported to
+aid in microbial killing, to downregulate the inflammatory
+response, and even to aid in pulmonary clearance in
+pneumococcal and streptococcal models (Dockrell et al.,
+2003; Marriott and Dockrell, 2006; Marriott et al., 2006). If
+the greater rate of cell death in AMs from C57BL/6J mice is
+attributable to apoptosis, then the C57BL/6J mice might be
+LUNG RESPONSES TO S. CHARTARUM TOXINS
+expected to have less pulmonary inflammation and better
+clearance, a scenario compatible with our results. In addition,
+in a C. neoformans model, depletion of AMs was shown to be
+protective against infection (Kechichian et al., 2007).
+These two mechanisms in which cell death leads to less
+inflammation may interact. For example, we showed that
+BALB/c mice have focal inflammation consisting primarily of
+AMs after administration of S. chartarum into the lungs
+(Rosenblum Lichtenstein et al., 2006). This focal inflammation
+may have blocked some of the mouse’s airways and might
+physically impede clearance of the spores that caused the initial
+inflammation.
+SG accounts for 15-30% of the toxicity of SST. Other
+trichothecenes, proteins, and mycotoxins may account for the
+remainder of the cytotoxicity. In addition, various mycotoxins
+may act synergistically to account for the toxicity of SST. The
+significant dose response to SG and SST in AMs from both mouse
+strains suggests that SG accounts for a significant amount of the
+cytotoxicity of S. chartarum.
+Genetic variation in the human population that leads to
+decreased rates of AM apoptosis in the presence of
+S. chartarum could lead to increased spore-induced cytokine
+release, increased inflammation, decreased spore clearance, and
+ultimately to a higher pulmonary spore exposure over time,
+exacerbating the effects of spore exposure. Small differences in
+rates of apoptosis could be magnified by downstream effects
+leading to greater differences in response to S. chartarum
+exposure. In addition, it has been hypothesized that exposure to
+cigarette smoke might make infants more susceptible to acute
+idiopathic pulmonary hemorrhage (Etzel et al., 1998). 
+Interestingly, it has been reported that cigarette smoke exposure
+inhibits the natural activity of the mucociliary escalator (Cohen
+et al., 1979). Such an environmental cause of reduced
+clearance might further exacerbate pulmonary hemorrhage in
+an already susceptible infant.
+Through this and previous work, we have demonstrated that
+different mouse strains respond differently to S. chartarum. We
+interpret the data as showing that both reduced clearance of and
+higher macrophage cytotoxicity from the bioactive components
+of S. chartarum in humans might cause similar differences in
+susceptibility among the human population. The results from
+this study are the first evidence that differences in spore
+clearance and macrophage susceptibility to spore-induced
+death may contribute to strain differences in susceptibility to
+S. chartarum seen in vivo. That these differences have a genetic
+basis is not unlikely.
+A Centers for Disease Control (CDC) report concluded that S.
+chartarum was responsible for acute idiopathic pulmonary
+hemorrhage in a cluster of infants (Dearborn et al., 1999; Etzel
+et al., 1998), although there may have been other contributing
+factors such as environmental tobacco smoke or consequences
+of water damage including bacterial exposures (Dearborn et al.,
+1999). The original CDC report and a later case study suggested
+that African-American babies were more likely than Caucasian
+119
+120
+babies to die of acute idiopathic pulmonary hemorrhage after
+exposure to S. chartarum (Dearborn et al., 1999, 2002; Etzel
+et al., 1998). It is unclear if the observed ethnic differences were
+because of choice of controls or to economic or other
+environmental factors that are correlates of race, genetic
+differences, or a combination of both.
+Genetic variability in human populations may account for
+some of the wide variation among individuals responding to
+mold exposure in contaminated occupational and domestic
+settings. In addition, other concomitant conditions, such as
+cigarette smoke exposure or bacterial infection, might further
+exacerbate poor spore clearance in susceptible populations.
+Future directions include determination of the genetic loci
+responsible for differential clearance of S. chartarum and their
+interactions with environmental factors. It would be of further
+interest to test the effects of cigarette smoke or concomitant
+exposure to other pathogens on spore clearance.
+ROSENBLUM LICHTENSTEIN ET AL.
+FUNDING
+National Institutes of Health (NIH HL007118).
+ACKNOWLEDGMENTS
+We thank Barbara Burleigh, Lester Kobzik, Joseph Mizgerd,
+Amy Imrich, and Lauren Oleson for their helpful comments
+about this work. We thank Lynnelle McNamee and Melissa
+Curran for their critical reading of the manuscript.
+REFERENCES
+Andersen, B., Nielsen, K. F., and Jarvis, B. B. (2002). Characterization of
+Stachybotrys from water-damaged buildings based on morphology, growth,
+and metabolite production. Mycologia 94, 392-403.
+Andersen, B., Nielsen, K. F., Thrane, U., Szaro, T., Taylor, J. W., and
+Jarvis, B. B. (2003). Molecular and phenotypic descriptions of Stachybotrys
+chlorohalonata sp. nov. and two chemotypes of Stachybotrys chartarum
+found in water-damaged buildings. Mycologia 95, 1227-1238.
+Bae, H. K., Shinozuka, J., Islam, Z., and Pestka, J. J. (2009). Satratoxin G
+interaction with 40S and 60S ribosomal subunits precedes apoptosis in the
+macrophage. Toxicol. Appl. Pharmacol. 237, 137-145.
+Chung, Y. J., Jarvis, B. B., Tak, H., and Pestka, J. J. (2003a). Immunochemical assay
+for satratoxin G and other macrocyclic trichothecenes associated with indoor air
+contamination by Stachybotrys chartarum. Toxicol. Mech. Meth. 13, 247-252.
+Chung, Y. J., Yang, G. H., Islam, Z., and Pestka, J. J. (2003b). Up-regulation of
+macrophage inflammatory protein-2 and complement 3A receptor by the
+trichothecenes deoxynivalenol and satratoxin G. Toxicology 186, 51-65.
+Cohen, D., Arai, S. F., and Brain, J. D. (1979). Smoking impairs long-term dust
+clearance from the lung. Science 204, 514-7.
+Cooley, J. D., Wong, W. C., Jumper, C. A., and Straus, D. C. (1998).
+Correlation between the prevalence of certain fungi and sick building
+syndrome. Occup. Environ. Med. 55, 579-84.
+Cox, R. A., Kennell, W., Boncyk, L., and Murphy, J. W. (1988). Induction and
+expression of cell-mediated immune responses in inbred mice infected with
+Coccidioides immitis. Infect. Immun. 56, 13-7.
+Dearborn, D. G., Smith, P. G., Dahms, B. B., Allan, T. M., Sorenson, W. G.,
+Montana, E., and Etzel, R. A. (2002). Clinical profile of 30 infants with acute
+pulmonary hemorrhage in Cleveland. Pediatrics 110, 627-637.
+Dearborn, D. G., Yike, I., Sorenson, W. G., Miller, M. J., and Etzel, R. A.
+(1999). Overview of investigations into pulmonary hemorrhage among
+infants in Cleveland, Ohio. Environ. Health Perspect. 107(Suppl. 3),
+495-499.
+Decken, K., Kohler, G., Palmer-Lehmann, K., Wunderlin, A., Mattner, F.,
+Magram, J., Gately, M. K., and Alber, G. (1998). Interleukin-12 is essential
+for a protective Th1 response in mice infected with Cryptococcus
+neoformans. Infect. Immun. 66, 4994-5000.
+Dockrell, D. H., Marriott, H. M., Prince, L. R., Ridger, V. C., Ince, P. G.,
+Hellewell, P. G., and Whyte, M. K. (2003). Alveolar macrophage apoptosis
+contributes to pneumococcal clearance in a resolving model of pulmonary
+infection. J. Immunol. 171, 5380-5388.
+Ehrchen, J. M., Roth, J., Roebrock, K., Varga, G., Domschke, W.,
+Newberry, R., Sorg, C., Muller-Tidow, C., Sunderkotter, C.,
+Kucharzik, T., et al. (2008). The absence of cutaneous lymph nodes results
+in a Th2 response and increased susceptibility to Leishmania major infection
+in mice. Infect. Immun. 76, 4241-4250.
+Etzel, R. A., Montana, E., Sorenson, W. G., Kullman, G. J., Allan, T. M.,
+Dearborn, D. G., Olson, D. R., Jarvis, B. B., and Miller, J. D. (1998). Acute
+pulmonary hemorrhage in infants associated with exposure to Stachybotrys
+atra and other fungi. Arch. Pediatr. Adolesc. Med. 152, 757-762.
+Hastings, C., Rand, T., Bergen, H. T., Thliveris, J. A., Shaw, A. R.,
+Lombaert, G. A., Mantsch, H. H., Giles, B. L., Dakshinamurti, S., and
+Scott, J. E. (2005). Stachybotrys chartarum alters surfactant-related
+phospholipid synthesis and CTP:cholinephosphate cytidylyltransferase
+activity in isolated fetal rat type II cells. Toxicol. Sci. 84, 186-194.
+Hendry, K. M., and Cole, E. C. (1993). A review of mycotoxins in indoor air.
+J. Toxicol. Environ. Health 38, 183-198.
+Hoag, K. A., Street, N. E., Huffnagle, G. B., and Lipscomb, M. F. (1995). Early
+cytokine production in pulmonary Cryptococcus neoformans infections
+distinguishes susceptible and resistant mice. Am. J. Respir. Cell Mol. Biol.
+13, 487-495.
+Hudson, B., Flemming, J., Sun, G., and Rand, T. G. (2005). Comparison of
+immunomodulator mRNA and protein expression in the lungs of
+Stachybotrys chartarum spore-exposed mice. J. Toxicol. Environ. Health
+68, 1321-1335.
+Islam, Z., Harkema, J. R., and Pestka, J. J. (2006). Satratoxin G from the black mold
+Stachybotrys chartarum evokes olfactory sensory neuron loss and inflammation
+in the murine nose and brain. Environ. Health Perspect. 114, 1099-1107.
+Islam, Z., Hegg, C. C., Bae, H. K., and Pestka, J. J. (2008). Satratoxin
+G-induced apoptosis in PC-12 neuronal cells is mediated by PKR and
+caspase independent. Toxicol. Sci. 105, 142-152.
+Islam, Z., Shinozuka, J., Harkema, J., Pestka, J. J. (2009). Purification and
+comparative neurotoxicity of the trichothecenes satratoxin G and roridin
+L2 from Stachybotrys chartarum. J. Toxicol. Environ. Health A 72, 1242-1251.
+Kankkunen, P., Rintahaka, J., Aalto, A., Leino, M., Majuri, M. L., Alenius, H.,
+Wolff, H., and Matikainen, S. (2009). Trichothecene mycotoxins activate
+inflammatory response in human macrophages. J. Immunol. 182, 6418-6425.
+Kechichian, T. B., Shea, J., and Del Poeta, M. (2007). Depletion of alveolar
+macrophages decreases the dissemination of a glucosylceramide-deficient
+mutant of Cryptococcus neoformans in immunodeficient mice. Infect.
+Immun. 75, 4792-8.
+Larsen, F. O., Christensen, L. H., Clementsen, P., Gravesen, S., Stahl Skov, P.,
+and Norn, S. (1996). Microfungi in indoor air are able to trigger histamine
+release by non-IgE-mediated mechanisms. Inflamm. Res. 45(Suppl. 1),
+S23-S24.
+Lyons, C. R., Lovchik, J., Hutt, J., Lipscomb, M. F., Wang, E., Heninger, S.,
+Berliba, L., and Garrison, K. (2004). Murine model of pulmonary anthrax:
+kinetics of dissemination, histopathology, and mouse strain susceptibility.
+Infect. Immun. 72, 4801-4809.
+Marriott, H. M., and Dockrell, D. H. (2006). Streptococcus pneumoniae: the
+role of apoptosis in host defense and pathogenesis. Int. J. Biochem. Cell Biol.
+38, 1848-1854.
+Marriott, H. M., Hellewell, P. G., Cross, S. S., Ince, P. G., Whyte, M. K., and
+Dockrell, D. H. (2006). Decreased alveolar macrophage apoptosis is
+associated with increased pulmonary inflammation in a murine model of
+pneumococcal pneumonia. J. Immunol. 177, 6480-6488.
+Matsuguchi, T., Takagi, A., Matsuzaki, T., Nagaoka, M., Ishikawa, K.,
+Yokokura, T., and Yoshikai, Y. (2003). Lipoteichoic acids from 
+Lactobacillus strains elicit strong tumor necrosis factor alpha-inducing activities in
+macrophages through Toll-like receptor 2. Clin. Diagn. Lab. Immunol. 10,
+259-266.
+McCrae, K. C., Rand, T. G., Shaw, R. A., Mantsch, H. H., Sowa, M. G.,
+Thliveris, J. A., and Scott, J. E. (2007). DNA fragmentation in developing
+lung fibroblasts exposed to Stachybotrys chartarum (atra) toxins. Pediatr.
+Pulmonol. 42, 592-599.
+Metcalf, J. A., Gallin, J. I., Nauseef, W. M., and Root, R. K. (1986).
+Reagents-Isotonic Lysing Medium, pp. 93. Raven Press, NY.
+Murtoniemi, T., Nevalainen, A., and Hirvonen, M. R. (2003). Effect of
+plasterboard composition on Stachybotrys chartarum growth and biological
+activity of spores. Appl. Environ. Microbiol. 69, 3751-3757.
+Nikulin, M., Reijula, K., Jarvis, B. B., and Hintikka, E. L. (1996). Experimental
+lung mycotoxicosis in mice induced by Stachybotrys atra. Int. J. Exp.
+Pathol. 77, 213-218.
+Nikulin, M., Reijula, K., Jarvis, B. B., Veijalainen, P., and Hintikka, E. L.
+(1997). Effects of intranasal exposure to spores of Stachybotrys atra in mice.
+Fundam. Appl. Toxicol. 35, 182-188.
+Penttinen, P., Tampio, M., Maki-Paakkanen, J., Vahakangas, K., Pelkonen, J.,
+and Hirvonen, M. R. (2007). DNA damage and p53 in RAW264.7 cells
+induced by the spores of co-cultivated Streptomyces californicus and
+Stachybotrys chartarum. Toxicology 235, 92-102.
+Pestka, J. J., Yike, I., Dearborn, D. G., Ward, M. D., and Harkema, J. R.
+(2008). Stachybotrys chartarum, trichothecene mycotoxins, and damp
+building-related illness: new insights into a public health enigma. Toxicol.
+Sci. 104, 4-26.
+Poltorak, A., He, X., Smirnova, I., Liu, M. Y., Van Huffel, C., Du, X.,
+Birdwell, D., Alejos, E., Silva, M., Galanos, C., et al. (1998). Defective LPS
+signaling in C3H/HeJ and C57BL/10ScCr mice: mutations in Tlr4 gene.
+Science 282, 2085-2088.
+Rand, T. G., Flemming, J., David Miller, J., and Womiloju, T. O. (2006).
+Comparison of inflammatory responses in mouse lungs exposed to atranones
+A and C from Stachybotrys chartarum. J. Toxicol. Environ. Health 69,
+1239-1251.
+Rand, T. G., Mahoney, M., White, K., and Oulton, M. (2002). Microanatomical
+changes in alveolar type II cells in juvenile mice intratracheally exposed to
+Stachybotrys chartarum spores and toxin. Toxicol. Sci. 65, 239-245.
+Rand, T. G., and Miller, J. D. (2008). Immunohistochemical and 
+immuno-cytochemical detection of SchS34 antigen in Stachybotrys chartarum spores
+and spore impacted mouse lungs. Mycopathologia 165, 73-80.
+Rand, T. G., White, K., Logan, A., and Gregory, L. (2003). Histological,
+immunohistochemical and morphometric changes in lung tissue in juvenile
+LUNG RESPONSES TO S. CHARTARUM TOXINS
+121
+mice experimentally exposed to Stachybotrys chartarum spores. 
+Mycopa-thologia 156, 119-131.
+Rao, C. Y., Burge, H. A., and Brain, J. D. (2000). The time course of responses
+to intratracheally instilled toxic Stachybotrys chartarum spores in rats.
+Mycopathologia 149, 27-34.
+Rosenblum Lichtenstein, J. H., Molina, R. M., Donaghey, T. C., and
+Brain, J. D. (2006). Strain differences influence murine pulmonary
+responses to Stachybotrys chartarum. Am. J. Respir. Cell Mol. Biol. 35,
+415-423.
+Ruppert, D., Wand, M. P., and Carroll, R. J. (2003). In Semiparametric
+Regression, pp. 59-60. Cambridge University Press, Cambridge, UK.
+Shi, Y., Porter, K., Parameswaran, N., Bae, H. K., and Pestka, J. J. (2009). Role
+of GRP78/BiP degradation and ER stress in deoxynivalenol-induced
+interleukin-6 upregulation in the macrophage. Toxicol. Sci. 109, 247-255.
+Stephens-Romero, S. D., Mednick, A. J., and Feldmesser, M. (2005). The
+pathogenesis of fatal outcome in murine pulmonary aspergillosis depends on
+the neutrophil depletion strategy. Infect. Immun. 73, 114-125.
+Su, S. H., Chen, H., and Jen, C. J. (2001). C57BL/6 and BALB/c bronchoalveolar
+macrophages respond differently to exercise. J. Immunol. 167, 5084-5091.
+Taconic (2010a). Available at: http://www.taconic.com/wmspage.cfm?parm1¼
+768. Accessed April 19, 2010.
+Taconic (2010b). Available at: http://www.taconic.com/wmspage.cfm?parm1¼
+760. Accessed April 19, 2010.
+Vesper, S. J., and Vesper, M. J. (2002). Stachylysin may be a cause of
+hemorrhaging in humans exposed to Stachybotrys chartarum. Infect. Immun.
+70, 2065-2069.
+Viana, M. E., Coates, N. H., Gavett, S. H., Selgrade, M. K., Vesper, S. J., and
+Ward, M. D. (2002). An extract of Stachybotrys chartarum causes
+allergic asthma-like responses in a BALB/c mouse model. Toxicol. Sci. 70,
+98-109.
+Wang, H., and Yadav, J. S. (2006). DNA damage, redox changes, and associated
+stress-inducible signaling events underlying the apoptosis and cytotoxicity in
+murine alveolar macrophage cell line MH-S by methanol-extracted
+Stachybotrys chartarum toxins. Toxicol. Appl. Pharmacol. 214, 297-308.
+Wang, H., and Yadav, J. S. (2007). Global gene expression changes underlying
+Stachybotrys chartarum toxin-induced apoptosis in murine alveolar 
+macrophages: evidence of multiple signal transduction pathways. Apoptosis 12,
+535-548.
+Wells, C. A., Ravasi, T., Faulkner, G. J., Carninci, P., Okazaki, Y.,
+Hayashizaki, Y., Sweet, M., Wainwright, B. J., and Hume, D. A. (2003).
+Genetic control of the innate immune response. BMC Immunol. 4, 5.
+Wu-Hsieh, B. (1989). Relative susceptibilities of inbred mouse strains C57BL/
+6 and A/J to infection with Histoplasma capsulatum. Infect. Immun. 57,
+3788-3792.
+Yike, I., and Dearborn, D. G. (2004). Pulmonary effects of Stachybotrys
+chartarum in animal studies. Adv. Appl. Microbiol. 55, 241-273.
+Yike, I., Rand, T., and Dearborn, D. G. (2007). The role of fungal proteinases
+in pathophysiology of Stachybotrys chartarum. Mycopathologia 164,
+171-181.
+Zaragoza, O., Alvarez, M., Telzak, A., Rivera, J., and Casadevall, A. (2007).
+The relative susceptibility of mouse strains to pulmonary Cryptococcus
+neoformans infection is associated with pleiotropic differences in the
+immune response. Infect. Immun. 75, 2729-2739.
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+
+FIG. 1. 
+SST per spore characterization. SG equivalents as measured by 
+ELISA in (A) 106 Stachybotrys chartarum spores/ml and (B) full strength SST 
+preparation used in Figure 6. Data are mean ± SD. 
+
+ROSENBLUM LICHTENSTEIN ET AL. 
+FIG. 2. 
+Spores in lung homogenates. C57BL/6J mice clear more spores by 
+
+FIG. 4. Radiolabeled spore detection in the GI tract. C57BL/6J mice clear 
+significantly more spores from the lungs to the GI tract at 8 h. (A) Mean percent 
+of intratracheal administered 3H-thymidine-labeled spores detected in digested 
+esophagus, stomach, small intestines, cecum, and large intestines ± SE 
+versus time after administration (hours). Strains significantly different at 8 h 
+(*p ¼ 0.05, MANOVA). (B) Mean percent of intratracheally administered 
+spores labeled with 14C-glucose detected in digested esophagus, stomach, small 
+intestines, cecum, and large intestines ± SE versus time after administration 
+(hours). Strains significantly different at 8 h (**p ¼ 0.04, MANOVA). 
+
+FIG. 3. Radiolabeled spore clearance in lungs. Both BALB/c and C57BL/6J 
+mice clear radiolabeled spores from the lungs over 7 days (p ¼ 0.04, repeated 
+measures analysis). BALB/c mice appear to retain more spores and/or spore 
+components in the lung, although this difference is not statistically significant 
+(p¼ 0.08, repeated measures analysis). 3H is cleared faster than 14C (p¼ 0.0001, 
+repeated measures analysis). N ¼ 3-6 mice per time point and strain. (A) Mean 
+percent of administered 3H-thymidine (log scale) detected in whole digested 
+lung and trachea ± SE versus time (log scale) after IT administration (hours). 
+The equation that best describes the clearance of 3H in BALB/c mice is 
+log(y) ¼ 1.64  0.20 log(x) (data are linear, p ¼ 0.05) and for C57BL/6J mice it 
+is log(y) ¼ 1.57 - 0.32 log(x) (data are linear, p ¼ 0.01). (B) Mean percent of 
+administered 14C-glucose (log scale) detected in whole digested lung and trachea 
+± SE versus time (log scale) after administration (hours). For 14C, the equation 
+that best describes the clearance in BALB/c mice is log(y) ¼ 1.84  0.08 log(x) 
+(error in data is too large to determine linearity, p¼ 0.14) and for C57BL/6J mice 
+it is log(y) ¼ 1.76 - 0.21 log(x) (data are linear, p ¼ 0.03). 
+
+ROSENBLUM LICHTENSTEIN ET AL. 
+FIG. 6. SST and SG cytotoxicity in vitro. SST and SG both cause 
+a significant dose response in both strains of mice (p ¼ 0.0001). SST and SG 
+are significantly more cytotoxic to C57BL/6J AMs than to BALB/c AMs 
+(*p ¼ 0.02 and **p ¼ 0.059 respectively)-75,000 live cells plated per well for 
+all wells. Data are shown as mean ± SE. Graphs are on a log-log scale. 
+
+118 
+FIG. 5. Spore cytotoxicity in vitro. Spores are significantly more cytotoxic 
+to C57BL/6J AMs than to BALB/c AMs. A total of 75,000 cells were plated 
+per well for all wells. Data are shown as mean ± SE. (A) Dose (spores per 
+macrophage) verses live cells as a percent of baseline (baselines are calculated 
+as the total number of live and dead cells in matched wells with no spores). 
+Graph is on a log-log scale. Slopes from 0.0027 to 0.06667 spores per 
+macrophage for C57BL/6J (0.97) are significantly different from BALB/c 
+(0.68) (*p ¼ 0.007, repeated measures analysis, broken stick model). (B) Time 
+course of cytotoxicity at 0.0133 spores per macrophage dose. Time (hours) 
+versus live cells as a percent of baseline (baselines are calculated as the total 
+number of live and dead cells in matched wells with no spores). Percent is 
+graphed on a log scale. Slope of C57BL/6J (0.098) is significantly different 
+from BALB/c (0.086) (**p ¼ 0.04, repeated measures analysis). 
+

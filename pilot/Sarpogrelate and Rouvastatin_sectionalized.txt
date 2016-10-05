@@ -1,0 +1,1656 @@
+>>>section: conclusion
+
+>>>section: references
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Eckardt KU, Coresh J, Devuyst O, Johnson RJ, Kottgen A, Levey AS, et al. Evolving importance of 
+kidney disease: from subspecialty to global health burden. Lancet (London, England). 2013; 382
+(9887):158-69. Epub 2013/06/04. doi: 10.1016/s0140-6736(13)60439-0 PMID: 23727165.
+Levey AS, Eckardt K-U, Tsukamoto Y, Levin A, Coresh J, Rossert J, et al. Definition and classification
+of chronic kidney disease: a position statement from Kidney Disease: Improving Global Outcomes
+(KDIGO). Kidney international. 2005; 67(6):2089-398. PMID: 15882252
+Meguid El Nahas A, Bello AK. Chronic kidney disease: the global challenge. Lancet (London, England).
+2005; 365(9456):331-40. Epub 2005/01/25. doi: 10.1016/s0140-6736(05)17789-7 PMID: 15664230.
+Coresh J, Selvin E, Stevens LA, Manzi J, Kusek JW, Eggers P, et al. Prevalence of chronic kidney 
+disease in the United States. Jama. 2007; 298(17):2038-47. Epub 2007/11/08. doi: 10.1001/jama.298.17.
+2038 PMID: 17986697.
+Foley RN, Parfrey PS, Sarnak MJ. Clinical epidemiology of cardiovascular disease in chronic renal 
+disease. American Journal of Kidney Diseases. 1998; 32(5):S112-S9. PMID: 9820470
+Sarnak MJ, Levey AS, Schoolwerth AC, Coresh J, Culleton B, Hamm LL, et al. Kidney disease as a risk
+factor for development of cardiovascular disease: a statement from the American Heart Association
+Councils on Kidney in Cardiovascular Disease, High Blood Pressure Research, Clinical Cardiology,
+and Epidemiology and Prevention. Circulation. 2003; 108(17):2154-69. Epub 2003/10/29. doi: 10.
+1161/01.cir.0000095676.90936.80 PMID: 14581387.
+Jafar T, IslamM, Poulter N. Chronic kidney disease in the developing world. 2006.
+Hovind P, Rossing P, Tarnow L, Smidt UM, Parving HH. Progression of diabetic nephropathy. Kidney
+international. 2001; 59(2):702-9. Epub 2001/02/13. doi: 10.1046/j.1523-1755.2001.059002702.x
+PMID: 11168952.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+15 / 18
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+9.
+Gelber RP, Kurth T, Kausz AT, Manson JE, Buring JE, Levey AS, et al. Association between body
+mass index and CKD in apparently healthy men. American journal of kidney diseases: the official 
+journal of the National Kidney Foundation. 2005; 46(5):871-80. Epub 2005/10/29. doi: 10.1053/j.ajkd.
+2005.08.015 PMID: 16253727.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Manttari M, Tiula E, Alikoski T, Manninen V. Effects of hypertension and dyslipidemia on the decline in
+renal function. Hypertension. 1995; 26(4):670-5. Epub 1995/10/01. PMID: 7558229.
+Suh DC, Choi IS, Plauschinat C, Kwon J, Baron M. Impact of comorbid conditions and race/ethnicity on
+glycemic control among the US population with type 2 diabetes, 1988-1994 to 1999-2004. Journal of
+diabetes and its complications. 2010; 24(6):382-91. Epub 2009/09/01. doi: 10.1016/j.jdiacomp.2009.
+07.001 PMID: 19716320.
+Braun L, Sood V, Hogue S, Lieberman B, Copley-Merriman C. High burden and unmet patient needs in
+chronic kidney disease. International journal of nephrology and renovascular disease. 2012; 5:151-63.
+Epub 2013/01/08. doi: 10.2147/ijnrd.s37766 PMID: 23293534; PubMed Central PMCID:
+PMCPmc3534533.
+Fraser SD, Roderick PJ, May CR, McIntyre N, McIntyre C, Fluck RJ, et al. The burden of comorbidity in
+people with chronic kidney disease stage 3: a cohort study. BMC nephrology. 2015; 16:193. Epub
+2015/12/02. doi: 10.1186/s12882-015-0189-z PMID: 26620131; PubMed Central PMCID:
+PMCPmc4666158.
+Deji N, Kume S, Araki S-i, Soumura M, Sugimoto T, Isshiki K, et al. Structural and functional changes in
+the kidneys of high-fat diet-induced obese mice. American Journal of Physiology-Renal Physiology.
+2009; 296(1):F118-F26. doi: 10.1152/ajprenal.00110.2008 PMID: 18971213
+Shevalye H, Lupachyk S, Watcho P, Stavniichuk R, Khazim K, Abboud HE, et al. Prediabetic 
+nephropathy as an early consequence of the high-calorie/high-fat diet: relation to oxidative stress. Endocrinology.
+2012; 153(3):1152-61. doi: 10.1210/en.2011-1997 PMID: 22234462
+Kuwabara T, Mori K, MukoyamaM, Kasahara M, Yokoi H, Saito Y, et al. Exacerbation of diabetic
+nephropathy by hyperlipidaemia is mediated by Toll-like receptor 4 in mice. Diabetologia. 2012; 55
+(8):2256-66. Epub 2012/05/23. doi: 10.1007/s00125-012-2578-1 PMID: 22610400.
+Srinivasan K, Viswanad B, Asrat L, Kaul CL, Ramarao P. Combination of high-fat diet-fed and low-dose
+streptozotocin-treated rat: a model for type 2 diabetes and pharmacological screening. 
+Pharmacological research. 2005; 52(4):313-20. Epub 2005/06/28. doi: 10.1016/j.phrs.2005.05.004 PMID:
+15979893.
+Liu Y. Cellular and molecular mechanisms of renal fibrosis. Nature reviews Nephrology. 2011; 7
+(12):684-96. Epub 2011/10/20. doi: 10.1038/nrneph.2011.149 PMID: 22009250; PubMed Central
+PMCID: PMCPmc4520424.
+Eddy AA. Molecular insights into renal interstitial fibrosis. Journal of the American Society of 
+Nephrology. 1996; 7(12):2495-508. PMID: 8989727
+Strutz F, Zeisberg M. Renal fibroblasts and myofibroblasts in chronic kidney disease. Journal of the
+American Society of Nephrology. 2006; 17(11):2992-8. PMID: 17035610
+Böttinger EP, editor TGF-β in renal injury and disease. Seminars in nephrology; 2007: Elsevier.
+Liu Y. Renal fibrosis: new insights into the pathogenesis and therapeutics. Kidney international. 2006;
+69(2):213-7. Epub 2006/01/13. doi: 10.1038/sj.ki.5000054 PMID: 16408108.
+Ghosh AK, Vaughan DE. PAI-1 in tissue fibrosis. Journal of cellular physiology. 2012; 227(2):493-507.
+Epub 2011/04/06. doi: 10.1002/jcp.22783 PMID: 21465481; PubMed Central PMCID:
+PMCPmc3204398.
+Malgorzewicz S, Skrzypczak-Jankun E, Jankun J. Plasminogen activator inhibitor-1 in kidney 
+pathology (Review). International journal of molecular medicine. 2013; 31(3):503-10. Epub 2013/01/15. doi:
+10.3892/ijmm.2013.1234 PMID: 23314920.
+Adly AA, Elbarbary NS, Ismail EA, Hassan SR. Plasminogen activator inhibitor-1 (PAI-1) in children
+and adolescents with type 1 diabetes mellitus: relation to diabetic micro-vascular complications and
+carotid intima media thickness. Journal of diabetes and its complications. 2014; 28(3):340-7. Epub
+2014/03/04. doi: 10.1016/j.jdiacomp.2014.01.011 PMID: 24581943.
+Alessi MC, Juhan-Vague I. PAI-1 and the metabolic syndrome: links, causes, and consequences. 
+Arteriosclerosis, thrombosis, and vascular biology. 2006; 26(10):2200-7. Epub 2006/08/26. doi: 10.1161/
+01.atv.0000242905.41404.68 PMID: 16931789.
+Hamsten A, de Faire U, Walldius G, Dahlen G, Szamosi A, Landou C, et al. Plasminogen activator
+inhibitor in plasma: risk factor for recurrent myocardial infarction. Lancet (London, England). 1987; 2
+(8549):3-9. Epub 1987/07/04. PMID: 2885513.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+16 / 18
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+Kohler HP, Grant PJ. Plasminogen-activator inhibitor type 1 and coronary artery disease. The
+New England journal of medicine. 2000; 342(24):1792-801. Epub 2000/06/15. doi: 10.1056/
+nejm200006153422406 PMID: 10853003.
+Doggrell SA. The role of 5-HT on the cardiovascular and renal systems and the clinical potential of 
+5-HT modulation. Expert opinion on investigational drugs. 2003; 12(5):805-23. Epub 2003/05/02. doi: 10.
+1517/13543784.12.5.805 PMID: 12720492.
+Pakala R, Willerson JT, Benedict CR. Effect of serotonin, thromboxane A2, and specific receptor 
+antagonists on vascular smooth muscle cell proliferation. Circulation. 1997; 96(7):2280-6. PMID: 9337201
+Barradas MA, Gill DS, Fonseca VA, Mikhailidis DP, Dandona P. Intraplatelet serotonin in patients with
+diabetes mellitus and peripheral vascular disease. European journal of clinical investigation. 1988; 18
+(4):399-404. Epub 1988/08/01. PMID: 3139426.
+Hasegawa Y, Suehiro A, Higasa S, Namba M, Kakishita E. Enhancing effect of advanced glycation end
+products on serotonin-induced platelet aggregation in patients with diabetes mellitus. Thrombosis
+research. 2002; 107(6):319-23. Epub 2003/02/05. PMID: 12565718.
+Saini HK, Takeda N, Goyal RK, Kumamoto H, Arneja AS, Dhalla NS. Therapeutic potentials of 
+sarpogrelate in cardiovascular disease. Cardiovascular drug reviews. 2004; 22(1):27-54. Epub 2004/02/24.
+PMID: 14978517.
+Sirtori CR. The pharmacology of statins. Pharmacological research. 2014; 88:3-11. Epub 2014/03/25.
+doi: 10.1016/j.phrs.2014.03.002 PMID: 24657242.
+Campese VM. Dyslipidemia and progression of kidney disease: role of lipid-lowering drugs. Clinical
+and experimental nephrology. 2014; 18(2):291-5. Epub 2014/02/19. doi: 10.1007/s10157-014-0934-9
+PMID: 24535025.
+Kasahara M, Nakagawa T, Yokoi H, Kuwabara T, Yasuno S, Mori K, et al. Do statins play a role in 
+reno-protection? Clinical and experimental nephrology. 2014; 18(2):282-5. Epub 2014/01/11. doi: 10.1007/
+s10157-013-0928-z PMID: 24408222.
+Lee HS, Ku SK. Effect of Picrorrhiza rhizoma extracts on early diabetic nephropathy in 
+streptozotocin-induced diabetic rats. Journal of medicinal food. 2008; 11(2):294-301. Epub 2008/07/05. doi: 10.1089/
+jmf.2007.578 PMID: 18598172.
+Son JY, Kang YJ, Kim KS, Kim TH, Lim SK, Lim HJ, et al. Evaluation of renal toxicity by combination
+exposure to melamine and cyanuric Acid in male sprague-dawley rats. Toxicological research. 2014;
+30(2):99-107. Epub 2014/07/30. PMID: 25071919; PubMed Central PMCID: PMCPmc4112071.
+Kim TH, Hur EG, Kang SJ, Kim JA, Thapa D, Lee YM, et al. NRF2 blockade suppresses colon tumor
+angiogenesis by inhibiting hypoxia-induced activation of HIF-1alpha. Cancer research. 2011; 71
+(6):2260-75. Epub 2011/02/01. doi: 10.1158/0008-5472.can-10-3007 PMID: 21278237.
+Ryoo IG, Shin DH, Kang KS, Kwak MK. Involvement of Nrf2-GSH signaling in TGFbeta1-stimulated
+epithelial-to-mesenchymal transition changes in rat renal tubular cells. Archives of pharmacal research.
+2015; 38(2):272-81. Epub 2014/05/23. doi: 10.1007/s12272-014-0380-y PMID: 24849033.
+Ito M, Kondo Y, Nakatani A, Hayashi K, Naruse A. Characterization of low dose streptozotocin-induced
+progressive diabetes in mice. Environmental toxicology and pharmacology. 2001; 9(3):71-8. Epub
+2001/02/13. PMID: 11167151.
+Reidy K, Kang HM, Hostetter T, Susztak K. Molecular mechanisms of diabetic kidney disease. The
+Journal of clinical investigation. 2014; 124(6):2333-40. Epub 2014/06/04. doi: 10.1172/jci72271 PMID:
+24892707; PubMed Central PMCID: PMCPmc4089448.
+Cooper ME, Vranes D, Youssef S, Stacker SA, Cox AJ, Rizkalla B, et al. Increased renal expression of
+vascular endothelial growth factor (VEGF) and its receptor VEGFR-2 in experimental diabetes. 
+Diabetes. 1999; 48(11):2229-39. Epub 1999/10/27. PMID: 10535459.
+Tsuchida K, Makita Z, Yamagishi S, Atsumi T, Miyoshi H, Obara S, et al. Suppression of transforming
+growth factor beta and vascular endothelial growth factor in diabetic nephropathy in rats by a novel
+advanced glycation end product inhibitor, OPB-9195. Diabetologia. 1999; 42(5):579-88. Epub 1999/
+05/20. doi: 10.1007/s001250051198 PMID: 10333051.
+Abboud HE. Mesangial cell biology. Experimental cell research. 2012; 318(9):979-85. Epub 2012/03/
+15. doi: 10.1016/j.yexcr.2012.02.025 PMID: 22414873.
+Landray MJ, Haynes RJ. Commentary: Controversies in NICE guidance on chronic kidney disease.
+BMJ (Clinical research ed). 2008; 337:a1793. Epub 2008/10/01. doi: 10.1136/bmj.a1793 PMID:
+18824482.
+Herget-Rosenthal S, Feldkamp T, Volbracht L, Kribben A. Measurement of urinary cystatin C by 
+parti-cle-enhanced nephelometric immunoassay: precision, interferences, stability and reference range.
+Annals of clinical biochemistry. 2004; 41(Pt 2):111-8. Epub 2004/03/18. doi: 10.1258/
+000456304322879980 PMID: 15025800.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+17 / 18
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+Herget-Rosenthal S, Marggraf G, Husing J, Goring F, Pietruck F, Janssen O, et al. Early detection of
+acute renal failure by serum cystatin C. Kidney international. 2004; 66(3):1115-22. Epub 2004/08/26.
+doi: 10.1111/j.1523-1755.2004.00861.x PMID: 15327406.
+Wasung ME, Chawla LS, Madero M. Biomarkers of renal function, which and when? Clinica chimica
+acta; international journal of clinical chemistry. 2015; 438:350-7. Epub 2014/09/10. doi: 10.1016/j.cca.
+2014.08.039 PMID: 25195004.
+Doggrell SA. Sarpogrelate: cardiovascular and renal clinical potential. Expert opinion on investigational
+drugs. 2004; 13(7):865-74. Epub 2004/06/24. doi: 10.1517/13543784.13.7.865 PMID: 15212624.
+Kobayashi S, Satoh M, Namikoshi T, Haruna Y, Fujimoto S, Arakawa S, et al. Blockade of serotonin 2A
+receptor improves glomerular endothelial function in rats with streptozotocin-induced diabetic 
+nephropathy. Clinical and experimental nephrology. 2008; 12(2):119-25. Epub 2008/01/05. doi: 10.1007/
+s10157-007-0011-8 PMID: 18175064.
+Hamasaki Y, Doi K, Maeda-Mamiya R, Ogasawara E, Katagiri D, Tanaka T, et al. A 5-hydroxytrypta-
+mine receptor antagonist, sarpogrelate, reduces renal tubulointerstitial fibrosis by suppressing PAI-1.
+American journal of physiology Renal physiology. 2013; 305(12):F1796-803. Epub 2013/10/11. doi:
+10.1152/ajprenal.00151.2013 PMID: 24107419.
+Takahashi T, Yano M, Minami J, Haraguchi T, Koga N, Higashi K, et al. Sarpogrelate hydrochloride, a
+serotonin2A receptor antagonist, reduces albuminuria in diabetic patients with early-stage diabetic
+nephropathy. Diabetes research and clinical practice. 2002; 58(2):123-9. Epub 2002/09/06. PMID:
+12213354.
+Ogawa S, Mori T, Nako K, Ishizuka T, Ito S. Reduced albuminuria with sarpogrelate is accompanied by
+a decrease in monocyte chemoattractant protein-1 levels in type 2 diabetes. Clinical journal of the
+American Society of Nephrology: CJASN. 2008; 3(2):362-8. Epub 2008/02/01. doi: 10.2215/cjn.
+03450807 PMID: 18235151; PubMed Central PMCID: PMCPmc2390947.
+Jagroop IA, Mikhailidis DP. Doxazosin, an alpha1-adrenoceptor antagonist, inhibits serotonin-induced
+shape change in human platelets. Journal of human hypertension. 2001; 15(3):203-7. Epub 2001/04/
+24. doi: 10.1038/sj.jhh.1001146 PMID: 11317206.
+Kasho M, Sakai M, Sasahara T, Anami Y, Matsumura T, Takemura T, et al. Serotonin enhances the
+production of type IV collagen by humanmesangial cells. Kidney international. 1998; 54(4):1083-92.
+Epub 1998/10/10. doi: 10.1046/j.1523-1755.1998.00114.x PMID: 9767524.
+de Zeeuw D, Anzalone DA, Cain VA, Cressman MD, Heerspink HJ, Molitoris BA, et al. Renal effects of
+atorvastatin and rosuvastatin in patients with diabetes who have progressive renal disease (PLANET
+I): a randomised clinical trial. The lancet Diabetes & endocrinology. 2015; 3(3):181-90. Epub 2015/02/
+11. doi: 10.1016/s2213-8587(14)70246-3 PMID: 25660356.
+Athyros VG, Katsiki N, Karagiannis A, Mikhailidis DP. Statins can improve proteinuria and glomerular
+filtration rate loss in chronic kidney disease patients, further reducing cardiovascular risk. Fact or 
+fic-tion? Expert opinion on pharmacotherapy. 2015; 16(10):1449-61. Epub 2015/06/04. doi: 10.1517/
+14656566.2015.1053464 PMID: 26037614.
+Tamura Y, Murayama T, Minami M, YokodeM, Arai H. Differential effect of statins on diabetic 
+nephropathy in db/db mice. International journal of molecular medicine. 2011; 28(5):683-7. Epub 2011/08/13.
+doi: 10.3892/ijmm.2011.769 PMID: 21833465.
+Giunti S, Calkin AC, Forbes JM, Allen TJ, Thomas MC, Cooper ME, et al. The pleiotropic actions of
+rosuvastatin confer renal benefits in the diabetic Apo-E knockout mouse. American journal of 
+physiology Renal physiology. 2010; 299(3):F528-35. Epub 2010/06/18. doi: 10.1152/ajprenal.00127.2010
+PMID: 20554645.
+Oda T, Jung YO, Kim HS, Cai X, Lopez-Guisa JM, Ikeda Y, et al. PAI-1 deficiency attenuates the 
+fibro-genic response to ureteral obstruction. Kidney international. 2001; 60(2):587-96. Epub 2001/07/28.
+doi: 10.1046/j.1523-1755.2001.030002587.x PMID: 11473641.
+Krag S, Danielsen CC, Carmeliet P, Nyengaard J, Wogensen L. Plasminogen activator inhibitor-1 gene
+deficiency attenuates TGF-beta1-induced kidney disease. Kidney international. 2005; 68(6):2651-66.
+Epub 2005/12/01. doi: 10.1111/j.1523-1755.2005.00737.x PMID: 16316341.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+18 / 18
+
+>>>section: methods
+Materials and Methods
+Materials
+Sarpogrelate hydrochloride was obtained from Chemtros (Ansan, Republic of Korea), and
+rosuvastatin calcium was from Yuhan Chemical Inc. (Ansan, Republic of Korea). Antibodies
+for vascular endothelial growth factor receptor-2 (VEGFR-2), PAI-1, TGF-β1, and collagen IV
+were purchased from Abcam (Cambridge, MA, UK). Antibodies that recognize glyceraldehyde
+3-phosphate dehydrogenase (Gapdh), β-tubulin, and secondary antibodies (goat anti-rabbit
+and goat anti-mouse) were obtained from Santa Cruz Biotechnology, Inc. (Dallas, TX, USA).
+Caspase-3 and CD31 antibodies were from BD Sciences (San Jose, CA, USA) and Cell Signaling
+Technology, Inc. (Danvers, MA, USA), respectively. Most reagents such as STZ and 5-HT were
+purchased from Sigma-Aldrich Co. LLC (Saint Louis, MO, USA).
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Animal experiment
+C56BL/6J male mice at 7-weeks of age were purchased from Orient Bio Inc. (Gyeonggi-do,
+Republic of Korea). After a week of quarantine, mice were maintained in a specific pathogen
+free environment with a 12-h light/dark cycle. The animal experimental protocol was approved
+by the Institutional Ethics Committee on Animal Care and Experimentation at the Catholic
+University of Korea (Approval number: 2014-021). A total of 34 mice was randomly divided
+into five groups: the normal fat diet (NFD) group (n = 4), the HFD/STZ control group (n = 5),
+the HFD/STZ + sarpogrelate group (n = 8), the HFD/STZ + rosuvastatin (n = 7), and the HFD/
+STZ + sarpogrelate + rosuvastatin group (n = 7). The NFD and HFD groups were continuously
+fed either a normal chow diet (fat 18%, protein 24%, and carbohydrates 58%; Harlan 
+Laboratories, Indianapolis, IN, USA) or a HFD with a composition of 60% fat, 20% protein, and 20%
+carbohydrate (Research Diets, New Brunswick, NJ, USA) for 22 weeks. After 7 weeks of a
+HFD, the HFD/STZ groups received STZ (40 mg/kg) dissolved in sodium citrate (pH 4.5) via
+intraperitoneal injection. The NFD group was injected with the sodium citrate vehicle. At
+Week 9 of the HFD, mice were administered either vehicle (0.9% saline), sarpogrelate (50 mg/
+kg dissolved in saline), and/or rosuvastatin (20 mg/kg dissolved in saline) via oral gavage for 13
+weeks. Sarpogrelate was administered 6 days a week and rosuvastatin was treated 5 days a
+week. After the completion of the HFD for 22 weeks, mice were anesthetized with diethyl ether
+and serum samples were performed by cardiac puncture. Kidneys were harvested following a
+phosphate buffered saline (PBS) perfusion and then formalin-fixed or frozen for subsequent
+analyses.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+Measurements of serum glucose and lipids
+At 5 days after STZ injection and during week 15 of the HFD, mice were fasted overnight (12
+h) and blood samples were collected by cutting the tip of the tail. Fasting serum glucose levels
+were measured using an Accu-Chek blood glucose meter (Roche Diagnostics, Castle Hill, 
+Aus-tralia). The levels of serum cholesterol, triglycerides, and blood urea nitrogen (BUN) were
+determined in serum with an Idexx VetTest Biochemical Analyzer (Westbrook, ME, USA).
+3 / 18
+The serum PAI-1 levels, which include active, inactive, and latent forms of PAI-1, were
+assessed using a PAI-1 Total Mouse ELISA kit (Abcam) according to the manufacturer’s
+instructions.
+Measurements of urine albumin and cystatin C
+Mice were placed in metabolic cages at week 20 of the HFD and were adapted for 24 h. Two to
+three mice were housed per metabolic cage and pooled urine samples were collected for 15 h.
+For each group, three different collections were performed. The urinary albumin level was
+determined with an Albuwell M ELISA kit (Exocell Inc., PA, USA) according to the 
+manufac-turer’s instructions. The urinary cystatin C level was quantified using the Mouse/Rat Cystatin
+C Quantikine kit (R&D Systems, MN, USA). The measured albumin and cystatin C levels were
+normalized corresponding urine creatinine levels, which were determined using the Idexx 
+Vet-Test Biochemical Analyzer.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Determination of renal histopathology
+Kidneys were fixed in 10% neutral buffered formalin, embedded in paraffin, serially sectioned
+(3~4 μm), and stained with hematoxylin and eosin (H&E) for general observations of 
+histopa-thology with a light microscope (Nikkon, Tokyo, Japan) [37, 38]. Histological evaluation was
+performed in the central zone of the cortex. The numbers of glomeruli with mesangial 
+expansion and vasodilation, and the numbers of vacuolated renal tubules were counted using a 
+com-puter-based automated image analyzer (iSolution FL ver 9.1, IMT i-solution Inc., Vancouver,
+Quebec, Canada) according to previously established methods [37]. These histomorphological
+measurements were represented as the percentage number of glomeruli or tubules. Two 
+histo-logical fields for each kidney tissue were analyzed. The histopathologist was blind to treatment
+groups when analysis was made.
+Oil red O and collagen staining
+Portions of kidney were dehydrated in a 30% sucrose solution and then sectioned with a 
+cryostat for Oil red O staining. For the staining of collagen fibers, paraffin-embedded tissue slices
+were stained with Sirius red. Collagen occupied regions indicated by Sirius red staining (% of
+stained area) were quantified as established previously [37]. Areas of renal tubules with lipid
+droplet deposition were analyzed in Oil red O stained. Two histological fields were analyzed in
+each kidney tissue.
+Immunohistochemical analysis
+The immunoreactivities against the apoptotic marker caspase-3, endothelial marker CD31 and
+Vegfr, and pro-fibrotic markers TGF-β1 and PAI-1 were quantified in the kidney cortex using
+the avidin-biotin-peroxidase complex (ABC) and peroxidase substrate kit (Vector Labs, 
+Burlin-game, CA, USA). Briefly, tissue slices were heated (95-100°C) in 10 mM citrate buffer (pH 6.0)
+for epitopes retrieval. Endogenous tissue peroxidase activity was blocked by incubating in
+methanol containing 0.3% H2O2 for 30 min. The normal horse serum blocking solution was
+incubated for 1 h in a humidified chamber to block non-specific binding of immunoglobulin.
+Endogenous avidin and biotin were blocked by avidin/biotin blocking reagent (Dako, 
+Carpin-teria, CA, USA). The primary antibody incubation was performed overnight at 4°C in a 
+humidified chamber, followed by incubation at room temperature with the appropriate biotinylated
+secondary antibody for 1 h and the ABC reagent. Finally, tissue sections were incubated with
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+4 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+peroxidase substrate for 3 min and immunoreactive areas were quantified with an automated
+image analyzer [39].
+Western blot analysis
+The other halves of frozen kidney sections were homogenized in radioimmunoprecipitation
+assay (RIPA) buffer containing a protease inhibitor cocktail (Sigma-Aldrich Co. LLC) with a
+tissue homogenizer (IKA-Werke GmbH & Co. KG, Staufen, Germany). The protein 
+homoge-nates were centrifuged twice at 10,000 g for 20 min at 4°C. The supernatants were obtained and
+the protein concentrations were assessed with Bicinchoninic Acid Kits (Thermo Fisher 
+Scientific Inc. Waltham, MCA, USA). Proteins were separated on 10-12% sodium dodecyl 
+sulfate-polyacrylamide gels and transferred to nitrocellulose membranes (GE Healthcare Biosciences,
+Pittsburgh, PA, USA). Membranes were blocked by incubation in 1% skim milk or 3% bovine
+serum albumin for 1 h. Incubation with the appropriate primary antibody performed 
+overnight, followed by incubation with the appropriate secondary antibody for 1 h. 
+Chemilumines-cent images were captured with an ImageQuant LAS 4000 Mini (GE Healthcare Biosciences).
+Cell Culture
+The mouse glomerular mesangial cell line SV40 MES 13 (MES13) was obtained from the
+American Type Culture Collection (Manassas, VA, USA). MES13 was maintained in a medium
+containing a 3:1 mixture (v/v) of Dulbecco's modified Eagle medium and Ham’s F-12 medium
+(GE HealthCare Life Sciences, Logan, UT, USA) with 5% fetal bovine serum (GE HealthCare
+Life Sciences) supplementation. The cells were grown at 37°C in a humidified 5% CO2
+atmosphere.
+MTT assay
+Cells were grown in 96-well plates at a density of 4 × 105 cells per well. After drug treatment,
+the cells were incubated with an 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide
+(MTT) solution (2 mg/mL) for 4 h. The reduced formazan was solubilized in dimethyl 
+sulfox-ide (DMSO) and optical absorbance was determined with a SPECTROstar Nano microplate
+reader (BMG Labtech, Ortenberg, Germany) at 540 nm.
+RNA isolation and real-time reverse transcriptase (RT)-polymerase
+chain reaction (PCR) analysis
+Total RNA was isolated from the cells with TRIzol reagent (Thermo Fisher Scientific Inc.).
+cDNA synthesis was performed by an RT reaction as described previously [40]. For relative
+quantification of the mRNA levels, PCR analyses were performed with a Roche LightCycler
+(Roche Diagnostics Deutschland GmbH). The PCR primer sequences used for murine pai-1
+were 5’-ACGTTGTGGAACTGCCCTAC-3’ AMF 5’-GCCAGGGTTGCACTAAACAT-3’
+(Bioneer Corporation, Daejeon, Republic of Korea).
+Statistical Analysis
+Multiple comparison tests for different treatment groups were conducted. Variance homogeneity
+was examined using the Levene test. If the Levene test indicated no significant deviations from
+variance homogeneity, the data were analyzed by a one-way analyses of variance (ANOVA) 
+followed by the least-significant differences (LSD) multi-comparison test to determine which pairs
+of groups were significantly different (analysis of vacuolated renal tubules, 
+immunohistochem-cial analysis of PAI-1). In the case of significant deviations from variance homogeneity in
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+5 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Levene’s test, the Kruskal-Wallis H test was conducted and then, followed by the Mann-Whitney
+U (MW) test. Statistical analyses were conducted using SPSS for Windows (Release 14.0K, SPSS
+Inc., Chicago, IL, USA). Differences were considered significant at P< 0.05.
+
+>>>section: fulltext
+a11111
+OPEN ACCESS
+Citation: Kim D-h, Choi B-h, Ku S-K, Park J-h, Oh E,
+Kwak M-K (2016) Beneficial Effects of Sarpogrelate
+and Rosuvastatin in High Fat Diet/Streptozotocin-
+Induced Nephropathy in Mice. PLoS ONE 11(4):
+e0153965. doi:10.1371/journal.pone.0153965
+Editor: Leighton R James, University of Florida,
+UNITED STATES
+Received: December 28, 2015
+Accepted: April 6, 2016
+Published: April 20, 2016
+Copyright: © 2016 Kim et al. This is an open access
+article distributed under the terms of the Creative
+Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+Data Availability Statement: All relevant data are
+within the paper.
+Funding: This work was supported by the National
+Research Foundation of Korea (NRF) grant funded
+by the Korea government (MSIP) (NRF-
+2013M3A9B5075839 and 
+NRF-2013R1A2A2A01015497).
+Competing Interests: The authors have declared
+that no competing interests exist.
+RESEARCH ARTICLE
+Beneficial Effects of Sarpogrelate and
+Rosuvastatin in High Fat Diet/Streptozotocin-
+Induced Nephropathy in Mice
+Dong-hyun Kim1☯, Bo-hyun Choi1☯, Sae-Kwang Ku2, Jeong-hyeon Park1, Euichaul Oh1,
+Mi-Kyoung Kwak1*
+1 College of pharmacy, The Catholic University of Korea, Bucheon, Gyeonggi-do, 420-743, Republic of
+Korea, 2 College of Korean Medicine, Daegu Haany University, Gyeongsan, Gyeonsangbuk-do, 712-715,
+Republic of Korea
+☯ These authors contributed equally to this work.
+*mkwak@catholic.ac.kr
+Abstract
+Chronic kidney disease (CKD) is a major complication of metabolic disorders such as 
+diabetes mellitus, obesity, and hypertension. Comorbidity of these diseases is the factor 
+exacerbating CKD progression. Statins are commonly used in patients with metabolic disorders to
+decrease the risk of cardiovascular complications. Sarpogrelate, a selective antagonist of
+5-hydroxytryptamine (5-HT) 2A receptor, inhibits platelet aggregation and is used to
+improve peripheral circulation in diabetic patients. Here, we investigated the effects of 
+sarpogrelate and rosuvastatin on CKD in mice that were subjected to a high fat diet (HFD) for
+22 weeks and a single low dose of streptozotocin (STZ, 40 mg/kg). When mice were 
+administrated sarpogrelate (50 mg/kg, p.o.) for 13 weeks, albuminuria and urinary cystatin C
+excretion were normalized and histopathological changes such as glomerular mesangial
+expansion, tubular damage, and accumulations in lipid droplets and collagen were 
+significantly improved. Sarpogrelate treatment repressed the HFD/STZ-induced CD31 and 
+vascular endothelial growth factor receptor-2 expressions, indicating the attenuation of
+glomerular endothelial proliferation. Additionally, sarpogrelate inhibited interstitial fibrosis
+by suppressing the increases in transforming growth factor-β1 (TGF-β1) and plasminogen
+activator inhibitor-1 (PAI-1). All of these functional and histological improvements were also
+seen in rosuvastatin (20 mg/kg) group and, notably, the combinatorial treatment with 
+sarpogrelate and rosuvastatin showed additive beneficial effects on histopathological changes by
+HFD/STZ. Moreover, sarpogrelate reduced circulating levels of PAI-1 that were elevated in
+the HFD/STZ group. As supportive in vitro evidence, sarpogrelate incubation blocked 
+TGF-β1/5-HT-inducible PAI-1 expression in murine glomerular mesangial cells. Taken together,
+sarpogrelate and rosuvastatin may be advantageous to control the progression of CKD in
+patients with comorbid metabolic disorders, and particularly, the use of sarpogrelate as
+adjunctive therapy with statins may provide additional benefits on CKD.
+PLOSONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+1 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Introduction
+Chronic kidney disease (CKD) is defined by the gradual reduction in glomerular filtration rate
+(GFR) and elevation in urinary albumin excretion [1, 2]. CKD is a progressive disease that 
+proceeds to end-stage renal disease (ESRD) in which patients are in need of renal dialysis or kidney
+transplantation [3]. It has been estimated that more than 10% of adults have CKD and the
+prevalence is much greater in high-risk populations such as elderly people [1, 4]. The 
+significance of CKD can be found in its strong correlation with the cardiovascular diseases: CKD
+patients exhibited higher rates of incidence in myocardial infarction, heart failure, and stroke
+[5, 6].
+As causative diseases of CKD, metabolic disorders such as obesity, diabetes mellitus, 
+hyper-lipidemia, and hypertension showed strong associations with CKD [1, 7]. Diabetic CKD is the
+leading cause of ESRD, and CKD prevalence in diabetic patients was known to be up to 40%
+[8]. In a large cohort study of health men, increased body mass index showed a significantly
+higher CKD risk after a 14-year follow up [9]. The decline of renal function in middle-aged
+men with dyslipidemia was accelerated by the increased levels of the low-density lipoprotein
+(LDL)-high-density lipoprotein (HDL) ration [10]. It is noteworthy that metabolic disorders
+are usually comorbid diseases. In the cohort study of the National Health and Nutrition 
+Examination Survey (NHANES), 61% of patients with type 2 diabetes were obese and 46% of diabetic
+patients had lipid abnormalities [11]. Comorbid illness affected CKD prevalence: patients with
+comorbidities of metabolic disorders have a greater risk for CKD aggravation than patients
+with s single disease do [12]. In a cohort of patients with CKD stage 3, multimorbidity of 
+metabolic disorders showed the association with the GFR decrease [13]. As an animal model of 
+metabolic disorders, high-fat diet (HFD) has been used widely [14]. Particularly, it was shown that
+HFD (16 weeks) in C57BL/6JJ mice developed a prediabetic nephropathy that accompanied
+albuminuria, glomerular enlargement, and marginal levels of collagen deposition [15]. In 
+addition, HFD-induced nephropathy has been exacerbated by the addition of low dose of 
+streptozo-tocin (STZ), indicating that the coexistence of metabolic diseases can accelerate CKD [16, 17].
+Tubulointerstitial fibrosis is one of major features and a reliable predictor of progressive 
+diabetic CKD [18]. In fibrotic CKD lesions, excessive accumulation of extracellular matrix (ECM)
+such as collagen, fibronectin and laminin is observed [19, 20]. It has been demonstrated that
+transforming growth factor-β1 (TGF-β1) is an important mediator that produces ECM in 
+various renal cell types such as fibroblasts, tubular epithelial cells, and mesangial cells [21, 22].
+Plasminogen activator inhibitor-1 (PAI-1) is a well-known downstream target of TGF-β1 
+signaling [23, 24]. PAI-1 prevents the degradation of ECM proteins by inhibiting the conversion
+of tissue plasminogen to plasmin, a matrix metalloproteinase (MMP)-like protease [23]. In
+addition, the level of plasma PAI-1 correlated with the pathologies of diabetes, obesity, and 
+cardiovascular disease [25-28].
+Platelet serotonin (5-hydroxytryptamine; 5-HT) is released to the systemic circulation
+where it mediates multiple deleterious functions, including vascular smooth muscle 
+constriction and proliferation, and platelet aggregation through the 5-HT2A receptor [29, 30]. In 
+diabetic patients, platelets are activated and therefore the plasma 5-HT level is high and platelet
+aggregation in enhanced [31, 32]. Sarpogrelate, a selective 5-HT2A receptor antagonist, is an
+anti-platelet drug and is currently used in patients with peripheral arterial disease and diabetes
+[33]. Based on the association of 5-HT with diabetic vasculature, a beneficial effect of 
+sarpogrelate on metabolic disorder-induced CKD can be hypothesized. The statin therapy is commonly
+used for the patients with metabolic disorders to reduce the risk of cardiovascular events [34].
+Based on the clinical observations showing the linkage between dyslipidemia and CKD, the
+potential benefits of statin therapy has gained great attentions [35, 36]. Based on these, in order
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+2 / 18
+to investigate the potential therapeutic effects of sarpogrelate and rosuvastatin on CKD, we
+used the HFD-fed C57BL/6JJ mice that were administered with a single and low dose of STZ as
+a model of metabolic disorder-induced CKD. In addition, because many patients with 
+metabolic disorders are under the statin treatment to treat comorbid dyslipidemia and to prevent
+cardiovascular events, we also asked the potential renobeneficial effects of combination of 
+sarpogrelate and rosuvastatin in these mice.
+Materials and Methods
+Materials
+Sarpogrelate hydrochloride was obtained from Chemtros (Ansan, Republic of Korea), and
+rosuvastatin calcium was from Yuhan Chemical Inc. (Ansan, Republic of Korea). Antibodies
+for vascular endothelial growth factor receptor-2 (VEGFR-2), PAI-1, TGF-β1, and collagen IV
+were purchased from Abcam (Cambridge, MA, UK). Antibodies that recognize glyceraldehyde
+3-phosphate dehydrogenase (Gapdh), β-tubulin, and secondary antibodies (goat anti-rabbit
+and goat anti-mouse) were obtained from Santa Cruz Biotechnology, Inc. (Dallas, TX, USA).
+Caspase-3 and CD31 antibodies were from BD Sciences (San Jose, CA, USA) and Cell Signaling
+Technology, Inc. (Danvers, MA, USA), respectively. Most reagents such as STZ and 5-HT were
+purchased from Sigma-Aldrich Co. LLC (Saint Louis, MO, USA).
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Animal experiment
+C56BL/6J male mice at 7-weeks of age were purchased from Orient Bio Inc. (Gyeonggi-do,
+Republic of Korea). After a week of quarantine, mice were maintained in a specific pathogen
+free environment with a 12-h light/dark cycle. The animal experimental protocol was approved
+by the Institutional Ethics Committee on Animal Care and Experimentation at the Catholic
+University of Korea (Approval number: 2014-021). A total of 34 mice was randomly divided
+into five groups: the normal fat diet (NFD) group (n = 4), the HFD/STZ control group (n = 5),
+the HFD/STZ + sarpogrelate group (n = 8), the HFD/STZ + rosuvastatin (n = 7), and the HFD/
+STZ + sarpogrelate + rosuvastatin group (n = 7). The NFD and HFD groups were continuously
+fed either a normal chow diet (fat 18%, protein 24%, and carbohydrates 58%; Harlan 
+Laboratories, Indianapolis, IN, USA) or a HFD with a composition of 60% fat, 20% protein, and 20%
+carbohydrate (Research Diets, New Brunswick, NJ, USA) for 22 weeks. After 7 weeks of a
+HFD, the HFD/STZ groups received STZ (40 mg/kg) dissolved in sodium citrate (pH 4.5) via
+intraperitoneal injection. The NFD group was injected with the sodium citrate vehicle. At
+Week 9 of the HFD, mice were administered either vehicle (0.9% saline), sarpogrelate (50 mg/
+kg dissolved in saline), and/or rosuvastatin (20 mg/kg dissolved in saline) via oral gavage for 13
+weeks. Sarpogrelate was administered 6 days a week and rosuvastatin was treated 5 days a
+week. After the completion of the HFD for 22 weeks, mice were anesthetized with diethyl ether
+and serum samples were performed by cardiac puncture. Kidneys were harvested following a
+phosphate buffered saline (PBS) perfusion and then formalin-fixed or frozen for subsequent
+analyses.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+Measurements of serum glucose and lipids
+At 5 days after STZ injection and during week 15 of the HFD, mice were fasted overnight (12
+h) and blood samples were collected by cutting the tip of the tail. Fasting serum glucose levels
+were measured using an Accu-Chek blood glucose meter (Roche Diagnostics, Castle Hill, 
+Aus-tralia). The levels of serum cholesterol, triglycerides, and blood urea nitrogen (BUN) were
+determined in serum with an Idexx VetTest Biochemical Analyzer (Westbrook, ME, USA).
+3 / 18
+The serum PAI-1 levels, which include active, inactive, and latent forms of PAI-1, were
+assessed using a PAI-1 Total Mouse ELISA kit (Abcam) according to the manufacturer’s
+instructions.
+Measurements of urine albumin and cystatin C
+Mice were placed in metabolic cages at week 20 of the HFD and were adapted for 24 h. Two to
+three mice were housed per metabolic cage and pooled urine samples were collected for 15 h.
+For each group, three different collections were performed. The urinary albumin level was
+determined with an Albuwell M ELISA kit (Exocell Inc., PA, USA) according to the 
+manufacturer’s instructions. The urinary cystatin C level was quantified using the Mouse/Rat Cystatin
+C Quantikine kit (R&D Systems, MN, USA). The measured albumin and cystatin C levels were
+normalized corresponding urine creatinine levels, which were determined using the Idexx 
+Vet-Test Biochemical Analyzer.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Determination of renal histopathology
+Kidneys were fixed in 10% neutral buffered formalin, embedded in paraffin, serially sectioned
+(3~4 μm), and stained with hematoxylin and eosin (H&E) for general observations of 
+histopathology with a light microscope (Nikkon, Tokyo, Japan) [37, 38]. Histological evaluation was
+performed in the central zone of the cortex. The numbers of glomeruli with mesangial 
+expansion and vasodilation, and the numbers of vacuolated renal tubules were counted using a 
+com-puter-based automated image analyzer (iSolution FL ver 9.1, IMT i-solution Inc., Vancouver,
+Quebec, Canada) according to previously established methods [37]. These histomorphological
+measurements were represented as the percentage number of glomeruli or tubules. Two 
+histological fields for each kidney tissue were analyzed. The histopathologist was blind to treatment
+groups when analysis was made.
+Oil red O and collagen staining
+Portions of kidney were dehydrated in a 30% sucrose solution and then sectioned with a 
+cryostat for Oil red O staining. For the staining of collagen fibers, paraffin-embedded tissue slices
+were stained with Sirius red. Collagen occupied regions indicated by Sirius red staining (% of
+stained area) were quantified as established previously [37]. Areas of renal tubules with lipid
+droplet deposition were analyzed in Oil red O stained. Two histological fields were analyzed in
+each kidney tissue.
+Immunohistochemical analysis
+The immunoreactivities against the apoptotic marker caspase-3, endothelial marker CD31 and
+Vegfr, and pro-fibrotic markers TGF-β1 and PAI-1 were quantified in the kidney cortex using
+the avidin-biotin-peroxidase complex (ABC) and peroxidase substrate kit (Vector Labs, 
+Burlin-game, CA, USA). Briefly, tissue slices were heated (95-100°C) in 10 mM citrate buffer (pH 6.0)
+for epitopes retrieval. Endogenous tissue peroxidase activity was blocked by incubating in
+methanol containing 0.3% H2O2 for 30 min. The normal horse serum blocking solution was
+incubated for 1 h in a humidified chamber to block non-specific binding of immunoglobulin.
+Endogenous avidin and biotin were blocked by avidin/biotin blocking reagent (Dako, 
+Carpin-teria, CA, USA). The primary antibody incubation was performed overnight at 4°C in a 
+humidified chamber, followed by incubation at room temperature with the appropriate biotinylated
+secondary antibody for 1 h and the ABC reagent. Finally, tissue sections were incubated with
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+4 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+peroxidase substrate for 3 min and immunoreactive areas were quantified with an automated
+image analyzer [39].
+Western blot analysis
+The other halves of frozen kidney sections were homogenized in radioimmunoprecipitation
+assay (RIPA) buffer containing a protease inhibitor cocktail (Sigma-Aldrich Co. LLC) with a
+tissue homogenizer (IKA-Werke GmbH & Co. KG, Staufen, Germany). The protein 
+homoge-nates were centrifuged twice at 10,000 g for 20 min at 4°C. The supernatants were obtained and
+the protein concentrations were assessed with Bicinchoninic Acid Kits (Thermo Fisher 
+Scientific Inc. Waltham, MCA, USA). Proteins were separated on 10-12% sodium dodecyl 
+sulfate-polyacrylamide gels and transferred to nitrocellulose membranes (GE Healthcare Biosciences,
+Pittsburgh, PA, USA). Membranes were blocked by incubation in 1% skim milk or 3% bovine
+serum albumin for 1 h. Incubation with the appropriate primary antibody performed 
+overnight, followed by incubation with the appropriate secondary antibody for 1 h. 
+Chemilumines-cent images were captured with an ImageQuant LAS 4000 Mini (GE Healthcare Biosciences).
+Cell Culture
+The mouse glomerular mesangial cell line SV40 MES 13 (MES13) was obtained from the
+American Type Culture Collection (Manassas, VA, USA). MES13 was maintained in a medium
+containing a 3:1 mixture (v/v) of Dulbecco's modified Eagle medium and Ham’s F-12 medium
+(GE HealthCare Life Sciences, Logan, UT, USA) with 5% fetal bovine serum (GE HealthCare
+Life Sciences) supplementation. The cells were grown at 37°C in a humidified 5% CO2
+atmosphere.
+MTT assay
+Cells were grown in 96-well plates at a density of 4 × 105 cells per well. After drug treatment,
+the cells were incubated with an 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazoliumbromide
+(MTT) solution (2 mg/mL) for 4 h. The reduced formazan was solubilized in dimethyl 
+sulfox-ide (DMSO) and optical absorbance was determined with a SPECTROstar Nano microplate
+reader (BMG Labtech, Ortenberg, Germany) at 540 nm.
+RNA isolation and real-time reverse transcriptase (RT)-polymerase
+chain reaction (PCR) analysis
+Total RNA was isolated from the cells with TRIzol reagent (Thermo Fisher Scientific Inc.).
+cDNA synthesis was performed by an RT reaction as described previously [40]. For relative
+quantification of the mRNA levels, PCR analyses were performed with a Roche LightCycler
+(Roche Diagnostics Deutschland GmbH). The PCR primer sequences used for murine pai-1
+were 5’-ACGTTGTGGAACTGCCCTAC-3’ AMF 5’-GCCAGGGTTGCACTAAACAT-3’
+(Bioneer Corporation, Daejeon, Republic of Korea).
+Statistical Analysis
+Multiple comparison tests for different treatment groups were conducted. Variance homogeneity
+was examined using the Levene test. If the Levene test indicated no significant deviations from
+variance homogeneity, the data were analyzed by a one-way analyses of variance (ANOVA) 
+followed by the least-significant differences (LSD) multi-comparison test to determine which pairs
+of groups were significantly different (analysis of vacuolated renal tubules, 
+immunohistochem-cial analysis of PAI-1). In the case of significant deviations from variance homogeneity in
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+5 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Levene’s test, the Kruskal-Wallis H test was conducted and then, followed by the Mann-Whitney
+U (MW) test. Statistical analyses were conducted using SPSS for Windows (Release 14.0K, SPSS
+Inc., Chicago, IL, USA). Differences were considered significant at P< 0.05.
+Results
+Establishment of HFD/STZ-induced CKDmouse model
+In order to establish a CKD model, C57BL/6JJ mice were subjected to a NFD or a 60%-fat diet
+at 8 weeks of age. During week 8 of the HFD, the mean body weights of mice were 29 g and
+44 g in NFD and HFD groups, respectively. At Week 8 of HFD, a single and low dose of STZ
+(40 mg/kg, p.o.) was injected into HFD group mice to accelerate CKD progression. It was
+shown that a single administration of low dose STZ (100 mg/kg) developed non-insulin 
+dependent diabetes in mice [41]. At 5 days after STZ treatment, the level of fasting blood glucose was
+elevated from 166 mg/dl (NFD) to 220 mg/dl (HFD/STZ), whereas the level of the HFD only
+group was 208 mg/dl (data not shown). One week after STZ injection, treatment with 
+sarpogrelate and rosuvastatin were started and proceeded to week 22, along with the HFD. The body
+weights of STZ-treated mice decreased slightly week 10. However, all groups showed steady
+increases in body weight after week 11, and there were no noticeable differences between 
+treatment groups (Fig 1A). During the treatment period, the fasting blood glucose level was 
+determined at week 15. The results show that the HFD-STZ group displayed a higher level of blood
+glucose than the NFD mice (Fig 1B). The HFD only group showed a lower fasting glucose level
+than HFD/STZ group although no statistical significance was observed (unpublished data),
+which implied that STZ treatment contributed to CKD acceleration. Drug treatment did not
+show statistically significant changes in HFD/STZ-induced glucose increase.
+doi:10.1371/journal.pone.0153965.g001
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+Sarpogrelate and rosuvastatin attenuate renal dysfunction in HFD/STZ
+mice
+At week 21, mouse urine was collected for 15 h and the levels of urine albumin, cystatin C, total
+protein, and creatinine were determined in order to monitor renal function. The urine
+6 / 18
+doi:10.1371/journal.pone.0153965.g002
+albumin-to-creatinine ratio (UACR) was elevated by 2.37-fold in the HFD/STZ group 
+compared to the NFD group, which implies that CKD developed in these mice (Fig 2A). All 
+treatment groups showed complete prevention of UACR increase, indicating that sarpogrelate,
+rosuvastatin, and their combination are all effective for CKD protection. Similarly, when
+another renal dysfunction marker, cystatin C was measured, the magnitude of the urine 
+cystatin C-to-creatinine ratio significantly increased in the HFD/STD group, and drug treatment
+groups showed significant decreases (Fig 2B). Whereas, the urine protein-to-creatinine ratio
+was not elevated in the HFD/STZ group compared to the NFD group (data not shown). These
+results indicate that the combination of the HFD and a single low dose of STZ resulted in an
+UACR increase, which is a prototypical marker of diabetic CKD. In this animal model, 
+sarpogrelate and rosuvastatin significantly ameliorated renal dysfunction and improved UACR and
+urinary cystatin C excretion.
+All animals were terminated at Week 22. In final samples, the mean blood cholesterol level
+was significantly elevated the HFD/STZ mice when compared to the NFD mice. However, total
+triglyceride and BUN levels did not show significant increases (Table 1). The final body
+weights, kidney weights, and blood cholesterol were not altered by drug treatments. The 
+sarpogrelate treatment group showed a triglyceride increase compared with the HFD/STZ group,
+raising a concern about the negative effect of sarpogrelate on blood lipid levels. However, we
+observed that the HFD-induced fatty liver development was substantially diminished by 
+sarpogrelate treatment (unpublished data). In addition, our additional recent data indicated that 
+sarpogrelate administration in HFD mice (for 12 weeks) did not affect blood triglyceride levels
+(unpublished data). Although further examination is required, these results indicate that the
+unwanted effects of sarpogrelate on blood lipid regulation might be minimal.
+Sarpogrelate and rosuvastatin ameliorate renal structural changes
+CKD is accompanied by several renal structural changes, including glomerular and mesangial
+expansion, glomerular endothelial proliferation, ECM accumulation, and tubular damage [42].
+Histopathological examination of renal tissues showed glomerular structural changes: glomerular
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+7 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+vasodilation and mesangial expansion were substantially elevated in the HFD/STZ group when
+compared to the NFD (Fig 3A and 3B). The HFD/STZ mice showed statistically significant
+increases in the numbers of vacuoles or lipid droplets deposition in renal tubules (Fig 3A, 3C and
+3D). Consistent with these morphologic changes, the level of caspase 3-reactive regions, another
+marker of tubular damage, was elevated in HFD/STZmice (Fig 3E). Notably, these 
+histomorpho-metric and immunohistochemical changes were significantly attenuated by treatment with 
+sarpogrelate or rosuvastatin. In particular, the combination of sarpogrelate and rosuvastatin
+displayed additive effects in all three of these parameters. These results indicate that the HFD/
+STZ-induced nephropathy was effectively ameliorated by sarpogrelate and rosuvastatin.
+Sarpogrelate and rosuvastatin suppress glomerular endothelial
+proliferation
+Abnormal angiogenesis plays a pathological role in CKD [43, 44]. In order to monitor renal
+angiogenesis, the levels of CD31, a marker of endothelial cells, and VEGFR-2 were determined
+using immunohistochemical analysis. The HFD/STZ group showed increases in CD31 and
+VEGFR-2 protein levels, indicating that angiogenesis is aberrantly activated in the kidneys (Fig
+4A-4C). On the other hand, the treatment of mice with sarpogrelate and rosuvastatin 
+effectively attenuated CD31 and VEGFR-2 increases. Furthermore, the enhanced protective effects
+of sarpogrelate and rosuvastatin in combination were statistically significant.
+HFD/STZ-induced renal fibrosis is diminished by sarpogrelate and
+rosuvastatin
+The deposition of ECM in the glomerulus and tubule, and progressive tublointerstitial fibrosis
+are major determinants of CKD [20]. In the HFD/STZ animals, cortex collagen deposition
+indicated by Sirus red staining was highly elevated compared to the NFD group (Fig 5A). In
+contrast, sarpogrelate and/or rosuvastatin reduced collagen staining. The HFD/STZ-induced
+increase in the collagen type IV and collagen type I levels were consistently reduced by 
+sarpogrelate and rosuvastatin (Fig 5B and 5C).
+Accumulation of ECM is associated with enhanced levels of TGF-β1 and PAI-1 in the 
+kidney [22]. Immunohistochemical analyses showed that HFD/STZ treatment elevates kidney 
+levels of TGF-β1 and PAI-1 and that these increases were ameliorated by drug treatments (Fig 6A
+and 6B). Similarly to histomorphological improvements, the combination treatment with
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+8 / 18
+aP < 0.05 compared with the NFD control group. bP< 0.05 compared with the HFD/STZ group. cP < 0.05 compared with the HFD/STZ + Sa group. dP < 0.05
+compared with the HFD/STZ + R group. Two histological fields for each kidney tissue were analyzed. All data represent means ± SD. Scale bar = 120 μm.
+doi:10.1371/journal.pone.0153965.g003
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+sarpogrelate and rosuvastatin showed significantly enhanced suppressions in TGF-β1 and
+PAI-1. Western blot analysis confirmed the suppressive effects of sarpogrelate rosuvastatin on
+PAI-1 increase (Fig 6C). At the same time, it was notable that serum level of PAI-1 was elevated
+2.54-fold in mice with HFD/STZ treatment when compared with the NFD mice. This increase
+could be diminished by sarpogrelate treatment (Fig 6D), indicating that sarpogrelate modulates
+the circulating level of PAI-1 in HFD/STZ mice.
+9 / 18
+doi:10.1371/journal.pone.0153965.g004
+Sarpogrelate inhibits PAI-1 expression in glomerular mesangial cells
+Glomerular mesangial cells play a critical role in the maintenance of structure of the glomerular
+microvascular beds [45]. When these cells are confronted with detrimental stimuli such as 
+metabolic and hemodynamic injuries, mesangial cells are activated to undergo proliferation and
+excessive ECM production [45]. Histomorphological analysis showed that sarpogrelate 
+ameliorated mesangial expansion and glomerular enlargement, and reduced collagen depositions in
+the HFD/STZ mouse kidney. In order to have in vitro evidence, the murine mesangial cell line
+MES13 was incubated with sarpogrelate and rosuvastatin, and the levels of the pro-fibrotic 
+factor PAI-1 were monitored. The incubation of MES13 with sarpogrelate (10 μM) and varied
+concentrations of rosuvastatin (2.5-40 μM) did not alter cell numbers, indicating no cytotoxic
+and proliferative effects (Fig 7A). The incubation of MES13 with TGF-β1 (10 ng/ml) for 24 h
+elevated PAI-1 level and this increase was further enhanced by the co-incubation with 5-HT
+(10 μM). Whereas, the TGF-β1/5-HT-induced PAI-1 increase was prevented by sarpogrelate
+pre-incubation (Fig 7B). Similarly, the level of PAI-1 that was elevated by co-incubation with
+TGF-β1 and 5-HT was blocked by sarpogrelate and rosuvastatin (10 μM) pre-incubation (Fig
+7C). There was a trend for the TGF-β1/5-HT-inducible PAI-1 mRNA level to be diminished by
+sarpogrelate treatment; however, no statistical significance was obtained, implying the 
+involvement of post-translational regulation mechanism (Fig 7D). Our results indicate that 
+sarpogrelate reduced the PAI-1 protein level in mesangial cells and that this could be one of the
+molecular mechanisms mediating the renoprotective effect of sarpogrelate.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+10 / 18
+obtained from three independent blots.
+doi:10.1371/journal.pone.0153965.g005
+Discussion
+Although causative diseases are distinct, in all CKDs, a loss of normal nephrons results in 
+compensatory glomerular hyperfiltration in the remaining nephrons. Elevated glomerular pressure
+causes endothelial injury and glomerular sclerosis, which ultimately lead to nephron 
+malfunction. Glomerular injury and hyperfiltration give rise to albuminuria and the increase in urinary
+protein is associated with the initiation of inflammation and interstitial fibrosis [46]. Metabolic
+disorders, including obesity, diabetes, hyperlipidemia, and hypertension, are independent 
+factors that are strongly associated with CKD incidence [1]. In addition, multimorbidity of these
+diseases increases the risk of CKD [12, 13]. Here, we investigated the potential beneficial effects
+of sarpogrelate and rosuvastatin on CKD in mice that were treated with 22-week HFD and a
+single and low dose of STZ as a model of metabolic disorder-induced CKD. In our animal
+model, renal morphological changes that are comparable to CKD were shown. These changes
+were mesangial expansion, glomerular endothelial proliferation, tubular damage, lipid 
+accumulation, and collagen deposition. Consistent with these structural changes, urinary excretions of
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+11 / 18
+doi:10.1371/journal.pone.0153965.g006
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+albumin and cystatin C were significantly enhanced, implying a reduction in renal function.
+Because cystatin C undergoes glomerular filtration, proximal tubular reabsorption, and 
+eventually, complete catabolism in proximal tubular cells [47], and therefore, urinary cystatin C level
+can reflect tubular injury [48, 49]. Overall, the increased levels of UACR and the urinary
+12 / 18
+doi:10.1371/journal.pone.0153965.g007
+cystatin C/creatinine ratio indicate dysfunctions in the glomerulus and proximal tubule, and
+confirm the establishment of the metabolic disorder-induced CKDmodel. Using this model,
+we demonstrated that the sarpogrelate and rosuvastatin treatments that were started after 8
+weeks of HFD and STZ, effectively ameliorates CKD progression by improving renal 
+morphological changes and preserving renal function. Notably, combination of sarpogrelate and 
+rosuvastatin showed an additive renoprotective benefit in normalizing histological and
+immunopathological changes of CKD when compared to each treatment alone.
+Sarpogrelate has been efficacious in various animal models of thrombosis, peripheral 
+vascular disease, coronary artery diseases, and atherosclerosis [50]. Additionally, the potential
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+13 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+beneficial effect of sarpogrelate on CKD has been suggested in several animal studies. 
+Sarpogrelate administration for 8 weeks reduced albuminuria, glomerular platelet aggregation, and 
+glomerular NO depletion in STZ-treated rats [51]. In mouse model of fibrosis in which mice were
+fed a 0.2% adenine diet for 6 weeks, sarpogrelate treatment (for 4 weeks) diminished 
+tubulointerstitial fibrosis [52]. This study also demonstrated that renal fibrin deposition and PAI-1
+increase were modulated by sarpogrelate treatment. Consistent with the animal evidence, 
+sarpogrelate treatment improved albuminuria in patients with Type 2 diabetes especially, in the
+early-stage CKD [53]. Similarly, albuminuria was diminished by sarpogrelate in patients with
+diabetic CKD and atherosclerosis who were treated with an angiotensin II antagonist [54]. The
+renoprotective effects of sarpogrelate can be attributed to the blockade of the deleterious effects
+of the 5-HT2A receptor, including vasoconstriction, vascular proliferation, and platelet 
+aggregation [29]. In particular, the involvement of 5-HT in nephropathy has been suggested in several
+reports. Blood 5-HT levels were high in diabetic patients, indicating that 5-HT-mediated 
+platelet aggregation was increased in these patients [31, 32]. Additionally, the sensitivity to 5-HT-
+induced vasoconstriction is significantly elevated in diabetic patients, implying the role of
+5-HT in glomerular endothelial injury [55]. Moreover, 5-HT was shown to increase collagen
+IV production in human mesangial cells through protein kinase C and TGF-β1 activation [56].
+Advantageous effects of statins on the progression of CKD have been observed in clinical
+observations. The Prospective Evaluation of Proteinuria and Renal Function in Diabetic
+Patients with Progressive Renal Disease (PLANET) studies showed that atorvastatin for 52
+days lowered proteinuria in patients with hypercholesterolemia and diabetes [57]. A collective
+analysis of statin studies that had endpoints of CKD and cardiovascular diseases led to a 
+conclusion that statin treatments improved microalbuminuria, proteinuria, and GFR in early
+stages of CKD patients [58]. Based on the association of high lipid levels with CKD prevalence,
+these beneficial effects on CKD can be attributed to the management of dyslipidemia [35].
+However, several animal experiments demonstrated that statins exerted renal benefits that is
+independent on the lipid-lowering effect. Rosuvastatin treatment for 8 weeks reduced the
+excretion of urinary albumin and suppressed glomerular hypertrophy in db/dbmice even
+though blood lipid levels were not altered by drug treatment [59]. In Apo-E knockout mice,
+rosuvastatin administration for 20 weeks showed renoprotective effects that are irrelevant to
+the lipid-lowering effect [60]. This study showed that rosuvastatin diminished the expression
+of NADPH oxidase 4 (NOX4) and receptor for advanced glycation and products (RAGE) in
+the kidney. Similarly to these reports, although rosuvastatin was effective in ameliorating CKD
+progression, rosuvastatin treatment did not affect blood cholesterol levels in our experimental
+design. This implies that additional pleiotropic actions might contribute renal benefits of 
+rosuvastatin. Indeed, rosuvastatin treatment elevated the expression of heme oxygenase-1 (Ho-1), a
+renoprotective anti-inflammatory protein, in our kidney samples (unpublished data). In 
+addition, rosuvastatin treatment suppressed pro-fibrotic PAI-1 levels in the kidney as well as
+mesangial cells.
+PAI-1 blocks plasmin-induced fibrinolysis by inhibiting tissue plasminogen activator (tPA)
+and urokinase plasminogen activator (uPA). In addition to this major role in fibrinolysis, PAI-1
+is involved in ECM homeostasis by inhibiting the plasmin-induced ECM degradation [23, 24].
+The direct link between PAI-1 and renal fibrosis can be drawn from studies with pai-1 null
+mice. Unlike wild-type animals, collagen accumulation and interstitial fibrosis were 
+significantly reduced in pai-1 null animals following unilateral ureteral obstruction [61]. PAI-1-medi-
+ated renal fibrosis is strongly associated with TGF-β1; PAI-1 level and interstitial collagen
+deposition were highly increased in TGF-β1 transgenic mice and on the contrary, pai-1 
+deficiency prevented TGF-β1-induced renal fibrosis and ECM accumulation [62]. Our results 
+indicate that anti-fibrotic effect of sarpogrelate and rosuvastatin can be attributed to the inhibitory
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+14 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+effects on PAI-1 and TGF-β1. Sarpogrelate and rosuvastatin treatment reduced collagen 
+deposition and suppressed HFD/STZ-induced PAI-1 and TGF-β1 increases in the kidney. In addition,
+as shown in vitro, sarpogrelate and rosuvastatin incubation in murine mesangial cells 
+suppressed TGF-β1/5-HT-induced PAI-1 elevation. Interestingly, in addition to tissue levels, 
+sarpogrelate treatment diminished blood PAI-1 levels that were substantially elevated in HFD/STZ
+animals. In humans, there are lines of evidence indicating that increased circulating PAI-1 level
+is related with atherothrombosis incidence [28]. Moreover, blood PAI-1 levels were higher in
+obese patients with metabolic syndrome and in diabetic patients [26]. Considering that subjects
+with metabolic diseases show a higher incidence of cardiovascular diseases, increased 
+circulating PAI-1 levels might be a causative link between metabolic syndrome and atherothrombotic
+diseases, and therefore, the inhibitory effect of sarpogrelate on circulating PAI-1 may imply
+additional benefits of sarpogrelate for the protection of CKD-induced cardiovascular
+complications.
+In conclusion, we demonstrated that sarpogrelate and rosuvastatin could effectively 
+ameliorate HFD/STZ-induced CKD progression by improving histopathological changes in the 
+glomerulus and tubules, and attenuating interstitial fibrosis, albuminuria, and urinary cystatin C
+excretion. These drugs inhibited pro-fibrotic PAI-1 expression in HFD/STZ mouse kidney and
+mesangial cells, indicating a mechanistic basis for the observed histopathological effects. 
+Moreover, combinatorial treatment with sarpogrelate and rosuvastatin was relatively more effective
+in ameliorating histopathological changes when compared to the single drug treatment; 
+therefore, sarpogrelate may have potential benefits for the control of CKD in patients with metabolic
+disorders, particularly in conjunction with statins therapy.
+Author Contributions
+Conceived and designed the experiments: M-KK B-hC EO. Performed the experiments: D-hK
+B-hC J-hP S-KK. Analyzed the data: B-hC S-KK M-KK. Contributed reagents/materials/analy-
+sis tools: EO M-KK. Wrote the paper: B-hC M-KK.
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+Eckardt KU, Coresh J, Devuyst O, Johnson RJ, Kottgen A, Levey AS, et al. Evolving importance of 
+kidney disease: from subspecialty to global health burden. Lancet (London, England). 2013; 382
+(9887):158-69. Epub 2013/06/04. doi: 10.1016/s0140-6736(13)60439-0 PMID: 23727165.
+Levey AS, Eckardt K-U, Tsukamoto Y, Levin A, Coresh J, Rossert J, et al. Definition and classification
+of chronic kidney disease: a position statement from Kidney Disease: Improving Global Outcomes
+(KDIGO). Kidney international. 2005; 67(6):2089-398. PMID: 15882252
+Meguid El Nahas A, Bello AK. Chronic kidney disease: the global challenge. Lancet (London, England).
+2005; 365(9456):331-40. Epub 2005/01/25. doi: 10.1016/s0140-6736(05)17789-7 PMID: 15664230.
+Coresh J, Selvin E, Stevens LA, Manzi J, Kusek JW, Eggers P, et al. Prevalence of chronic kidney 
+disease in the United States. Jama. 2007; 298(17):2038-47. Epub 2007/11/08. doi: 10.1001/jama.298.17.
+2038 PMID: 17986697.
+Foley RN, Parfrey PS, Sarnak MJ. Clinical epidemiology of cardiovascular disease in chronic renal 
+disease. American Journal of Kidney Diseases. 1998; 32(5):S112-S9. PMID: 9820470
+Sarnak MJ, Levey AS, Schoolwerth AC, Coresh J, Culleton B, Hamm LL, et al. Kidney disease as a risk
+factor for development of cardiovascular disease: a statement from the American Heart Association
+Councils on Kidney in Cardiovascular Disease, High Blood Pressure Research, Clinical Cardiology,
+and Epidemiology and Prevention. Circulation. 2003; 108(17):2154-69. Epub 2003/10/29. doi: 10.
+1161/01.cir.0000095676.90936.80 PMID: 14581387.
+Jafar T, IslamM, Poulter N. Chronic kidney disease in the developing world. 2006.
+Hovind P, Rossing P, Tarnow L, Smidt UM, Parving HH. Progression of diabetic nephropathy. Kidney
+international. 2001; 59(2):702-9. Epub 2001/02/13. doi: 10.1046/j.1523-1755.2001.059002702.x
+PMID: 11168952.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+15 / 18
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+9.
+Gelber RP, Kurth T, Kausz AT, Manson JE, Buring JE, Levey AS, et al. Association between body
+mass index and CKD in apparently healthy men. American journal of kidney diseases: the official 
+journal of the National Kidney Foundation. 2005; 46(5):871-80. Epub 2005/10/29. doi: 10.1053/j.ajkd.
+2005.08.015 PMID: 16253727.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+Manttari M, Tiula E, Alikoski T, Manninen V. Effects of hypertension and dyslipidemia on the decline in
+renal function. Hypertension. 1995; 26(4):670-5. Epub 1995/10/01. PMID: 7558229.
+Suh DC, Choi IS, Plauschinat C, Kwon J, Baron M. Impact of comorbid conditions and race/ethnicity on
+glycemic control among the US population with type 2 diabetes, 1988-1994 to 1999-2004. Journal of
+diabetes and its complications. 2010; 24(6):382-91. Epub 2009/09/01. doi: 10.1016/j.jdiacomp.2009.
+07.001 PMID: 19716320.
+Braun L, Sood V, Hogue S, Lieberman B, Copley-Merriman C. High burden and unmet patient needs in
+chronic kidney disease. International journal of nephrology and renovascular disease. 2012; 5:151-63.
+Epub 2013/01/08. doi: 10.2147/ijnrd.s37766 PMID: 23293534; PubMed Central PMCID:
+PMCPmc3534533.
+Fraser SD, Roderick PJ, May CR, McIntyre N, McIntyre C, Fluck RJ, et al. The burden of comorbidity in
+people with chronic kidney disease stage 3: a cohort study. BMC nephrology. 2015; 16:193. Epub
+2015/12/02. doi: 10.1186/s12882-015-0189-z PMID: 26620131; PubMed Central PMCID:
+PMCPmc4666158.
+Deji N, Kume S, Araki S-i, Soumura M, Sugimoto T, Isshiki K, et al. Structural and functional changes in
+the kidneys of high-fat diet-induced obese mice. American Journal of Physiology-Renal Physiology.
+2009; 296(1):F118-F26. doi: 10.1152/ajprenal.00110.2008 PMID: 18971213
+Shevalye H, Lupachyk S, Watcho P, Stavniichuk R, Khazim K, Abboud HE, et al. Prediabetic 
+nephropathy as an early consequence of the high-calorie/high-fat diet: relation to oxidative stress. Endocrinology.
+2012; 153(3):1152-61. doi: 10.1210/en.2011-1997 PMID: 22234462
+Kuwabara T, Mori K, MukoyamaM, Kasahara M, Yokoi H, Saito Y, et al. Exacerbation of diabetic
+nephropathy by hyperlipidaemia is mediated by Toll-like receptor 4 in mice. Diabetologia. 2012; 55
+(8):2256-66. Epub 2012/05/23. doi: 10.1007/s00125-012-2578-1 PMID: 22610400.
+Srinivasan K, Viswanad B, Asrat L, Kaul CL, Ramarao P. Combination of high-fat diet-fed and low-dose
+streptozotocin-treated rat: a model for type 2 diabetes and pharmacological screening. 
+Pharmacological research. 2005; 52(4):313-20. Epub 2005/06/28. doi: 10.1016/j.phrs.2005.05.004 PMID:
+15979893.
+Liu Y. Cellular and molecular mechanisms of renal fibrosis. Nature reviews Nephrology. 2011; 7
+(12):684-96. Epub 2011/10/20. doi: 10.1038/nrneph.2011.149 PMID: 22009250; PubMed Central
+PMCID: PMCPmc4520424.
+Eddy AA. Molecular insights into renal interstitial fibrosis. Journal of the American Society of 
+Nephrology. 1996; 7(12):2495-508. PMID: 8989727
+Strutz F, Zeisberg M. Renal fibroblasts and myofibroblasts in chronic kidney disease. Journal of the
+American Society of Nephrology. 2006; 17(11):2992-8. PMID: 17035610
+Böttinger EP, editor TGF-β in renal injury and disease. Seminars in nephrology; 2007: Elsevier.
+Liu Y. Renal fibrosis: new insights into the pathogenesis and therapeutics. Kidney international. 2006;
+69(2):213-7. Epub 2006/01/13. doi: 10.1038/sj.ki.5000054 PMID: 16408108.
+Ghosh AK, Vaughan DE. PAI-1 in tissue fibrosis. Journal of cellular physiology. 2012; 227(2):493-507.
+Epub 2011/04/06. doi: 10.1002/jcp.22783 PMID: 21465481; PubMed Central PMCID:
+PMCPmc3204398.
+Malgorzewicz S, Skrzypczak-Jankun E, Jankun J. Plasminogen activator inhibitor-1 in kidney 
+pathology (Review). International journal of molecular medicine. 2013; 31(3):503-10. Epub 2013/01/15. doi:
+10.3892/ijmm.2013.1234 PMID: 23314920.
+Adly AA, Elbarbary NS, Ismail EA, Hassan SR. Plasminogen activator inhibitor-1 (PAI-1) in children
+and adolescents with type 1 diabetes mellitus: relation to diabetic micro-vascular complications and
+carotid intima media thickness. Journal of diabetes and its complications. 2014; 28(3):340-7. Epub
+2014/03/04. doi: 10.1016/j.jdiacomp.2014.01.011 PMID: 24581943.
+Alessi MC, Juhan-Vague I. PAI-1 and the metabolic syndrome: links, causes, and consequences. 
+Arteriosclerosis, thrombosis, and vascular biology. 2006; 26(10):2200-7. Epub 2006/08/26. doi: 10.1161/
+01.atv.0000242905.41404.68 PMID: 16931789.
+Hamsten A, de Faire U, Walldius G, Dahlen G, Szamosi A, Landou C, et al. Plasminogen activator
+inhibitor in plasma: risk factor for recurrent myocardial infarction. Lancet (London, England). 1987; 2
+(8549):3-9. Epub 1987/07/04. PMID: 2885513.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+16 / 18
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+Kohler HP, Grant PJ. Plasminogen-activator inhibitor type 1 and coronary artery disease. The
+New England journal of medicine. 2000; 342(24):1792-801. Epub 2000/06/15. doi: 10.1056/
+nejm200006153422406 PMID: 10853003.
+Doggrell SA. The role of 5-HT on the cardiovascular and renal systems and the clinical potential of 
+5-HT modulation. Expert opinion on investigational drugs. 2003; 12(5):805-23. Epub 2003/05/02. doi: 10.
+1517/13543784.12.5.805 PMID: 12720492.
+Pakala R, Willerson JT, Benedict CR. Effect of serotonin, thromboxane A2, and specific receptor 
+antagonists on vascular smooth muscle cell proliferation. Circulation. 1997; 96(7):2280-6. PMID: 9337201
+Barradas MA, Gill DS, Fonseca VA, Mikhailidis DP, Dandona P. Intraplatelet serotonin in patients with
+diabetes mellitus and peripheral vascular disease. European journal of clinical investigation. 1988; 18
+(4):399-404. Epub 1988/08/01. PMID: 3139426.
+Hasegawa Y, Suehiro A, Higasa S, Namba M, Kakishita E. Enhancing effect of advanced glycation end
+products on serotonin-induced platelet aggregation in patients with diabetes mellitus. Thrombosis
+research. 2002; 107(6):319-23. Epub 2003/02/05. PMID: 12565718.
+Saini HK, Takeda N, Goyal RK, Kumamoto H, Arneja AS, Dhalla NS. Therapeutic potentials of 
+sarpogrelate in cardiovascular disease. Cardiovascular drug reviews. 2004; 22(1):27-54. Epub 2004/02/24.
+PMID: 14978517.
+Sirtori CR. The pharmacology of statins. Pharmacological research. 2014; 88:3-11. Epub 2014/03/25.
+doi: 10.1016/j.phrs.2014.03.002 PMID: 24657242.
+Campese VM. Dyslipidemia and progression of kidney disease: role of lipid-lowering drugs. Clinical
+and experimental nephrology. 2014; 18(2):291-5. Epub 2014/02/19. doi: 10.1007/s10157-014-0934-9
+PMID: 24535025.
+Kasahara M, Nakagawa T, Yokoi H, Kuwabara T, Yasuno S, Mori K, et al. Do statins play a role in 
+reno-protection? Clinical and experimental nephrology. 2014; 18(2):282-5. Epub 2014/01/11. doi: 10.1007/
+s10157-013-0928-z PMID: 24408222.
+Lee HS, Ku SK. Effect of Picrorrhiza rhizoma extracts on early diabetic nephropathy in 
+streptozotocin-induced diabetic rats. Journal of medicinal food. 2008; 11(2):294-301. Epub 2008/07/05. doi: 10.1089/
+jmf.2007.578 PMID: 18598172.
+Son JY, Kang YJ, Kim KS, Kim TH, Lim SK, Lim HJ, et al. Evaluation of renal toxicity by combination
+exposure to melamine and cyanuric Acid in male sprague-dawley rats. Toxicological research. 2014;
+30(2):99-107. Epub 2014/07/30. PMID: 25071919; PubMed Central PMCID: PMCPmc4112071.
+Kim TH, Hur EG, Kang SJ, Kim JA, Thapa D, Lee YM, et al. NRF2 blockade suppresses colon tumor
+angiogenesis by inhibiting hypoxia-induced activation of HIF-1alpha. Cancer research. 2011; 71
+(6):2260-75. Epub 2011/02/01. doi: 10.1158/0008-5472.can-10-3007 PMID: 21278237.
+Ryoo IG, Shin DH, Kang KS, Kwak MK. Involvement of Nrf2-GSH signaling in TGFbeta1-stimulated
+epithelial-to-mesenchymal transition changes in rat renal tubular cells. Archives of pharmacal research.
+2015; 38(2):272-81. Epub 2014/05/23. doi: 10.1007/s12272-014-0380-y PMID: 24849033.
+Ito M, Kondo Y, Nakatani A, Hayashi K, Naruse A. Characterization of low dose streptozotocin-induced
+progressive diabetes in mice. Environmental toxicology and pharmacology. 2001; 9(3):71-8. Epub
+2001/02/13. PMID: 11167151.
+Reidy K, Kang HM, Hostetter T, Susztak K. Molecular mechanisms of diabetic kidney disease. The
+Journal of clinical investigation. 2014; 124(6):2333-40. Epub 2014/06/04. doi: 10.1172/jci72271 PMID:
+24892707; PubMed Central PMCID: PMCPmc4089448.
+Cooper ME, Vranes D, Youssef S, Stacker SA, Cox AJ, Rizkalla B, et al. Increased renal expression of
+vascular endothelial growth factor (VEGF) and its receptor VEGFR-2 in experimental diabetes. 
+Diabetes. 1999; 48(11):2229-39. Epub 1999/10/27. PMID: 10535459.
+Tsuchida K, Makita Z, Yamagishi S, Atsumi T, Miyoshi H, Obara S, et al. Suppression of transforming
+growth factor beta and vascular endothelial growth factor in diabetic nephropathy in rats by a novel
+advanced glycation end product inhibitor, OPB-9195. Diabetologia. 1999; 42(5):579-88. Epub 1999/
+05/20. doi: 10.1007/s001250051198 PMID: 10333051.
+Abboud HE. Mesangial cell biology. Experimental cell research. 2012; 318(9):979-85. Epub 2012/03/
+15. doi: 10.1016/j.yexcr.2012.02.025 PMID: 22414873.
+Landray MJ, Haynes RJ. Commentary: Controversies in NICE guidance on chronic kidney disease.
+BMJ (Clinical research ed). 2008; 337:a1793. Epub 2008/10/01. doi: 10.1136/bmj.a1793 PMID:
+18824482.
+Herget-Rosenthal S, Feldkamp T, Volbracht L, Kribben A. Measurement of urinary cystatin C by 
+parti-cle-enhanced nephelometric immunoassay: precision, interferences, stability and reference range.
+Annals of clinical biochemistry. 2004; 41(Pt 2):111-8. Epub 2004/03/18. doi: 10.1258/
+000456304322879980 PMID: 15025800.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+17 / 18
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+Herget-Rosenthal S, Marggraf G, Husing J, Goring F, Pietruck F, Janssen O, et al. Early detection of
+acute renal failure by serum cystatin C. Kidney international. 2004; 66(3):1115-22. Epub 2004/08/26.
+doi: 10.1111/j.1523-1755.2004.00861.x PMID: 15327406.
+Wasung ME, Chawla LS, Madero M. Biomarkers of renal function, which and when? Clinica chimica
+acta; international journal of clinical chemistry. 2015; 438:350-7. Epub 2014/09/10. doi: 10.1016/j.cca.
+2014.08.039 PMID: 25195004.
+Doggrell SA. Sarpogrelate: cardiovascular and renal clinical potential. Expert opinion on investigational
+drugs. 2004; 13(7):865-74. Epub 2004/06/24. doi: 10.1517/13543784.13.7.865 PMID: 15212624.
+Kobayashi S, Satoh M, Namikoshi T, Haruna Y, Fujimoto S, Arakawa S, et al. Blockade of serotonin 2A
+receptor improves glomerular endothelial function in rats with streptozotocin-induced diabetic 
+nephropathy. Clinical and experimental nephrology. 2008; 12(2):119-25. Epub 2008/01/05. doi: 10.1007/
+s10157-007-0011-8 PMID: 18175064.
+Hamasaki Y, Doi K, Maeda-Mamiya R, Ogasawara E, Katagiri D, Tanaka T, et al. A 5-hydroxytrypta-
+mine receptor antagonist, sarpogrelate, reduces renal tubulointerstitial fibrosis by suppressing PAI-1.
+American journal of physiology Renal physiology. 2013; 305(12):F1796-803. Epub 2013/10/11. doi:
+10.1152/ajprenal.00151.2013 PMID: 24107419.
+Takahashi T, Yano M, Minami J, Haraguchi T, Koga N, Higashi K, et al. Sarpogrelate hydrochloride, a
+serotonin2A receptor antagonist, reduces albuminuria in diabetic patients with early-stage diabetic
+nephropathy. Diabetes research and clinical practice. 2002; 58(2):123-9. Epub 2002/09/06. PMID:
+12213354.
+Ogawa S, Mori T, Nako K, Ishizuka T, Ito S. Reduced albuminuria with sarpogrelate is accompanied by
+a decrease in monocyte chemoattractant protein-1 levels in type 2 diabetes. Clinical journal of the
+American Society of Nephrology: CJASN. 2008; 3(2):362-8. Epub 2008/02/01. doi: 10.2215/cjn.
+03450807 PMID: 18235151; PubMed Central PMCID: PMCPmc2390947.
+Jagroop IA, Mikhailidis DP. Doxazosin, an alpha1-adrenoceptor antagonist, inhibits serotonin-induced
+shape change in human platelets. Journal of human hypertension. 2001; 15(3):203-7. Epub 2001/04/
+24. doi: 10.1038/sj.jhh.1001146 PMID: 11317206.
+Kasho M, Sakai M, Sasahara T, Anami Y, Matsumura T, Takemura T, et al. Serotonin enhances the
+production of type IV collagen by humanmesangial cells. Kidney international. 1998; 54(4):1083-92.
+Epub 1998/10/10. doi: 10.1046/j.1523-1755.1998.00114.x PMID: 9767524.
+de Zeeuw D, Anzalone DA, Cain VA, Cressman MD, Heerspink HJ, Molitoris BA, et al. Renal effects of
+atorvastatin and rosuvastatin in patients with diabetes who have progressive renal disease (PLANET
+I): a randomised clinical trial. The lancet Diabetes & endocrinology. 2015; 3(3):181-90. Epub 2015/02/
+11. doi: 10.1016/s2213-8587(14)70246-3 PMID: 25660356.
+Athyros VG, Katsiki N, Karagiannis A, Mikhailidis DP. Statins can improve proteinuria and glomerular
+filtration rate loss in chronic kidney disease patients, further reducing cardiovascular risk. Fact or 
+fic-tion? Expert opinion on pharmacotherapy. 2015; 16(10):1449-61. Epub 2015/06/04. doi: 10.1517/
+14656566.2015.1053464 PMID: 26037614.
+Tamura Y, Murayama T, Minami M, YokodeM, Arai H. Differential effect of statins on diabetic 
+nephropathy in db/db mice. International journal of molecular medicine. 2011; 28(5):683-7. Epub 2011/08/13.
+doi: 10.3892/ijmm.2011.769 PMID: 21833465.
+Giunti S, Calkin AC, Forbes JM, Allen TJ, Thomas MC, Cooper ME, et al. The pleiotropic actions of
+rosuvastatin confer renal benefits in the diabetic Apo-E knockout mouse. American journal of 
+physiology Renal physiology. 2010; 299(3):F528-35. Epub 2010/06/18. doi: 10.1152/ajprenal.00127.2010
+PMID: 20554645.
+Oda T, Jung YO, Kim HS, Cai X, Lopez-Guisa JM, Ikeda Y, et al. PAI-1 deficiency attenuates the 
+fibro-genic response to ureteral obstruction. Kidney international. 2001; 60(2):587-96. Epub 2001/07/28.
+doi: 10.1046/j.1523-1755.2001.030002587.x PMID: 11473641.
+Krag S, Danielsen CC, Carmeliet P, Nyengaard J, Wogensen L. Plasminogen activator inhibitor-1 gene
+deficiency attenuates TGF-beta1-induced kidney disease. Kidney international. 2005; 68(6):2651-66.
+Epub 2005/12/01. doi: 10.1111/j.1523-1755.2005.00737.x PMID: 16316341.
+Renal Benefits of Sarpogrelate and Rosuvastatin
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+18 / 18
+
+>>>section: acknowledgements
+
+>>>section: abstract
+Abstract
+Chronic kidney disease (CKD) is a major complication of metabolic disorders such as 
+diabetes mellitus, obesity, and hypertension. Comorbidity of these diseases is the factor 
+exacerbating CKD progression. Statins are commonly used in patients with metabolic disorders to
+decrease the risk of cardiovascular complications. Sarpogrelate, a selective antagonist of
+5-hydroxytryptamine (5-HT) 2A receptor, inhibits platelet aggregation and is used to
+improve peripheral circulation in diabetic patients. Here, we investigated the effects of 
+sarpogrelate and rosuvastatin on CKD in mice that were subjected to a high fat diet (HFD) for
+22 weeks and a single low dose of streptozotocin (STZ, 40 mg/kg). When mice were 
+administrated sarpogrelate (50 mg/kg, p.o.) for 13 weeks, albuminuria and urinary cystatin C
+excretion were normalized and histopathological changes such as glomerular mesangial
+expansion, tubular damage, and accumulations in lipid droplets and collagen were 
+significantly improved. Sarpogrelate treatment repressed the HFD/STZ-induced CD31 and 
+vascular endothelial growth factor receptor-2 expressions, indicating the attenuation of
+glomerular endothelial proliferation. Additionally, sarpogrelate inhibited interstitial fibrosis
+by suppressing the increases in transforming growth factor-β1 (TGF-β1) and plasminogen
+activator inhibitor-1 (PAI-1). All of these functional and histological improvements were also
+seen in rosuvastatin (20 mg/kg) group and, notably, the combinatorial treatment with 
+sarpogrelate and rosuvastatin showed additive beneficial effects on histopathological changes by
+HFD/STZ. Moreover, sarpogrelate reduced circulating levels of PAI-1 that were elevated in
+the HFD/STZ group. As supportive in vitro evidence, sarpogrelate incubation blocked 
+TGF-β1/5-HT-inducible PAI-1 expression in murine glomerular mesangial cells. Taken together,
+sarpogrelate and rosuvastatin may be advantageous to control the progression of CKD in
+patients with comorbid metabolic disorders, and particularly, the use of sarpogrelate as
+adjunctive therapy with statins may provide additional benefits on CKD.
+PLOSONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+1 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+
+>>>section: discussion
+Discussion
+Although causative diseases are distinct, in all CKDs, a loss of normal nephrons results in 
+compensatory glomerular hyperfiltration in the remaining nephrons. Elevated glomerular pressure
+causes endothelial injury and glomerular sclerosis, which ultimately lead to nephron 
+malfunction. Glomerular injury and hyperfiltration give rise to albuminuria and the increase in urinary
+protein is associated with the initiation of inflammation and interstitial fibrosis [46]. Metabolic
+disorders, including obesity, diabetes, hyperlipidemia, and hypertension, are independent 
+factors that are strongly associated with CKD incidence [1]. In addition, multimorbidity of these
+diseases increases the risk of CKD [12, 13]. Here, we investigated the potential beneficial effects
+of sarpogrelate and rosuvastatin on CKD in mice that were treated with 22-week HFD and a
+single and low dose of STZ as a model of metabolic disorder-induced CKD. In our animal
+model, renal morphological changes that are comparable to CKD were shown. These changes
+were mesangial expansion, glomerular endothelial proliferation, tubular damage, lipid 
+accumulation, and collagen deposition. Consistent with these structural changes, urinary excretions of
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+11 / 18
+doi:10.1371/journal.pone.0153965.g006
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+albumin and cystatin C were significantly enhanced, implying a reduction in renal function.
+Because cystatin C undergoes glomerular filtration, proximal tubular reabsorption, and 
+eventually, complete catabolism in proximal tubular cells [47], and therefore, urinary cystatin C level
+can reflect tubular injury [48, 49]. Overall, the increased levels of UACR and the urinary
+12 / 18
+doi:10.1371/journal.pone.0153965.g007
+cystatin C/creatinine ratio indicate dysfunctions in the glomerulus and proximal tubule, and
+confirm the establishment of the metabolic disorder-induced CKDmodel. Using this model,
+we demonstrated that the sarpogrelate and rosuvastatin treatments that were started after 8
+weeks of HFD and STZ, effectively ameliorates CKD progression by improving renal 
+morphological changes and preserving renal function. Notably, combination of sarpogrelate and 
+rosuvastatin showed an additive renoprotective benefit in normalizing histological and
+immunopathological changes of CKD when compared to each treatment alone.
+Sarpogrelate has been efficacious in various animal models of thrombosis, peripheral 
+vascular disease, coronary artery diseases, and atherosclerosis [50]. Additionally, the potential
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+13 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+beneficial effect of sarpogrelate on CKD has been suggested in several animal studies. 
+Sarpogrelate administration for 8 weeks reduced albuminuria, glomerular platelet aggregation, and 
+glomerular NO depletion in STZ-treated rats [51]. In mouse model of fibrosis in which mice were
+fed a 0.2% adenine diet for 6 weeks, sarpogrelate treatment (for 4 weeks) diminished 
+tubulointerstitial fibrosis [52]. This study also demonstrated that renal fibrin deposition and PAI-1
+increase were modulated by sarpogrelate treatment. Consistent with the animal evidence, 
+sarpogrelate treatment improved albuminuria in patients with Type 2 diabetes especially, in the
+early-stage CKD [53]. Similarly, albuminuria was diminished by sarpogrelate in patients with
+diabetic CKD and atherosclerosis who were treated with an angiotensin II antagonist [54]. The
+renoprotective effects of sarpogrelate can be attributed to the blockade of the deleterious effects
+of the 5-HT2A receptor, including vasoconstriction, vascular proliferation, and platelet 
+aggregation [29]. In particular, the involvement of 5-HT in nephropathy has been suggested in several
+reports. Blood 5-HT levels were high in diabetic patients, indicating that 5-HT-mediated 
+platelet aggregation was increased in these patients [31, 32]. Additionally, the sensitivity to 5-HT-
+induced vasoconstriction is significantly elevated in diabetic patients, implying the role of
+5-HT in glomerular endothelial injury [55]. Moreover, 5-HT was shown to increase collagen
+IV production in human mesangial cells through protein kinase C and TGF-β1 activation [56].
+Advantageous effects of statins on the progression of CKD have been observed in clinical
+observations. The Prospective Evaluation of Proteinuria and Renal Function in Diabetic
+Patients with Progressive Renal Disease (PLANET) studies showed that atorvastatin for 52
+days lowered proteinuria in patients with hypercholesterolemia and diabetes [57]. A collective
+analysis of statin studies that had endpoints of CKD and cardiovascular diseases led to a 
+conclusion that statin treatments improved microalbuminuria, proteinuria, and GFR in early
+stages of CKD patients [58]. Based on the association of high lipid levels with CKD prevalence,
+these beneficial effects on CKD can be attributed to the management of dyslipidemia [35].
+However, several animal experiments demonstrated that statins exerted renal benefits that is
+independent on the lipid-lowering effect. Rosuvastatin treatment for 8 weeks reduced the
+excretion of urinary albumin and suppressed glomerular hypertrophy in db/dbmice even
+though blood lipid levels were not altered by drug treatment [59]. In Apo-E knockout mice,
+rosuvastatin administration for 20 weeks showed renoprotective effects that are irrelevant to
+the lipid-lowering effect [60]. This study showed that rosuvastatin diminished the expression
+of NADPH oxidase 4 (NOX4) and receptor for advanced glycation and products (RAGE) in
+the kidney. Similarly to these reports, although rosuvastatin was effective in ameliorating CKD
+progression, rosuvastatin treatment did not affect blood cholesterol levels in our experimental
+design. This implies that additional pleiotropic actions might contribute renal benefits of 
+rosuvastatin. Indeed, rosuvastatin treatment elevated the expression of heme oxygenase-1 (Ho-1), a
+renoprotective anti-inflammatory protein, in our kidney samples (unpublished data). In 
+addition, rosuvastatin treatment suppressed pro-fibrotic PAI-1 levels in the kidney as well as
+mesangial cells.
+PAI-1 blocks plasmin-induced fibrinolysis by inhibiting tissue plasminogen activator (tPA)
+and urokinase plasminogen activator (uPA). In addition to this major role in fibrinolysis, PAI-1
+is involved in ECM homeostasis by inhibiting the plasmin-induced ECM degradation [23, 24].
+The direct link between PAI-1 and renal fibrosis can be drawn from studies with pai-1 null
+mice. Unlike wild-type animals, collagen accumulation and interstitial fibrosis were 
+significantly reduced in pai-1 null animals following unilateral ureteral obstruction [61]. PAI-1-medi-
+ated renal fibrosis is strongly associated with TGF-β1; PAI-1 level and interstitial collagen
+deposition were highly increased in TGF-β1 transgenic mice and on the contrary, pai-1 
+deficiency prevented TGF-β1-induced renal fibrosis and ECM accumulation [62]. Our results 
+indicate that anti-fibrotic effect of sarpogrelate and rosuvastatin can be attributed to the inhibitory
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+14 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+effects on PAI-1 and TGF-β1. Sarpogrelate and rosuvastatin treatment reduced collagen 
+deposition and suppressed HFD/STZ-induced PAI-1 and TGF-β1 increases in the kidney. In addition,
+as shown in vitro, sarpogrelate and rosuvastatin incubation in murine mesangial cells 
+suppressed TGF-β1/5-HT-induced PAI-1 elevation. Interestingly, in addition to tissue levels, 
+sarpogrelate treatment diminished blood PAI-1 levels that were substantially elevated in HFD/STZ
+animals. In humans, there are lines of evidence indicating that increased circulating PAI-1 level
+is related with atherothrombosis incidence [28]. Moreover, blood PAI-1 levels were higher in
+obese patients with metabolic syndrome and in diabetic patients [26]. Considering that subjects
+with metabolic diseases show a higher incidence of cardiovascular diseases, increased 
+circulating PAI-1 levels might be a causative link between metabolic syndrome and atherothrombotic
+diseases, and therefore, the inhibitory effect of sarpogrelate on circulating PAI-1 may imply
+additional benefits of sarpogrelate for the protection of CKD-induced cardiovascular
+complications.
+In conclusion, we demonstrated that sarpogrelate and rosuvastatin could effectively 
+ameliorate HFD/STZ-induced CKD progression by improving histopathological changes in the 
+glomerulus and tubules, and attenuating interstitial fibrosis, albuminuria, and urinary cystatin C
+excretion. These drugs inhibited pro-fibrotic PAI-1 expression in HFD/STZ mouse kidney and
+mesangial cells, indicating a mechanistic basis for the observed histopathological effects. 
+Moreover, combinatorial treatment with sarpogrelate and rosuvastatin was relatively more effective
+in ameliorating histopathological changes when compared to the single drug treatment; 
+therefore, sarpogrelate may have potential benefits for the control of CKD in patients with metabolic
+disorders, particularly in conjunction with statins therapy.
+Author Contributions
+Conceived and designed the experiments: M-KK B-hC EO. Performed the experiments: D-hK
+B-hC J-hP S-KK. Analyzed the data: B-hC S-KK M-KK. Contributed reagents/materials/analy-
+sis tools: EO M-KK. Wrote the paper: B-hC M-KK.
+
+>>>section: results
+Results
+Establishment of HFD/STZ-induced CKDmouse model
+In order to establish a CKD model, C57BL/6JJ mice were subjected to a NFD or a 60%-fat diet
+at 8 weeks of age. During week 8 of the HFD, the mean body weights of mice were 29 g and
+44 g in NFD and HFD groups, respectively. At Week 8 of HFD, a single and low dose of STZ
+(40 mg/kg, p.o.) was injected into HFD group mice to accelerate CKD progression. It was
+shown that a single administration of low dose STZ (100 mg/kg) developed non-insulin 
+dependent diabetes in mice [41]. At 5 days after STZ treatment, the level of fasting blood glucose was
+elevated from 166 mg/dl (NFD) to 220 mg/dl (HFD/STZ), whereas the level of the HFD only
+group was 208 mg/dl (data not shown). One week after STZ injection, treatment with 
+sarpogrelate and rosuvastatin were started and proceeded to week 22, along with the HFD. The body
+weights of STZ-treated mice decreased slightly week 10. However, all groups showed steady
+increases in body weight after week 11, and there were no noticeable differences between 
+treatment groups (Fig 1A). During the treatment period, the fasting blood glucose level was 
+determined at week 15. The results show that the HFD-STZ group displayed a higher level of blood
+glucose than the NFD mice (Fig 1B). The HFD only group showed a lower fasting glucose level
+than HFD/STZ group although no statistical significance was observed (unpublished data),
+which implied that STZ treatment contributed to CKD acceleration. Drug treatment did not
+show statistically significant changes in HFD/STZ-induced glucose increase.
+doi:10.1371/journal.pone.0153965.g001
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+Sarpogrelate and rosuvastatin attenuate renal dysfunction in HFD/STZ
+mice
+At week 21, mouse urine was collected for 15 h and the levels of urine albumin, cystatin C, total
+protein, and creatinine were determined in order to monitor renal function. The urine
+6 / 18
+doi:10.1371/journal.pone.0153965.g002
+albumin-to-creatinine ratio (UACR) was elevated by 2.37-fold in the HFD/STZ group 
+compared to the NFD group, which implies that CKD developed in these mice (Fig 2A). All 
+treatment groups showed complete prevention of UACR increase, indicating that sarpogrelate,
+rosuvastatin, and their combination are all effective for CKD protection. Similarly, when
+another renal dysfunction marker, cystatin C was measured, the magnitude of the urine 
+cystatin C-to-creatinine ratio significantly increased in the HFD/STD group, and drug treatment
+groups showed significant decreases (Fig 2B). Whereas, the urine protein-to-creatinine ratio
+was not elevated in the HFD/STZ group compared to the NFD group (data not shown). These
+results indicate that the combination of the HFD and a single low dose of STZ resulted in an
+UACR increase, which is a prototypical marker of diabetic CKD. In this animal model, 
+sarpogrelate and rosuvastatin significantly ameliorated renal dysfunction and improved UACR and
+urinary cystatin C excretion.
+All animals were terminated at Week 22. In final samples, the mean blood cholesterol level
+was significantly elevated the HFD/STZ mice when compared to the NFD mice. However, total
+triglyceride and BUN levels did not show significant increases (Table 1). The final body
+weights, kidney weights, and blood cholesterol were not altered by drug treatments. The 
+sarpogrelate treatment group showed a triglyceride increase compared with the HFD/STZ group,
+raising a concern about the negative effect of sarpogrelate on blood lipid levels. However, we
+observed that the HFD-induced fatty liver development was substantially diminished by 
+sarpogrelate treatment (unpublished data). In addition, our additional recent data indicated that 
+sarpogrelate administration in HFD mice (for 12 weeks) did not affect blood triglyceride levels
+(unpublished data). Although further examination is required, these results indicate that the
+unwanted effects of sarpogrelate on blood lipid regulation might be minimal.
+Sarpogrelate and rosuvastatin ameliorate renal structural changes
+CKD is accompanied by several renal structural changes, including glomerular and mesangial
+expansion, glomerular endothelial proliferation, ECM accumulation, and tubular damage [42].
+Histopathological examination of renal tissues showed glomerular structural changes: glomerular
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+7 / 18
+Renal Benefits of Sarpogrelate and Rosuvastatin
+vasodilation and mesangial expansion were substantially elevated in the HFD/STZ group when
+compared to the NFD (Fig 3A and 3B). The HFD/STZ mice showed statistically significant
+increases in the numbers of vacuoles or lipid droplets deposition in renal tubules (Fig 3A, 3C and
+3D). Consistent with these morphologic changes, the level of caspase 3-reactive regions, another
+marker of tubular damage, was elevated in HFD/STZmice (Fig 3E). Notably, these 
+histomorpho-metric and immunohistochemical changes were significantly attenuated by treatment with 
+sarpogrelate or rosuvastatin. In particular, the combination of sarpogrelate and rosuvastatin
+displayed additive effects in all three of these parameters. These results indicate that the HFD/
+STZ-induced nephropathy was effectively ameliorated by sarpogrelate and rosuvastatin.
+Sarpogrelate and rosuvastatin suppress glomerular endothelial
+proliferation
+Abnormal angiogenesis plays a pathological role in CKD [43, 44]. In order to monitor renal
+angiogenesis, the levels of CD31, a marker of endothelial cells, and VEGFR-2 were determined
+using immunohistochemical analysis. The HFD/STZ group showed increases in CD31 and
+VEGFR-2 protein levels, indicating that angiogenesis is aberrantly activated in the kidneys (Fig
+4A-4C). On the other hand, the treatment of mice with sarpogrelate and rosuvastatin 
+effectively attenuated CD31 and VEGFR-2 increases. Furthermore, the enhanced protective effects
+of sarpogrelate and rosuvastatin in combination were statistically significant.
+HFD/STZ-induced renal fibrosis is diminished by sarpogrelate and
+rosuvastatin
+The deposition of ECM in the glomerulus and tubule, and progressive tublointerstitial fibrosis
+are major determinants of CKD [20]. In the HFD/STZ animals, cortex collagen deposition
+indicated by Sirus red staining was highly elevated compared to the NFD group (Fig 5A). In
+contrast, sarpogrelate and/or rosuvastatin reduced collagen staining. The HFD/STZ-induced
+increase in the collagen type IV and collagen type I levels were consistently reduced by 
+sarpogrelate and rosuvastatin (Fig 5B and 5C).
+Accumulation of ECM is associated with enhanced levels of TGF-β1 and PAI-1 in the 
+kidney [22]. Immunohistochemical analyses showed that HFD/STZ treatment elevates kidney 
+levels of TGF-β1 and PAI-1 and that these increases were ameliorated by drug treatments (Fig 6A
+and 6B). Similarly to histomorphological improvements, the combination treatment with
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+8 / 18
+aP < 0.05 compared with the NFD control group. bP< 0.05 compared with the HFD/STZ group. cP < 0.05 compared with the HFD/STZ + Sa group. dP < 0.05
+compared with the HFD/STZ + R group. Two histological fields for each kidney tissue were analyzed. All data represent means ± SD. Scale bar = 120 μm.
+doi:10.1371/journal.pone.0153965.g003
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+sarpogrelate and rosuvastatin showed significantly enhanced suppressions in TGF-β1 and
+PAI-1. Western blot analysis confirmed the suppressive effects of sarpogrelate rosuvastatin on
+PAI-1 increase (Fig 6C). At the same time, it was notable that serum level of PAI-1 was elevated
+2.54-fold in mice with HFD/STZ treatment when compared with the NFD mice. This increase
+could be diminished by sarpogrelate treatment (Fig 6D), indicating that sarpogrelate modulates
+the circulating level of PAI-1 in HFD/STZ mice.
+9 / 18
+doi:10.1371/journal.pone.0153965.g004
+Sarpogrelate inhibits PAI-1 expression in glomerular mesangial cells
+Glomerular mesangial cells play a critical role in the maintenance of structure of the glomerular
+microvascular beds [45]. When these cells are confronted with detrimental stimuli such as 
+metabolic and hemodynamic injuries, mesangial cells are activated to undergo proliferation and
+excessive ECM production [45]. Histomorphological analysis showed that sarpogrelate 
+ameliorated mesangial expansion and glomerular enlargement, and reduced collagen depositions in
+the HFD/STZ mouse kidney. In order to have in vitro evidence, the murine mesangial cell line
+MES13 was incubated with sarpogrelate and rosuvastatin, and the levels of the pro-fibrotic 
+factor PAI-1 were monitored. The incubation of MES13 with sarpogrelate (10 μM) and varied
+concentrations of rosuvastatin (2.5-40 μM) did not alter cell numbers, indicating no cytotoxic
+and proliferative effects (Fig 7A). The incubation of MES13 with TGF-β1 (10 ng/ml) for 24 h
+elevated PAI-1 level and this increase was further enhanced by the co-incubation with 5-HT
+(10 μM). Whereas, the TGF-β1/5-HT-induced PAI-1 increase was prevented by sarpogrelate
+pre-incubation (Fig 7B). Similarly, the level of PAI-1 that was elevated by co-incubation with
+TGF-β1 and 5-HT was blocked by sarpogrelate and rosuvastatin (10 μM) pre-incubation (Fig
+7C). There was a trend for the TGF-β1/5-HT-inducible PAI-1 mRNA level to be diminished by
+sarpogrelate treatment; however, no statistical significance was obtained, implying the 
+involvement of post-translational regulation mechanism (Fig 7D). Our results indicate that 
+sarpogrelate reduced the PAI-1 protein level in mesangial cells and that this could be one of the
+molecular mechanisms mediating the renoprotective effect of sarpogrelate.
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+10 / 18
+obtained from three independent blots.
+doi:10.1371/journal.pone.0153965.g005
+
+>>>section: introduction
+a11111
+OPEN ACCESS
+Citation: Kim D-h, Choi B-h, Ku S-K, Park J-h, Oh E,
+Kwak M-K (2016) Beneficial Effects of Sarpogrelate
+and Rosuvastatin in High Fat Diet/Streptozotocin-
+Induced Nephropathy in Mice. PLoS ONE 11(4):
+e0153965. doi:10.1371/journal.pone.0153965
+Editor: Leighton R James, University of Florida,
+UNITED STATES
+Received: December 28, 2015
+Accepted: April 6, 2016
+Published: April 20, 2016
+Copyright: © 2016 Kim et al. This is an open access
+article distributed under the terms of the Creative
+Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any
+medium, provided the original author and source are
+credited.
+Data Availability Statement: All relevant data are
+within the paper.
+Funding: This work was supported by the National
+Research Foundation of Korea (NRF) grant funded
+by the Korea government (MSIP) (NRF-
+2013M3A9B5075839 and 
+NRF-2013R1A2A2A01015497).
+Competing Interests: The authors have declared
+that no competing interests exist.
+RESEARCH ARTICLE
+Beneficial Effects of Sarpogrelate and
+Rosuvastatin in High Fat Diet/Streptozotocin-
+Induced Nephropathy in Mice
+Dong-hyun Kim1☯, Bo-hyun Choi1☯, Sae-Kwang Ku2, Jeong-hyeon Park1, Euichaul Oh1,
+Mi-Kyoung Kwak1*
+1 College of pharmacy, The Catholic University of Korea, Bucheon, Gyeonggi-do, 420-743, Republic of
+Korea, 2 College of Korean Medicine, Daegu Haany University, Gyeongsan, Gyeonsangbuk-do, 712-715,
+Republic of Korea
+☯ These authors contributed equally to this work.
+*mkwak@catholic.ac.kr
+Introduction
+Chronic kidney disease (CKD) is defined by the gradual reduction in glomerular filtration rate
+(GFR) and elevation in urinary albumin excretion [1, 2]. CKD is a progressive disease that 
+proceeds to end-stage renal disease (ESRD) in which patients are in need of renal dialysis or kidney
+transplantation [3]. It has been estimated that more than 10% of adults have CKD and the
+prevalence is much greater in high-risk populations such as elderly people [1, 4]. The 
+significance of CKD can be found in its strong correlation with the cardiovascular diseases: CKD
+patients exhibited higher rates of incidence in myocardial infarction, heart failure, and stroke
+[5, 6].
+As causative diseases of CKD, metabolic disorders such as obesity, diabetes mellitus, 
+hyper-lipidemia, and hypertension showed strong associations with CKD [1, 7]. Diabetic CKD is the
+leading cause of ESRD, and CKD prevalence in diabetic patients was known to be up to 40%
+[8]. In a large cohort study of health men, increased body mass index showed a significantly
+higher CKD risk after a 14-year follow up [9]. The decline of renal function in middle-aged
+men with dyslipidemia was accelerated by the increased levels of the low-density lipoprotein
+(LDL)-high-density lipoprotein (HDL) ration [10]. It is noteworthy that metabolic disorders
+are usually comorbid diseases. In the cohort study of the National Health and Nutrition 
+Examination Survey (NHANES), 61% of patients with type 2 diabetes were obese and 46% of diabetic
+patients had lipid abnormalities [11]. Comorbid illness affected CKD prevalence: patients with
+comorbidities of metabolic disorders have a greater risk for CKD aggravation than patients
+with s single disease do [12]. In a cohort of patients with CKD stage 3, multimorbidity of 
+metabolic disorders showed the association with the GFR decrease [13]. As an animal model of 
+metabolic disorders, high-fat diet (HFD) has been used widely [14]. Particularly, it was shown that
+HFD (16 weeks) in C57BL/6JJ mice developed a prediabetic nephropathy that accompanied
+albuminuria, glomerular enlargement, and marginal levels of collagen deposition [15]. In 
+addition, HFD-induced nephropathy has been exacerbated by the addition of low dose of 
+streptozotocin (STZ), indicating that the coexistence of metabolic diseases can accelerate CKD [16, 17].
+Tubulointerstitial fibrosis is one of major features and a reliable predictor of progressive 
+diabetic CKD [18]. In fibrotic CKD lesions, excessive accumulation of extracellular matrix (ECM)
+such as collagen, fibronectin and laminin is observed [19, 20]. It has been demonstrated that
+transforming growth factor-β1 (TGF-β1) is an important mediator that produces ECM in 
+various renal cell types such as fibroblasts, tubular epithelial cells, and mesangial cells [21, 22].
+Plasminogen activator inhibitor-1 (PAI-1) is a well-known downstream target of TGF-β1 
+signaling [23, 24]. PAI-1 prevents the degradation of ECM proteins by inhibiting the conversion
+of tissue plasminogen to plasmin, a matrix metalloproteinase (MMP)-like protease [23]. In
+addition, the level of plasma PAI-1 correlated with the pathologies of diabetes, obesity, and 
+cardiovascular disease [25-28].
+Platelet serotonin (5-hydroxytryptamine; 5-HT) is released to the systemic circulation
+where it mediates multiple deleterious functions, including vascular smooth muscle 
+constriction and proliferation, and platelet aggregation through the 5-HT2A receptor [29, 30]. In 
+diabetic patients, platelets are activated and therefore the plasma 5-HT level is high and platelet
+aggregation in enhanced [31, 32]. Sarpogrelate, a selective 5-HT2A receptor antagonist, is an
+anti-platelet drug and is currently used in patients with peripheral arterial disease and diabetes
+[33]. Based on the association of 5-HT with diabetic vasculature, a beneficial effect of 
+sarpogrelate on metabolic disorder-induced CKD can be hypothesized. The statin therapy is commonly
+used for the patients with metabolic disorders to reduce the risk of cardiovascular events [34].
+Based on the clinical observations showing the linkage between dyslipidemia and CKD, the
+potential benefits of statin therapy has gained great attentions [35, 36]. Based on these, in order
+PLOS ONE | DOI:10.1371/journal.pone.0153965 April 20, 2016
+2 / 18
+to investigate the potential therapeutic effects of sarpogrelate and rosuvastatin on CKD, we
+used the HFD-fed C57BL/6JJ mice that were administered with a single and low dose of STZ as
+a model of metabolic disorder-induced CKD. In addition, because many patients with 
+metabolic disorders are under the statin treatment to treat comorbid dyslipidemia and to prevent
+cardiovascular events, we also asked the potential renobeneficial effects of combination of 
+sarpogrelate and rosuvastatin in these mice.
+
+>>>section: table_1
+Table 1. After the completion of animal experiment, body weight and kidney weight were determined, and blood levels of cholesterol, triglycerides, 
+and BUNwere measured. Data are means ± SD 
+Treatments 
+variables 
+NFD 
+HFD/STZ 
+sarpogrelate 
+rosuvastatin 
+Sarpogrelate+rosuvastatin 
+(n = 4) 
+(n = 5) 
+(n = 8) 
+(n = 7) 
+(n = 7) 
+Body weight (g) 
+30.78 ± 1.29 
+47.42 ± 3.11a 
+44.70 ± 5.11 
+42.69 ± 3.55 
+43.54 ± 6.17 
+Kidney weight (g) 
+0.211 ± 0.01 
+0.209 ± 0.01 
+0.206 ± 0.03 
+0.202 ± 0.03 
+0.203 ± 0.04 
+Cholesterol (mg/dl) 
+100.00 ± 13.37 
+144.60 ± 10.50a 
+155.63 ± 29.90 
+145.00 ± 22.39 
+132.29 ± 14.30 
+Triglyceride (mg/dl) 
+60.75 ± 13.72 
+61.80 ± 15.24 
+88.50 ± 15.95b 
+58.86 ± 14.35 
+76.57 ± 9.98 
+BUN (mg/dl) 
+24.75 ± 5.91 
+21.00 ± 3.74 
+21.38 ± 2.45 
+19.71 ± 3.90 
+20.00 ± 6.98 
+aP < 0.05 compared with the NFD group. 
+bP < 0.05 compared with the HFD/STZ group. 
+doi:10.1371/journal.pone.0153965.t001 
+
+>>>section: figure_1
+Fig 1. Establishment of the HFD/STZmousemodel. (A) After STZ treatment at Week 8, body weight changes in HFD-fed mice were monitored once per 
+week. HFD was stared aWeek 1 and was continued for 22 weeks. Drug treatments began at Week 9 and continued for 13 weeks. (B) Fasting blood glucose 
+levels were monitored at Week 15 of HFD. Mice were fasted overnight (12 h) and blood glucose levels were measured with an Accu-Chek blood glucose 
+meter. The data are means ± standard deviation (SD) from 4-8 samples. aP < 0.05 compared with the NFD group. 
+
+>>>section: figure_2
+Renal Benefits of Sarpogrelate and Rosuvastatin 
+Fig 2. Effects of sarpogrelate (Sa) and rosuvastatin (R) on HFD/STZ-induced renal function. (A) At Week 20 of the HFD, urine samples were collected 
+overnight (15 h) for three consecutive days, and levels of urine albumin were determined in pooled urines. Albumin levels were normalized with 
+corresponding urine creatinine levels to obtain the urine albumin-to-creatinine ratio (UACR) values. (B) Urine cystatin C levels were normalized with 
+corresponding creatinine (CR) levels. The data are means ± SD from 3 pooled urine samples. aP < 0.05 compared with the NFD group. bP < 0.05 compared 
+with the HFD/STZ group. 
+
+>>>section: figure_3
+Renal Benefits of Sarpogrelate and Rosuvastatin 
+Fig 3. Effects of sarpogrelate and rosuvastatin on histomorphological changes in HFD/STZmice. (A) H&E staining was performed in kidney tissues 
+and representative histopathological images (cortex (a), glomerulus (b), and renal tubules (c)) are shown. Scale bar = 120 μm. (B) Numbers of glomeruli that 
+display vasodilation and mesangial expansion were quantified with a computer-based automated image analyzer. (C) Numbers of tubules with vacuolation 
+were quantified. (D) Oil red O staining was conducted and cortex areas with positive staining were quantified with a computer-based automated image 
+analyzer. (E) Immunohistochemical staining was performed with caspase-3-specific antibody. Areas with caspase-3-positive staining were quantified. 
+
+>>>section: figure_4
+Renal Benefits of Sarpogrelate and Rosuvastatin 
+Fig 4. Amelioration effects of sarpogrelate and rosuvastatin on the expression of angiogenicmarkers CD31 and VEGFR-2. (A) Immunohistochemcial 
+analyses were carried out with CD31- or VEGFR-2-specific antibodies and representative immunoreactive cortex regions are shown. (B-C) The CD31 (B) or 
+VEGFR-2 (C)-positive cortex areas were quantified. aP < 0.05 compared with the NFD control group. bP< 0.05 compared with the HFD/STZ group. cP < 0.05 
+compared with the HFD/STZ + Sa group. dP < 0.05 compared with the HFD/STZ + R group. Two histological fields for each kidney tissue were analyzed. All 
+data represent means ± SD. Scale bar = 120 μm. 
+
+>>>section: figure_5
+Renal Benefits of Sarpogrelate and Rosuvastatin 
+Fig 5. Attenuation of collagen deposition by sarpogrelate and rosuvastatin. (A) Kidney tissues were stained with Sirius red and cortex areas with 
+collagen deposition were quantified. Two histological fields for each kidney tissue were analyzed. All data represent means ± SD. Scale bar = 120 μm (B) 
+Protein levels of collagen type IV in kidney homogenates were assessed with western blot analysis. Data are means ± SD from three determinants of pooled 
+samples. aP < 0.05 compared with the NFD control group. bP < 0.05 compared with the HFD/STZ group. cP < 0.05 compared with the HFD/STZ +Sa group. 
+dP < 0.05 compared with the HFD/STZ + R group. (C) Protein levels of renal collagen type Ia1 were monitored with western blot analysis. Similar blots were 
+
+>>>section: figure_6
+Renal Benefits of Sarpogrelate and Rosuvastatin 
+Fig 6. Inhibitory effects of sarpogrelate and rosuvastatin on pro-fibrotic factor TGF-β1 and PAI-1. (A-B) Immunohistological analysis was performed 
+with TGF-β1 and PAI-1 antibodies. Cortex areas with TGF-β1 (A) and PAI-1 (B) expression were quantified. Two histological fields for each kidney tissue were 
+analyzed. All data represent means ± SD. Scale bar = 120 μm. (C) Protein levels of PAI-1 in the kidney were determined with western blot analysis. Data are 
+means ± SD from 3measurement of pooled samples. aP < 0.05 compared with NFD control group. bP < 0.05 compared with the HFD/STZ group. cP < 0.05 
+compared with the HFD/STZ + Sa group. dP < 0.05 compared with the HFD/STZ + R group. (D) Serum levels of PAI-1 were monitored in blood samples that 
+were obtained at the terminal step using an ELISA-based kit. Data are means ± SD from 4-8 samples. aP < 0.05 compared with the NFD control group. 
+
+>>>section: figure_7
+Renal Benefits of Sarpogrelate and Rosuvastatin 
+Fig 7. Suppressive effects of sarpogrelate on TGF-β1/5-HT-mediated PAI-1 increase in mesangial cells. (A) MES13 cells were incubated with 
+sarpogrelate (Sa, 10 μM) along with vehicle (V, medium) or rosuvastatin (R, 2.5-40 μM) for 24 h, and viable cell numbers were assessed with MTT analysis. 
+Data represent ratios with respect to untreated (UT) control group. Data are means ± SD from three experiments. (B) MES13 cells were pre-incubated with 
+sarpogrelate (10 μM) for 6 h and then TGF-β1 (10 ng/ml) was additionally incubated for 24 h along with either vehicle (V) or 5-HT (10 μM). Levels of PAI-1 
+were assessed with western blotting. Data are means ± SD from three independent experiments. (C) MES13 cells were pretreated with sarpogrelate (10 μM), 
+rosuvastatin (10 μM) or both for 6 h, and then TGF-β1 (10 ng/ml) and 5-HT (10 μM) were co-incubated for a further 24 h. Data are means ± SD from three 
+independent experiments. (D) After the treatment of MES13 with sarpogrelate and TGF-β1/5-HT, transcript levels for PAI-1 were quantified with relative real- 
+time RT-PCR analysis. Sarpogrelate was pre-incubated for 6 h and the TGF-β1/5-HT incubation was followed for a further 24 h. Data are means ± SD from 
+three experiments. 
+
+**References**
+ References
+1
+2
+3
+4
+5
+6
+7
+8 Eckardt KU Coresh J Devuyst O Johnson RJ Kottgen A Levey AS et al Evolving importance of kid- ney disease from subspecialty to global health burden Lancet (London England) 2013 382 (9887)158-69 Epub 2013/06/04 doi 101016/s0140-6736(13)60439-0 PMID 23727165 Levey AS Eckardt K-U Tsukamoto Y Levin A Coresh J Rossert J et al Definition and classification of chronic kidney disease a position statement from Kidney Disease Improving Global Outcomes (KDIGO) Kidney international 2005 67(6)2089-398 PMID 15882252 Meguid El Nahas A Bello AK Chronic kidney disease the global challenge Lancet (London England) 2005 365(9456)331-40 Epub 2005/01/25 doi 101016/s0140-6736(05)17789-7 PMID 15664230 Coresh J Selvin E Stevens LA Manzi J Kusek JW Eggers P et al Prevalence of chronic kidney dis- ease in the United States Jama 2007 298(17)2038-47 Epub 2007/11/08 doi 101001/jama29817 2038 PMID 17986697 Foley RN Parfrey PS Sarnak MJ Clinical epidemiology of cardiovascular disease in chronic renal dis- ease American Journal of Kidney Diseases 1998 32(5)S112-S9 PMID 9820470 Sarnak MJ Levey AS Schoolwerth AC Coresh J Culleton B Hamm LL et al Kidney disease as a risk factor for development of cardiovascular disease a statement from the American Heart Association Councils on Kidney in Cardiovascular Disease High Blood Pressure Research Clinical Cardiology and Epidemiology and Prevention Circulation 2003 108(17)2154-69 Epub 2003/10/29 doi 10 1161/01cir00000956769093680 PMID 14581387 Jafar T IslamM Poulter N Chronic kidney disease in the developing world 2006 Hovind P Rossing P Tarnow L Smidt UM Parving HH Progression of diabetic nephropathy Kidney international 2001 59(2)702-9 Epub 2001/02/13 doi 101046/j1523-17552001059002702x PMID 11168952 PLOS ONE | DOI101371/journalpone0153965 April 20 2016 15 / 18 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+9 Gelber RP Kurth T Kausz AT Manson JE Buring JE Levey AS et al Association between body mass index and CKD in apparently healthy men American journal of kidney diseases the official jour- nal of the National Kidney Foundation 2005 46(5)871-80 Epub 2005/10/29 doi 101053/jajkd 200508015 PMID 16253727 Renal Benefits of Sarpogrelate and Rosuvastatin Manttari M Tiula E Alikoski T Manninen V Effects of hypertension and dyslipidemia on the decline in renal function Hypertension 1995 26(4)670-5 Epub 1995/10/01 PMID 7558229 Suh DC Choi IS Plauschinat C Kwon J Baron M Impact of comorbid conditions and race/ethnicity on glycemic control among the US population with type 2 diabetes 1988-1994 to 1999-2004 Journal of diabetes and its complications 2010 24(6)382-91 Epub 2009/09/01 doi 101016/jjdiacomp2009 07001 PMID 19716320 Braun L Sood V Hogue S Lieberman B Copley-Merriman C High burden and unmet patient needs in chronic kidney disease International journal of nephrology and renovascular disease 2012 5151-63 Epub 2013/01/08 doi 102147/ijnrds37766 PMID 23293534 PubMed Central PMCID PMCPmc3534533 Fraser SD Roderick PJ May CR McIntyre N McIntyre C Fluck RJ et al The burden of comorbidity in people with chronic kidney disease stage 3 a cohort study BMC nephrology 2015 16193 Epub 2015/12/02 doi 101186/s12882-015-0189-z PMID 26620131 PubMed Central PMCID PMCPmc4666158 Deji N Kume S Araki S-i Soumura M Sugimoto T Isshiki K et al Structural and functional changes in the kidneys of high-fat diet-induced obese mice American Journal of Physiology-Renal Physiology 2009 296(1)F118-F26 doi 101152/ajprenal001102008 PMID 18971213 Shevalye H Lupachyk S Watcho P Stavniichuk R Khazim K Abboud HE et al Prediabetic nephropa- thy as an early consequence of the high-calorie/high-fat diet relation to oxidative stress Endocrinology 2012 153(3)1152-61 doi 101210/en2011-1997 PMID 22234462 Kuwabara T Mori K MukoyamaM Kasahara M Yokoi H Saito Y et al Exacerbation of diabetic nephropathy by hyperlipidaemia is mediated by Toll-like receptor 4 in mice Diabetologia 2012 55 (8)2256-66 Epub 2012/05/23 doi 101007/s00125-012-2578-1 PMID 22610400 Srinivasan K Viswanad B Asrat L Kaul CL Ramarao P Combination of high-fat diet-fed and low-dose streptozotocin-treated rat a model for type 2 diabetes and pharmacological screening Pharmacologi- cal research 2005 52(4)313-20 Epub 2005/06/28 doi 101016/jphrs200505004 PMID 15979893 Liu Y Cellular and molecular mechanisms of renal fibrosis Nature reviews Nephrology 2011 7 (12)684-96 Epub 2011/10/20 doi 101038/nrneph2011149 PMID 22009250 PubMed Central PMCID PMCPmc4520424 Eddy AA Molecular insights into renal interstitial fibrosis Journal of the American Society of Nephrol- ogy 1996 7(12)2495-508 PMID 8989727 Strutz F Zeisberg M Renal fibroblasts and myofibroblasts in chronic kidney disease Journal of the American Society of Nephrology 2006 17(11)2992-8 PMID 17035610 Böttinger EP editor TGF-β in renal injury and disease Seminars in nephrology 2007 Elsevier Liu Y Renal fibrosis new insights into the pathogenesis and therapeutics Kidney international 2006 69(2)213-7 Epub 2006/01/13 doi 101038/sjki5000054 PMID 16408108 Ghosh AK Vaughan DE PAI-1 in tissue fibrosis Journal of cellular physiology 2012 227(2)493-507 Epub 2011/04/06 doi 101002/jcp22783 PMID 21465481 PubMed Central PMCID PMCPmc3204398 Malgorzewicz S Skrzypczak-Jankun E Jankun J Plasminogen activator inhibitor-1 in kidney pathol- ogy (Review) International journal of molecular medicine 2013 31(3)503-10 Epub 2013/01/15 doi
+103892/ijmm20131234 PMID 23314920 Adly AA Elbarbary NS Ismail EA Hassan SR Plasminogen activator inhibitor-1 (PAI-1) in children and adolescents with type 1 diabetes mellitus relation to diabetic micro-vascular complications and carotid intima media thickness Journal of diabetes and its complications 2014 28(3)340-7 Epub 2014/03/04 doi 101016/jjdiacomp201401011 PMID 24581943 Alessi MC Juhan-Vague I PAI-1 and the metabolic syndrome links causes and consequences Arte- riosclerosis thrombosis and vascular biology 2006 26(10)2200-7 Epub 2006/08/26 doi 101161/ 01atv00002429054140468 PMID 16931789 Hamsten A de Faire U Walldius G Dahlen G Szamosi A Landou C et al Plasminogen activator inhibitor in plasma risk factor for recurrent myocardial infarction Lancet (London England) 1987 2 (8549)3-9 Epub 1987/07/04 PMID 2885513 PLOS ONE | DOI101371/journalpone0153965 April 20 2016 16 / 18 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 Kohler HP Grant PJ Plasminogen-activator inhibitor type 1 and coronary artery disease The New England journal of medicine 2000 342(24)1792-801 Epub 2000/06/15 doi 101056/ nejm200006153422406 PMID 10853003 Doggrell SA The role of 5-HT on the cardiovascular and renal systems and the clinical potential of 5- HT modulation Expert opinion on investigational drugs 2003 12(5)805-23 Epub 2003/05/02 doi 10 1517/13543784125805 PMID 12720492 Pakala R Willerson JT Benedict CR Effect of serotonin thromboxane A2 and specific receptor antag- onists on vascular smooth muscle cell proliferation Circulation 1997 96(7)2280-6 PMID 9337201 Barradas MA Gill DS Fonseca VA Mikhailidis DP Dandona P Intraplatelet serotonin in patients with diabetes mellitus and peripheral vascular disease European journal of clinical investigation 1988 18 (4)399-404 Epub 1988/08/01 PMID 3139426 Hasegawa Y Suehiro A Higasa S Namba M Kakishita E Enhancing effect of advanced glycation end products on serotonin-induced platelet aggregation in patients with diabetes mellitus Thrombosis research 2002 107(6)319-23 Epub 2003/02/05 PMID 12565718 Saini HK Takeda N Goyal RK Kumamoto H Arneja AS Dhalla NS Therapeutic potentials of sarpo- grelate in cardiovascular disease Cardiovascular drug reviews 2004 22(1)27-54 Epub 2004/02/24 PMID 14978517 Sirtori CR The pharmacology of statins Pharmacological research 2014 883-11 Epub 2014/03/25 doi 101016/jphrs201403002 PMID 24657242 Campese VM Dyslipidemia and progression of kidney disease role of lipid-lowering drugs Clinical and experimental nephrology 2014 18(2)291-5 Epub 2014/02/19 doi 101007/s10157-014-0934-9 PMID 24535025 Kasahara M Nakagawa T Yokoi H Kuwabara T Yasuno S Mori K et al Do statins play a role in reno- protection? Clinical and experimental nephrology 2014 18(2)282-5 Epub 2014/01/11 doi 101007/ s10157-013-0928-z PMID 24408222 Lee HS Ku SK Effect of Picrorrhiza rhizoma extracts on early diabetic nephropathy in streptozotocin- induced diabetic rats Journal of medicinal food 2008 11(2)294-301 Epub 2008/07/05 doi 101089/ jmf2007578 PMID 18598172 Son JY Kang YJ Kim KS Kim TH Lim SK Lim HJ et al Evaluation of renal toxicity by combination exposure to melamine and cyanuric Acid in male sprague-dawley rats Toxicological research 2014 30(2)99-107 Epub 2014/07/30 PMID 25071919 PubMed Central PMCID PMCPmc4112071 Kim TH Hur EG Kang SJ Kim JA Thapa D Lee YM et al NRF2 blockade suppresses colon tumor angiogenesis by inhibiting hypoxia-induced activation of HIF-1alpha Cancer research 2011 71 (6)2260-75 Epub 2011/02/01 doi 101158/0008-5472can-10-3007 PMID 21278237 Ryoo IG Shin DH Kang KS Kwak MK Involvement of Nrf2-GSH signaling in TGFbeta1-stimulated epithelial-to-mesenchymal transition changes in rat renal tubular cells Archives of pharmacal research 2015 38(2)272-81 Epub 2014/05/23 doi 101007/s12272-014-0380-y PMID 24849033 Ito M Kondo Y Nakatani A Hayashi K Naruse A Characterization of low dose streptozotocin-induced progressive diabetes in mice Environmental toxicology and pharmacology 2001 9(3)71-8 Epub 2001/02/13 PMID 11167151 Reidy K Kang HM Hostetter T Susztak K Molecular mechanisms of diabetic kidney disease The Journal of clinical investigation 2014 124(6)2333-40 Epub 2014/06/04 doi 101172/jci72271 PMID 24892707 PubMed Central PMCID PMCPmc4089448 Cooper ME Vranes D Youssef S Stacker SA Cox AJ Rizkalla B et al Increased renal expression of vascular endothelial growth factor (VEGF) and its receptor VEGFR-2 in experimental diabetes Diabe- tes 1999 48(11)2229-39 Epub 1999/10/27 PMID 10535459 Tsuchida K Makita Z Yamagishi S Atsumi T Miyoshi H Obara S et al Suppression of transforming growth factor beta and vascular endothelial growth factor in diabetic nephropathy in rats by a novel advanced glycation end product inhibitor OPB-9195 Diabetologia 1999 42(5)579-88 Epub 1999/ 05/20 doi 101007/s001250051198 PMID 10333051 Abboud HE Mesangial cell biology Experimental cell research 2012 318(9)979-85 Epub 2012/03/ 15 doi 101016/jyexcr201202025 PMID 22414873 Landray MJ Haynes RJ Commentary Controversies in NICE guidance on chronic kidney disease BMJ (Clinical research ed) 2008 337a1793 Epub 2008/10/01 doi 101136/bmja1793 PMID 18824482 Herget-Rosenthal S Feldkamp T Volbracht L Kribben A Measurement of urinary cystatin C by parti- cle-enhanced nephelometric immunoassay precision interferences stability and reference range Annals of clinical biochemistry 2004 41(Pt 2)111-8 Epub 2004/03/18 doi 101258/ 000456304322879980 PMID 15025800 Renal Benefits of Sarpogrelate and Rosuvastatin PLOS ONE | DOI101371/journalpone0153965 April 20 2016 17 / 18 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 Herget-Rosenthal S Marggraf G Husing J Goring F Pietruck F Janssen O et al Early detection of acute renal failure by serum cystatin C Kidney international 2004 66(3)1115-22 Epub 2004/08/26 doi 101111/j1523-1755200400861x PMID 15327406 Wasung ME Chawla LS Madero M Biomarkers of renal function which and when? Clinica chimica acta international journal of clinical chemistry 2015 438350-7 Epub 2014/09/10 doi 101016/jcca 201408039 PMID 25195004 Doggrell SA Sarpogrelate cardiovascular and renal clinical potential Expert opinion on investigational drugs 2004 13(7)865-74 Epub 2004/06/24 doi 101517/13543784137865 PMID 15212624 Kobayashi S Satoh M Namikoshi T Haruna Y Fujimoto S Arakawa S et al Blockade of serotonin 2A receptor improves glomerular endothelial function in rats with streptozotocin-induced diabetic nephrop- athy Clinical and experimental nephrology 2008 12(2)119-25 Epub 2008/01/05 doi 101007/ s10157-007-0011-8 PMID 18175064 Hamasaki Y Doi K Maeda-Mamiya R Ogasawara E Katagiri D Tanaka T et al A 5-hydroxytrypta- mine receptor antagonist sarpogrelate reduces renal tubulointerstitial fibrosis by suppressing PAI-1 American journal of physiology Renal physiology 2013 305(12)F1796-803 Epub 2013/10/11 doi 101152/ajprenal001512013 PMID 24107419 Takahashi T Yano M Minami J Haraguchi T Koga N Higashi K et al Sarpogrelate hydrochloride a serotonin2A receptor antagonist reduces albuminuria in diabetic patients with early-stage diabetic nephropathy Diabetes research and clinical practice 2002 58(2)123-9 Epub 2002/09/06 PMID 12213354 Ogawa S Mori T Nako K Ishizuka T Ito S Reduced albuminuria with sarpogrelate is accompanied by a decrease in monocyte chemoattractant protein-1 levels in type 2 diabetes Clinical journal of the American Society of Nephrology CJASN 2008 3(2)362-8 Epub 2008/02/01 doi 102215/cjn 03450807 PMID 18235151 PubMed Central PMCID PMCPmc2390947 Jagroop IA Mikhailidis DP Doxazosin an alpha1-adrenoceptor antagonist inhibits serotonin-induced shape change in human platelets Journal of human hypertension 2001 15(3)203-7 Epub 2001/04/ 24 doi 101038/sjjhh1001146 PMID 11317206 Kasho M Sakai M Sasahara T Anami Y Matsumura T Takemura T et al Serotonin enhances the production of type IV collagen by humanmesangial cells Kidney international 1998 54(4)1083-92 Epub 1998/10/10 doi 101046/j1523-1755199800114x PMID 9767524 de Zeeuw D Anzalone DA Cain VA Cressman MD Heerspink HJ Molitoris BA et al Renal effects of atorvastatin and rosuvastatin in patients with diabetes who have progressive renal disease (PLANET I) a randomised clinical trial The lancet Diabetes & endocrinology 2015 3(3)181-90 Epub 2015/02/

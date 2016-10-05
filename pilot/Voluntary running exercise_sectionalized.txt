@@ -1,0 +1,2190 @@
+>>>section: conclusion
+
+>>>section: references
+REFERENCES
+1. Baldwin KM, Cheadle WG, Martinez OM, Cooke DA. Effect of
+functional overload on enzyme levels in different types of skeletal muscle.
+J Appl Physiol 42: 312-317, 1977.
+2. Bergeron R, Russell RR, 3rd Young LH, Ren JM, Marcucci M, Lee
+A, Shulman GI. Effect of AMPK activation
+on muscle glucose 
+metabolism in conscious rats. Am J Physiol Endocrinol Metab 276: E938-E944,
+1999.
+3. Campbell JE, Kiraly MA, Atkinson DJ, D’Souza AM, Vranic M,
+Riddell MC. Regular exercise prevents the development of 
+hypergluco-corticoidemia via adaptations in the brain and adrenal glands in male
+Zucker diabetic fatty rats. Am J Physiol Regul Integr Comp Physiol 299:
+R168-R176, 2010.
+4. Choi SB, Jang JS, Park S. Estrogen and exercise may enhance beta-cell
+function and mass via insulin receptor substrate 2 induction in 
+ovariecto-mized diabetic rats. Endocrinology 146: 4786-4794, 2005.
+5. Cnop M, Hannaert JC, Hoorens A, Eizirik DL, Pipeleers DG. Inverse
+relationship between cytotoxicity of free fatty acids in pancreatic islet
+cells and cellular triglyceride accumulation. Diabetes 50: 1771-1777,
+2001.
+6. Colombo M, Gregersen S, Kruhoeffer M, Agger A, Xiao J, Jeppesen
+PB, Orntoft T, Ploug T, Galbo H, Hermansen K. Prevention of
+hyperglycemia in Zucker diabetic fatty rats by exercise training: effects
+on gene expression in insulin-sensitive tissues determined by 
+high-density oligonucleotide microarray analysis. Metabolism 54: 
+1571-1581, 2005.
+7. Del Guerra S, Lupi R, Marselli L, Masini M, Bugliani M, Sbrana S,
+Torri S, Pollera M, Boggi U, Mosca F, Del Prato S, Marchetti P.
+Functional and molecular defects of pancreatic islets in human type 2
+diabetes. Diabetes 54: 727-735, 2005.
+8. Dela F, Mikines KJ, Tronier B, Galbo H. Diminished 
+arginine-stimulated insulin secretion in trained men. J Appl Physiol 69: 
+261-267, 1990.
+9. Dela F, Stallknecht B. Effect of physical training on insulin secretion and
+action in skeletal muscle and adipose tissue of first-degree relatives of type
+2 diabetic patients. Am J Physiol Endocrinol Metab 299: E80-E91, 2010.
+10. Dela F, von Linstow ME, Mikines KJ, Galbo H. Physical training may
+enhance -cell function in type 2 diabetes. Am J Physiol Endocrinol
+Metab 287: E1024-E1031, 2004.
+11. Delghingaro-Augusto V, Nolan CJ, Gupta D, Jetton TL, Latour MG,
+Peshavaria M, Madiraju SR, Joly E, Peyot ML, Prentki M, Leahy J.
+Islet beta cell failure in the 60% pancreatectomised obese hyperlipidaemic
+Zucker fatty rat: severe dysfunction with altered glycerolipid metabolism
+without steatosis or a falling beta cell mass. Diabetologia 52: 1122-1132,
+2009.
+12. Fediuc S, Campbell JE, Riddell MC. Effect of voluntary wheel running
+on circadian corticosterone release and on HPA axis responsiveness to
+restraint stress in Sprague-Dawley rats. J Appl Physiol 100: 1867-1875,
+2006.
+13. Getty-Kaushik L, Richard AM, Deeney JT, Krawczyk S, Shirihai O,
+Corkey BE. The CB1 antagonist rimonabant decreases insulin 
+hyperse-cretion in rat pancreatic islets. Obesity (Silver Spring) 17: 1856-1860,
+2009.
+14. Gram DX, Ahren B, Nagy I, Olsen UB, Brand CL, Sundler F,
+Tabanera R, Svendsen O, Carr RD, Santha P, Wierup N, Hansen AJ.
+Capsaicin-sensitive sensory fibers in the islets of Langerhans contribute to
+defective insulin secretion in Zucker diabetic rat, an animal model for
+some aspects of human type 2 diabetes. Eur J Neurosci 25: 213-223,
+2007.
+15. Griffen SC, Wang J, German MS. A genetic defect in beta-cell gene
+expression segregates independently from the fa locus in the ZDF rat.
+Diabetes 50: 63-68, 2001.
+16. Harmon JS, Gleason CE, Tanaka Y, Oseid EA, Hunter-Berger KK,
+Robertson RP. In vivo prevention of hyperglycemia also prevents 
+glu-cotoxic effects
+on PDX-1 and insulin gene expression. Diabetes 48:
+1995-2000, 1999.
+17. Jonas JC, Sharma A, Hasenkamp W, Ilkova H, Patane G, Laybutt R,
+Bonner-Weir S, Weir GC. Chronic hyperglycemia triggers loss of
+pancreatic beta cell differentiation in
+an animal model of diabetes. J Biol
+Chem 274: 14112-14121, 1999.
+18. Kahn SE. The relative contributions of insulin resistance and beta-cell
+dysfunction
+to the pathophysiology of Type 2 diabetes. Diabetologia 46:
+3-19, 2003.
+19.
+Kai K, Morimoto I, Morita E, Okada Y, Yamamoto S, Kanda K, Uriu
+K, Eto S. Environmental stress modifies glycemic control and diabetes
+onset in type 2 diabetes prone Otsuka Long Evans Tokushima Fatty
+(OLETF)
+rats. Physiol Behav 68: 445-452, 2000.
+20. King DS, Dalsky GP, Staten MA, Clutter WE, Van Houten DR,
+Holloszy JO. Insulin action and secretion in endurance-trained and 
+untrained humans. J Appl Physiol 63: 2247-2252, 1987.
+21. Kiraly MA, Bates HE, Kaniuk NA, Yue JT, Brumell JH, Matthews
+SG, Riddell MC, Vranic M. Swim training prevents hyperglycemia in
+ZDF rats: mechanisms involved in the partial maintenance of beta-cell
+function. Am J Physiol Endocrinol Metab 294: E271-E283, 2008.
+22. Kiraly MA, Bates HE, Yue JT, Goche-Montes D, Fediuc S, Park E,
+Matthews SG, Vranic M, Riddell MC. Attenuation of type 2 diabetes
+mellitus in the male Zucker diabetic fatty rat: the effects of stress and
+non-volitional exercise. Metabolism 56: 732-744, 2007.
+23. Kiraly MA, Campbell J, Park E, Bates HE, Yue JTY, Rao V,
+Matthews SG, Bikopoulos G, Rozakis-Adcock M, Giacca A, Vranic
+M, Riddell MC. Exercise maintains euglycemia in association with
+decreased activation of c-Jun NH2-terminal kinase and serine 
+phosphor-ylation of IRS-1 in the liver of ZDF rats. Am J Physiol Endocrinol Metab
+298: E671-E682, 2010.
+24. Lee Y, Hirose H, Ohneda M, Johnson JH, McGarry JD, Unger RH.
+Beta-cell lipotoxicity in the pathogenesis of non-insulin-dependent 
+diabetes mellitus of obese rats: impairment in adipocyte-beta-cell relationships.
+Proc Natl Acad Sci USA 91: 10878-10882, 1994.
+25. Liu YQ, Jetton TL, Leahy JL. beta-cell adaptation to insulin resistance.
+Increased pyruvate carboxylase and malate-pyruvate shuttle activity in
+islets of nondiabetic Zucker fatty rats. J Biol Chem 277: 39163-39168,
+2002.
+26. Matsuda M, DeFronzo RA. Insulin sensitivity indices obtained from oral
+glucose tolerance testing: comparison with the euglycemic insulin clamp.
+Diabetes Care 22: 1462-1470, 1999.
+27. Migoya EM, Bergeron R, Miller JL, Snyder RN, Tanen M, Hilliard D,
+Weiss B, Larson P, Gutierrez M, Jiang G, Liu F, Pryor KA, Yao J,
+Zhu L, Holst JJ, Deacon C, Herman G, Thornberry N, Amatruda J,
+Williams-Herman
+D, Wagner JA, SinhaRoy R. Dipeptidyl peptidase-4
+inhibitors administered in combination with metformin result in
+an 
+additive increase in the plasma concentration of active GLP-1. Clin Pharmacol
+Ther 88: 801-808, 2010.
+28. Mikines KJ, Sonne B, Tronier B, Galbo H. Effects of training and
+detraining on dose-response relationship between glucose and insulin
+secretion. Am J Physiol Endocrinol Metab 256: E588-E596, 1989.
+29. Moraska A, Deak T, Spencer RL, Roth D, Fleshner M. Treadmill
+running produces both positive and negative physiological adaptations in
+Sprague-Dawley rats. Am J Physiol Regul Integr Comp Physiol 279:
+R1321-R1329, 2000.
+30. Narkar VA, Downes M, Yu RT, Embler E, Wang YX, Banayo E,
+Mihaylova MM, Nelson MC, Zou Y, Juguilon H, Kang H, Shaw RJ,
+Evans RM. AMPK and PPARdelta agonists are exercise mimetics. Cell
+134: 405-415, 2008.
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E263ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+31. Nolan CJ, Larter CZ. Lipotoxicity: why do saturated fatty acids cause
+and monounsaturates protect against it? J Gastroenterol Hepatol 24:
+703-706, 2009.
+32. Nolan CJ, Leahy JL, Delghingaro-Augusto V, Moibi J, Soni K, Peyot
+ML, Fortier M, Guay C, Lamontagne J, Barbeau A, Przybytkowski E,
+Joly E, Masiello P, Wang S, Mitchell GA, Prentki M. Beta cell
+compensation for insulin resistance in Zucker fatty rats: increased lipolysis
+and fatty acid signalling. Diabetologia 49: 2120-2130, 2006.
+33. Nolan CJ, Prentki M. The islet beta-cell: fuel responsive and vulnerable.
+Trends Endocrinol Metab 19: 285-291, 2008.
+34. Ohneda M, Inman LR, Unger RH. Caloric restriction in obese 
+pre-diabetic rats prevents beta-cell depletion, loss of beta-cell GLUT 2 and
+glucose incompetence. Diabetologia 38: 173-179, 1995.
+35. Pan XR, Li GW, Hu YH, Wang JX, Yang WY, An ZX, Hu ZX, Lin J,
+Xiao JZ, Cao HB, Liu PA, Jiang XG, Jiang YY, Wang JP, Zheng H,
+Zhang H, Bennett PH, Howard BV. Effects of diet and exercise in
+preventing NIDDM in people with impaired glucose tolerance. The Da
+Qing IGT and Diabetes Study. Diabetes Care 20: 537-544, 1997.
+36. Parton LE, McMillen PJ, Shen Y, Docherty E, Sharpe E, Diraison F,
+Briscoe CP, Rutter GA. Limited role for SREBP-1c in defective 
+glucose-induced insulin secretion from Zucker diabetic fatty rat islets:
+a functional
+and gene profiling analysis. Am J Physiol Endocrinol Metab 291: 
+E982-E994, 2006.
+37. Passonneau JV, Lauderdale VR. A comparison of three methods of
+glycogen measurement in tissues. Anal Biochem 60: 405-412, 1974.
+38. Peter A, Weigert C, Staiger H, Rittig K, Cegan A, Lutz P, Machicao
+F, Haring HU, Schleicher E. Induction of stearoyl-CoA desaturase
+protects human arterial endothelial cells against lipotoxicity. Am J Physiol
+Endocrinol Metab 295: E339-E349, 2008.
+39. Peyot ML, Nolan CJ, Soni K, Joly E, Lussier R, Corkey BE, Wang SP,
+Mitchell GA, Prentki M. Hormone-sensitive lipase has a role in lipid
+signaling for insulin secretion but is nonessential for the incretin action of
+glucagon-like peptide 1. Diabetes 53: 1733-1742, 2004.
+40. Poitout V, Robertson RP. Glucolipotoxicity: fuel excess and beta-cell
+dysfunction. Endocr Rev 29: 351-366, 2008.
+41. Pold R, Jensen LS, Jessen N, Buhl ES, Schmitz O, Flyvbjerg A, Fujii
+N, Goodyear LJ, Gotfredsen CF, Brand CL, Lund S. Long-term
+AICAR administration and exercise prevents diabetes in ZDF rats. 
+Diabetes 54: 928-934, 2005.
+42. Prentki M, Nolan CJ. Islet beta cell failure in type 2 diabetes. J Clin
+Invest 116: 1802-1812, 2006.
+43. Raguso CA, Kyle U, Kossovsky MP, Roynette C, Paoloni-Giacobino
+A, Hans D, Genton L, Pichard C. A 3-year longitudinal study on body
+composition changes in the elderly: Role of physical exercise. Clin Nutr
+25: 573-580, 2006.
+44. Roudier E, Chapados N, Decary S, Gineste C, Le Bel C, Lavoie JM,
+Bergeron R, Birot O. Angiomotin p80/p130 ratio: a new indicator of
+exercise-induced angiogenic activity in skeletal muscles from obese and
+non-obese rats? J Physiol 587: 4105-4119, 2009.
+45. Scheuner D, Kaufman RJ. The unfolded protein response: a pathway that
+links insulin demand with beta-cell failure and diabetes. Endocr Rev 29:
+317-333, 2008.
+46. Seburn KL, Gardiner P. Adaptations of rat lateral gastrocnemius motor
+units in response to voluntary running. J Appl Physiol 78: 1673-1678,
+1995.
+47. Shimabukuro M, Zhou YT, Lee Y, Unger RH. Troglitazone lowers islet
+fat and restores beta cell function of Zucker diabetic fatty rats. J Biol Chem
+273: 3547-3550, 1998.
+48. Slentz CA, Tanner CJ, Bateman LA, Durheim MT, Huffman KM,
+Houmard JA, Kraus WE. Effects of exercise training intensity
+on
+pancreatic beta-cell function. Diabetes Care 32: 1807-1811, 2009.
+49. Smith AC, Mullen KL, Junkin KA, Nickerson J, Chabowski A, Bonen
+A, Dyck DJ. Metformin and exercise reduce muscle FAT/CD36 and
+lipid accumulation and blunt the progression of high-fat diet-induced
+hyperglycemia. Am J Physiol Endocrinol Metab 293: E172-E181,
+2007.
+50. Sreenan S, Sturis J, Pugh W, Burant CF, Polonsky KS. Prevention of
+hyperglycemia in the Zucker diabetic fatty rat by treatment with 
+metformin or troglitazone. Am J Physiol Endocrinol Metab 271: E742-E747,
+1996.
+51. Sreenan SK, Mittal AA, Dralyuk F, Pugh WL, Polonsky KS, Roe MW.
+Glucagon-like peptide-1 stimulates insulin secretion by a Ca2-indepen-
+dent mechanism in Zucker diabetic fatty rat islets of Langerhans. 
+Metabolism 49: 1579-1587, 2000.
+E264
+52. Tanaka Y, Gleason CE, Tran PO, Harmon JS, Robertson RP.
+Prevention of glucose toxicity in HIT-T15 cells and Zucker diabetic fatty
+rats by antioxidants. Proc Natl Acad Sci USA 96: 10857-10862, 1999.
+53. Tiano JP, Delghingaro-Augusto V, Le May C, Liu S, Kaw MK,
+Khuder SS, Latour MG, Bhatt SA, Korach KS, Najjar SM, Prentki
+M, Mauvais-Jarvis F. Estrogen receptor activation reduces lipid
+synthesis in pancreatic islets and prevents beta cell failure in rodent
+models of type 2 diabetes. J Clin Invest 121: 3331-3342, 2011.
+54. Tuomilehto J, Lindstrom J, Eriksson JG, Valle TT, Hamalainen H,
+Ilanne-Parikka P, Keinanen-Kiukaanniemi S, Laakso M, Louheranta
+A, Rastas M, Salminen V, Uusitupa M. Prevention of type 2 diabetes
+mellitus by changes in lifestyle among subjects with impaired glucose
+tolerance. N Engl J Med 344: 1343-1350, 2001.
+55. Wang MY, Shimabukuro M, Lee Y, Trinh KY, Chen JL, Newgard
+CB, Unger RH. Adenovirus-mediated overexpression of uncoupling
+protein-2 in pancreatic islets of Zucker diabetic rats increases oxidative
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+activity and improves beta-cell function. Diabetes 48: 1020 -1025,
+1999.
+56. Weir GC, Laybutt DR, Kaneto H, Bonner-Weir S, Sharma A. 
+Beta-cell adaptation and decompensation during the progression of diabetes.
+Diabetes 50, Suppl 1: S154-S159, 2001.
+57. Yeckel CW, Weiss R, Dziura J, Taksali SE, Dufour S, Burgert TS,
+Tamborlane WV, Caprio S. Validation of insulin sensitivity indices from
+oral glucose tolerance test parameters in obese children and adolescents. J
+Clin Endocrinol Metab 89: 1096-1101, 2004.
+58. Yu X, McCorkle S, Wang M, Lee Y, Li J, Saha AK, Unger RH,
+Ruderman NB. Leptinomimetic effects of the AMP kinase activator
+AICAR in leptin-resistant rats: prevention of diabetes and ectopic lipid
+deposition. Diabetologia 47: 2012-2021, 2004.
+59. Zhou YP, Cockburn BN, Pugh W, Polonsky KS. Basal insulin 
+hyper-secretion in insulin-resistant Zucker diabetic and Zucker fatty rats: role of
+enhanced fuel metabolism. Metabolism 48: 857-864, 1999.
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+
+>>>section: methods
+MATERIALS AND METHODS
+Animals. All protocols were approved by the Institutional Animal
+Care and Use Committee of the University of Montreal. Male obese
+ZDF rats (ZDF Leprfa/fa) and their control ZL (fa/ or /) were
+purchased from Charles River Laboratories (Saint-Constant, QC,
+Canada) at 5 wk of age. Rats were housed in a temperature- and
+humidity-controlled facility on a 12:12-h light-dark cycle with free
+access to rodent chow (Purina 5008) and tap water.
+Animals were assigned to the following three experimental groups:
+ZL inactive (ZL-I; n  19), ZDF inactive (ZDF-I; n  22), and
+physically active ZDF (ZDF-A; n  19). All animals were housed in
+a wheel cage consisting of a stainless steel live-in wheel (circumfer-
+ence: 1.445 m, width: 16 cm) mounted on a shaft containing a
+low-friction ball-bearing collar with a running surface of 4-mm-wide
+stainless steel mesh as described earlier (46). Each wheel was
+equipped with a sensor and wired to a computer where wheel 
+revolutions were recorded continuously for the assessment of the rat’s
+activity. The distance run per day was calculated as the number of
+wheel revolutions over a 24-h period and was reported two times a
+week. For the following 6 wk, ZDF-A rats engaged in voluntary
+running. ZL-I and ZDF-I groups were prevented from running by
+wheel blocks. Running wheels were blocked 24 h before GTTs and
+death. An early subset of data collected from n  8-9 rats/group has
+been reported elsewhere (44).
+Body weight, food intake, running distance, and periodically 
+measured plasma parameters. Running distance, body weight, and food
+intake were measured two times weekly. Heparinized tail blood was
+collected weekly at 8:00-9:00 A.M. from awake fed rats for plasma
+glucose, insulin, TG, NEFA, and corticosterone determinations as
+indicated in corresponding Figs. 1- 6. Plasma glucose, TG, and
+NEFA were measured by colorimetric enzyme kit assays (respec-
+tively, Wako Chemical, Osaka, Japan; GPO Trinder, 
+Sigma-Aldrich, St. Louis, MO; NEFA C kit, Wako Chemical, Neuss,
+Germany) and plasma insulin and corticosterone by 
+radioimmuno-assay kits (respectively, Linco Research, St. Louis, MO, and MP
+Biomedicals, Orangeburg, NY).
+Glucose tolerance test. After 37-38 days of the intervention period
+and at midday after 4 h of fasting, animals were subjected to an oral
+glucose tolerance test (oGTT) (2 g glucose/kg body wt). Tail blood
+was collected for glucose measurements (One Touch Ultra; LifeScan)
+and plasma insulin determinations at the time points as indicated in
+Figs. 1-6. The insulinogenic index derived from the oGTT was
+calculated according to the following formula: [30 min insulin (U/
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E255ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+ml) fasting insulin]/[30 min glucose (mmol/l) fasting glucose], as
+previously described (26, 57).
+Death and blood and tissue harvesting. After 44-46 days of
+intervention (12-wk-old rats), fed rats were anesthetized between 8:00
+and 9:00 A.M. with pentobarbital sodium (60 mg/kg, Somnotol; MTC
+Pharmaceuticals, Hamilton, ON, Canada) and killed by 
+exsanguina-tion. Blood was collected from the inferior vena cava for the 
+determination of plasma adrenocorticotropic hormone (ACTH) and active
+glucagon like peptide-1 (GLP-1), as previously described (27). For
+ACTH and GLP-1, blood was transferred to, respectively, 
+EDTA-Trasylol and EDTA-dipeptidyl-peptidase IV inhibitor-treated prechilled 
+mi-crotubes. Pancreatic islet isolation was performed by collagenase
+injection in the bile duct, pancreas resection, digestion at 37°C,
+histopaque gradient separation, and hand-picking under a 
+stereomi-croscope, as previously described (11, 39). Epididymal white adipose
+tissue (EWAT), muscles (gastrocnemius, plantaris, and soleus), liver,
+and heart were dissected and immediately frozen under liquid 
+nitrogen, weighed, and stored at 80°C.
+Plasma GLP-1, ACTH, and nonislet tissue assays. Kit assays were
+used for plasma GLP-1 (active) (Linco Research) and ACTH (MP
+Biomedicals) measurements. Liver TG content was estimated from
+glycerol released after ethanolic KOH hydrolysis, employing a 
+commercial kit as described above. Liver and muscle glycogen content
+and muscle cytochrome oxidase activity were determined as 
+previously described (1, 37).
+Islet insulin secretion and insulin content measurements. Before
+experiments, islets were cultured for 1 h in RPMI-1640 medium (11).
+Isolated islets were distributed into 12-well plates (6 islets/well in
+triplicates) and incubated for 2 h in 1 ml RPMI complete medium
+containing 3 mmol/l glucose. They were then washed and 
+preincu-bated for 40 min at 37°C in 1 ml Krebs-Ringer bicarbonate buffer
+containing 10 mmol/l HEPES (KRBH; pH 7.4), 0.5% defatted BSA,
+and 3 mmol/l glucose. The islets were then incubated for 45 min in 0.5
+ml of KRBH containing 3, 8, and 16 mmol/l glucose plus 0.5%
+defatted BSA, in the presence or absence of 0.3 mmol/l palmitate or
+3 mmol/l glucose plus KCl (35 mmol/l). At the end of the incubation,
+media were collected for insulin determination. Total islet insulin
+content was measured after acid-ethanol (0.2 mmol/l HCl in 75%
+ethanol) extraction. Batches of 20 freshly isolated islets, 
+representative of those taken for the secretion studies, were used to determine
+islet protein content, as described previously (11, 39).
+Fatty acid oxidation and esterification. Total fatty acid oxidation
+(from exogenous and endogenous NEFA sources) and esterification
+were measured in isolated islets, as previously described (11).
+Lipolysis. Islet glycerol released into the incubation medium during
+the final 2 h of the fatty acid oxidation assessments was used to
+indirectly determine islet lipolysis, as previously described (39).
+Quantitative real-time PCR. Total RNA was extracted immediately
+after islet isolation using a kit (RNeasy Mini; Qiagen, Mississauga,
+Ontario, Canada) with on-column DNase digestion (Qiagen) 
+according to the manufacturer’s instructions. cDNA was synthesized from 2
+g of RNA. PCR amplification of the genes of interest was performed
+using primers previously described (11). PCR products were 
+normalized by the housekeeping gene cyclophilin A, and results are 
+expressed as arbitrary units.
+Statistical analysis. All results are expressed as means  SE.
+Statistical differences of group means were calculated using one- or
+two-way ANOVA followed by Bonferroni post hoc tests. A P value
+of 0.05 was considered significant.
+
+>>>section: fulltext
+Am J Physiol Endocrinol Metab 302: E254-E264, 2012.
+First published November 1, 2011; doi:10.1152/ajpendo.00360.2011.
+Voluntary running exercise prevents -cell failure in susceptible islets
+of the Zucker diabetic fatty rat
+Viviane Delghingaro-Augusto,1,2 Simon Décary,3 Marie-Line Peyot,1 Martin G. Latour,1
+Julien Lamontagne,1 Nicolas Paradis-Isler,3 Marianne Lacharité-Lemieux,3 Huguette Akakpo,3
+Olivier Birot,3 Christopher J. Nolan,2 Marc Prentki,1,4* and Raynald Bergeron1,3*
+1Molecular Nutrition Unit and The Montreal Diabetes Research Center, Research Center of the University of Montreal
+Hospital Center, Montreal, Quebec; 3Departments of 3Kinesiology and 4Nutrition and Biochemistry, University of Montreal,
+Montreal, Quebec, Canada; and 2Diabetes and Endocrinology Research Unit, Australian National University Medical School
+at the Canberra Hospital, Garran, Australian Capital Territory, Australia
+Submitted 14 July 2011; accepted in final form 25 October 2011
+Delghingaro-Augusto V, Décary S, Peyot M, Latour MG, 
+Lam-ontagne J, Paradis-Isler N, Lacharité-Lemieux M, Akakpo H, Birot
+O, Nolan CJ, Prentki M, Bergeron R. Voluntary running exercise
+prevents -cell failure in susceptible islets of the Zucker diabetic fatty rat.
+Am J Physiol Endocrinol Metab 302: E254-E264, 2012. First published
+November 1, 2011; doi:10.1152/ajpendo.00360.2011.-Physical activity
+improves glycemic control in type 2 diabetes (T2D), but its contribution
+to preserving -cell function is uncertain. We evaluated the role of
+physical activity on -cell secretory function and glycerolipid/fatty acid
+(GL/FA) cycling in male Zucker diabetic fatty (ZDF) rats. Six-week-old
+ZDF rats engaged in voluntary running for 6 wk (ZDF-A). Inactive
+Zucker lean and ZDF (ZDF-I) rats served as controls. ZDF-I rats
+displayed progressive hyperglycemia with -cell failure evidenced by
+falling insulinemia and reduced insulin secretion to oral glucose. Isolated
+ZDF-I rat islets showed reduced glucose-stimulated insulin secretion
+expressed per islet and per islet protein. They were also characterized by
+loss of the glucose regulation of fatty acid oxidation and GL/FA cycling,
+reduced
+mRNA expression of key -cell genes, and severe reduction of
+insulin stores. Physical activity prevented diabetes in ZDF rats through
+sustaining -cell compensation to insulin resistance shown in vivo and in
+vitro. Surprisingly, ZDF-A islets had persistent defects in fatty acid
+oxidation, GL/FA cycling, and -cell gene expression. ZDF-A islets,
+however, had preserved islet insulin mRNA and insulin stores compared
+with ZDF-I rats. Physical activity did not prevent hyperphagia, 
+dyslipi-demia, or obesity in ZDF rats. In conclusion, islets of ZDF rats have a
+susceptibility to failure that is possibly due to altered -cell fatty acid
+metabolism. Depletion of pancreatic islet insulin stores is a major 
+contributor to islet failure in this T2D model, preventable by physical
+activity.
+physical activity; glycerolipid fatty acid cycle; insulin secretion;
+adrenocorticotropic hormone; corticosterone
+INSULIN RESISTANCE (IR) is a predisposing factor for the 
+development of type 2 diabetes (T2D). However, it must be 
+combined with failure of -cell compensation for IR for T2D to
+occur (18, 42). Diet and exercise programs can reduce T2D
+development in humans with impaired glucose tolerance (35,
+54). Thus, it is likely that the exercise interventions prevent
+islet -cell failure (18, 42). Despite the abundant literature
+supporting the beneficial effects of exercise on insulin action
+(30), much less is known about the effects of exercise on -cell
+function. In young individuals, exercise training decreased
+glucose-stimulated insulin secretion (GSIS) (8, 20, 28). Trained 
+over-* M. Prentki and R. Bergeron equally contributed to this manuscript.
+Address for reprint requests and other correspondence: R. Bergeron, Univ. of
+Montreal, Montreal, Quebec, Canada (e-mail: raynald.bergeron@umontreal.ca).
+0193-1849/12 Copyright © 2012 the American Physiological Society
+weight to obese subjects also demonstrated a lower acute
+insulin response during an intravenous glucose tolerance test
+(GTT) (48). These results most probably reflect lower insulin
+requirement due to improved insulin sensitivity. Furthermore,
+Dela and Stallknecht (9) demonstrated that 12 wk of endurance
+exercise training did not increase GSIS in first-degree offspring
+of T2D patients. On the other hand, these same authors showed
+that diabetic subjects with good residual insulin secretory
+capacity had increased GSIS following endurance training,
+whereas those with low residual secretory capacity did not
+improve upon training (10). Of note, Slentz et al. (48), using
+the disposition index as a reflection of -cell function, 
+suggested that the latter is improved by moderate-intensity 
+exercise training. All together, the evidence suggests that the health
+status of subjects and methodologies employed to study -cell
+function are key parameters that influenced the outcome of
+those studies.
+The Zucker diabetic fatty (ZDF) rat is a severely 
+insulin-resistant genetic model of obesity-related T2D. Unlike the
+Zucker fatty (ZF) rat that is able to sustain -cell compensation
+for IR, the ZDF rat is prone to -cell failure. Exercise prevents
+diabetes in this animal model (6, 21, 22, 41, 49). Pold et al. (41)
+showed that treadmill-trained ZDF rats did not develop 
+hyperglycemia. In that study, exercise improved peripheral and
+hepatic insulin action and islet morphology (41). Colombo et
+al. (6), using a similar exercise protocol, reported that training
+did not markedly influence gene expression in ZDF rat islets,
+whereas important gene alterations were found in liver and
+muscles (6). Kiraly et al. (21, 22) reported that swimming also
+prevented hyperglycemia in ZDF rats, which was associated
+with enhanced insulin secretion during intraperitoneal GTT
+and improved islet morphology with increased -cell 
+proliferation and -cell mass. However, the nature of islet 
+susceptibility to failure in the ZDF rat is not known as well as the basis
+of diabetes prevention by exercise.
+Studies conducted in islets of the obese, but diabetes 
+resistant, ZF rat, a model for -cell compensation, have shown
+increased -cell mass and functional islet changes, including
+enhanced glucose and lipid metabolism, processes that favor
+production of nutrient-secretion coupling signals (25, 32).
+Isolated ZF islets have shown enhanced palmitate 
+augmentation of GSIS (32), a finding associated with enhanced 
+glucose-responsive glycerolipid/fatty acid (GL/FA) cycling (32). Both
+nonesterified fatty acid (NEFA) esterification into glycerolipids
+such as triglycerides (TG) and diacylglycerols (DAG) and the
+lipolysis of GLs were increased in ZF islets, particularly at
+http://www.ajpendo.orgE254
+increased glucose concentrations. Furthermore, lipolysis 
+inhibition by the lipase inhibitor orlistat markedly reduced GSIS in
+these islets (32). Thus, GL/FA cycling may provide a 
+mechanism by which the -cell in ZF rat islets escapes 
+glucolipotoxicity and compensates for IR without the development of
+diabetes (33).
+The aim of the present study was to investigate the 
+biochemical basis of the effects of physical activity on islet function in
+ZDF rats in which diabetes is prevented by voluntary running
+in wheel cages (23, 44). Particular focus was placed on whether
+preserved -cell performance in exercised ZDF rats could be
+linked to the compensatory pathway of enhanced GL/FA 
+cycling similar to what was observed in compensating islets of
+ZF rats. We found that voluntary running markedly improved
+GSIS in ZDF rat islets, but not quite to the level of function of
+Zucker lean (ZL) control islets if GSIS
+was expressed per islet
+protein content. GL/FA cycling was abnormal in ZDF rats,
+which was not normalized by physical activity. Voluntary
+running had a dramatic effect on preventing depletion of islet
+insulin stores in this diabetes-prone obese rat model.
+MATERIALS AND METHODS
+Animals. All protocols were approved by the Institutional Animal
+Care and Use Committee of the University of Montreal. Male obese
+ZDF rats (ZDF Leprfa/fa) and their control ZL (fa/ or /) were
+purchased from Charles River Laboratories (Saint-Constant, QC,
+Canada) at 5 wk of age. Rats were housed in a temperature- and
+humidity-controlled facility on a 12:12-h light-dark cycle with free
+access to rodent chow (Purina 5008) and tap water.
+Animals were assigned to the following three experimental groups:
+ZL inactive (ZL-I; n  19), ZDF inactive (ZDF-I; n  22), and
+physically active ZDF (ZDF-A; n  19). All animals were housed in
+a wheel cage consisting of a stainless steel live-in wheel (circumfer-
+ence: 1.445 m, width: 16 cm) mounted on a shaft containing a
+low-friction ball-bearing collar with a running surface of 4-mm-wide
+stainless steel mesh as described earlier (46). Each wheel was
+equipped with a sensor and wired to a computer where wheel 
+revolutions were recorded continuously for the assessment of the rat’s
+activity. The distance run per day was calculated as the number of
+wheel revolutions over a 24-h period and was reported two times a
+week. For the following 6 wk, ZDF-A rats engaged in voluntary
+running. ZL-I and ZDF-I groups were prevented from running by
+wheel blocks. Running wheels were blocked 24 h before GTTs and
+death. An early subset of data collected from n  8-9 rats/group has
+been reported elsewhere (44).
+Body weight, food intake, running distance, and periodically 
+measured plasma parameters. Running distance, body weight, and food
+intake were measured two times weekly. Heparinized tail blood was
+collected weekly at 8:00-9:00 A.M. from awake fed rats for plasma
+glucose, insulin, TG, NEFA, and corticosterone determinations as
+indicated in corresponding Figs. 1- 6. Plasma glucose, TG, and
+NEFA were measured by colorimetric enzyme kit assays (respec-
+tively, Wako Chemical, Osaka, Japan; GPO Trinder, 
+Sigma-Aldrich, St. Louis, MO; NEFA C kit, Wako Chemical, Neuss,
+Germany) and plasma insulin and corticosterone by 
+radioimmuno-assay kits (respectively, Linco Research, St. Louis, MO, and MP
+Biomedicals, Orangeburg, NY).
+Glucose tolerance test. After 37-38 days of the intervention period
+and at midday after 4 h of fasting, animals were subjected to an oral
+glucose tolerance test (oGTT) (2 g glucose/kg body wt). Tail blood
+was collected for glucose measurements (One Touch Ultra; LifeScan)
+and plasma insulin determinations at the time points as indicated in
+Figs. 1-6. The insulinogenic index derived from the oGTT was
+calculated according to the following formula: [30 min insulin (U/
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E255ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+ml) fasting insulin]/[30 min glucose (mmol/l) fasting glucose], as
+previously described (26, 57).
+Death and blood and tissue harvesting. After 44-46 days of
+intervention (12-wk-old rats), fed rats were anesthetized between 8:00
+and 9:00 A.M. with pentobarbital sodium (60 mg/kg, Somnotol; MTC
+Pharmaceuticals, Hamilton, ON, Canada) and killed by 
+exsanguina-tion. Blood was collected from the inferior vena cava for the 
+determination of plasma adrenocorticotropic hormone (ACTH) and active
+glucagon like peptide-1 (GLP-1), as previously described (27). For
+ACTH and GLP-1, blood was transferred to, respectively, 
+EDTA-Trasylol and EDTA-dipeptidyl-peptidase IV inhibitor-treated prechilled 
+mi-crotubes. Pancreatic islet isolation was performed by collagenase
+injection in the bile duct, pancreas resection, digestion at 37°C,
+histopaque gradient separation, and hand-picking under a 
+stereomi-croscope, as previously described (11, 39). Epididymal white adipose
+tissue (EWAT), muscles (gastrocnemius, plantaris, and soleus), liver,
+and heart were dissected and immediately frozen under liquid 
+nitrogen, weighed, and stored at 80°C.
+Plasma GLP-1, ACTH, and nonislet tissue assays. Kit assays were
+used for plasma GLP-1 (active) (Linco Research) and ACTH (MP
+Biomedicals) measurements. Liver TG content was estimated from
+glycerol released after ethanolic KOH hydrolysis, employing a 
+commercial kit as described above. Liver and muscle glycogen content
+and muscle cytochrome oxidase activity were determined as 
+previously described (1, 37).
+Islet insulin secretion and insulin content measurements. Before
+experiments, islets were cultured for 1 h in RPMI-1640 medium (11).
+Isolated islets were distributed into 12-well plates (6 islets/well in
+triplicates) and incubated for 2 h in 1 ml RPMI complete medium
+containing 3 mmol/l glucose. They were then washed and 
+preincu-bated for 40 min at 37°C in 1 ml Krebs-Ringer bicarbonate buffer
+containing 10 mmol/l HEPES (KRBH; pH 7.4), 0.5% defatted BSA,
+and 3 mmol/l glucose. The islets were then incubated for 45 min in 0.5
+ml of KRBH containing 3, 8, and 16 mmol/l glucose plus 0.5%
+defatted BSA, in the presence or absence of 0.3 mmol/l palmitate or
+3 mmol/l glucose plus KCl (35 mmol/l). At the end of the incubation,
+media were collected for insulin determination. Total islet insulin
+content was measured after acid-ethanol (0.2 mmol/l HCl in 75%
+ethanol) extraction. Batches of 20 freshly isolated islets, 
+representative of those taken for the secretion studies, were used to determine
+islet protein content, as described previously (11, 39).
+Fatty acid oxidation and esterification. Total fatty acid oxidation
+(from exogenous and endogenous NEFA sources) and esterification
+were measured in isolated islets, as previously described (11).
+Lipolysis. Islet glycerol released into the incubation medium during
+the final 2 h of the fatty acid oxidation assessments was used to
+indirectly determine islet lipolysis, as previously described (39).
+Quantitative real-time PCR. Total RNA was extracted immediately
+after islet isolation using a kit (RNeasy Mini; Qiagen, Mississauga,
+Ontario, Canada) with on-column DNase digestion (Qiagen) 
+according to the manufacturer’s instructions. cDNA was synthesized from 2
+g of RNA. PCR amplification of the genes of interest was performed
+using primers previously described (11). PCR products were 
+normalized by the housekeeping gene cyclophilin A, and results are 
+expressed as arbitrary units.
+Statistical analysis. All results are expressed as means  SE.
+Statistical differences of group means were calculated using one- or
+two-way ANOVA followed by Bonferroni post hoc tests. A P value
+of 0.05 was considered significant.
+RESULTS
+Body weight, food intake, and organ weights. ZDF-A rats
+ran an average of 4.2 km/day over the 6 wk (Fig. 1A).
+Differences in food intake or body weight were not observed
+between ZDF-A and ZDF-I rats (Fig. 1, B and C). Both ZDF
+groups remained markedly obese and hyperphagic compared
+E256
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+with the ZL-I rats. There were changes, however, in body
+composition between the ZDF rat groups at the end of the study
+(Table 1). Plantaris and soleus muscles were heavier in ZDF-A
+compared with ZDF-I rats, while the heart followed this
+tendency (P  0.052) and liver weight was reduced in ZDF-A
+rats. EWAT tended to weigh less in ZDF-A compared with
+ZDF-I rats (P 0.064) but was3.5-fold heavier than in ZL-I
+rats.
+Physical activity prevents the development of diabetes but
+not severe dyslipidemia in ZDF rats. At 6 wk of age, ZDF-I
+rats were normoglycemic and hypersinsulinemic. They became
+diabetic by 9-10 wk of age while hyperinsulinemia 
+progressively decreased past that age (Fig. 2, A and B). Voluntary
+exercise prevented diabetes (Fig. 2A). The ZDF-A rats were
+markedly hyperinsulinemic compared with the ZL-I rats, but
+the levels in the first 2 wk of intervention were less than half
+Values are expressed as means  SE; n, no. of measurements. ZL-I, inactive Zucker lean; ZDF-I, inactive Zucker diabetic fatty; ZDF-A, active ZDF; EWAT,
+epididymal white adipose tissue. *P  0.05 and **P  0.01 vs. ZDF-A. ††P  0.01 vs. other two groups.
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+that required by the ZDF-I rats (Fig. 2B). While physical
+activity prevented diabetes, it had no effect on the severe
+hypertriglyceridemia of ZDF rats (Table 2). Fed-state plasma
+active GLP-1 concentrations were higher in ZDF-A (7.8  1.2
+pM) compared with ZL-I (4.6 0.6 pM; P 0.02) and tended
+to be higher than ZDF-I (5.1  0.4 pM; P  0.06).
+Voluntary running reduced hyperactivation of stress hormones.
+Corticosterone levels were not increased in the ZDF-A compared
+with ZDF-I rats; rather, there was a trend for them to fall in the
+voluntary exercising group in the last few weeks of the 
+intervention period (significantly reduced at week 4 of the 
+interven-tion) (Fig. 2C). Plasma ACTH concentrations from samples
+collected upon death were markedly lower in the ZDF-A
+compared with ZDF-I rats (Fig. 2D).
+Voluntary exercise improves glucose tolerance through
+maintenance of the glucose-stimulated insulin response. The
+ZDF-I rats had markedly impaired glucose intolerance
+(Fig. 3A). Voluntary running in the ZDF rats improved glucose
+tolerance to levels similar to those seen in ZL-I rats (Fig. 3, A
+and C). Furthermore, ZDF-A rats showed an increase in the
+plasma insulin response compared with ZDF-I rats (Fig. 3B).
+Improved pancreatic islet -cell function in ZDF-A vs. ZDF-I
+rats was also evident from the insulinogenic index (Fig. 3E).
+The insulin response of ZDF-A rats was markedly higher than
+that of the ZL-I rats (Fig. 3, B and D).
+Elevated nonislet tissue glycogen and TG contents are not
+lowered by exercise in ZDF rats, but skeletal muscle 
+mitochon-drial oxidative capacity is increased. Red and white 
+gastrocnemius muscle glycogen levels were not affected by 6 wk of
+voluntary running, being similar across all three rat groups
+(data not shown). Liver glycogen content was lower in ZL-I
+rats (130 9 mol/g; P 0.01) compared with both ZDF rats
+(ZDF-A: 273  13 and ZDF-I: 261  13 mol/g). Liver TG
+content was also lower in ZL-I rats compared with ZDF rats
+(ZL-I: 8.0  0.4 mg/g vs. ZDF-A: 22.5  1.5 and ZDF-I:
+21.1  1.0 mg/g; P  0.05). Higher liver glycogen and TG
+contents observed in the ZDF rats were not affected by 
+physical activity. However, muscle cytochrome oxidase activity, an
+index of mitochondrial oxidative capacity, was increased in the
+gastrocnemius in ZDF-A compared with ZDF-I rats (respec-
+tively, 0.318  0.051 and 0.168  0.011 U/g in red 
+gastrocnemius; P  0.05; 0.086  0.021 and 0.036  0.003 U/g in
+white gastrocnemius; P  0.059).
+Severe depletion of islet insulin stores in ZDF-i rats is
+prevented by physical activity. Islets from ZDF-I rats were four
+times larger than those of ZL-I rats based on protein content
+with no difference in size evident between ZDF-I and ZDF-A
+rats (Fig. 4A). Importantly, when insulin content was 
+normalized to protein content, islets from ZDF-I rats showed an 86%
+n
+18
+19
+19
+12
+19
+reduction compared with ZL-I islets. In contrast, partial but
+significant preservation of the insulin stores was observed in
+ZDF-A compared with ZDF-I islets (Fig. 4B).
+Physical activity prevents loss of compensatory insulin 
+hy-persecretion to glucose and palmitate in isolated islets from
+ZDF rats. Insulin secretion in control ZL-I islets, expressed per
+islet (Fig. 4C), was increased at intermediate (8 mmol/l) and
+further increased at high (16 mmol/l) glucose concentrations
+with potentiation by palmitate. Insulin secretion in ZDF-I islets
+was similar to ZL-I islets at 8 mmol/l glucose with or without
+palmitate, but further increases in secretion at 16 mmol/l
+glucose
+were not seen either in the presence or absence of
+palmitate (Fig. 4C). In
+contrast, islets from physically active
+ZDF-A
+rats showed an enhanced glucose and fatty 
+acid-potentiated insulin secretion compared with ZL-I rats at both 8
+and 16 mmol/l glucose (Fig. 4C). No significant effect of KCl
+on insulin secretion was observed between the three groups
+(Fig. 4C). Interestingly, if insulin secretion was normalized per
+islet protein content (Fig. 4D), the ZL-I islets were found to
+have significantly better insulin secretion in response to 16
+mmol/l glucose in the presence or absence of palmitate than
+both ZDF-I and ZDF-A islets. Expressed this way, ZDF-A
+islets still had improved GSIS compared with ZDF-I islets,
+although the difference did not reach statistical significance
+(Fig. 4D). When GSIS was expressed as a percentage of
+corrected total islet insulin content (sum of insulin content
+measured at the end of the incubation period and the secreted
+insulin within that period), the impairment of GSIS in ZDF-I
+E257ZUCKER
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+Values are expressed as means  SE; n, no. of measurements. NEFA, nonesterified fatty acids; TG, triglycerides. #P  0.05 and ##P  0.01 vs. ZDF-I.
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+islets was no longer evident and was actually increased 
+compared with ZL-I islets in response to KCl at 3 mmol/l glucose
+(Fig. 4E).
+Glycerolipid cycling and fatty acid oxidation in islets from
+ZDF rats is unresponsive to glucose and is not influenced by
+physical activity. All islet fatty acid metabolism data have been
+corrected for islet protein content. The inhibitory effect of high
+glucose concentrations on fatty acid oxidation was observed in
+ZL-I rat islets (Fig. 5A). However, in both ZDF-I and ZDF-A,
+fatty acid oxidation was reduced at both 3 and 8 mmol/l
+compared with ZL-I islets. In addition, no inhibitory effect of
+high glucose on islet fatty acid oxidation was observed in the
+ZDF groups (Fig. 5A). After 16 h incubation (equilibrium
+phase), net exogenous palmitate accumulation into intracellular
+NEFAs was increased by 60-70% in islets of the ZDF-I and
+ZDF-A rats compared with ZL-I islets (P  0.05; 2-way
+ANOVA: group effect) (Fig. 5B). Net exogenous palmitate
+esterification into total glycerolipids (monoacylglycerol
+DAG TG) was increased by65-70% in islets of both ZDF
+rat groups compared with ZL-I islets (P  0.05; 2-way
+ANOVA, group effect) (Fig. 5C). Lipolysis of islet 
+glycerolipids, as assessed by measurement of glycerol release, was
+increased by 85% at 16 compared with 3 mmol/l glucose in
+islets from ZL-I rats (Fig. 5D). Basal lipolysis was not different
+between islets of the three rat groups, but, in contrast to ZL-I
+islets, islets of both ZDF groups were unresponsive to the
+stimulatory effect of high glucose (Fig. 5D).
+n
+7
+6
+14
+11
+E258
+Islets of ZDF-i rats show alterations in expression of key
+-cell genes that are minimally prevented by physical activity.
+Reduction in islet insulin mRNA was observed in the ZDF-I,
+with partial prevention of this being evident in the ZDF-A
+group. The mRNA expressions of glucagon-like peptide-1
+receptor (GLP1r), glucose-dependent insulinotropic 
+polypep-tide receptor (GIPr), G protein-coupled receptor 40 (GPR40),
+MafA, pancreatic and duodenal homeobox factor-1 (PDX-1),
+and pyruvate carboxylase (PC) were markedly downregulated
+in ZDF-I islets, and physical activity did not prevent these
+changes (Fig. 6). Among the tested genes, the ones that were
+upregulated in ZDF-I compared with ZL-I rats were the ones
+that were normalized by exercise. These included 
+stearoyl-CoA desaturase (SCD-1), carnitine palmitoyltransferase 1
+(CPT-1),
+and peroxisomal proliferator-activated receptor-	 
+co-activator-1
+ (PGC-1
+) (Fig. 6).
+DISCUSSION
+As in other studies using forced exercise in the ZDF rat (21,
+22, 41), voluntary running prevented the development of 
+diabetes despite continuing hyperphagia, obesity, and 
+hyperlipid-emia. Compensatory insulin secretion was preserved by 
+exercise, and, this was best characterized by enhanced insulin
+secretion per islet and prevention of severe depletion of islet
+insulin stores. Interestingly, islets of both ZDF-I and ZDF-A
+rats had significant abnormalities in key -cell gene expression
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+as well as loss of glucose responsiveness of fatty acid oxidation
+and the lipolysis arm of GL/FA cycling.
+Voluntary exercise does not reverse hyperphagia and obesity
+but prevents hyperglycemia in ZDF rats. Food intake and body
+weight were not altered by exercise despite the greater 
+exer-cise-related energy expenditure in the ZDF-A rats, which ran
+an average 4.2 km/day. However, this finding is not surprising
+because ZDF-A maintained glycemia below 180 mg/dl
+throughout the study. Therefore, less calories from food intake
+would be wasted into urine, making ZDF-A rats more 
+metabolically efficient than ZDF-I rats, which had mean glycemia
+250 mg/dl for most of the study. Such improvement in
+metabolic efficiency via reduced glucose excretion in urine has
+been reported previously (6, 41). On the other hand, there were
+changes in body composition with increased skeletal muscle
+weights, reduced liver mass, and a trend for EWAT depots to
+be smaller (8% reduced, P  0.064) in ZDF-A compared with
+ZDF-I rats. Such favorable changes in body composition have
+been observed in T2D patients who are physically active (43).
+At 2 wk into the intervention, ZDF-I rats were still 
+normogly-cemic but had two times the insulinemia of ZDF-A rats (Fig.
+2A), consistent with some lessening of IR in the physically
+active rats. Other studies using homeostasis model 
+assess-ment-IR and the hyperinsulinemic-euglycemic clamp 
+technique have reported increased insulin sensitivity in 
+exercise-trained ZDF rats (23, 41). Although not the focus of the present
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E259ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+experiment, we expect that insulin sensitivity was improved in
+physically active ZDF rats.
+Voluntary exercise is not causing elevation of stress
+hormones. All but two exercise studies (23, 44) in male ZDF
+rats have used forced treadmill running or swimming. During
+forced exercise, often conducted during the lights-on cycle,
+animals experience severe psychological stress and disruption
+of the normal circadian rhythm of the hypothalamic-pituitary-
+adrenal (HPA) axis (12). In addition to beneficial adaptations,
+such as increased oxidative capacity and improved insulin
+sensitivity, forced treadmill running is associated with 
+unwanted physiological adaptations indicative of chronic stress
+(29). Importantly, glucose homeostasis itself can be affected by
+nonexercise forms of stress (19). Hence, ZDF rats bathing in 5
+cm of water and serving as a sham control group to a 
+swimming group of rats had increased plasma corticosterone 
+concentrations, which was associated with delayed onset of 
+postprandial hyperglycemia (22). Such results stemming from
+forced swimming exercise make the interpretation of the data
+ambiguous.
+In the present study, we measured plasma corticosterone
+concentrations in the morning at times of rest for the rats (basal
+corticosterone) rather than during times of exercise, and these
+were not altered by voluntary running in ZDF rats. Moreover,
+plasma ACTH was decreased in physically active ZDF rats in
+the face of similar plasma corticosterone concentrations 
+compared with inactive ZDF rats. This may be due to an enhanced
+sensitivity of the adrenal glands to ACTH, as suggested by
+Fediuc et al. (12) based on data obtained from Sprague-Dawley
+rats that had been trained by voluntary running for 5 wk.
+Alternatively, increased conversion of 11-dehydrocorticoster-
+one to corticosterone through the action of 11-hydroxysteroid
+dehydrogenase 1 (11-HSD1) dehydrogenase activity may
+have contributed to the maintenance of plasma corticosterone.
+However, Campbell et al. (3) assayed 11-HSD1 
+dehydrogenase protein content in liver, muscle, and adipose tissues of
+ZDF rats and found that voluntary exercise did not affect it.
+Voluntary running is intuitively a more physiological exercise
+model, since the animals are not forcibly exercised through
+stressful means and are permitted to exercise at the intensity,
+duration, and frequency patterns that they choose during their
+normal awake time at night. Nonetheless, a careful study
+directly comparing the response of the HPA axis to voluntary
+wheel running and forced treadmill exercise training would be
+helpful.
+Voluntary exercise preserves capacity of ZDF islets to 
+compensate for IR. Insulin secretion to oral glucose was markedly
+enhanced in ZDF-A compared with both ZDF-I and ZL-I rats.
+This was confirmed in the isolated islet studies. GSIS in the
+presence or absence of fatty acids and expressed per islet was
+higher in ZDF-A islets compared with the ZL-I and ZDF-I
+islets. Although GSIS was similar at 8 mmol/l in ZDF-I and
+ZL-I islets, compensatory enhanced secretion as seen in
+ZDF-A islets was not evident in ZDF-I islets, and there was a
+complete failure of further enhancement of secretion at 16
+mmol/l glucose in the absence or presence of fatty acids.
+Although the results can only be considered preliminary, the
+effect of exercise to increase active GLP-1 levels in the ZDF-A
+compared with ZDF-I rats in this study could potentially be
+important in the mechanisms by which exercise preserves
+insulin secretion in ZDF rats.
+E260
+ZDF islet failure or islet -cell failure? GSIS was expressed
+in three different ways, per islet, per islet protein content, and
+per islet total insulin content, as shown in Fig. 4, C-E. Almost
+all previous studies of GSIS in isolated islets of ZDF rats have
+expressed their results as insulin release per islet only (13, 14,
+16, 24, 34, 47, 51, 52, 55). GSIS expressed per islet reflects
+both the effects of islet size and function on insulin secretion,
+and this was clearly enhanced in islets of the ZDF-A rats
+compared with the islets of both the ZL-I and ZDF-I rat groups.
+Secretion per islet, however, is not a good measure of 
+individual islet -cell function, particularly if islet size is very 
+different between groups. Islet size was approximately fourfold
+greater in ZDF-I and ZDF-A islets compared with ZL-I islets.
+Correcting GSIS for islet protein content and for islet total
+insulin content should give closer approximations to individual
+-cell function.
+Correcting for islet protein
+content showed improved 
+function in ZDF-A compared with ZDF-I islets, but
+not to the same
+level of GSIS of ZL-I islets. The islet protein content
+measure-
+ment, however, is
+a reflection of not only -cells but all cells
+in the islet. Insulin is present only in -cells and, for this
+reason, correcting for islet insulin content may be the best
+measure of individual -cell function depending on whether
+insulin content per individual -cell is equivalent across
+groups. Interestingly, correcting GSIS for islet total insulin
+content showed no deficiencies in either the ZDF-I or ZDF-A
+islets, and the ZDF-A islets were not better than the ZDF-I
+islets. Although not significant, there appeared to be a left shift
+in glucose dependency for insulin secretion in ZDF-I islets.
+Also, insulin secretion in response to KCl was greatest in the
+ZFD-I islets when insulin secretion was expressed in this way.
+Only one previous study reported insulin secretion based on the
+fraction of the islet insulin content released in ZDF rats (36).
+They observed enhanced basal secretion and reduced GSIS.
+Altogether these results suggest that increased islet size
+plays a major role in islet compensation for IR in the ZDF-A
+rat, since GSIS per islet protein was still mildly impaired in
+ZDF-A islets. Unclear from this data, however, is whether
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+individual islet -cell function is impaired in ZDF-I islets and
+whether this is altered by exercise. To determine this, it would
+be necessary to have accurate assessment of the proportion of
+-cells per islet.
+Morphological studies of sedentary ZDF rat islets have
+previously shown them to be enlarged with increased 
+nonen-docrine cells and fibrosis with reduced immunostaining for
+insulin (21, 22, 41). The latter appears to be a consequence of
+both reduced -cells per islet area and reduced intensity of
+insulin staining. Furthermore, these features are reversed by
+exercise (21, 22, 41). The 86% reduction in islet insulin content
+in the current study is consistent with these findings and those
+of Zhou and colleagues (59) who showed that insulin content
+expressed per islet DNA in ZDF rats was only 30% of that in
+ZL rat islets. Thus, the poor GSIS of ZDF-I islets is likely to
+be contributed to by both reduced -cells per islet and reduced
+individual -cell insulin stores, and both are at least partly
+improved by exercise. This view of the ZDF rat model is of
+significance for diabetes research since it is widely used.
+The finding that insulin secretion corrected for total insulin
+content is not impaired suggests that the main defect in ZDF rat
+islets is not its secretory machinery or glucose signaling per se.
+However, the failure of further enhancement of insulin 
+secretion at the highest glucose concentration in the presence or
+absence of fatty acids suggests some defects in 
+nutrient-secretion coupling mechanisms.
+Unclear in the current data is whether the loss of insulin
+stores is an early pathogenic factor in the -cell failure of
+ZDF-I rats or a consequence of progressive -cell damage due
+to glucolipotoxic effects after early -cell failure from other
+causes. In the ZF-Px rat model, we also showed marked loss of
+pancreatic insulin content when the rats were moderately
+hyperglycemic (11), such that the depletion of insulin stores is
+not an exclusive feature of the ZDF rat. It is generally accepted
+that -cell degranulation is a common late pathogenic factor in
+T2D (56). In favor of depletion of insulin stores as being a
+more primary factor is a known insulin-promoter mutation
+specific to the ZDF rat (15), whereas both the ZDF and ZF
+animals show a mutated leptin receptor gene.
+Role of altered lipid partitioning and GL/FA cycling in ZDF
+rats. Fatty acid oxidation at low glucose and the lipolysis arm
+of GL/FA cycling at high glucose, both proposed as 
+mechanisms for cellular lipid detoxification (33), were reduced in
+ZDF-I compared with ZL-I rats. Furthermore, glucose 
+responsiveness of both processes was lost. Importantly, these defects
+were also present in the ZDF-A rats, such that exercise did not
+prevent them. These defects in islet fatty acid partitioning,
+therefore, are not induced by hyperglycemia but appear as
+early defects in ZDF islets such that they could underlie islet
+susceptibility in this model. Consistent with these findings, we
+observed a lack of glucose regulation of islet fatty acid 
+oxidation and lipolysis in ZDF rat islets at the diabetes transition
+phase (9 wk of age) (53). We also found defective glucose
+responsiveness of GL/FA cycling in islets of hyperglycemic
+diet-induced obese mice (C57Bl6) but enhanced GL/FA 
+cycling and fat oxidation at elevated glucose in compensating ZF
+rat islets (32). Thus, glucose responsiveness of islet lipid
+partitioning pathways appears to be robust in the ZF rat
+(diabetes resistant) but poor in the ZDF rat strain and high-fat-
+fed C57Bl6 mice (both diabetes prone).
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E261ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+The reduced fatty acid oxidation at low and intermediate
+glucose concentrations and the reduced lipolysis at high 
+glucose are consistent with the increased accumulation of 
+intra-cellular NEFA and neutral esterified lipids in ZDF-I islets. A
+consequence is a greater pool of lipid signaling molecules,
+such as DAG, to cope with the increased demand of insulin
+secretion, but this dysregulation could also result in 
+lipotoxicity. In particular, the lack of glucose-stimulated lipolysis in
+ZDF islets may contribute to an imbalance between fat 
+esterification and lipolysis. The consequent glucolipotoxicity in this
+model could cause both a reduction in the expression of the
+insulin gene (40) as well as other key -cell genes and lead to
+-cell apoptosis.
+Physical activity and -cell gene expression. Reduced
+mRNA expression of MafA, PDX-1, insulin, GPR40, GLP1r,
+GIPr, and PC in islets from ZDF-I compared with islets from
+ZL-I rats suggests a state of moderate “dedifferentiation”
+(reduced expression of key genes that characterize a normal
+-cell phenotype) of -cells in diabetic rats. Surprisingly,
+except for the insulin gene, physical activity did not reverse
+these modifications, but this is not inconsistent with some mild
+impairment of -cell function in ZDF-A islets compared with
+ZL-I islets when the analysis is corrected for protein. In
+E262
+contrast, pancreatectomized female Sprague-Dawley rats fed a
+high-fat diet showed increased islet PDX-1 mRNA expression
+and improved -cell function following 8 wk of exercise
+training (4). However, the ZDF rat does not seem to fit with the
+theory proposing that -cell dedifferentiation plays
+causal role in -cell dysfunction and failure (7, 17, 56). We
+speculate that the reduced expression of these genes is a marker
+of islet stress and to some degree has a protective role to
+prevent excessive insulin biosynthesis/secretion and associated
+ER stress (45) causing cell death. The enhanced expression of
+the SCD-1, CPT-1, and PGC-1
+ genes in diabetic ZDF-I rat
+islets could be attempts by the -cell to protect themselves in
+the face of hyperglycemia favoring -cell lipodetoxification by
+simultaneously enhancing both fat oxidation (CPT-1 and 
+PGC-1
+) and diverting fatty acids to safe TG deposition (SCD-1)
+rather than to the accumulation of complex lipids such as
+ceramides that are more toxic to the cell (5, 31, 38). Fatty acid
+oxidation, however, was not increased in the hyperglycaemic
+ZDF-I rats, suggesting upregulation of these genes was not an
+effective compensation.
+Role of exercising muscle in -cell protection. A key 
+question arises as to how physical activity preserves insulin stores
+and -cell function. A possible explanation is that the 
+over-nourished but
+physically active male ZDF-A
+rats avoided
+hyperglycemia by improving insulin sensitivity, as suggested
+by the diminutions in weekly plasma glucose and insulin
+concentrations. Direct demonstration of improved whole body
+insulin sensitivity in trained ZDF rats was shown by Pold et al.
+(41) using the hyperinsulinemic-euglycemic clamp technique.
+Alternatively, exercise can enhance glucose partitioning to
+exercising muscle by activating AMP-activated protein kinase
+(AMPK)
+in muscle, which is known to promote glucose
+disposal independently of insulin (2, 30). Because voluntary
+running ZDF rats spent 300 min/night exercising, this would
+reduce the insulin required
+to compensate for IR, as well as
+favor lower glycemia. The finding of an increased marker of
+muscle oxidative capacity in ZFD-A rats is in keeping with a
+role for enhanced muscle glucose usage being important. With
+respect
+to the potential role of AMPK activation, it is 
+interesting to note that forced treadmill running in ZDF rats led to
+upregulation of AMPK
+1 subunit in red gastrocnemius (41)
+and that AICAR (58) and thiazolidinediones (50), both known
+to affect AMPK activity, also prevent diabetes in ZDF rats.
+In conclusion, the ZDF rat, unlike the ZF rat, has islets
+that are susceptible to failure in the face of nutrient 
+overload. The underlying -cell susceptibility factor(s) in ZDF
+rats is unknown, but the results of this study provide
+evidence that dysregulation of -cell lipid metabolism is an
+attractive possibility, since exercise could not reverse this
+and also because the defect is already apparent at the
+diabetes transition phase at 9 wk of age (53) and thus is
+independent of hyperglycemia. Another possibility is the
+mutation in the insulin promoter in ZDF rats (15) that
+combines with glucolipotoxicity-induced reduction in 
+insulin gene expression (40). Severe depletion of islet insulin
+stores due to either loss of islet -cells or reduced insulin
+content per -cell, but most likely both, is a major 
+contributor to insulin secretion failure in this rodent model of
+obesity-associated T2D, preventable by voluntary running.
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+a central
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+ACKNOWLEDGMENTS
+We thank Vincent Poitout from The Montreal Diabetes Research Center,
+Research Center of the University of Montreal Hospital Cente (CRCHUM) for
+thoughtful review of the manuscript. We also acknowledge the excellent
+technical assistance of Roxane Lussier from The Montreal Diabetes Research
+Center, CRCHUM, and Pierre Corriveau from the Department of Kinesiology,
+University of Montreal.
+Present address of O. Birot: School of Kinesiology and Health Science,
+York University, Toronto, Ontario, Canada.
+GRANTS
+This work was supported by grants from the NSERC (R. Bergeron), the
+Canadian Diabetes Association, and the Canadian Institute of Health Research
+(M. Prentki). M. Prentki is the recipient of a Canadian Chair in Diabetes and
+Metabolism. J. Lamontagne is supported by graduate studentships from the
+Fonds de Recherche en Santé du Québec.
+DISCLOSURES
+No conflicts of interest are declared by the authors.
+REFERENCES
+1. Baldwin KM, Cheadle WG, Martinez OM, Cooke DA. Effect of
+functional overload on enzyme levels in different types of skeletal muscle.
+J Appl Physiol 42: 312-317, 1977.
+2. Bergeron R, Russell RR, 3rd Young LH, Ren JM, Marcucci M, Lee
+A, Shulman GI. Effect of AMPK activation
+on muscle glucose 
+metabolism in conscious rats. Am J Physiol Endocrinol Metab 276: E938-E944,
+1999.
+3. Campbell JE, Kiraly MA, Atkinson DJ, D’Souza AM, Vranic M,
+Riddell MC. Regular exercise prevents the development of 
+hypergluco-corticoidemia via adaptations in the brain and adrenal glands in male
+Zucker diabetic fatty rats. Am J Physiol Regul Integr Comp Physiol 299:
+R168-R176, 2010.
+4. Choi SB, Jang JS, Park S. Estrogen and exercise may enhance beta-cell
+function and mass via insulin receptor substrate 2 induction in 
+ovariecto-mized diabetic rats. Endocrinology 146: 4786-4794, 2005.
+5. Cnop M, Hannaert JC, Hoorens A, Eizirik DL, Pipeleers DG. Inverse
+relationship between cytotoxicity of free fatty acids in pancreatic islet
+cells and cellular triglyceride accumulation. Diabetes 50: 1771-1777,
+2001.
+6. Colombo M, Gregersen S, Kruhoeffer M, Agger A, Xiao J, Jeppesen
+PB, Orntoft T, Ploug T, Galbo H, Hermansen K. Prevention of
+hyperglycemia in Zucker diabetic fatty rats by exercise training: effects
+on gene expression in insulin-sensitive tissues determined by 
+high-density oligonucleotide microarray analysis. Metabolism 54: 
+1571-1581, 2005.
+7. Del Guerra S, Lupi R, Marselli L, Masini M, Bugliani M, Sbrana S,
+Torri S, Pollera M, Boggi U, Mosca F, Del Prato S, Marchetti P.
+Functional and molecular defects of pancreatic islets in human type 2
+diabetes. Diabetes 54: 727-735, 2005.
+8. Dela F, Mikines KJ, Tronier B, Galbo H. Diminished 
+arginine-stimulated insulin secretion in trained men. J Appl Physiol 69: 
+261-267, 1990.
+9. Dela F, Stallknecht B. Effect of physical training on insulin secretion and
+action in skeletal muscle and adipose tissue of first-degree relatives of type
+2 diabetic patients. Am J Physiol Endocrinol Metab 299: E80-E91, 2010.
+10. Dela F, von Linstow ME, Mikines KJ, Galbo H. Physical training may
+enhance -cell function in type 2 diabetes. Am J Physiol Endocrinol
+Metab 287: E1024-E1031, 2004.
+11. Delghingaro-Augusto V, Nolan CJ, Gupta D, Jetton TL, Latour MG,
+Peshavaria M, Madiraju SR, Joly E, Peyot ML, Prentki M, Leahy J.
+Islet beta cell failure in the 60% pancreatectomised obese hyperlipidaemic
+Zucker fatty rat: severe dysfunction with altered glycerolipid metabolism
+without steatosis or a falling beta cell mass. Diabetologia 52: 1122-1132,
+2009.
+12. Fediuc S, Campbell JE, Riddell MC. Effect of voluntary wheel running
+on circadian corticosterone release and on HPA axis responsiveness to
+restraint stress in Sprague-Dawley rats. J Appl Physiol 100: 1867-1875,
+2006.
+13. Getty-Kaushik L, Richard AM, Deeney JT, Krawczyk S, Shirihai O,
+Corkey BE. The CB1 antagonist rimonabant decreases insulin 
+hyperse-cretion in rat pancreatic islets. Obesity (Silver Spring) 17: 1856-1860,
+2009.
+14. Gram DX, Ahren B, Nagy I, Olsen UB, Brand CL, Sundler F,
+Tabanera R, Svendsen O, Carr RD, Santha P, Wierup N, Hansen AJ.
+Capsaicin-sensitive sensory fibers in the islets of Langerhans contribute to
+defective insulin secretion in Zucker diabetic rat, an animal model for
+some aspects of human type 2 diabetes. Eur J Neurosci 25: 213-223,
+2007.
+15. Griffen SC, Wang J, German MS. A genetic defect in beta-cell gene
+expression segregates independently from the fa locus in the ZDF rat.
+Diabetes 50: 63-68, 2001.
+16. Harmon JS, Gleason CE, Tanaka Y, Oseid EA, Hunter-Berger KK,
+Robertson RP. In vivo prevention of hyperglycemia also prevents 
+glu-cotoxic effects
+on PDX-1 and insulin gene expression. Diabetes 48:
+1995-2000, 1999.
+17. Jonas JC, Sharma A, Hasenkamp W, Ilkova H, Patane G, Laybutt R,
+Bonner-Weir S, Weir GC. Chronic hyperglycemia triggers loss of
+pancreatic beta cell differentiation in
+an animal model of diabetes. J Biol
+Chem 274: 14112-14121, 1999.
+18. Kahn SE. The relative contributions of insulin resistance and beta-cell
+dysfunction
+to the pathophysiology of Type 2 diabetes. Diabetologia 46:
+3-19, 2003.
+19.
+Kai K, Morimoto I, Morita E, Okada Y, Yamamoto S, Kanda K, Uriu
+K, Eto S. Environmental stress modifies glycemic control and diabetes
+onset in type 2 diabetes prone Otsuka Long Evans Tokushima Fatty
+(OLETF)
+rats. Physiol Behav 68: 445-452, 2000.
+20. King DS, Dalsky GP, Staten MA, Clutter WE, Van Houten DR,
+Holloszy JO. Insulin action and secretion in endurance-trained and 
+untrained humans. J Appl Physiol 63: 2247-2252, 1987.
+21. Kiraly MA, Bates HE, Kaniuk NA, Yue JT, Brumell JH, Matthews
+SG, Riddell MC, Vranic M. Swim training prevents hyperglycemia in
+ZDF rats: mechanisms involved in the partial maintenance of beta-cell
+function. Am J Physiol Endocrinol Metab 294: E271-E283, 2008.
+22. Kiraly MA, Bates HE, Yue JT, Goche-Montes D, Fediuc S, Park E,
+Matthews SG, Vranic M, Riddell MC. Attenuation of type 2 diabetes
+mellitus in the male Zucker diabetic fatty rat: the effects of stress and
+non-volitional exercise. Metabolism 56: 732-744, 2007.
+23. Kiraly MA, Campbell J, Park E, Bates HE, Yue JTY, Rao V,
+Matthews SG, Bikopoulos G, Rozakis-Adcock M, Giacca A, Vranic
+M, Riddell MC. Exercise maintains euglycemia in association with
+decreased activation of c-Jun NH2-terminal kinase and serine 
+phosphor-ylation of IRS-1 in the liver of ZDF rats. Am J Physiol Endocrinol Metab
+298: E671-E682, 2010.
+24. Lee Y, Hirose H, Ohneda M, Johnson JH, McGarry JD, Unger RH.
+Beta-cell lipotoxicity in the pathogenesis of non-insulin-dependent 
+diabetes mellitus of obese rats: impairment in adipocyte-beta-cell relationships.
+Proc Natl Acad Sci USA 91: 10878-10882, 1994.
+25. Liu YQ, Jetton TL, Leahy JL. beta-cell adaptation to insulin resistance.
+Increased pyruvate carboxylase and malate-pyruvate shuttle activity in
+islets of nondiabetic Zucker fatty rats. J Biol Chem 277: 39163-39168,
+2002.
+26. Matsuda M, DeFronzo RA. Insulin sensitivity indices obtained from oral
+glucose tolerance testing: comparison with the euglycemic insulin clamp.
+Diabetes Care 22: 1462-1470, 1999.
+27. Migoya EM, Bergeron R, Miller JL, Snyder RN, Tanen M, Hilliard D,
+Weiss B, Larson P, Gutierrez M, Jiang G, Liu F, Pryor KA, Yao J,
+Zhu L, Holst JJ, Deacon C, Herman G, Thornberry N, Amatruda J,
+Williams-Herman
+D, Wagner JA, SinhaRoy R. Dipeptidyl peptidase-4
+inhibitors administered in combination with metformin result in
+an 
+additive increase in the plasma concentration of active GLP-1. Clin Pharmacol
+Ther 88: 801-808, 2010.
+28. Mikines KJ, Sonne B, Tronier B, Galbo H. Effects of training and
+detraining on dose-response relationship between glucose and insulin
+secretion. Am J Physiol Endocrinol Metab 256: E588-E596, 1989.
+29. Moraska A, Deak T, Spencer RL, Roth D, Fleshner M. Treadmill
+running produces both positive and negative physiological adaptations in
+Sprague-Dawley rats. Am J Physiol Regul Integr Comp Physiol 279:
+R1321-R1329, 2000.
+30. Narkar VA, Downes M, Yu RT, Embler E, Wang YX, Banayo E,
+Mihaylova MM, Nelson MC, Zou Y, Juguilon H, Kang H, Shaw RJ,
+Evans RM. AMPK and PPARdelta agonists are exercise mimetics. Cell
+134: 405-415, 2008.
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E263ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+31. Nolan CJ, Larter CZ. Lipotoxicity: why do saturated fatty acids cause
+and monounsaturates protect against it? J Gastroenterol Hepatol 24:
+703-706, 2009.
+32. Nolan CJ, Leahy JL, Delghingaro-Augusto V, Moibi J, Soni K, Peyot
+ML, Fortier M, Guay C, Lamontagne J, Barbeau A, Przybytkowski E,
+Joly E, Masiello P, Wang S, Mitchell GA, Prentki M. Beta cell
+compensation for insulin resistance in Zucker fatty rats: increased lipolysis
+and fatty acid signalling. Diabetologia 49: 2120-2130, 2006.
+33. Nolan CJ, Prentki M. The islet beta-cell: fuel responsive and vulnerable.
+Trends Endocrinol Metab 19: 285-291, 2008.
+34. Ohneda M, Inman LR, Unger RH. Caloric restriction in obese 
+pre-diabetic rats prevents beta-cell depletion, loss of beta-cell GLUT 2 and
+glucose incompetence. Diabetologia 38: 173-179, 1995.
+35. Pan XR, Li GW, Hu YH, Wang JX, Yang WY, An ZX, Hu ZX, Lin J,
+Xiao JZ, Cao HB, Liu PA, Jiang XG, Jiang YY, Wang JP, Zheng H,
+Zhang H, Bennett PH, Howard BV. Effects of diet and exercise in
+preventing NIDDM in people with impaired glucose tolerance. The Da
+Qing IGT and Diabetes Study. Diabetes Care 20: 537-544, 1997.
+36. Parton LE, McMillen PJ, Shen Y, Docherty E, Sharpe E, Diraison F,
+Briscoe CP, Rutter GA. Limited role for SREBP-1c in defective 
+glucose-induced insulin secretion from Zucker diabetic fatty rat islets:
+a functional
+and gene profiling analysis. Am J Physiol Endocrinol Metab 291: 
+E982-E994, 2006.
+37. Passonneau JV, Lauderdale VR. A comparison of three methods of
+glycogen measurement in tissues. Anal Biochem 60: 405-412, 1974.
+38. Peter A, Weigert C, Staiger H, Rittig K, Cegan A, Lutz P, Machicao
+F, Haring HU, Schleicher E. Induction of stearoyl-CoA desaturase
+protects human arterial endothelial cells against lipotoxicity. Am J Physiol
+Endocrinol Metab 295: E339-E349, 2008.
+39. Peyot ML, Nolan CJ, Soni K, Joly E, Lussier R, Corkey BE, Wang SP,
+Mitchell GA, Prentki M. Hormone-sensitive lipase has a role in lipid
+signaling for insulin secretion but is nonessential for the incretin action of
+glucagon-like peptide 1. Diabetes 53: 1733-1742, 2004.
+40. Poitout V, Robertson RP. Glucolipotoxicity: fuel excess and beta-cell
+dysfunction. Endocr Rev 29: 351-366, 2008.
+41. Pold R, Jensen LS, Jessen N, Buhl ES, Schmitz O, Flyvbjerg A, Fujii
+N, Goodyear LJ, Gotfredsen CF, Brand CL, Lund S. Long-term
+AICAR administration and exercise prevents diabetes in ZDF rats. 
+Diabetes 54: 928-934, 2005.
+42. Prentki M, Nolan CJ. Islet beta cell failure in type 2 diabetes. J Clin
+Invest 116: 1802-1812, 2006.
+43. Raguso CA, Kyle U, Kossovsky MP, Roynette C, Paoloni-Giacobino
+A, Hans D, Genton L, Pichard C. A 3-year longitudinal study on body
+composition changes in the elderly: Role of physical exercise. Clin Nutr
+25: 573-580, 2006.
+44. Roudier E, Chapados N, Decary S, Gineste C, Le Bel C, Lavoie JM,
+Bergeron R, Birot O. Angiomotin p80/p130 ratio: a new indicator of
+exercise-induced angiogenic activity in skeletal muscles from obese and
+non-obese rats? J Physiol 587: 4105-4119, 2009.
+45. Scheuner D, Kaufman RJ. The unfolded protein response: a pathway that
+links insulin demand with beta-cell failure and diabetes. Endocr Rev 29:
+317-333, 2008.
+46. Seburn KL, Gardiner P. Adaptations of rat lateral gastrocnemius motor
+units in response to voluntary running. J Appl Physiol 78: 1673-1678,
+1995.
+47. Shimabukuro M, Zhou YT, Lee Y, Unger RH. Troglitazone lowers islet
+fat and restores beta cell function of Zucker diabetic fatty rats. J Biol Chem
+273: 3547-3550, 1998.
+48. Slentz CA, Tanner CJ, Bateman LA, Durheim MT, Huffman KM,
+Houmard JA, Kraus WE. Effects of exercise training intensity
+on
+pancreatic beta-cell function. Diabetes Care 32: 1807-1811, 2009.
+49. Smith AC, Mullen KL, Junkin KA, Nickerson J, Chabowski A, Bonen
+A, Dyck DJ. Metformin and exercise reduce muscle FAT/CD36 and
+lipid accumulation and blunt the progression of high-fat diet-induced
+hyperglycemia. Am J Physiol Endocrinol Metab 293: E172-E181,
+2007.
+50. Sreenan S, Sturis J, Pugh W, Burant CF, Polonsky KS. Prevention of
+hyperglycemia in the Zucker diabetic fatty rat by treatment with 
+metformin or troglitazone. Am J Physiol Endocrinol Metab 271: E742-E747,
+1996.
+51. Sreenan SK, Mittal AA, Dralyuk F, Pugh WL, Polonsky KS, Roe MW.
+Glucagon-like peptide-1 stimulates insulin secretion by a Ca2-indepen-
+dent mechanism in Zucker diabetic fatty rat islets of Langerhans. 
+Metabolism 49: 1579-1587, 2000.
+E264
+52. Tanaka Y, Gleason CE, Tran PO, Harmon JS, Robertson RP.
+Prevention of glucose toxicity in HIT-T15 cells and Zucker diabetic fatty
+rats by antioxidants. Proc Natl Acad Sci USA 96: 10857-10862, 1999.
+53. Tiano JP, Delghingaro-Augusto V, Le May C, Liu S, Kaw MK,
+Khuder SS, Latour MG, Bhatt SA, Korach KS, Najjar SM, Prentki
+M, Mauvais-Jarvis F. Estrogen receptor activation reduces lipid
+synthesis in pancreatic islets and prevents beta cell failure in rodent
+models of type 2 diabetes. J Clin Invest 121: 3331-3342, 2011.
+54. Tuomilehto J, Lindstrom J, Eriksson JG, Valle TT, Hamalainen H,
+Ilanne-Parikka P, Keinanen-Kiukaanniemi S, Laakso M, Louheranta
+A, Rastas M, Salminen V, Uusitupa M. Prevention of type 2 diabetes
+mellitus by changes in lifestyle among subjects with impaired glucose
+tolerance. N Engl J Med 344: 1343-1350, 2001.
+55. Wang MY, Shimabukuro M, Lee Y, Trinh KY, Chen JL, Newgard
+CB, Unger RH. Adenovirus-mediated overexpression of uncoupling
+protein-2 in pancreatic islets of Zucker diabetic rats increases oxidative
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+activity and improves beta-cell function. Diabetes 48: 1020 -1025,
+1999.
+56. Weir GC, Laybutt DR, Kaneto H, Bonner-Weir S, Sharma A. 
+Beta-cell adaptation and decompensation during the progression of diabetes.
+Diabetes 50, Suppl 1: S154-S159, 2001.
+57. Yeckel CW, Weiss R, Dziura J, Taksali SE, Dufour S, Burgert TS,
+Tamborlane WV, Caprio S. Validation of insulin sensitivity indices from
+oral glucose tolerance test parameters in obese children and adolescents. J
+Clin Endocrinol Metab 89: 1096-1101, 2004.
+58. Yu X, McCorkle S, Wang M, Lee Y, Li J, Saha AK, Unger RH,
+Ruderman NB. Leptinomimetic effects of the AMP kinase activator
+AICAR in leptin-resistant rats: prevention of diabetes and ectopic lipid
+deposition. Diabetologia 47: 2012-2021, 2004.
+59. Zhou YP, Cockburn BN, Pugh W, Polonsky KS. Basal insulin 
+hyper-secretion in insulin-resistant Zucker diabetic and Zucker fatty rats: role of
+enhanced fuel metabolism. Metabolism 48: 857-864, 1999.
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+
+>>>section: acknowledgements
+ACKNOWLEDGMENTS
+We thank Vincent Poitout from The Montreal Diabetes Research Center,
+Research Center of the University of Montreal Hospital Cente (CRCHUM) for
+thoughtful review of the manuscript. We also acknowledge the excellent
+technical assistance of Roxane Lussier from The Montreal Diabetes Research
+Center, CRCHUM, and Pierre Corriveau from the Department of Kinesiology,
+University of Montreal.
+Present address of O. Birot: School of Kinesiology and Health Science,
+York University, Toronto, Ontario, Canada.
+GRANTS
+This work was supported by grants from the NSERC (R. Bergeron), the
+Canadian Diabetes Association, and the Canadian Institute of Health Research
+(M. Prentki). M. Prentki is the recipient of a Canadian Chair in Diabetes and
+Metabolism. J. Lamontagne is supported by graduate studentships from the
+Fonds de Recherche en Santé du Québec.
+DISCLOSURES
+No conflicts of interest are declared by the authors.
+
+>>>section: abstract
+
+>>>section: discussion
+DISCUSSION
+As in other studies using forced exercise in the ZDF rat (21,
+22, 41), voluntary running prevented the development of 
+diabetes despite continuing hyperphagia, obesity, and 
+hyperlipid-emia. Compensatory insulin secretion was preserved by 
+exercise, and, this was best characterized by enhanced insulin
+secretion per islet and prevention of severe depletion of islet
+insulin stores. Interestingly, islets of both ZDF-I and ZDF-A
+rats had significant abnormalities in key -cell gene expression
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+as well as loss of glucose responsiveness of fatty acid oxidation
+and the lipolysis arm of GL/FA cycling.
+Voluntary exercise does not reverse hyperphagia and obesity
+but prevents hyperglycemia in ZDF rats. Food intake and body
+weight were not altered by exercise despite the greater 
+exer-cise-related energy expenditure in the ZDF-A rats, which ran
+an average 4.2 km/day. However, this finding is not surprising
+because ZDF-A maintained glycemia below 180 mg/dl
+throughout the study. Therefore, less calories from food intake
+would be wasted into urine, making ZDF-A rats more 
+metabolically efficient than ZDF-I rats, which had mean glycemia
+250 mg/dl for most of the study. Such improvement in
+metabolic efficiency via reduced glucose excretion in urine has
+been reported previously (6, 41). On the other hand, there were
+changes in body composition with increased skeletal muscle
+weights, reduced liver mass, and a trend for EWAT depots to
+be smaller (8% reduced, P  0.064) in ZDF-A compared with
+ZDF-I rats. Such favorable changes in body composition have
+been observed in T2D patients who are physically active (43).
+At 2 wk into the intervention, ZDF-I rats were still 
+normogly-cemic but had two times the insulinemia of ZDF-A rats (Fig.
+2A), consistent with some lessening of IR in the physically
+active rats. Other studies using homeostasis model 
+assess-ment-IR and the hyperinsulinemic-euglycemic clamp 
+technique have reported increased insulin sensitivity in 
+exercise-trained ZDF rats (23, 41). Although not the focus of the present
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E259ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+experiment, we expect that insulin sensitivity was improved in
+physically active ZDF rats.
+Voluntary exercise is not causing elevation of stress
+hormones. All but two exercise studies (23, 44) in male ZDF
+rats have used forced treadmill running or swimming. During
+forced exercise, often conducted during the lights-on cycle,
+animals experience severe psychological stress and disruption
+of the normal circadian rhythm of the hypothalamic-pituitary-
+adrenal (HPA) axis (12). In addition to beneficial adaptations,
+such as increased oxidative capacity and improved insulin
+sensitivity, forced treadmill running is associated with 
+unwanted physiological adaptations indicative of chronic stress
+(29). Importantly, glucose homeostasis itself can be affected by
+nonexercise forms of stress (19). Hence, ZDF rats bathing in 5
+cm of water and serving as a sham control group to a 
+swimming group of rats had increased plasma corticosterone 
+concentrations, which was associated with delayed onset of 
+postprandial hyperglycemia (22). Such results stemming from
+forced swimming exercise make the interpretation of the data
+ambiguous.
+In the present study, we measured plasma corticosterone
+concentrations in the morning at times of rest for the rats (basal
+corticosterone) rather than during times of exercise, and these
+were not altered by voluntary running in ZDF rats. Moreover,
+plasma ACTH was decreased in physically active ZDF rats in
+the face of similar plasma corticosterone concentrations 
+compared with inactive ZDF rats. This may be due to an enhanced
+sensitivity of the adrenal glands to ACTH, as suggested by
+Fediuc et al. (12) based on data obtained from Sprague-Dawley
+rats that had been trained by voluntary running for 5 wk.
+Alternatively, increased conversion of 11-dehydrocorticoster-
+one to corticosterone through the action of 11-hydroxysteroid
+dehydrogenase 1 (11-HSD1) dehydrogenase activity may
+have contributed to the maintenance of plasma corticosterone.
+However, Campbell et al. (3) assayed 11-HSD1 
+dehydrogenase protein content in liver, muscle, and adipose tissues of
+ZDF rats and found that voluntary exercise did not affect it.
+Voluntary running is intuitively a more physiological exercise
+model, since the animals are not forcibly exercised through
+stressful means and are permitted to exercise at the intensity,
+duration, and frequency patterns that they choose during their
+normal awake time at night. Nonetheless, a careful study
+directly comparing the response of the HPA axis to voluntary
+wheel running and forced treadmill exercise training would be
+helpful.
+Voluntary exercise preserves capacity of ZDF islets to 
+compensate for IR. Insulin secretion to oral glucose was markedly
+enhanced in ZDF-A compared with both ZDF-I and ZL-I rats.
+This was confirmed in the isolated islet studies. GSIS in the
+presence or absence of fatty acids and expressed per islet was
+higher in ZDF-A islets compared with the ZL-I and ZDF-I
+islets. Although GSIS was similar at 8 mmol/l in ZDF-I and
+ZL-I islets, compensatory enhanced secretion as seen in
+ZDF-A islets was not evident in ZDF-I islets, and there was a
+complete failure of further enhancement of secretion at 16
+mmol/l glucose in the absence or presence of fatty acids.
+Although the results can only be considered preliminary, the
+effect of exercise to increase active GLP-1 levels in the ZDF-A
+compared with ZDF-I rats in this study could potentially be
+important in the mechanisms by which exercise preserves
+insulin secretion in ZDF rats.
+E260
+ZDF islet failure or islet -cell failure? GSIS was expressed
+in three different ways, per islet, per islet protein content, and
+per islet total insulin content, as shown in Fig. 4, C-E. Almost
+all previous studies of GSIS in isolated islets of ZDF rats have
+expressed their results as insulin release per islet only (13, 14,
+16, 24, 34, 47, 51, 52, 55). GSIS expressed per islet reflects
+both the effects of islet size and function on insulin secretion,
+and this was clearly enhanced in islets of the ZDF-A rats
+compared with the islets of both the ZL-I and ZDF-I rat groups.
+Secretion per islet, however, is not a good measure of 
+individual islet -cell function, particularly if islet size is very 
+different between groups. Islet size was approximately fourfold
+greater in ZDF-I and ZDF-A islets compared with ZL-I islets.
+Correcting GSIS for islet protein content and for islet total
+insulin content should give closer approximations to individual
+-cell function.
+Correcting for islet protein
+content showed improved 
+function in ZDF-A compared with ZDF-I islets, but
+not to the same
+level of GSIS of ZL-I islets. The islet protein content
+measure-
+ment, however, is
+a reflection of not only -cells but all cells
+in the islet. Insulin is present only in -cells and, for this
+reason, correcting for islet insulin content may be the best
+measure of individual -cell function depending on whether
+insulin content per individual -cell is equivalent across
+groups. Interestingly, correcting GSIS for islet total insulin
+content showed no deficiencies in either the ZDF-I or ZDF-A
+islets, and the ZDF-A islets were not better than the ZDF-I
+islets. Although not significant, there appeared to be a left shift
+in glucose dependency for insulin secretion in ZDF-I islets.
+Also, insulin secretion in response to KCl was greatest in the
+ZFD-I islets when insulin secretion was expressed in this way.
+Only one previous study reported insulin secretion based on the
+fraction of the islet insulin content released in ZDF rats (36).
+They observed enhanced basal secretion and reduced GSIS.
+Altogether these results suggest that increased islet size
+plays a major role in islet compensation for IR in the ZDF-A
+rat, since GSIS per islet protein was still mildly impaired in
+ZDF-A islets. Unclear from this data, however, is whether
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+individual islet -cell function is impaired in ZDF-I islets and
+whether this is altered by exercise. To determine this, it would
+be necessary to have accurate assessment of the proportion of
+-cells per islet.
+Morphological studies of sedentary ZDF rat islets have
+previously shown them to be enlarged with increased 
+nonen-docrine cells and fibrosis with reduced immunostaining for
+insulin (21, 22, 41). The latter appears to be a consequence of
+both reduced -cells per islet area and reduced intensity of
+insulin staining. Furthermore, these features are reversed by
+exercise (21, 22, 41). The 86% reduction in islet insulin content
+in the current study is consistent with these findings and those
+of Zhou and colleagues (59) who showed that insulin content
+expressed per islet DNA in ZDF rats was only 30% of that in
+ZL rat islets. Thus, the poor GSIS of ZDF-I islets is likely to
+be contributed to by both reduced -cells per islet and reduced
+individual -cell insulin stores, and both are at least partly
+improved by exercise. This view of the ZDF rat model is of
+significance for diabetes research since it is widely used.
+The finding that insulin secretion corrected for total insulin
+content is not impaired suggests that the main defect in ZDF rat
+islets is not its secretory machinery or glucose signaling per se.
+However, the failure of further enhancement of insulin 
+secretion at the highest glucose concentration in the presence or
+absence of fatty acids suggests some defects in 
+nutrient-secretion coupling mechanisms.
+Unclear in the current data is whether the loss of insulin
+stores is an early pathogenic factor in the -cell failure of
+ZDF-I rats or a consequence of progressive -cell damage due
+to glucolipotoxic effects after early -cell failure from other
+causes. In the ZF-Px rat model, we also showed marked loss of
+pancreatic insulin content when the rats were moderately
+hyperglycemic (11), such that the depletion of insulin stores is
+not an exclusive feature of the ZDF rat. It is generally accepted
+that -cell degranulation is a common late pathogenic factor in
+T2D (56). In favor of depletion of insulin stores as being a
+more primary factor is a known insulin-promoter mutation
+specific to the ZDF rat (15), whereas both the ZDF and ZF
+animals show a mutated leptin receptor gene.
+Role of altered lipid partitioning and GL/FA cycling in ZDF
+rats. Fatty acid oxidation at low glucose and the lipolysis arm
+of GL/FA cycling at high glucose, both proposed as 
+mechanisms for cellular lipid detoxification (33), were reduced in
+ZDF-I compared with ZL-I rats. Furthermore, glucose 
+responsiveness of both processes was lost. Importantly, these defects
+were also present in the ZDF-A rats, such that exercise did not
+prevent them. These defects in islet fatty acid partitioning,
+therefore, are not induced by hyperglycemia but appear as
+early defects in ZDF islets such that they could underlie islet
+susceptibility in this model. Consistent with these findings, we
+observed a lack of glucose regulation of islet fatty acid 
+oxidation and lipolysis in ZDF rat islets at the diabetes transition
+phase (9 wk of age) (53). We also found defective glucose
+responsiveness of GL/FA cycling in islets of hyperglycemic
+diet-induced obese mice (C57Bl6) but enhanced GL/FA 
+cycling and fat oxidation at elevated glucose in compensating ZF
+rat islets (32). Thus, glucose responsiveness of islet lipid
+partitioning pathways appears to be robust in the ZF rat
+(diabetes resistant) but poor in the ZDF rat strain and high-fat-
+fed C57Bl6 mice (both diabetes prone).
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+E261ZUCKER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+The reduced fatty acid oxidation at low and intermediate
+glucose concentrations and the reduced lipolysis at high 
+glucose are consistent with the increased accumulation of 
+intra-cellular NEFA and neutral esterified lipids in ZDF-I islets. A
+consequence is a greater pool of lipid signaling molecules,
+such as DAG, to cope with the increased demand of insulin
+secretion, but this dysregulation could also result in 
+lipotoxicity. In particular, the lack of glucose-stimulated lipolysis in
+ZDF islets may contribute to an imbalance between fat 
+esterification and lipolysis. The consequent glucolipotoxicity in this
+model could cause both a reduction in the expression of the
+insulin gene (40) as well as other key -cell genes and lead to
+-cell apoptosis.
+Physical activity and -cell gene expression. Reduced
+mRNA expression of MafA, PDX-1, insulin, GPR40, GLP1r,
+GIPr, and PC in islets from ZDF-I compared with islets from
+ZL-I rats suggests a state of moderate “dedifferentiation”
+(reduced expression of key genes that characterize a normal
+-cell phenotype) of -cells in diabetic rats. Surprisingly,
+except for the insulin gene, physical activity did not reverse
+these modifications, but this is not inconsistent with some mild
+impairment of -cell function in ZDF-A islets compared with
+ZL-I islets when the analysis is corrected for protein. In
+E262
+contrast, pancreatectomized female Sprague-Dawley rats fed a
+high-fat diet showed increased islet PDX-1 mRNA expression
+and improved -cell function following 8 wk of exercise
+training (4). However, the ZDF rat does not seem to fit with the
+theory proposing that -cell dedifferentiation plays
+causal role in -cell dysfunction and failure (7, 17, 56). We
+speculate that the reduced expression of these genes is a marker
+of islet stress and to some degree has a protective role to
+prevent excessive insulin biosynthesis/secretion and associated
+ER stress (45) causing cell death. The enhanced expression of
+the SCD-1, CPT-1, and PGC-1
+ genes in diabetic ZDF-I rat
+islets could be attempts by the -cell to protect themselves in
+the face of hyperglycemia favoring -cell lipodetoxification by
+simultaneously enhancing both fat oxidation (CPT-1 and 
+PGC-1
+) and diverting fatty acids to safe TG deposition (SCD-1)
+rather than to the accumulation of complex lipids such as
+ceramides that are more toxic to the cell (5, 31, 38). Fatty acid
+oxidation, however, was not increased in the hyperglycaemic
+ZDF-I rats, suggesting upregulation of these genes was not an
+effective compensation.
+Role of exercising muscle in -cell protection. A key 
+question arises as to how physical activity preserves insulin stores
+and -cell function. A possible explanation is that the 
+over-nourished but
+physically active male ZDF-A
+rats avoided
+hyperglycemia by improving insulin sensitivity, as suggested
+by the diminutions in weekly plasma glucose and insulin
+concentrations. Direct demonstration of improved whole body
+insulin sensitivity in trained ZDF rats was shown by Pold et al.
+(41) using the hyperinsulinemic-euglycemic clamp technique.
+Alternatively, exercise can enhance glucose partitioning to
+exercising muscle by activating AMP-activated protein kinase
+(AMPK)
+in muscle, which is known to promote glucose
+disposal independently of insulin (2, 30). Because voluntary
+running ZDF rats spent 300 min/night exercising, this would
+reduce the insulin required
+to compensate for IR, as well as
+favor lower glycemia. The finding of an increased marker of
+muscle oxidative capacity in ZFD-A rats is in keeping with a
+role for enhanced muscle glucose usage being important. With
+respect
+to the potential role of AMPK activation, it is 
+interesting to note that forced treadmill running in ZDF rats led to
+upregulation of AMPK
+1 subunit in red gastrocnemius (41)
+and that AICAR (58) and thiazolidinediones (50), both known
+to affect AMPK activity, also prevent diabetes in ZDF rats.
+In conclusion, the ZDF rat, unlike the ZF rat, has islets
+that are susceptible to failure in the face of nutrient 
+overload. The underlying -cell susceptibility factor(s) in ZDF
+rats is unknown, but the results of this study provide
+evidence that dysregulation of -cell lipid metabolism is an
+attractive possibility, since exercise could not reverse this
+and also because the defect is already apparent at the
+diabetes transition phase at 9 wk of age (53) and thus is
+independent of hyperglycemia. Another possibility is the
+mutation in the insulin promoter in ZDF rats (15) that
+combines with glucolipotoxicity-induced reduction in 
+insulin gene expression (40). Severe depletion of islet insulin
+stores due to either loss of islet -cells or reduced insulin
+content per -cell, but most likely both, is a major 
+contributor to insulin secretion failure in this rodent model of
+obesity-associated T2D, preventable by voluntary running.
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+a central
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+
+>>>section: results
+RESULTS
+Body weight, food intake, and organ weights. ZDF-A rats
+ran an average of 4.2 km/day over the 6 wk (Fig. 1A).
+Differences in food intake or body weight were not observed
+between ZDF-A and ZDF-I rats (Fig. 1, B and C). Both ZDF
+groups remained markedly obese and hyperphagic compared
+E256
+ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+with the ZL-I rats. There were changes, however, in body
+composition between the ZDF rat groups at the end of the study
+(Table 1). Plantaris and soleus muscles were heavier in ZDF-A
+compared with ZDF-I rats, while the heart followed this
+tendency (P  0.052) and liver weight was reduced in ZDF-A
+rats. EWAT tended to weigh less in ZDF-A compared with
+ZDF-I rats (P 0.064) but was3.5-fold heavier than in ZL-I
+rats.
+Physical activity prevents the development of diabetes but
+not severe dyslipidemia in ZDF rats. At 6 wk of age, ZDF-I
+rats were normoglycemic and hypersinsulinemic. They became
+diabetic by 9-10 wk of age while hyperinsulinemia 
+progressively decreased past that age (Fig. 2, A and B). Voluntary
+exercise prevented diabetes (Fig. 2A). The ZDF-A rats were
+markedly hyperinsulinemic compared with the ZL-I rats, but
+the levels in the first 2 wk of intervention were less than half
+Values are expressed as means  SE; n, no. of measurements. ZL-I, inactive Zucker lean; ZDF-I, inactive Zucker diabetic fatty; ZDF-A, active ZDF; EWAT,
+epididymal white adipose tissue. *P  0.05 and **P  0.01 vs. ZDF-A. ††P  0.01 vs. other two groups.
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+that required by the ZDF-I rats (Fig. 2B). While physical
+activity prevented diabetes, it had no effect on the severe
+hypertriglyceridemia of ZDF rats (Table 2). Fed-state plasma
+active GLP-1 concentrations were higher in ZDF-A (7.8  1.2
+pM) compared with ZL-I (4.6 0.6 pM; P 0.02) and tended
+to be higher than ZDF-I (5.1  0.4 pM; P  0.06).
+Voluntary running reduced hyperactivation of stress hormones.
+Corticosterone levels were not increased in the ZDF-A compared
+with ZDF-I rats; rather, there was a trend for them to fall in the
+voluntary exercising group in the last few weeks of the 
+intervention period (significantly reduced at week 4 of the 
+interven-tion) (Fig. 2C). Plasma ACTH concentrations from samples
+collected upon death were markedly lower in the ZDF-A
+compared with ZDF-I rats (Fig. 2D).
+Voluntary exercise improves glucose tolerance through
+maintenance of the glucose-stimulated insulin response. The
+ZDF-I rats had markedly impaired glucose intolerance
+(Fig. 3A). Voluntary running in the ZDF rats improved glucose
+tolerance to levels similar to those seen in ZL-I rats (Fig. 3, A
+and C). Furthermore, ZDF-A rats showed an increase in the
+plasma insulin response compared with ZDF-I rats (Fig. 3B).
+Improved pancreatic islet -cell function in ZDF-A vs. ZDF-I
+rats was also evident from the insulinogenic index (Fig. 3E).
+The insulin response of ZDF-A rats was markedly higher than
+that of the ZL-I rats (Fig. 3, B and D).
+Elevated nonislet tissue glycogen and TG contents are not
+lowered by exercise in ZDF rats, but skeletal muscle 
+mitochondrial oxidative capacity is increased. Red and white 
+gastrocnemius muscle glycogen levels were not affected by 6 wk of
+voluntary running, being similar across all three rat groups
+(data not shown). Liver glycogen content was lower in ZL-I
+rats (130 9 mol/g; P 0.01) compared with both ZDF rats
+(ZDF-A: 273  13 and ZDF-I: 261  13 mol/g). Liver TG
+content was also lower in ZL-I rats compared with ZDF rats
+(ZL-I: 8.0  0.4 mg/g vs. ZDF-A: 22.5  1.5 and ZDF-I:
+21.1  1.0 mg/g; P  0.05). Higher liver glycogen and TG
+contents observed in the ZDF rats were not affected by 
+physical activity. However, muscle cytochrome oxidase activity, an
+index of mitochondrial oxidative capacity, was increased in the
+gastrocnemius in ZDF-A compared with ZDF-I rats (respec-
+tively, 0.318  0.051 and 0.168  0.011 U/g in red 
+gastrocnemius; P  0.05; 0.086  0.021 and 0.036  0.003 U/g in
+white gastrocnemius; P  0.059).
+Severe depletion of islet insulin stores in ZDF-i rats is
+prevented by physical activity. Islets from ZDF-I rats were four
+times larger than those of ZL-I rats based on protein content
+with no difference in size evident between ZDF-I and ZDF-A
+rats (Fig. 4A). Importantly, when insulin content was 
+normalized to protein content, islets from ZDF-I rats showed an 86%
+n
+18
+19
+19
+12
+19
+reduction compared with ZL-I islets. In contrast, partial but
+significant preservation of the insulin stores was observed in
+ZDF-A compared with ZDF-I islets (Fig. 4B).
+Physical activity prevents loss of compensatory insulin 
+hy-persecretion to glucose and palmitate in isolated islets from
+ZDF rats. Insulin secretion in control ZL-I islets, expressed per
+islet (Fig. 4C), was increased at intermediate (8 mmol/l) and
+further increased at high (16 mmol/l) glucose concentrations
+with potentiation by palmitate. Insulin secretion in ZDF-I islets
+was similar to ZL-I islets at 8 mmol/l glucose with or without
+palmitate, but further increases in secretion at 16 mmol/l
+glucose
+were not seen either in the presence or absence of
+palmitate (Fig. 4C). In
+contrast, islets from physically active
+ZDF-A
+rats showed an enhanced glucose and fatty 
+acid-potentiated insulin secretion compared with ZL-I rats at both 8
+and 16 mmol/l glucose (Fig. 4C). No significant effect of KCl
+on insulin secretion was observed between the three groups
+(Fig. 4C). Interestingly, if insulin secretion was normalized per
+islet protein content (Fig. 4D), the ZL-I islets were found to
+have significantly better insulin secretion in response to 16
+mmol/l glucose in the presence or absence of palmitate than
+both ZDF-I and ZDF-A islets. Expressed this way, ZDF-A
+islets still had improved GSIS compared with ZDF-I islets,
+although the difference did not reach statistical significance
+(Fig. 4D). When GSIS was expressed as a percentage of
+corrected total islet insulin content (sum of insulin content
+measured at the end of the incubation period and the secreted
+insulin within that period), the impairment of GSIS in ZDF-I
+E257ZUCKER
+DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE
+Values are expressed as means  SE; n, no. of measurements. NEFA, nonesterified fatty acids; TG, triglycerides. #P  0.05 and ##P  0.01 vs. ZDF-I.
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00360.2011 • www.ajpendo.org
+islets was no longer evident and was actually increased 
+compared with ZL-I islets in response to KCl at 3 mmol/l glucose
+(Fig. 4E).
+Glycerolipid cycling and fatty acid oxidation in islets from
+ZDF rats is unresponsive to glucose and is not influenced by
+physical activity. All islet fatty acid metabolism data have been
+corrected for islet protein content. The inhibitory effect of high
+glucose concentrations on fatty acid oxidation was observed in
+ZL-I rat islets (Fig. 5A). However, in both ZDF-I and ZDF-A,
+fatty acid oxidation was reduced at both 3 and 8 mmol/l
+compared with ZL-I islets. In addition, no inhibitory effect of
+high glucose on islet fatty acid oxidation was observed in the
+ZDF groups (Fig. 5A). After 16 h incubation (equilibrium
+phase), net exogenous palmitate accumulation into intracellular
+NEFAs was increased by 60-70% in islets of the ZDF-I and
+ZDF-A rats compared with ZL-I islets (P  0.05; 2-way
+ANOVA: group effect) (Fig. 5B). Net exogenous palmitate
+esterification into total glycerolipids (monoacylglycerol
+DAG TG) was increased by65-70% in islets of both ZDF
+rat groups compared with ZL-I islets (P  0.05; 2-way
+ANOVA, group effect) (Fig. 5C). Lipolysis of islet 
+glycerolipids, as assessed by measurement of glycerol release, was
+increased by 85% at 16 compared with 3 mmol/l glucose in
+islets from ZL-I rats (Fig. 5D). Basal lipolysis was not different
+between islets of the three rat groups, but, in contrast to ZL-I
+islets, islets of both ZDF groups were unresponsive to the
+stimulatory effect of high glucose (Fig. 5D).
+n
+7
+6
+14
+11
+E258
+Islets of ZDF-i rats show alterations in expression of key
+-cell genes that are minimally prevented by physical activity.
+Reduction in islet insulin mRNA was observed in the ZDF-I,
+with partial prevention of this being evident in the ZDF-A
+group. The mRNA expressions of glucagon-like peptide-1
+receptor (GLP1r), glucose-dependent insulinotropic 
+polypep-tide receptor (GIPr), G protein-coupled receptor 40 (GPR40),
+MafA, pancreatic and duodenal homeobox factor-1 (PDX-1),
+and pyruvate carboxylase (PC) were markedly downregulated
+in ZDF-I islets, and physical activity did not prevent these
+changes (Fig. 6). Among the tested genes, the ones that were
+upregulated in ZDF-I compared with ZL-I rats were the ones
+that were normalized by exercise. These included 
+stearoyl-CoA desaturase (SCD-1), carnitine palmitoyltransferase 1
+(CPT-1),
+and peroxisomal proliferator-activated receptor-	 
+co-activator-1
+ (PGC-1
+) (Fig. 6).
+
+>>>section: introduction
+Am J Physiol Endocrinol Metab 302: E254-E264, 2012.
+First published November 1, 2011; doi:10.1152/ajpendo.00360.2011.
+Voluntary running exercise prevents -cell failure in susceptible islets
+of the Zucker diabetic fatty rat
+Viviane Delghingaro-Augusto,1,2 Simon Décary,3 Marie-Line Peyot,1 Martin G. Latour,1
+Julien Lamontagne,1 Nicolas Paradis-Isler,3 Marianne Lacharité-Lemieux,3 Huguette Akakpo,3
+Olivier Birot,3 Christopher J. Nolan,2 Marc Prentki,1,4* and Raynald Bergeron1,3*
+1Molecular Nutrition Unit and The Montreal Diabetes Research Center, Research Center of the University of Montreal
+Hospital Center, Montreal, Quebec; 3Departments of 3Kinesiology and 4Nutrition and Biochemistry, University of Montreal,
+Montreal, Quebec, Canada; and 2Diabetes and Endocrinology Research Unit, Australian National University Medical School
+at the Canberra Hospital, Garran, Australian Capital Territory, Australia
+Submitted 14 July 2011; accepted in final form 25 October 2011
+Delghingaro-Augusto V, Décary S, Peyot M, Latour MG, 
+Lam-ontagne J, Paradis-Isler N, Lacharité-Lemieux M, Akakpo H, Birot
+O, Nolan CJ, Prentki M, Bergeron R. Voluntary running exercise
+prevents -cell failure in susceptible islets of the Zucker diabetic fatty rat.
+Am J Physiol Endocrinol Metab 302: E254-E264, 2012. First published
+November 1, 2011; doi:10.1152/ajpendo.00360.2011.-Physical activity
+improves glycemic control in type 2 diabetes (T2D), but its contribution
+to preserving -cell function is uncertain. We evaluated the role of
+physical activity on -cell secretory function and glycerolipid/fatty acid
+(GL/FA) cycling in male Zucker diabetic fatty (ZDF) rats. Six-week-old
+ZDF rats engaged in voluntary running for 6 wk (ZDF-A). Inactive
+Zucker lean and ZDF (ZDF-I) rats served as controls. ZDF-I rats
+displayed progressive hyperglycemia with -cell failure evidenced by
+falling insulinemia and reduced insulin secretion to oral glucose. Isolated
+ZDF-I rat islets showed reduced glucose-stimulated insulin secretion
+expressed per islet and per islet protein. They were also characterized by
+loss of the glucose regulation of fatty acid oxidation and GL/FA cycling,
+reduced
+mRNA expression of key -cell genes, and severe reduction of
+insulin stores. Physical activity prevented diabetes in ZDF rats through
+sustaining -cell compensation to insulin resistance shown in vivo and in
+vitro. Surprisingly, ZDF-A islets had persistent defects in fatty acid
+oxidation, GL/FA cycling, and -cell gene expression. ZDF-A islets,
+however, had preserved islet insulin mRNA and insulin stores compared
+with ZDF-I rats. Physical activity did not prevent hyperphagia, 
+dyslipidemia, or obesity in ZDF rats. In conclusion, islets of ZDF rats have a
+susceptibility to failure that is possibly due to altered -cell fatty acid
+metabolism. Depletion of pancreatic islet insulin stores is a major 
+contributor to islet failure in this T2D model, preventable by physical
+activity.
+physical activity; glycerolipid fatty acid cycle; insulin secretion;
+adrenocorticotropic hormone; corticosterone
+INSULIN RESISTANCE (IR) is a predisposing factor for the 
+development of type 2 diabetes (T2D). However, it must be 
+combined with failure of -cell compensation for IR for T2D to
+occur (18, 42). Diet and exercise programs can reduce T2D
+development in humans with impaired glucose tolerance (35,
+54). Thus, it is likely that the exercise interventions prevent
+islet -cell failure (18, 42). Despite the abundant literature
+supporting the beneficial effects of exercise on insulin action
+(30), much less is known about the effects of exercise on -cell
+function. In young individuals, exercise training decreased
+glucose-stimulated insulin secretion (GSIS) (8, 20, 28). Trained 
+over-* M. Prentki and R. Bergeron equally contributed to this manuscript.
+Address for reprint requests and other correspondence: R. Bergeron, Univ. of
+Montreal, Montreal, Quebec, Canada (e-mail: raynald.bergeron@umontreal.ca).
+0193-1849/12 Copyright © 2012 the American Physiological Society
+weight to obese subjects also demonstrated a lower acute
+insulin response during an intravenous glucose tolerance test
+(GTT) (48). These results most probably reflect lower insulin
+requirement due to improved insulin sensitivity. Furthermore,
+Dela and Stallknecht (9) demonstrated that 12 wk of endurance
+exercise training did not increase GSIS in first-degree offspring
+of T2D patients. On the other hand, these same authors showed
+that diabetic subjects with good residual insulin secretory
+capacity had increased GSIS following endurance training,
+whereas those with low residual secretory capacity did not
+improve upon training (10). Of note, Slentz et al. (48), using
+the disposition index as a reflection of -cell function, 
+suggested that the latter is improved by moderate-intensity 
+exercise training. All together, the evidence suggests that the health
+status of subjects and methodologies employed to study -cell
+function are key parameters that influenced the outcome of
+those studies.
+The Zucker diabetic fatty (ZDF) rat is a severely 
+insulin-resistant genetic model of obesity-related T2D. Unlike the
+Zucker fatty (ZF) rat that is able to sustain -cell compensation
+for IR, the ZDF rat is prone to -cell failure. Exercise prevents
+diabetes in this animal model (6, 21, 22, 41, 49). Pold et al. (41)
+showed that treadmill-trained ZDF rats did not develop 
+hyperglycemia. In that study, exercise improved peripheral and
+hepatic insulin action and islet morphology (41). Colombo et
+al. (6), using a similar exercise protocol, reported that training
+did not markedly influence gene expression in ZDF rat islets,
+whereas important gene alterations were found in liver and
+muscles (6). Kiraly et al. (21, 22) reported that swimming also
+prevented hyperglycemia in ZDF rats, which was associated
+with enhanced insulin secretion during intraperitoneal GTT
+and improved islet morphology with increased -cell 
+proliferation and -cell mass. However, the nature of islet 
+susceptibility to failure in the ZDF rat is not known as well as the basis
+of diabetes prevention by exercise.
+Studies conducted in islets of the obese, but diabetes 
+resistant, ZF rat, a model for -cell compensation, have shown
+increased -cell mass and functional islet changes, including
+enhanced glucose and lipid metabolism, processes that favor
+production of nutrient-secretion coupling signals (25, 32).
+Isolated ZF islets have shown enhanced palmitate 
+augmentation of GSIS (32), a finding associated with enhanced 
+glucose-responsive glycerolipid/fatty acid (GL/FA) cycling (32). Both
+nonesterified fatty acid (NEFA) esterification into glycerolipids
+such as triglycerides (TG) and diacylglycerols (DAG) and the
+lipolysis of GLs were increased in ZF islets, particularly at
+http://www.ajpendo.orgE254
+increased glucose concentrations. Furthermore, lipolysis 
+inhibition by the lipase inhibitor orlistat markedly reduced GSIS in
+these islets (32). Thus, GL/FA cycling may provide a 
+mechanism by which the -cell in ZF rat islets escapes 
+glucolipotoxicity and compensates for IR without the development of
+diabetes (33).
+The aim of the present study was to investigate the 
+biochemical basis of the effects of physical activity on islet function in
+ZDF rats in which diabetes is prevented by voluntary running
+in wheel cages (23, 44). Particular focus was placed on whether
+preserved -cell performance in exercised ZDF rats could be
+linked to the compensatory pathway of enhanced GL/FA 
+cycling similar to what was observed in compensating islets of
+ZF rats. We found that voluntary running markedly improved
+GSIS in ZDF rat islets, but not quite to the level of function of
+Zucker lean (ZL) control islets if GSIS
+was expressed per islet
+protein content. GL/FA cycling was abnormal in ZDF rats,
+which was not normalized by physical activity. Voluntary
+running had a dramatic effect on preventing depletion of islet
+insulin stores in this diabetes-prone obese rat model.
+
+>>>section: table_1
+Table 1. Tissue weight after 6 wk of intervention 
+ZL-I 
+n 
+ZDF-I 
+n 
+ZDF-A 
+Muscles 
+Plantaris, g 
+0.27  0.01†† 
+18 
+0.22 0.01* 
+18 
+0.25  0.01 
+Soleus, g 
+0.14  0.01†† 
+12 
+0.12  0.01** 
+19 
+0.16  0.01 
+Liver, g 
+10.60  0.18†† 
+17 
+20.14  0.51* 
+19 
+17.32  0.40 
+Heart, g 
+0.94  0.03†† 
+9 
+1.06  0.04 
+7 
+1.17  0.03 
+EWAT, g 
+0.87  0.06†† 
+17 
+3.34  0.11 
+19 
+3.08  0.08 
+
+>>>section: table_2
+Table 2. Plasma NEFA and TG 
+ZL-I 
+n 
+ZDF-I 
+ZDF-A 
+NEFA, mM 
+Start (week 0) 
+0.32 0.03 
+9 
+0.47  0.09 
+4 
+0.42 0.03 
+End (week 6) 
+0.39 0.03# 
+9 
+0.61  0.06 
+3 
+0.52 0.06 
+TG, mM 
+Start (week 0) 
+0.52 0.09## 
+17 
+1.32  0.19 
+16 
+1.25 0.25 
+End (week 6) 
+0.34 0.05## 
+14 
+2.17  0.25 
+12 
+1.72 0.22 
+
+>>>section: figure_1
+Fig. 1. Running distance (A), food intake (B), and body weight (C) during the 
+6 wk of inactivity [open triangle, inactive Zucker lean (ZL-I) rats and closed 
+circle, inactive Zucker diabetic fatty (ZDF-I) rats] and voluntary running 
+(ZDF-A rats: open circle). Values are means  SE of 19-21 animals/group. 
+
+>>>section: figure_2
+Fig. 2. Plasma glucose (A), insulin (B), corticosterone (C), 
+and adrenocorticotropic hormone (ACTH, D) during the 
+intervention period in nonfasted ZL-I, ZDF-I, and active 
+ZDF (ZDF-A) rats. Values are means  SE of 15 rats/ 
+group, with the exception of corticosterone (n  5-10) and 
+ACTH (n  4-9). ACTH was measured at the end of the 
+intervention period only. *P  0.05 and ***P  0.001 vs. 
+ZDF-A. 
+
+>>>section: figure_3
+Fig. 3. Improvement in oral glucose tolerance and the 
+insulin response to oral glucose measured after 37 days 
+of voluntary running in ZDF rats. Plasma glucose (A) 
+and insulin (B) concentrations and respective areas un- 
+der the curves (AUC) above baseline (C and D) in ZL-I, 
+ZDF-I, and ZDF-A rats during a 2 g/kg oral glucose 
+tolerance test (oGTT). E: insulinogenic index calculated 
+from plasma glucose and insulin concentrations obtained 
+during the oGTT (refer to MATERIALS AND METHODS for 
+calculation formulas); n  14-15 animals/group. *P  
+0.05 and ***P  0.001 vs. ZDF-A. ###P  0.001 vs. 
+ZDF-I. †P  0.05, ††P  0.01, and †††P  0.001 vs. 
+the other two groups. 
+
+>>>section: figure_4
+Fig. 4. Voluntary exercise prevents depletion of islet insulin stores and the loss 
+of compensatory enhanced insulin secretion in response to glucose (Glc) and 
+palmitate (Palm) in isolated islets from ZDF rats. Insulin secretion (IS) was 
+measured in groups of 6 islets/well in triplicates in the presence and absence 
+of 0.3 mM palmitate at 3, 8, and 16 mmol/l glucose and 3 mmol glucose with 
+35 mmol/l KCl. A: islet protein, n  13-18. B: islet insulin content normalized 
+by protein, n  5-6. C: IS in 45 min expressed as ng insulin/islet, n  5-7. 
+D: IS in 45 min normalized by mg of islet protein, n  5-7. E: IS expressed 
+as percentage of total islet insulin content secreted in 45 min, n  5-7. Data 
+are means  SE of 4 independent experiments. *P  0.05 and **P  0.01 vs. 
+ZDF-A. #P  0.05, ##P  0.01, and ###P  0.001 vs. ZDF-I. 
+
+>>>section: figure_5
+Fig. 5. Glycerolipid (GL) cycling in ZDF rats is unrespon- 
+sive to glucose, and it is not reversed by physical activity. 
+A: fatty acid (FA) oxidation (n  6). B and C: accumulation 
+of [1-14C]palmitate during FA esterification experiments 
+into nonesterified fatty acid (NEFA) and total GLs (mono- 
+acylglycerol  diacylglycerol  triglyceride) (n  7-10). 
+D: glycerol release, an indirect indicator of lipolysis (n  
+5-6). All results were normalized by protein. Two-way 
+ANOVA, group effect P  0.05 (B and C). *P  0.05 and 
+***P  0.001 vs. ZDF-A. #P  0.05 and ###P  0.001 vs. 
+ZDF-I. 
+
+>>>section: figure_6
+Fig. 6. The expression of key islet -cell genes at the 
+mRNA level was analyzed in freshly isolated islets by 
+real-time RT-PCR. Results were normalized for the 
+expression level of the housekeeping gene cyclophilin 
+and expressed in arbitrary units; n  5-11 rats/group. 
+GLP1r, glucagon like peptide-1 receptor; GIPr, glu- 
+cose-dependent insulinotropic polypeptide receptor; 
+GPR40, G protein-coupled receptor 40; PDX-1, pan- 
+creatic and duodenal homeobox factor-1; MafA, mus- 
+culoaponeurotic fibrosarcoma oncogene homolog A; 
+PPAR	, peroxisome proliferator-activated receptor-	; 
+SREBP1c, sterol regulatory element binding protein 
+1c; SCD-1, stearoyl-CoA desaturase; PPAR
+, peroxi- 
+some proliferator-activated receptor-
+; ACC
+, acetyl- 
+CoA carboxylase-
+; UCP2, uncoupling protein 2; 
+CPT-1, carnitine palmitoyltransferase 1; PGC1
+, per- 
+oxisomal proliferator-activated receptor-	 coactivator- 
+1
+; PC, pyruvate carboxylase.*P  0.05, **P  0.01, 
+and ***P  0.001 vs. ZDF-A. #P  0.05, ##P  0.01, 
+and ###P  0.001 vs. ZDF-I. 
+
+**References**
+ REFERENCES
+1 Baldwin KM Cheadle WG Martinez OM Cooke DA Effect of functional overload on enzyme levels in different types of skeletal muscle J Appl Physiol 42 312-317 1977
+2 Bergeron R Russell RR 3rd Young LH Ren JM Marcucci M Lee A Shulman GI Effect of AMPK activation on muscle glucose metab- olism in conscious rats Am J Physiol Endocrinol Metab 276 E938-E944 1999
+3 Campbell JE Kiraly MA Atkinson DJ D’Souza AM Vranic M Riddell MC Regular exercise prevents the development of hypergluco- corticoidemia via adaptations in the brain and adrenal glands in male Zucker diabetic fatty rats Am J Physiol Regul Integr Comp Physiol 299 R168-R176 2010
+4 Choi SB Jang JS Park S Estrogen and exercise may enhance beta-cell function and mass via insulin receptor substrate 2 induction in ovariecto- mized diabetic rats Endocrinology 146 4786-4794 2005
+5 Cnop M Hannaert JC Hoorens A Eizirik DL Pipeleers DG Inverse relationship between cytotoxicity of free fatty acids in pancreatic islet cells and cellular triglyceride accumulation Diabetes 50 1771-1777 2001
+6 Colombo M Gregersen S Kruhoeffer M Agger A Xiao J Jeppesen PB Orntoft T Ploug T Galbo H Hermansen K Prevention of hyperglycemia in Zucker diabetic fatty rats by exercise training effects on gene expression in insulin-sensitive tissues determined by high- density oligonucleotide microarray analysis Metabolism 54 1571- 1581 2005
+7 Del Guerra S Lupi R Marselli L Masini M Bugliani M Sbrana S Torri S Pollera M Boggi U Mosca F Del Prato S Marchetti P Functional and molecular defects of pancreatic islets in human type 2 diabetes Diabetes 54 727-735 2005
+8 Dela F Mikines KJ Tronier B Galbo H Diminished arginine- stimulated insulin secretion in trained men J Appl Physiol 69 261- 267 1990
+9 Dela F Stallknecht B Effect of physical training on insulin secretion and action in skeletal muscle and adipose tissue of first-degree relatives of type 2 diabetic patients Am J Physiol Endocrinol Metab 299 E80-E91 2010
+10 Dela F von Linstow ME Mikines KJ Galbo H Physical training may enhance -cell function in type 2 diabetes Am J Physiol Endocrinol Metab 287 E1024-E1031 2004
+11 Delghingaro-Augusto V Nolan CJ Gupta D Jetton TL Latour MG Peshavaria M Madiraju SR Joly E Peyot ML Prentki M Leahy J Islet beta cell failure in the 60% pancreatectomised obese hyperlipidaemic Zucker fatty rat severe dysfunction with altered glycerolipid metabolism without steatosis or a falling beta cell mass Diabetologia 52 1122-1132 2009
+12 Fediuc S Campbell JE Riddell MC Effect of voluntary wheel running on circadian corticosterone release and on HPA axis responsiveness to restraint stress in Sprague-Dawley rats J Appl Physiol 100 1867-1875 2006
+13 Getty-Kaushik L Richard AM Deeney JT Krawczyk S Shirihai O Corkey BE The CB1 antagonist rimonabant decreases insulin hyperse- cretion in rat pancreatic islets Obesity (Silver Spring) 17 1856-1860 2009
+14 Gram DX Ahren B Nagy I Olsen UB Brand CL Sundler F Tabanera R Svendsen O Carr RD Santha P Wierup N Hansen AJ Capsaicin-sensitive sensory fibers in the islets of Langerhans contribute to defective insulin secretion in Zucker diabetic rat an animal model for some aspects of human type 2 diabetes Eur J Neurosci 25 213-223 2007
+15 Griffen SC Wang J German MS A genetic defect in beta-cell gene expression segregates independently from the fa locus in the ZDF rat Diabetes 50 63-68 2001
+16 Harmon JS Gleason CE Tanaka Y Oseid EA Hunter-Berger KK Robertson RP In vivo prevention of hyperglycemia also prevents glu- cotoxic effects on PDX-1 and insulin gene expression Diabetes 48 1995-2000 1999
+17 Jonas JC Sharma A Hasenkamp W Ilkova H Patane G Laybutt R Bonner-Weir S Weir GC Chronic hyperglycemia triggers loss of pancreatic beta cell differentiation in an animal model of diabetes J Biol Chem 274 14112-14121 1999
+18 Kahn SE The relative contributions of insulin resistance and beta-cell dysfunction to the pathophysiology of Type 2 diabetes Diabetologia 46 3-19 2003
+19 Kai K Morimoto I Morita E Okada Y Yamamoto S Kanda K Uriu K Eto S Environmental stress modifies glycemic control and diabetes onset in type 2 diabetes prone Otsuka Long Evans Tokushima Fatty (OLETF) rats Physiol Behav 68 445-452 2000
+20 King DS Dalsky GP Staten MA Clutter WE Van Houten DR Holloszy JO Insulin action and secretion in endurance-trained and un- trained humans J Appl Physiol 63 2247-2252 1987
+21 Kiraly MA Bates HE Kaniuk NA Yue JT Brumell JH Matthews SG Riddell MC Vranic M Swim training prevents hyperglycemia in ZDF rats mechanisms involved in the partial maintenance of beta-cell function Am J Physiol Endocrinol Metab 294 E271-E283 2008
+22 Kiraly MA Bates HE Yue JT Goche-Montes D Fediuc S Park E Matthews SG Vranic M Riddell MC Attenuation of type 2 diabetes mellitus in the male Zucker diabetic fatty rat the effects of stress and non-volitional exercise Metabolism 56 732-744 2007
+23 Kiraly MA Campbell J Park E Bates HE Yue JTY Rao V Matthews SG Bikopoulos G Rozakis-Adcock M Giacca A Vranic M Riddell MC Exercise maintains euglycemia in association with decreased activation of c-Jun NH2-terminal kinase and serine phosphor- ylation of IRS-1 in the liver of ZDF rats Am J Physiol Endocrinol Metab 298 E671-E682 2010
+24 Lee Y Hirose H Ohneda M Johnson JH McGarry JD Unger RH Beta-cell lipotoxicity in the pathogenesis of non-insulin-dependent diabe- tes mellitus of obese rats impairment in adipocyte-beta-cell relationships Proc Natl Acad Sci USA 91 10878-10882 1994
+25 Liu YQ Jetton TL Leahy JL beta-cell adaptation to insulin resistance Increased pyruvate carboxylase and malate-pyruvate shuttle activity in islets of nondiabetic Zucker fatty rats J Biol Chem 277 39163-39168 2002
+26 Matsuda M DeFronzo RA Insulin sensitivity indices obtained from oral glucose tolerance testing comparison with the euglycemic insulin clamp Diabetes Care 22 1462-1470 1999
+27 Migoya EM Bergeron R Miller JL Snyder RN Tanen M Hilliard D Weiss B Larson P Gutierrez M Jiang G Liu F Pryor KA Yao J Zhu L Holst JJ Deacon C Herman G Thornberry N Amatruda J Williams-Herman D Wagner JA SinhaRoy R Dipeptidyl peptidase-4 inhibitors administered in combination with metformin result in an addi- tive increase in the plasma concentration of active GLP-1 Clin Pharmacol Ther 88 801-808 2010
+28 Mikines KJ Sonne B Tronier B Galbo H Effects of training and detraining on dose-response relationship between glucose and insulin secretion Am J Physiol Endocrinol Metab 256 E588-E596 1989
+29 Moraska A Deak T Spencer RL Roth D Fleshner M Treadmill running produces both positive and negative physiological adaptations in Sprague-Dawley rats Am J Physiol Regul Integr Comp Physiol 279 R1321-R1329 2000
+30 Narkar VA Downes M Yu RT Embler E Wang YX Banayo E Mihaylova MM Nelson MC Zou Y Juguilon H Kang H Shaw RJ Evans RM AMPK and PPARdelta agonists are exercise mimetics Cell 134 405-415 2008 DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE E263ZUCKER AJP-Endocrinol Metab • doi101152/ajpendo003602011 • wwwajpendoorg
+31 Nolan CJ Larter CZ Lipotoxicity why do saturated fatty acids cause and monounsaturates protect against it? J Gastroenterol Hepatol 24 703-706 2009
+32 Nolan CJ Leahy JL Delghingaro-Augusto V Moibi J Soni K Peyot ML Fortier M Guay C Lamontagne J Barbeau A Przybytkowski E Joly E Masiello P Wang S Mitchell GA Prentki M Beta cell compensation for insulin resistance in Zucker fatty rats increased lipolysis and fatty acid signalling Diabetologia 49 2120-2130 2006
+33 Nolan CJ Prentki M The islet beta-cell fuel responsive and vulnerable Trends Endocrinol Metab 19 285-291 2008
+34 Ohneda M Inman LR Unger RH Caloric restriction in obese pre- diabetic rats prevents beta-cell depletion loss of beta-cell GLUT 2 and glucose incompetence Diabetologia 38 173-179 1995
+35 Pan XR Li GW Hu YH Wang JX Yang WY An ZX Hu ZX Lin J Xiao JZ Cao HB Liu PA Jiang XG Jiang YY Wang JP Zheng H Zhang H Bennett PH Howard BV Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance The Da Qing IGT and Diabetes Study Diabetes Care 20 537-544 1997
+36 Parton LE McMillen PJ Shen Y Docherty E Sharpe E Diraison F Briscoe CP Rutter GA Limited role for SREBP-1c in defective glucose- induced insulin secretion from Zucker diabetic fatty rat islets a functional and gene profiling analysis Am J Physiol Endocrinol Metab 291 E982- E994 2006
+37 Passonneau JV Lauderdale VR A comparison of three methods of glycogen measurement in tissues Anal Biochem 60 405-412 1974
+38 Peter A Weigert C Staiger H Rittig K Cegan A Lutz P Machicao F Haring HU Schleicher E Induction of stearoyl-CoA desaturase protects human arterial endothelial cells against lipotoxicity Am J Physiol Endocrinol Metab 295 E339-E349 2008
+39 Peyot ML Nolan CJ Soni K Joly E Lussier R Corkey BE Wang SP Mitchell GA Prentki M Hormone-sensitive lipase has a role in lipid signaling for insulin secretion but is nonessential for the incretin action of glucagon-like peptide 1 Diabetes 53 1733-1742 2004
+40 Poitout V Robertson RP Glucolipotoxicity fuel excess and beta-cell dysfunction Endocr Rev 29 351-366 2008
+41 Pold R Jensen LS Jessen N Buhl ES Schmitz O Flyvbjerg A Fujii N Goodyear LJ Gotfredsen CF Brand CL Lund S Long-term AICAR administration and exercise prevents diabetes in ZDF rats Dia- betes 54 928-934 2005
+42 Prentki M Nolan CJ Islet beta cell failure in type 2 diabetes J Clin Invest 116 1802-1812 2006
+43 Raguso CA Kyle U Kossovsky MP Roynette C Paoloni-Giacobino A Hans D Genton L Pichard C A 3-year longitudinal study on body composition changes in the elderly Role of physical exercise Clin Nutr 25 573-580 2006
+44 Roudier E Chapados N Decary S Gineste C Le Bel C Lavoie JM Bergeron R Birot O Angiomotin p80/p130 ratio a new indicator of exercise-induced angiogenic activity in skeletal muscles from obese and non-obese rats? J Physiol 587 4105-4119 2009
+45 Scheuner D Kaufman RJ The unfolded protein response a pathway that links insulin demand with beta-cell failure and diabetes Endocr Rev 29 317-333 2008
+46 Seburn KL Gardiner P Adaptations of rat lateral gastrocnemius motor units in response to voluntary running J Appl Physiol 78 1673-1678 1995
+47 Shimabukuro M Zhou YT Lee Y Unger RH Troglitazone lowers islet fat and restores beta cell function of Zucker diabetic fatty rats J Biol Chem 273 3547-3550 1998
+48 Slentz CA Tanner CJ Bateman LA Durheim MT Huffman KM Houmard JA Kraus WE Effects of exercise training intensity on pancreatic beta-cell function Diabetes Care 32 1807-1811 2009
+49 Smith AC Mullen KL Junkin KA Nickerson J Chabowski A Bonen A Dyck DJ Metformin and exercise reduce muscle FAT/CD36 and lipid accumulation and blunt the progression of high-fat diet-induced hyperglycemia Am J Physiol Endocrinol Metab 293 E172-E181 2007
+50 Sreenan S Sturis J Pugh W Burant CF Polonsky KS Prevention of hyperglycemia in the Zucker diabetic fatty rat by treatment with met- formin or troglitazone Am J Physiol Endocrinol Metab 271 E742-E747 1996
+51 Sreenan SK Mittal AA Dralyuk F Pugh WL Polonsky KS Roe MW Glucagon-like peptide-1 stimulates insulin secretion by a Ca2-indepen- dent mechanism in Zucker diabetic fatty rat islets of Langerhans Metab- olism 49 1579-1587 2000 E264
+52 Tanaka Y Gleason CE Tran PO Harmon JS Robertson RP Prevention of glucose toxicity in HIT-T15 cells and Zucker diabetic fatty rats by antioxidants Proc Natl Acad Sci USA 96 10857-10862 1999
+53 Tiano JP Delghingaro-Augusto V Le May C Liu S Kaw MK Khuder SS Latour MG Bhatt SA Korach KS Najjar SM Prentki M Mauvais-Jarvis F Estrogen receptor activation reduces lipid synthesis in pancreatic islets and prevents beta cell failure in rodent models of type 2 diabetes J Clin Invest 121 3331-3342 2011
+54 Tuomilehto J Lindstrom J Eriksson JG Valle TT Hamalainen H Ilanne-Parikka P Keinanen-Kiukaanniemi S Laakso M Louheranta A Rastas M Salminen V Uusitupa M Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance N Engl J Med 344 1343-1350 2001
+55 Wang MY Shimabukuro M Lee Y Trinh KY Chen JL Newgard CB Unger RH Adenovirus-mediated overexpression of uncoupling protein-2 in pancreatic islets of Zucker diabetic rats increases oxidative ZUCKER DIABETIC FATTY RAT ISLET FUNCTION AND EXERCISE AJP-Endocrinol Metab • doi101152/ajpendo003602011 • wwwajpendoorg activity and improves beta-cell function Diabetes 48 1020 -1025 1999
+56 Weir GC Laybutt DR Kaneto H Bonner-Weir S Sharma A Beta- cell adaptation and decompensation during the progression of diabetes Diabetes 50 Suppl 1 S154-S159 2001
+57 Yeckel CW Weiss R Dziura J Taksali SE Dufour S Burgert TS Tamborlane WV Caprio S Validation of insulin sensitivity indices from oral glucose tolerance test parameters in obese children and adolescents J Clin Endocrinol Metab 89 1096-1101 2004
+58 Yu X McCorkle S Wang M Lee Y Li J Saha AK Unger RH Ruderman NB Leptinomimetic effects of the AMP kinase activator AICAR in leptin-resistant rats prevention of diabetes and ectopic lipid deposition Diabetologia 47 2012-2021 2004
+59 Zhou YP Cockburn BN Pugh W Polonsky KS Basal insulin hyper- secretion in insulin-resistant Zucker diabetic and Zucker fatty rats role of enhanced fuel metabolism Metabolism 48 857-864 1999

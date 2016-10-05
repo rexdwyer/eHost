@@ -1,0 +1,1728 @@
+>>>section: conclusion
+
+>>>section: references
+REFERENCES
+Adams, J., Kelso, R., and Cooley, L. (2000). The Kelch repeat superfamily of
+proteins: Propellers of cell function. Trends Cell Biol. 10, 17-24.
+Alam, J., Stewart, D., Touchard, C., Boinapally, S., Choi, A. M. K., and Cook,
+J. L. (1999). Nrf2, a Cap’n’Collar transcription factor, regulates induction of
+the heme oxygenase-1 gene. J. Biol. Chem. 274, 26071-26078.
+Bartolone, J. B., Cohen, S. D., and Khairallah, E. A. (1989). 
+Immunohisto-chemical localization of acetaminophen-bound liver proteins. Fundam.
+Appl. Toxicol. 13, 859-862.
+Bock, K. W., and Bock-Hennig, B. S. (1987). Differential induction of human
+liver UDP-glucuronosyltransferase activities by phenobarbital-type 
+inducers. Biochem. Pharmacol. 36, 4137-4143.
+Brady, J. T., Montelius, D. A., Wyand, D. S., Khairallah, E. A., and Cohen,
+S. D. (1988). Effect of piperonyl butoxide post-treatment on acetaminophen
+hepatotoxicity. Biochem. Pharmacol. 37, 2097-2099.
+Buetler, T. M., Gallagher, E. P., Wang, C., Stahl, D. L., Hayes, J. D., and
+Eaton, D. L. (1995). Induction of Phase I and Phase II drug-metabolizing
+enzyme mRNA, protein, and activity by BHA, ethoxyquin, and oltipraz.
+Toxicol. Appl. Pharmacol. 135, 45-57.
+Chan, J. Y., Han, X.-L., and Kan, Y. W. (1993). Cloning of Nrf1, an NF-E2-
+related transcription factor, by genetic selection in yeast. Proc. Natl. Acad.
+Sci. U.S.A. 90, 11371-11375.
+Chan, K., and Kan, Y. W. (1999). Nrf2 is essential for protection against
+acute pulmonary injury in mice. Proc. Natl. Acad. Sci. U.S.A. 96,
+12731-12736.
+Chan, K., Lu, R., Chang, J. C., and Kan, Y. W. (1996). NRF2, a member of the
+NFE2 family of transcription factors, is not essential for murine 
+erythropoi-esis, growth, and development. Proc. Natl. Acad. Sci. U.S.A. 93, 
+13943-13948.
+Cohen, S. D., Hoivik, D. J., and Khairallah, E. A. (1998). 
+Acetaminophen-induced hepatotoxicity. In Toxicology of the Liver (G. L. Plaa and W. R.
+Hewitt, Eds.), pp. 159-186. Taylor & Francis, Washington DC.
+Ginsberg, G. L., Placke, M. E., Wyand, D. S., and Cohen, S. D. (1982).
+Protection against acetaminophen-induced hepatotoxicity by prior treatment
+with fenitrothion. Toxicol. Appl. Pharmacol. 66, 383-399.
+Griffith, O. W. (1980). Determination of glutathione and glutathione disulfide
+using glutathione reductase and 2-vinylpyridine. Anal. Biochem. 106, 
+207-212.
+Halliwell, B., Aeschbach, R., Lo¨liger, J., and Aruoma, O. I. (1995a). The
+characterization of antioxidants. Food Chem. Toxicol. 33, 601-617.
+Halliwell, B., Murcia, M. A., Chirico, S., and Aruoma, O. I. (1995b). Free
+radicals and antioxidants in food and in vivo: What they do and how they
+work. Crit. Rev. Food Sci. Nutr. 35, 7-20.
+Hazelton, G. A., Hjelle, J. J., and Klaassen, C. D. (1986). Effects of butylated
+hydroxyanisole
+on acetaminophen hepatotoxicity and glucuronidation in
+vivo. Toxicol. Appl. Pharmacol. 83, 474-485.
+Ishii, T., Itoh, K., Takahashi, S., Sato, H., Yanagawa, T., Katoh, Y., Bannai, S.,
+and Yamamoto, M. (2000). Transcription factor Nrf2 coordinately regulates
+a group of oxidative stress-inducible genes in macrophages. J. Biol. Chem.
+275, 16023-16029.
+Itoh, K., Chiba, T., Takahashi, S., Ishii, T., Igarashi, K., Katoh, Y., Oyake, T.,
+Hayashi, N., Satoh, K., Hatayama, I., Yamamoto, M., and Nabeshima, Y.
+(1997). An Nrf2/small Maf heterodimer mediates the induction of phase II
+detoxifying enzyme genes through antioxidant response elements. Biochem.
+Biophys. Res. Commun. 236, 313-322.
+Itoh, K., Igarashi, K., Hayashi, N., Nishizawa, M., and Yamamoto, M. (1995).
+Cloning and characterization of
+a novel erythroid cell-derived CNC family
+transcription factor heterodimerizing with the small Maf family proteins.
+Mol. Cell Biol. 15, 4184-4193.
+Itoh, K., Wakabayashi, N., Katoh, Y., Ishii, T., Igarashi, K., Engel, J. D., and
+Yamamoto, M. (1999). Keap1 represses nuclear activation of antioxidant
+responsive elements by Nrf2 through binding to the amino-terminal Neh2
+domain. Genes Dev. 13, 76-86.
+Kim, H. J., Rozman, P., and Klaassen, C. D. (1995). Acetaminophen does not
+decrease hepatic 39-phosphoadenosine 59-phosphosulfate in mice. J. 
+Phar-macol. Exp. Ther. 275, 1506-1511.
+Klaunig, J. E., Xu, Y., Bachowski, S., Ketcham, C. A., Isenberg, J. S., Kolaja,
+K. L., Baker, T. K., Walborg, E. F., Jr., and Stevenson, D. E. (1995).
+Oxidative stress in nongenotoxic carcinogenesis. Toxicol. Lett. 82/83, 
+683-691.
+Kobayashi, A., Ito, E., Toki, T., Kogame, K., Takahashi, S., Igarashi, K.,
+Hayashi, N., and Yamamoto, M. (1999). Molecular cloning and functional
+characterization of a new Cap9n9Collar family transcription factor Nrf3.
+J. Biol. Chem. 274, 6443-6452.
+Kuroha, T., Takahashi, S., Komeno, T., Itoh, K., Nagasawa, T., and
+Yamamoto, M. (1998). Ablation of Nrf2 function does not increase the
+erythroid or megakaryocytic cell lineage dysfunction caused by p45 NF-E2
+gene disruption. J. Biochem (Tokyo) 123, 376-379.
+PROTECTION AGAINST ACETAMINOPHEN
+177NRF2
+Liu, J., Liu, Y., Hartley, D., Klaassen, C. D., Shehin-Johnson, S. E., Lucas, A.,
+and Cohen, S. D. (1999). Metallothionein-I/II knockout mice are sensitive to
+acetaminophen-induced hepatotoxicity. J. Pharmacol. Exp. Ther. 289, 
+580-586.
+Lowry, O. H., Rosenbrough, N. J., Farr, A. L., and Randall, R. J. (1951).
+Protein measurement with the Folin phenol reagent. J. Biol. Chem. 193,
+265-275.
+Manautou, J. E., Tveit, A., Hoivik, D. J., Khairallah, E. A., and Cohen, S. D.
+(1996). Protection by clofibrate against acetaminophen hepatotoxicity in
+male CD-1 mice is associated with an early increase in biliary concentration
+of acetaminophen-glutathione adducts. Toxicol. Appl. Pharmacol. 140, 
+30-38.
+Martin, G. M., Austad, S. N., and Johnson, T. E. (1996). Genetic analysis of
+ageing: role of oxidative damage and environmental stresses. Nat. Genet. 13,
+25-34.
+Mitchell, J. R., Jollow, D. J., Potter, W. Z., Davis, D. C., Gillette, J. R., and
+Brodie, B. B. (1973). Acetaminophen-induced hepatic necrosis: I. Role of
+drug metabolism. J. Phamacol. Exp. Ther. 187, 185-194.
+Moi, P., Chan, K., Asunis, I., Cao, A., and Kan, Y. W. (1994). Isolation of
+NF-E2-related factor 2 (Nrf2), an NF-E2-like basic leucine zipper 
+tran-scriptional activator that binds to the tandem NF-E2/AP1 repeat of the
+b-globin locus control region. Proc. Natl. Acad. Sci. U.S.A. 91, 9926
+-
+9930.
+Moinova, H. R., and Mulcahy, R. T. (1999). Up-regulation of the human
+g-glutamylcysteine synthetase regulatory subunit gene involves binding of
+Nrf-2 to an electrophile responsive element. Biochem. Biophys. Res. 
+Com-mun. 261, 661-668.
+Omura, T., and Sato, R. (1964). The carbon monoxide-binding pigment of liver
+microsomes: I. Evidence for its hemoprotein nature. J. Biol. Chem. 239,
+2370-2378.
+Prestera, T., and Talalay, P. (1995). Electrophile and antioxidant regulation of
+enzymes that detoxify carcinogens. Proc. Natl. Acad. Sci. U.S.A. 92, 
+8965-8969.
+Prestera, T., Talalay, P., Alam, J., Ahn, Y. I., Lee, P.J., and Choi, A. M. K.
+(1995). Parallel induction of heme oxygenase-1 and chemoprotective phase
+2 enzymes by electrophiles and antioxidants: Regulation by upstream 
+anti-oxidant-responsive elements (ARE). Mol. Med. 1, 827-837.
+Qiu, Y., Benet, L. Z., and Burlingame, A. L. (1998). Identification of the
+hepatic protein targets of reactive metabolites of acetaminophen in vivo in
+mice using two-dimensional gel electrophoresis and mass spectrometry.
+J. Biol. Chem. 273, 17940-17953.
+Rautalahti, M., and Huttunen, J. (1993). Antioxidants and carcinogenesis. Ann.
+Med. 26, 435-441.
+Sen, C. K. (1995). Oxygen toxicity and antioxidants: State of the art. Indian
+J. Physiol. Pharmacol. 39, 177-196.
+Slaga, T. J. (1995). Inhibition of the induction of cancer by antioxidants. Adv.
+Exp. Med. Biol. 369, 167-174.
+Tietze, F. (1969). Enzymic method for quantitative determination of nanogram
+amounts of total and oxidized glutathione: Applications to mammalian
+blood and other tissues. Anal. Biochem. 27, 502-522.
+Venugopal, R., and Jaiswal, A. K. (1996). Nrf1 and Nrf2 positively and c-Fos
+and Fra1 negatively regulate the human antioxidant response 
+element-mediated expression of NAD(P)H:quinone oxidoreductase1 gene. Proc.
+Natl. Acad. Sci. U.S.A. 93, 14960-14965.
+Xue, F., and Cooley, L. (1993). kelch encodes a component of intracellular
+bridges in Drosophila egg chambers. Cell 72, 681-693.
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+
+>>>section: methods
+MATERIALS AND METHODS
+Reagents.
+APAP, UDP-glucuronic acid, and acetaminophen glucuronide
+were purchased from Sigma Chemical Co. (St. Louis, MO). Propylene glycol,
+5,59-dithiobis-2-nitrobenzoic acid (DTNB), oxidized glutathione (GSSG), and
+glutathione reductase (GR) from yeast were purchased from Wako Pure
+Chemical Industries, Ltd. (Osaka, Japan). All other reagents were obtained
+from commercial sources and were reagent grade or better.
+Animals. Two- to 4-month-old male homozygous (-/-) and heterozygous
+(1/-) nrf2 knockout mice (ICR/129SVJ chimeric mice [Itoh et al., 1997]) and
+their wild-type littermates (1/1) were used in this study. DNA was taken from
+the tail of each mouse and analyzed by polymerase chain reaction (PCR) to
+confirm its genotype. The mice were housed in stainless-steel cages in an
+animal room maintained at 24 6 2°C and using a 12-h light/dark cycle (light
+on at 7:00 A.M. and off at 7:00 P.M.). Food (certified diet M, Oriental Yeast Co,
+Ltd., Tokyo, Japan) and water were made freely available to the mice, except
+where otherwise stated.
+Treatment of animals. In the dose-response study the administration 
+protocol was performed according to Manautou et al. (1996). After overnight
+fasting, APAP (in 50% propylene glycol as vehicle) was administered to the
+mice, po, between 8:30 and 9:30 A.M. at doses of either 0, 150, 300, or 600
+mg/kg, 5 ml/kg being used in each case. Four mice of each genotype were used
+for each dose, except for the 150-mg/kg dose in which only 3 heterozygous
+knockout mice were used. Food was withheld until 2 h after dosing, but water
+was available throughout the experiment. The animals were sacrificed 24 h
+after dosing.
+In the time-course study a dose of 300 mg/kg APAP was administered to the
+mice and the animals were sacrificed at 0 (after overnight fasting and without
+dosing), 2, 8, or 24 h after dosing. Other experimental conditions were the
+same as those used in the dose-response study. An additional 8 homozygous
+knockout and wild-type mice were sacrificed after overnight fasting and
+without dosing, for the purpose of metabolic baseline activity analysis.
+PROTECTION AGAINST ACETAMINOPHEN
+171NRF2
+Note. Acetaminophen in 50% propylene glycol was administered (po) to
+overnight-fasted wild-type (1/1) and homo- (-/-) and heterozygous (1/-)
+nrf2 knockout mice.
+a Number of animals that died within 24 h/number of animals used.
+Biochemical assays. Following withdrawal of blood from the posterior
+vena cava of anesthetized animals, plasma alanine transaminase (ALT) activity
+was determined using an automated biochemical analyzer, CHEM1t (Bayer
+Corp., Tarrytown, NY). The animals were sacrificed by exanguination, livers
+were removed, and microsomes were prepared. Microsomal protein 
+concentration was determined by the method of Lowry et al. (1951). Cytochrome
+P450 content was determined according to Omura and Sato (1964). Hepatic
+UDP-GT activity from detergent-treated microsomes was determined using
+APAP as the aglycon substrate according to Bock and Bock-Henning (1987)
+and Manautou et al. (1996). NPSH was extracted from samples of each liver
+using 1 M perchloric acid and measured by the enzymatic cycling method of
+Tietze (1969) as modified by Griffith (1980).
+Histopathology. Samples of each liver were fixed in 10% neutral buffered
+formalin for 24 h, processed by routine methodology, stained with hematoxylin
+and eosin (H&E), and examined by light microscopy. Hepatic lesions were
+graded from to 111 (-,
+-
+no lesions; 6, degeneration of centrilobular
+hepatocytes; 1, slight centrilobular necrosis (necrotic hepatocytes present in 
+1-to 3-cell layers from the central vein); 11, moderate centrilobular necrosis
+(necrotic hepatocytes present in more than 3-cell layers from the central vein
+but limited to less than half of the liver section); 111, severe centrilobular
+necrosis (necrotic areas occupying half or more than half of the liver section)).
+Histopathological evaluation was performed blind, in which the identity of
+both the genotype and type of treatment was not revealed to those undertaking
+the examination.
+Immunohistochemistry. Deparaffinized liver sections were placed in 3%
+hydrogen peroxide for 15 min to quench endogenous peroxidase activity.
+Sections were heated in 0.1 M citrate buffer, pH 6.0, in a microwave oven for
+6 min and rinsed twice, 5 min each wash, with phosphate-buffered saline
+containing 0.05% Triton X-100 (PBST). After blocking non-specific binding
+sites with 4% BlockAce (Dai-Nippon Pharmaceutical, Osaka) for 20 min,
+sections were incubated in a rabbit polyclonal antibody against APAP (Bio-
+genesis, Kingston, NH; 1:250) for 30 min; negative control sections were
+incubated in PBST only. Sections were rinsed with PBST, incubated in
+biotinylated goat antibody against rabbit immunoglobulin at a 1:1000 dilution
+(DAKO Japan, Tokyo) for 30 min, rinsed twice with PBST, and incubated in
+streptavidin-horseradish peroxidase at a 1:500 dilution (Vector Laboratories,
+Burlingame, CA) for 30 min. Diaminobenzidine was used as chromogen,
+followed by counterstaining with hematoxylin. Each step was performed at
+room temperature, except where otherwise stated.
+Determination of gGCS and Ugt1a6 mRNAs. Total cellular RNA was
+extracted by RNAzolTM B (TEL-TEST, Inc., Friendswood). The RNA 
+samples (20 mg) were subjected to electrophoresis and transferred to Zeta-Probe
+GT membranes (Bio-Rad Japan, Tokyo). The membranes were probed with
+[32P]-labelled cDNA against Ugt1a6 and the catalytic heavy and regulatory
+light chains of gGCS; b-actin cDNA was used as a positive control. We
+obtained the cDNA probe against each gene by RT-PCR, using mouse liver
+RNA as a template.
+The primer used for each gene was as follows:
+gGCS heavy chain:
+Forward primer 59-ATGGGGCTGCTGTCCCATGG-39
+Reverse primer 59-AGCCTGATGCTCTCCTAGTA-39
+gGCS light chain:
+Forward primer 59-CTGCAGACCGGGAACCAGCT-39
+Reverse primer 59-AGATCAGAGGTGCCTATAGC-39
+Ugt1a6:
+Forward primer 59-CTTCCTGCAGGGTTTCTCTTCC-39
+Reverse primer 59-CAACGATGCCATGCTCCCC-39
+The hybridized membranes were processed to autoradiographs and quantitated
+by MacBas software.
+Statistical analysis. Results are expressed as mean 6 standard deviation,
+where available. Statistical analyses of differences between values of the
+vehicle control group (0 mg/kg) or those before dosing (0 h) from mice of the
+172
+mice at 150 mg/kg (n 5 3). Livers from all animals were examined by light
+microscopy and graded from to 111 for severity of lesions
+Materials and Methods.
+a Includes those that died before 24 h.
+same genotype were made by Dunnett’s multiple comparison test. Comparison
+between baseline metabolic activities of wild-type and knockout mice were
+made using the Student’s t-test. A value of p # 0.05 was considered 
+significant.
+-
+as described in
+ENOMOTO ET AL.
+
+>>>section: fulltext
+TOXICOLOGICAL SCIENCES 59, 169-177 (2001)
+Copyright © 2001 by the Society of Toxicology
+High Sensitivity of Nrf2 Knockout Mice to Acetaminophen
+Hepatotoxicity Associated with Decreased Expression of 
+ARE-Regulated Drug Metabolizing Enzymes and Antioxidant Genes
+Akiko Enomoto,*,1 Ken Itoh,† Eiko Nagayoshi,‡ Junko Haruta,* Toyoe Kimura,* Tania O’Connor,†
+Takanori Harada,* and Masayuki Yamamoto†
+for Tsukuba Advanced Research Alliance and Institute of Basic Medical Sciences, University of Tsukuba, Tsukuba, Ibaraki 305-8577, Japan; and
+Received July 16, 2000; accepted September 26, 2000
+*Toxicology Division II, Laboratory of Pathology, Institute of Environmental Toxicology, 4321 Uchimoriya, Mitsukaido, Ibaraki 303-0043, Japan; †Center
+‡Chemistry Division, Institute of Environmental Toxicology, 4321 Uchimoriya, Mitsukaido, Ibaraki 303-0043, Japan
+Nrf2, which belongs to the basic leucine zipper (bZip) 
+transcription factor family, has been implicated as a key molecule involved
+in antioxidant-responsive element (ARE)-mediated gene 
+expression. In order to examine the role of Nrf2 in protection against
+xenobiotic toxicity, the sensitivity of nrf2 knockout mice to 
+acetaminophen (N-acetyl-4-aminophenol (APAP)) was analyzed. The
+saturation of detoxification pathways after high levels of exposure
+to APAP is known to induce hepatotoxicity. Two factors 
+important in its detoxification are UDP-glucuronosyltransferase (UDP-
+GT), an ARE-regulated phase-II drug-metabolizing enzyme, and
+glutathione (GSH), an antioxidant molecule whose synthesis 
+depends on ARE-regulated g-glutamylcysteine synthetase (gGCS).
+Two- to 4-month-old male mice were orally administered a single
+dose of APAP at 0, 150, 300, or 600 mg/kg. Doses of 300 mg/kg
+APAP or greater caused death in the homozygous knockout mice
+only, and those that survived showed a greater severity in hepatic
+damage than the wild-type mice, as demonstrated by increased
+plasma alanine aminotransferase activity, decreased hepatic 
+non-protein sulfhydryl (NPSH) content, and centrilobular 
+hepatocellular necrosis. The high sensitivity of Nrf2-deficient mice was
+confirmed from observations made at 0, 2, 8, and 24 h after dosing
+with 300 mg/kg APAP; increased anti-APAP immunoreactivity
+was also noted in their livers at 2 h. Untreated homozygous
+knockout mice showed both a lower UDP-GT activity and NPSH
+content, which corresponded to decreased mRNA levels of
+UDP-GT (Ugt1a6) and the heavy chain of gGCS, respectively.
+These results show that Nrf2 plays a protective role against APAP
+hepatotoxicity by regulating both drug metabolizing enzymes and
+antioxidant genes through the ARE.
+Key Words: Nrf2; knockout mice; acetaminophen; 
+hepatotoxicity; ARE; oxidative stress; electrophile; UDP-glucuronosyltrans-
+ferase; glutathione; g-glutamylcysteine synthetase.
+Presented in part at the 39th Annual Meeting of the Society of Toxicology,
+Philadelphia, March 2000.
+1 To whom correspondence should be addressed. Fax. 81-297-27-4518.
+E-mail: enomoto@iinet.ne.jp.
+Drug metabolizing enzymes and antioxidant systems 
+represent 2 major defense mechanisms against xenobiotic toxicity.
+Electrophiles, radicals, and reactive oxygen species (ROS) are
+often generated as intermediates or by-products of xenobiotic
+metabolism. These molecules, if not properly eliminated, 
+provoke lipid peroxidation and oxidation of DNA and other 
+cellular components, which results in various acute and chronic
+tissue injuries, carcinogenesis, and aging (Halliwell et al.,
+1995a,b; Martin et al., 1996; Slaga, 1995). Accumulation of
+these harmful oxidants in the cell is prevented through the
+actions of small antioxidant molecules such as GSH and 
+vitamins, and antioxidant enzymes such as heme oxygenase 1
+(HO-1), catalase, and superoxide dismutase (SOD) (Rautalahti
+and Huttunen, 1993; Sen, 1995). Drug metabolizing enzymes,
+such as glutathione S-transferase (GST), work in concert with
+antioxidant systems by metabolizing electrophiles and 
+xenobiotics, and some of the molecules involved in these 2 defense
+mechanisms are induced simultaneously in response to 
+xenobiotic exposure (Prestera et al., 1995). Such concerted gene
+induction of drug metabolizing and antioxidant defense 
+systems occurs through a common regulatory region called the
+ARE (antioxidant responsive element) or EpRE (electrophile
+responsive element) (Buetler et al., 1995; Prestera and Talalay,
+1995).
+While searching for proteins that regulate expression of the
+b-globin gene during differentiation, the Nrf family of 
+transcription factors was identified. Originally, Nrf2 was isolated
+in 1994 from a human K562 erythroid cell line and in 1995
+from a chicken erythroid cDNA library (HD3) (Itoh et al.,
+1995; Moi et al., 1994). The designation Nrf2 (NF-E2 related
+factor 2) was derived from the known transcription factor p45
+subunit of NF-E2 (Nuclear Factor Erythroid 2), with which it
+shows high sequence homology. Within the family of bZip
+transcription factors, Nrf2, p45 NF-E2, and their homologues
+constitute a discrete subfamily whose members share regions
+of homology with that of the Drosophila Cap’n’Collar (CNC)
+protein (Chan et al., 1993; Itoh et al., 1995; Kobayashi et al.,
+169
+170
+1999; Moi et al., 1994). While the expression of p45 is limited
+to erythroid cells and megakaryocytes, Nrf2 is widely 
+expressed in tissues that include muscle, kidney, lung, intestine,
+and liver (Itoh et al., 1995; Moi et al., 1994). Furthermore,
+elimination of Nrf2 expression does not influence 
+erythropoi-esis (Chan et al., 1996; Itoh et al., 1997; Kuroha et al., 1998).
+Thus, until recently, the precise function of Nrf2 was unknown.
+The fact that the Nrf2 binding site, namely the NF-E2 binding
+motif or MARE (Maf-recognition element), is highly similar to
+the ARE, and that its tissue-specific expression is most similar
+to that of ARE-regulated genes led to the speculation that Nrf2
+is an important regulator of ARE-mediated gene expression
+(Itoh et al., 1997; Venugopal and Jaiswal, 1996).
+The genes that were first shown to be controlled by Nrf2 in
+vivo encode drug-metabolizing enzymes such as GST and
+quinone oxidoreductase 1 (NQO1) (Itoh et al., 1997); these
+genes are inducible by the antioxidant butylated 
+hydroxyanisole (BHA) which acts through the ARE present in their 
+regulatory regions. Dietary administration of 0.7% BHA for 16 to
+20 days greatly impaired the induction of NQO1 and 3 classes
+of GST (Alpha, Mu, and Pi) in both the liver and intestine of
+homozygous nrf2 knockout mice compared to their 
+heterozygous littermates (Itoh et al., 1997). It was recently 
+demonstrated that detoxification-enzyme genes are not unique in their
+regulation by Nrf2. For example, Nrf2 was shown to be 
+essential for the induction of HO-1, peroxiredoxin MSP23, and the
+cystine transporter (Xc2) by electrophilic agents in mouse 
+peritoneal macrophages (Ishii et al., 2000). HO-1 and 
+peroxire-doxin have antioxidative activities, whereas Xc2 increases the
+intracellular cysteine necessary for GSH synthesis. The 
+involvement of Nrf2 in the regulation of HO-1 and gGCS, an
+enzyme which catalyzes the rate-limiting step in the synthetic
+pathway of GSH, has also been reported by other investigators
+(Alam
+et al., 1999; Moinova and Mulcahy, 1999). The 
+requirement of Nrf2 in the regulation of such genes was further
+confirmed by the depressed expression of UDP-GT (Ugt1a6),
+catalase, and SOD1 observed in nrf2 knockout mice (Chan and
+Kan, 1999).
+The molecular mechanism of Nrf2 activation by reactive
+electrophiles has partially been clarified (Ishii et al., 2000; Itoh
+et al., 1999). Keap1, a homologue of the Drosophila actin
+binding protein Kelch, binds to the N-terminal Neh2 domain of
+Nrf2, thereby retaining this transcription factor in the 
+cytoplasm (Adams et al., 2000; Itoh et al., 1999; Xue and Cooley,
+1993). Treatment of cells with reactive electrophiles 
+counteracts this sequestration of Nrf2 by Keap1, such that Nrf2 
+trans-locates
+to the nucleus and upregulates ARE-mediated 
+transcription.
+Considering its function, Nrf2 is expected to play an 
+important role in the defense mechanisms against xenobiotic toxicity.
+In fact, the high sensitivity of nrf2 knockout mice to butylated
+hydroxytoluene (BHT)-induced pulmonary injury has recently
+been reported (Chan and Kan, 1999); the mechanism of their
+high sensitivity was, however, not clearly demonstrated. APAP
+ENOMOTO ET AL.
+was used as a chemical model in the present study to examine
+the mechanism by which Nrf2 plays a protective role against
+the toxicity of xenobiotics and to elucidate the relationship
+between Nrf2-regulated gene expression and such protection.
+APAP is widely used in tablet form for its antipyretic and
+analgesic properties, and its metabolic pathways are well 
+characterized (Cohen et al., 1998). At low doses, the majority of
+APAP is readily conjugated with glucuronic acid and sulfate
+and subsequently eliminated. A small portion of APAP 
+undergoes biotransformation by cytochrome P450s to an 
+electro-philic quinoneimine that nonenzymatically reacts with GSH for
+excretion. Exposure to high doses of APAP saturates the 
+glucuronidation and sulfation pathways and depletes the GSH
+pool, thus enabling the reactive APAP intermediate to bind to
+important intracellular macromolecules and result in 
+cytotox-icity. Both the ARE-regulated phase II drug-metabolizing 
+enzyme UDP-GT, and the antioxidant molecule GSH, whose
+synthesis depends on the ARE-regulated gGCS enzyme, are
+important in the detoxification of APAP.
+In the present study, we demonstrated that nrf2 knockout
+mice are highly sensitive to APAP-induced hepatotoxicity as a
+result of a lowered activity of drug-metabolizing enzymes and
+antioxidant systems, which represent the major Nrf2-regulated
+defense mechanisms against xenobiotic toxicity.
+MATERIALS AND METHODS
+Reagents.
+APAP, UDP-glucuronic acid, and acetaminophen glucuronide
+were purchased from Sigma Chemical Co. (St. Louis, MO). Propylene glycol,
+5,59-dithiobis-2-nitrobenzoic acid (DTNB), oxidized glutathione (GSSG), and
+glutathione reductase (GR) from yeast were purchased from Wako Pure
+Chemical Industries, Ltd. (Osaka, Japan). All other reagents were obtained
+from commercial sources and were reagent grade or better.
+Animals. Two- to 4-month-old male homozygous (-/-) and heterozygous
+(1/-) nrf2 knockout mice (ICR/129SVJ chimeric mice [Itoh et al., 1997]) and
+their wild-type littermates (1/1) were used in this study. DNA was taken from
+the tail of each mouse and analyzed by polymerase chain reaction (PCR) to
+confirm its genotype. The mice were housed in stainless-steel cages in an
+animal room maintained at 24 6 2°C and using a 12-h light/dark cycle (light
+on at 7:00 A.M. and off at 7:00 P.M.). Food (certified diet M, Oriental Yeast Co,
+Ltd., Tokyo, Japan) and water were made freely available to the mice, except
+where otherwise stated.
+Treatment of animals. In the dose-response study the administration 
+protocol was performed according to Manautou et al. (1996). After overnight
+fasting, APAP (in 50% propylene glycol as vehicle) was administered to the
+mice, po, between 8:30 and 9:30 A.M. at doses of either 0, 150, 300, or 600
+mg/kg, 5 ml/kg being used in each case. Four mice of each genotype were used
+for each dose, except for the 150-mg/kg dose in which only 3 heterozygous
+knockout mice were used. Food was withheld until 2 h after dosing, but water
+was available throughout the experiment. The animals were sacrificed 24 h
+after dosing.
+In the time-course study a dose of 300 mg/kg APAP was administered to the
+mice and the animals were sacrificed at 0 (after overnight fasting and without
+dosing), 2, 8, or 24 h after dosing. Other experimental conditions were the
+same as those used in the dose-response study. An additional 8 homozygous
+knockout and wild-type mice were sacrificed after overnight fasting and
+without dosing, for the purpose of metabolic baseline activity analysis.
+PROTECTION AGAINST ACETAMINOPHEN
+171NRF2
+Note. Acetaminophen in 50% propylene glycol was administered (po) to
+overnight-fasted wild-type (1/1) and homo- (-/-) and heterozygous (1/-)
+nrf2 knockout mice.
+a Number of animals that died within 24 h/number of animals used.
+Biochemical assays. Following withdrawal of blood from the posterior
+vena cava of anesthetized animals, plasma alanine transaminase (ALT) activity
+was determined using an automated biochemical analyzer, CHEM1t (Bayer
+Corp., Tarrytown, NY). The animals were sacrificed by exanguination, livers
+were removed, and microsomes were prepared. Microsomal protein 
+concentration was determined by the method of Lowry et al. (1951). Cytochrome
+P450 content was determined according to Omura and Sato (1964). Hepatic
+UDP-GT activity from detergent-treated microsomes was determined using
+APAP as the aglycon substrate according to Bock and Bock-Henning (1987)
+and Manautou et al. (1996). NPSH was extracted from samples of each liver
+using 1 M perchloric acid and measured by the enzymatic cycling method of
+Tietze (1969) as modified by Griffith (1980).
+Histopathology. Samples of each liver were fixed in 10% neutral buffered
+formalin for 24 h, processed by routine methodology, stained with hematoxylin
+and eosin (H&E), and examined by light microscopy. Hepatic lesions were
+graded from to 111 (-,
+-
+no lesions; 6, degeneration of centrilobular
+hepatocytes; 1, slight centrilobular necrosis (necrotic hepatocytes present in 
+1-to 3-cell layers from the central vein); 11, moderate centrilobular necrosis
+(necrotic hepatocytes present in more than 3-cell layers from the central vein
+but limited to less than half of the liver section); 111, severe centrilobular
+necrosis (necrotic areas occupying half or more than half of the liver section)).
+Histopathological evaluation was performed blind, in which the identity of
+both the genotype and type of treatment was not revealed to those undertaking
+the examination.
+Immunohistochemistry. Deparaffinized liver sections were placed in 3%
+hydrogen peroxide for 15 min to quench endogenous peroxidase activity.
+Sections were heated in 0.1 M citrate buffer, pH 6.0, in a microwave oven for
+6 min and rinsed twice, 5 min each wash, with phosphate-buffered saline
+containing 0.05% Triton X-100 (PBST). After blocking non-specific binding
+sites with 4% BlockAce (Dai-Nippon Pharmaceutical, Osaka) for 20 min,
+sections were incubated in a rabbit polyclonal antibody against APAP (Bio-
+genesis, Kingston, NH; 1:250) for 30 min; negative control sections were
+incubated in PBST only. Sections were rinsed with PBST, incubated in
+biotinylated goat antibody against rabbit immunoglobulin at a 1:1000 dilution
+(DAKO Japan, Tokyo) for 30 min, rinsed twice with PBST, and incubated in
+streptavidin-horseradish peroxidase at a 1:500 dilution (Vector Laboratories,
+Burlingame, CA) for 30 min. Diaminobenzidine was used as chromogen,
+followed by counterstaining with hematoxylin. Each step was performed at
+room temperature, except where otherwise stated.
+Determination of gGCS and Ugt1a6 mRNAs. Total cellular RNA was
+extracted by RNAzolTM B (TEL-TEST, Inc., Friendswood). The RNA 
+samples (20 mg) were subjected to electrophoresis and transferred to Zeta-Probe
+GT membranes (Bio-Rad Japan, Tokyo). The membranes were probed with
+[32P]-labelled cDNA against Ugt1a6 and the catalytic heavy and regulatory
+light chains of gGCS; b-actin cDNA was used as a positive control. We
+obtained the cDNA probe against each gene by RT-PCR, using mouse liver
+RNA as a template.
+The primer used for each gene was as follows:
+gGCS heavy chain:
+Forward primer 59-ATGGGGCTGCTGTCCCATGG-39
+Reverse primer 59-AGCCTGATGCTCTCCTAGTA-39
+gGCS light chain:
+Forward primer 59-CTGCAGACCGGGAACCAGCT-39
+Reverse primer 59-AGATCAGAGGTGCCTATAGC-39
+Ugt1a6:
+Forward primer 59-CTTCCTGCAGGGTTTCTCTTCC-39
+Reverse primer 59-CAACGATGCCATGCTCCCC-39
+The hybridized membranes were processed to autoradiographs and quantitated
+by MacBas software.
+Statistical analysis. Results are expressed as mean 6 standard deviation,
+where available. Statistical analyses of differences between values of the
+vehicle control group (0 mg/kg) or those before dosing (0 h) from mice of the
+172
+mice at 150 mg/kg (n 5 3). Livers from all animals were examined by light
+microscopy and graded from to 111 for severity of lesions
+Materials and Methods.
+a Includes those that died before 24 h.
+same genotype were made by Dunnett’s multiple comparison test. Comparison
+between baseline metabolic activities of wild-type and knockout mice were
+made using the Student’s t-test. A value of p # 0.05 was considered 
+significant.
+-
+as described in
+ENOMOTO ET AL.
+RESULTS
+Dose-Response Study
+To elucidate the role of Nrf2 in protection against APAP
+toxicity, we first examined whether the sensitivity of the mice
+to APAP toxicity was affected by eliminating Nrf2. A previous
+study showed that 600 mg/kg APAP resulted in hepatic 
+necrosis, with 10% lethality, in adult male CD-1 mice, whereas no
+hepatotoxicity was observed at a dose of 200 mg/kg (Ginsberg
+et al., 1982). Based on these data, doses of 600, 300, and 150
+mg/kg APAP were chosen for the present study. The oral route
+of administration was selected because Nrf2 is expressed in
+gastrointestinal tract as well as in liver (Itoh et al., 1997).
+When Nrf2-deficient mice were exposed to APAP, doses of
+300 mg/kg and 600 mg/kg resulted in the deaths of 1 and 3
+mice, respectively, within 24 h. In contrast, no such lethality
+was seen in either wild-type or heterozygous knockout mice at
+any of the doses used (Table 1). These results suggest that nrf2
+knockout mice are more sensitive to APAP toxicity than those
+expressing Nrf2.
+To characterize the APAP toxicity observed in Nrf2-defi-
+cient mice, plasma ALT and hepatic NPSH levels were 
+examined in animals that survived for 24 h after APAP treatment.
+homozygous nrf2 knockout mouse (B) 24 h after exposure to 300 mg/kg APAP
+(po). Slight and severe centrilobular hepatocellular necrosis is present in the
+wild-type and knockout mouse livers, respectively. H&E. Magnification 354.
+PROTECTION AGAINST ACETAMINOPHEN
+173NRF2
+3. ALT activity (A) and hepatic NPSH content (B) of wild-type
+heterozygous nrf2 mice (1/-), and homozygous nrf2 knockout micemice(1/1),
+et al., 1982). Compared to such
+Examination of the changes
+seen in the levels of toxicity in
+nrf2
+knockout mice at different time points after APAP 
+exposure allowed further characterization of the high-sensitivity
+phenotype associated with mice lacking Nrf2. Based on the
+results of the dose-response study described above, 300 mg/kg
+was selected as the optimum dose to use in the time-course
+study. Animals were sacrificed before dosing (0 h) and at 2, 8,
+and 24 h after dosing. One of the homozygous knockout mice
+(-/-) at different time points after administration of 300 mg/kg APAP (po).
+Both ALT activity and NPSH content were determined as described in Figure
+1. Values are represented as mean 6 SD, where n 5 4, except for -/- 24 h after
+dosing (n 5 3). *Significantly different from the pre-dose values (0 h) of the
+same genotype (p # 0.05).
+2, Fig. 2). The morphological features of the lesion were
+comparable to those seen in the wild-type mice exposed to 800
+mg/kg of APAP (Ginsberg
+marked damage found in the livers of Nrf2-deficient mice, the
+most severe lesion that occurred in the wild-type mice was only
+moderate (11) in one of 4 mice treated with 600 mg/kg
+APAP. These data clearly show that nrf2 knockout mice are
+more sensitive to APAP toxicity than wild-type animals.
+Time-Course Study
+died between 8 and 24 h after receiving the 300 mg/kg APAP
+dose; however, this dose was not lethal to the other genotypes
+tested.
+Plasma ALT level markedly increased in the homozygous
+knockout mice at 8 h after dosing, although the change was
+not statistically significant because of large interindividual
+differences among animals. On the other hand, wild-type
+mice showed only a marginal increase after 24 h (Fig. 3A).
+No significant changes in ALT levels were detected in
+heterozygous mice at any of the time points tested. These
+results indicate that hepatic damage occurs earlier in 
+homozygous knockout mice compared to wild-type animals.
+However, since the only histopathological change detected
+in the latter was slight hepatocellular necrosis, even after
+24 h (Table 2), it is possible that the hepatic injury in the
+wild-type mice after 8 h was too subtle to be detected by the
+analysis of ALT.
+Hepatic NPSH levels significantly decreased in mice of
+all genotypes after 2 h (Fig. 3B). Specifically, NPSH content
+measured 2 h after APAP administration was 29, 25, and
+10% of those measured before dosing (after overnight 
+fast-ing) in the wild-type, heterozygous, and homozygous
+knockout mice, respectively. The result is consistent with
+previous findings which showed a decline in hepatic NPSH
+levels at early time points after APAP exposure (Brady et
+al., 1988). After 8 h, NPSH in the livers of the wild-type and
+heterozygous knockout mice recovered and even became
+higher than the pre-dose levels, suggesting complete 
+recovery from the effect of APAP treatment subsequent to over-FIG.
+overnight-fasted wild-type (1/1) and homo- (-/-) and heterozygous (1/-)
+nrf2 knockout mice. Livers from animals killed at different time points were
+examined by light microscopy and graded from to 111 for severity of
+-
+lesions as described in Materials and Methods.
+a Includes one that died between 8 and 24 h.
+Immunohistochemical Detection of APAP in the Liver
+Since the binding of an APAP metabolite to cellular proteins
+represents an important early event in its hepatotoxicity, the
+levels of APAP-bound proteins in the livers of wild-type and
+homozygous knockout mice were examined. 
+Immunohisto-chemical staining, using an anti-APAP antibody, was 
+performed on mice that had been sacrificed 2 h after dosing with
+300 mg/kg APAP. Positive staining for APAP was detected in
+the centrilobular hepatocytes of homozygous knockout mice,
+but not in hepatocytes in other regions, nor in livers of 
+wild-type mice (Fig. 5). These results suggest that a greater extent of
+APAP-protein adduct formation occurs in livers of 
+homozygous knockout mice compared to those of wild-type mice after
+the same level of APAP exposure.
+Baseline Activities of APAP Metabolism
+The amount of the reactive APAP metabolite that can bind
+to cellular proteins depends on both its activation and 
+detoxi-night fasting, whereas values remained low in the 
+homozygous knockout mice. Hepatic NPSH content of the latter
+after 24 h was still at the pre-dose level, indicating that an
+early decrease in NPSH in mice lacking Nrf2 is followed by
+slow or insufficient recovery.
+Histopathological examination revealed a degeneration in
+centrilobular hepatocytes with small cytoplasmic vacuoles
+(grade: 6) in all homozygous knockout mice after 2 h, while
+most wild type and heterozygous knockout mice showed no
+abnormality at this time point (Table 3 and Fig. 4). Various
+degrees of centrilobular hepatocellular necrosis became 
+apparent in all homozygous knockout mice after 8 h, but not in mice
+of other genotypes. Collectively, these data demonstrate that
+nrf2 knockout mice exhibit similar time-course changes of
+toxicity as those seen in wild-type mice exposed to higher
+doses of APAP (Brady
+et al., 1988; Cohen, 1998; Mitchell,
+1973),
+thus indicating a shared underlying mechanism of 
+toxicity.
+groups as in Figure 4. Negative and positive staining can be seen in 
+centrilobular hepatocytes of wild-type (A) and knockout (B) mouse livers, 
+respectively. Magnification 3152.
+175NRF2
+fication by processes of drug metabolism. To compare the
+metabolic activity in nrf2 homozygous knockout mice with that
+in wild-type mice, cytochrome P450 content, UDP-GT 
+activity, and NPSH level were examined. In the livers of 
+homozygous knockout mice, hepatic UDP-GT activity and NPSH
+content were reduced to 64 and 82% of that in wild-type mice,
+respectively (Fig. 6). In contrast, the cytochrome P450 content
+in the livers of knockout and wild-type mice was similar. These
+results suggest that Nrf2 affects basal activity of some 
+pathways of APAP metabolism.
+One plausible explanation for these differences in metabolic
+activity is the transcriptional shut-off of drug-metabolizing
+enzyme and antioxidant genes. To address this question, we
+measured the mRNA levels of Ugt1a6 and the heavy and light
+chains of gGCS in the livers of the mice by Northern blot
+analysis. The mRNA levels of Ugt1a6 and the gGCS heavy
+chain in the livers of the homozygous knockout mice were
+lower than were those in the wild-type mice (56 and 64%,
+respectively: Fig. 7), with a statistical significance of p # 0.05.
+On the other hand, the mRNA level of the gGCS light chain
+was only slightly less than that found in the control mice
+(88%).
+We also analyzed the expression of the above genes 2 h after
+exposure to APAP to assess whether the induction of these
+genes affected the sensitivity of the mice to APAP. However,
+no induction of these genes was detected in mice of either
+genotype at this time point (data not shown).
+DISCUSSION
+Nrf2 has been shown
+to be
+a key molecule that responds to
+reactive electrophiles by activating ARE-mediated gene 
+expression. In this study, we showed that the mouse lacking Nrf2
+is highly sensitive to APAP. Lower levels of APAP provoke
+hepatotoxicity in homozygous nrf2 knockout mice and such
+high sensitivity appears to be due to an insufficient expression
+of detoxifying enzymes. As a consequence, APAP-conjugates
+accumulate in centrilobular hepatocytes, causing their necrosis.
+These results demonstrate that the nrf2 gene knockout mouse
+serves as an important animal model system for the study of
+acute drug toxicity.
+Covalent binding of reactive APAP metabolites to cellular
+proteins seems to be an important process in the induction of
+hepatotoxicity (Cohen et al., 1998). As many as 23 proteins,
+some of which are considered critical for cellular functions,
+have been shown to bind to APAP in mouse liver (Qiu et al.,
+1998). The anti-APAP antibody immunoreactivity in our study
+was localized in the centrilobular region of the livers of 
+homozygous nrf2 knockout mice and specifically overlapped with
+the site of hepatic damage. This observation is in agreement
+with the previous analysis of Bartolone et al. (1989), who
+demonstrated accumulation of APAP-bound proteins in the
+centrilobular area after an oral dose of 600 mg/kg APAP. The
+fact that the anti-APAP antibody only stained the livers of
+homozygous nrf2 knockout mice, but not of the wild-type
+mice, shows that larger amounts of APAP metabolites have
+accumulated in the former.
+The reactive metabolite of APAP, N-acetyl-p-benzoquinone-
+imine (NAPQI), is generated by a cytochrome P450-dependent
+metabolic pathway (Cohen et al., 1998). The relative amount
+of APAP bio-activated is determined by the activities of other
+drug metabolizing pathways, such as glucuronidation and 
+sulfation, which detoxify and eliminate APAP. In mice, 
+approximately 60 to 80% of the total APAP is metabolized through
+the glucuronidation pathway (Hazelton et al., 1986; Kim et al.,
+1995; Manautou et al., 1996), and most of NAPQI is excreted
+after GSH conjugation, without causing toxicity. In the 
+homozygous nrf2 knockout mouse, analyses of these major 
+metabolic parameters revealed general decreases in the levels of
+detoxification enzyme activities, with no change being 
+observed in that of the cytochrome P450 pathway. This would
+explain the accumulation of the larger amounts of 
+APAP-conjugated proteins in the cell and corresponding severe 
+hepatic damage found in the nrf2 homozygous knockout mouse
+(Fig. 8). Sulfation, a minor detoxification pathway of APAP,
+was not examined in the present study. Whether or not the
+sulfotransferase gene is ARE-regulated
+or Nrf2 has any effect
+on its expression needs to be clarified in future.
+A reduction in both UDP-GT activity and NPSH content in
+the liver of the knockout
+mouse accompanied decreased 
+expression in the mRNA levels of both Ugt1a6 and the heavy
+chain of gGCS. Consistent with this observation, Chan and
+Kan (1999) had reported a decrease in Ugt1a6 mRNA 
+expression in the lung of the homozygous nrf2 knockout mouse. The
+low levels of mRNA expression of Ugt1a6 and gGCS heavy
+chain in untreated homozygous nrf2 knockout mice suggest a
+lack of response to natural dietary inducers
+or to the 
+endogenous oxidative stress that occurs as a result of normal 
+biological activities (Klaunig et al., 1995; Martin et al., 1996). This
+observation indicates the importance of Nrf2 in counteracting
+the oxidative stress generated during normal metabolic 
+processes, in addition to providing protection against xenobiotics.
+Oxidative stress appears to be an important factor associated
+with APAP toxicity. Indeed, metallothionein (MT)-I/II 
+knockout mice were recently shown to be highly sensitive to APAP,
+perhaps due
+to the lack of the antioxidant function of MT (Liu
+et al., 1999). In mice, the oxidative stress produced by reactive
+APAP metabolites may act as a strong inducer of Nrf2-regu-
+lated gene expression mediated through the ARE. However,
+induction of detoxification enzymes and antioxidant systems
+by xenobiotics might be impaired in the nrf2 knockout mouse.
+It is interesting to note that, in the nrf2 knockout mouse,
+recovery of NPSH level to normal following APAP exposure
+was markedly delayed. Two possibilities may explain this
+result. First, the normal function of hepatocytes might have
+been lost in the homozygous knockout mice and recovery of
+NPSH level needed regeneration of hepatocytes. Second, the
+nrf2 knockout mice might not have been able to activate the
+compensatory pathway involved in recovering the NPSH level.
+We cannot eliminate either possibility, and further roles of
+Nrf2 in protecting against xenobiotics remain to be elucidated.
+In contrast to the unequivocal phenotypic difference 
+between homozygous knockout and wild-type mice, the 
+sensitivity of heterozygous knockout animals to APAP appears to be
+comparable to that of wild-type mice. Based on the mortality,
+clinical chemistry, and histopathology data, no differences existed
+between the heterozygous and wild-type mice following APAP
+administration. Thus, a single copy of the Nrf2 gene seems to
+provide sufficient protection against APAP hepatotoxicity.
+Our study clearly demonstrates that Nrf2 protects against
+APAP-induced toxicity by increasing the expression of both drug
+metabolizing enzymes and antioxidants. Additional studies on the
+Nrf2-mediated gene regulatory system would provide further 
+insight into the integrated defense mechanisms of biological 
+systems against xenobiotics and xenobiotic-induced oxidative stress.
+ACKNOWLEDGMENTS
+We thank Ms. Sayuri Kojima, Mutsumi Kumagai and Chizuko Tomiyama
+for their excellent technical assistance during the study. This work was
+supported in part by grants from the Ministry of Education, Science, Sports,
+and Culture, JSPS-RFTF (M.Y.) and PROBRAIN (K.I.).
+REFERENCES
+Adams, J., Kelso, R., and Cooley, L. (2000). The Kelch repeat superfamily of
+proteins: Propellers of cell function. Trends Cell Biol. 10, 17-24.
+Alam, J., Stewart, D., Touchard, C., Boinapally, S., Choi, A. M. K., and Cook,
+J. L. (1999). Nrf2, a Cap’n’Collar transcription factor, regulates induction of
+the heme oxygenase-1 gene. J. Biol. Chem. 274, 26071-26078.
+Bartolone, J. B., Cohen, S. D., and Khairallah, E. A. (1989). 
+Immunohisto-chemical localization of acetaminophen-bound liver proteins. Fundam.
+Appl. Toxicol. 13, 859-862.
+Bock, K. W., and Bock-Hennig, B. S. (1987). Differential induction of human
+liver UDP-glucuronosyltransferase activities by phenobarbital-type 
+inducers. Biochem. Pharmacol. 36, 4137-4143.
+Brady, J. T., Montelius, D. A., Wyand, D. S., Khairallah, E. A., and Cohen,
+S. D. (1988). Effect of piperonyl butoxide post-treatment on acetaminophen
+hepatotoxicity. Biochem. Pharmacol. 37, 2097-2099.
+Buetler, T. M., Gallagher, E. P., Wang, C., Stahl, D. L., Hayes, J. D., and
+Eaton, D. L. (1995). Induction of Phase I and Phase II drug-metabolizing
+enzyme mRNA, protein, and activity by BHA, ethoxyquin, and oltipraz.
+Toxicol. Appl. Pharmacol. 135, 45-57.
+Chan, J. Y., Han, X.-L., and Kan, Y. W. (1993). Cloning of Nrf1, an NF-E2-
+related transcription factor, by genetic selection in yeast. Proc. Natl. Acad.
+Sci. U.S.A. 90, 11371-11375.
+Chan, K., and Kan, Y. W. (1999). Nrf2 is essential for protection against
+acute pulmonary injury in mice. Proc. Natl. Acad. Sci. U.S.A. 96,
+12731-12736.
+Chan, K., Lu, R., Chang, J. C., and Kan, Y. W. (1996). NRF2, a member of the
+NFE2 family of transcription factors, is not essential for murine 
+erythropoi-esis, growth, and development. Proc. Natl. Acad. Sci. U.S.A. 93, 
+13943-13948.
+Cohen, S. D., Hoivik, D. J., and Khairallah, E. A. (1998). 
+Acetaminophen-induced hepatotoxicity. In Toxicology of the Liver (G. L. Plaa and W. R.
+Hewitt, Eds.), pp. 159-186. Taylor & Francis, Washington DC.
+Ginsberg, G. L., Placke, M. E., Wyand, D. S., and Cohen, S. D. (1982).
+Protection against acetaminophen-induced hepatotoxicity by prior treatment
+with fenitrothion. Toxicol. Appl. Pharmacol. 66, 383-399.
+Griffith, O. W. (1980). Determination of glutathione and glutathione disulfide
+using glutathione reductase and 2-vinylpyridine. Anal. Biochem. 106, 
+207-212.
+Halliwell, B., Aeschbach, R., Lo¨liger, J., and Aruoma, O. I. (1995a). The
+characterization of antioxidants. Food Chem. Toxicol. 33, 601-617.
+Halliwell, B., Murcia, M. A., Chirico, S., and Aruoma, O. I. (1995b). Free
+radicals and antioxidants in food and in vivo: What they do and how they
+work. Crit. Rev. Food Sci. Nutr. 35, 7-20.
+Hazelton, G. A., Hjelle, J. J., and Klaassen, C. D. (1986). Effects of butylated
+hydroxyanisole
+on acetaminophen hepatotoxicity and glucuronidation in
+vivo. Toxicol. Appl. Pharmacol. 83, 474-485.
+Ishii, T., Itoh, K., Takahashi, S., Sato, H., Yanagawa, T., Katoh, Y., Bannai, S.,
+and Yamamoto, M. (2000). Transcription factor Nrf2 coordinately regulates
+a group of oxidative stress-inducible genes in macrophages. J. Biol. Chem.
+275, 16023-16029.
+Itoh, K., Chiba, T., Takahashi, S., Ishii, T., Igarashi, K., Katoh, Y., Oyake, T.,
+Hayashi, N., Satoh, K., Hatayama, I., Yamamoto, M., and Nabeshima, Y.
+(1997). An Nrf2/small Maf heterodimer mediates the induction of phase II
+detoxifying enzyme genes through antioxidant response elements. Biochem.
+Biophys. Res. Commun. 236, 313-322.
+Itoh, K., Igarashi, K., Hayashi, N., Nishizawa, M., and Yamamoto, M. (1995).
+Cloning and characterization of
+a novel erythroid cell-derived CNC family
+transcription factor heterodimerizing with the small Maf family proteins.
+Mol. Cell Biol. 15, 4184-4193.
+Itoh, K., Wakabayashi, N., Katoh, Y., Ishii, T., Igarashi, K., Engel, J. D., and
+Yamamoto, M. (1999). Keap1 represses nuclear activation of antioxidant
+responsive elements by Nrf2 through binding to the amino-terminal Neh2
+domain. Genes Dev. 13, 76-86.
+Kim, H. J., Rozman, P., and Klaassen, C. D. (1995). Acetaminophen does not
+decrease hepatic 39-phosphoadenosine 59-phosphosulfate in mice. J. 
+Phar-macol. Exp. Ther. 275, 1506-1511.
+Klaunig, J. E., Xu, Y., Bachowski, S., Ketcham, C. A., Isenberg, J. S., Kolaja,
+K. L., Baker, T. K., Walborg, E. F., Jr., and Stevenson, D. E. (1995).
+Oxidative stress in nongenotoxic carcinogenesis. Toxicol. Lett. 82/83, 
+683-691.
+Kobayashi, A., Ito, E., Toki, T., Kogame, K., Takahashi, S., Igarashi, K.,
+Hayashi, N., and Yamamoto, M. (1999). Molecular cloning and functional
+characterization of a new Cap9n9Collar family transcription factor Nrf3.
+J. Biol. Chem. 274, 6443-6452.
+Kuroha, T., Takahashi, S., Komeno, T., Itoh, K., Nagasawa, T., and
+Yamamoto, M. (1998). Ablation of Nrf2 function does not increase the
+erythroid or megakaryocytic cell lineage dysfunction caused by p45 NF-E2
+gene disruption. J. Biochem (Tokyo) 123, 376-379.
+PROTECTION AGAINST ACETAMINOPHEN
+177NRF2
+Liu, J., Liu, Y., Hartley, D., Klaassen, C. D., Shehin-Johnson, S. E., Lucas, A.,
+and Cohen, S. D. (1999). Metallothionein-I/II knockout mice are sensitive to
+acetaminophen-induced hepatotoxicity. J. Pharmacol. Exp. Ther. 289, 
+580-586.
+Lowry, O. H., Rosenbrough, N. J., Farr, A. L., and Randall, R. J. (1951).
+Protein measurement with the Folin phenol reagent. J. Biol. Chem. 193,
+265-275.
+Manautou, J. E., Tveit, A., Hoivik, D. J., Khairallah, E. A., and Cohen, S. D.
+(1996). Protection by clofibrate against acetaminophen hepatotoxicity in
+male CD-1 mice is associated with an early increase in biliary concentration
+of acetaminophen-glutathione adducts. Toxicol. Appl. Pharmacol. 140, 
+30-38.
+Martin, G. M., Austad, S. N., and Johnson, T. E. (1996). Genetic analysis of
+ageing: role of oxidative damage and environmental stresses. Nat. Genet. 13,
+25-34.
+Mitchell, J. R., Jollow, D. J., Potter, W. Z., Davis, D. C., Gillette, J. R., and
+Brodie, B. B. (1973). Acetaminophen-induced hepatic necrosis: I. Role of
+drug metabolism. J. Phamacol. Exp. Ther. 187, 185-194.
+Moi, P., Chan, K., Asunis, I., Cao, A., and Kan, Y. W. (1994). Isolation of
+NF-E2-related factor 2 (Nrf2), an NF-E2-like basic leucine zipper 
+tran-scriptional activator that binds to the tandem NF-E2/AP1 repeat of the
+b-globin locus control region. Proc. Natl. Acad. Sci. U.S.A. 91, 9926
+-
+9930.
+Moinova, H. R., and Mulcahy, R. T. (1999). Up-regulation of the human
+g-glutamylcysteine synthetase regulatory subunit gene involves binding of
+Nrf-2 to an electrophile responsive element. Biochem. Biophys. Res. 
+Com-mun. 261, 661-668.
+Omura, T., and Sato, R. (1964). The carbon monoxide-binding pigment of liver
+microsomes: I. Evidence for its hemoprotein nature. J. Biol. Chem. 239,
+2370-2378.
+Prestera, T., and Talalay, P. (1995). Electrophile and antioxidant regulation of
+enzymes that detoxify carcinogens. Proc. Natl. Acad. Sci. U.S.A. 92, 
+8965-8969.
+Prestera, T., Talalay, P., Alam, J., Ahn, Y. I., Lee, P.J., and Choi, A. M. K.
+(1995). Parallel induction of heme oxygenase-1 and chemoprotective phase
+2 enzymes by electrophiles and antioxidants: Regulation by upstream 
+anti-oxidant-responsive elements (ARE). Mol. Med. 1, 827-837.
+Qiu, Y., Benet, L. Z., and Burlingame, A. L. (1998). Identification of the
+hepatic protein targets of reactive metabolites of acetaminophen in vivo in
+mice using two-dimensional gel electrophoresis and mass spectrometry.
+J. Biol. Chem. 273, 17940-17953.
+Rautalahti, M., and Huttunen, J. (1993). Antioxidants and carcinogenesis. Ann.
+Med. 26, 435-441.
+Sen, C. K. (1995). Oxygen toxicity and antioxidants: State of the art. Indian
+J. Physiol. Pharmacol. 39, 177-196.
+Slaga, T. J. (1995). Inhibition of the induction of cancer by antioxidants. Adv.
+Exp. Med. Biol. 369, 167-174.
+Tietze, F. (1969). Enzymic method for quantitative determination of nanogram
+amounts of total and oxidized glutathione: Applications to mammalian
+blood and other tissues. Anal. Biochem. 27, 502-522.
+Venugopal, R., and Jaiswal, A. K. (1996). Nrf1 and Nrf2 positively and c-Fos
+and Fra1 negatively regulate the human antioxidant response 
+element-mediated expression of NAD(P)H:quinone oxidoreductase1 gene. Proc.
+Natl. Acad. Sci. U.S.A. 93, 14960-14965.
+Xue, F., and Cooley, L. (1993). kelch encodes a component of intracellular
+bridges in Drosophila egg chambers. Cell 72, 681-693.
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+
+>>>section: acknowledgements
+ACKNOWLEDGMENTS
+We thank Ms. Sayuri Kojima, Mutsumi Kumagai and Chizuko Tomiyama
+for their excellent technical assistance during the study. This work was
+supported in part by grants from the Ministry of Education, Science, Sports,
+and Culture, JSPS-RFTF (M.Y.) and PROBRAIN (K.I.).
+
+>>>section: abstract
+
+>>>section: discussion
+DISCUSSION
+Nrf2 has been shown
+to be
+a key molecule that responds to
+reactive electrophiles by activating ARE-mediated gene 
+expression. In this study, we showed that the mouse lacking Nrf2
+is highly sensitive to APAP. Lower levels of APAP provoke
+hepatotoxicity in homozygous nrf2 knockout mice and such
+high sensitivity appears to be due to an insufficient expression
+of detoxifying enzymes. As a consequence, APAP-conjugates
+accumulate in centrilobular hepatocytes, causing their necrosis.
+These results demonstrate that the nrf2 gene knockout mouse
+serves as an important animal model system for the study of
+acute drug toxicity.
+Covalent binding of reactive APAP metabolites to cellular
+proteins seems to be an important process in the induction of
+hepatotoxicity (Cohen et al., 1998). As many as 23 proteins,
+some of which are considered critical for cellular functions,
+have been shown to bind to APAP in mouse liver (Qiu et al.,
+1998). The anti-APAP antibody immunoreactivity in our study
+was localized in the centrilobular region of the livers of 
+homozygous nrf2 knockout mice and specifically overlapped with
+the site of hepatic damage. This observation is in agreement
+with the previous analysis of Bartolone et al. (1989), who
+demonstrated accumulation of APAP-bound proteins in the
+centrilobular area after an oral dose of 600 mg/kg APAP. The
+fact that the anti-APAP antibody only stained the livers of
+homozygous nrf2 knockout mice, but not of the wild-type
+mice, shows that larger amounts of APAP metabolites have
+accumulated in the former.
+The reactive metabolite of APAP, N-acetyl-p-benzoquinone-
+imine (NAPQI), is generated by a cytochrome P450-dependent
+metabolic pathway (Cohen et al., 1998). The relative amount
+of APAP bio-activated is determined by the activities of other
+drug metabolizing pathways, such as glucuronidation and 
+sulfation, which detoxify and eliminate APAP. In mice, 
+approximately 60 to 80% of the total APAP is metabolized through
+the glucuronidation pathway (Hazelton et al., 1986; Kim et al.,
+1995; Manautou et al., 1996), and most of NAPQI is excreted
+after GSH conjugation, without causing toxicity. In the 
+homozygous nrf2 knockout mouse, analyses of these major 
+metabolic parameters revealed general decreases in the levels of
+detoxification enzyme activities, with no change being 
+observed in that of the cytochrome P450 pathway. This would
+explain the accumulation of the larger amounts of 
+APAP-conjugated proteins in the cell and corresponding severe 
+hepatic damage found in the nrf2 homozygous knockout mouse
+(Fig. 8). Sulfation, a minor detoxification pathway of APAP,
+was not examined in the present study. Whether or not the
+sulfotransferase gene is ARE-regulated
+or Nrf2 has any effect
+on its expression needs to be clarified in future.
+A reduction in both UDP-GT activity and NPSH content in
+the liver of the knockout
+mouse accompanied decreased 
+expression in the mRNA levels of both Ugt1a6 and the heavy
+chain of gGCS. Consistent with this observation, Chan and
+Kan (1999) had reported a decrease in Ugt1a6 mRNA 
+expression in the lung of the homozygous nrf2 knockout mouse. The
+low levels of mRNA expression of Ugt1a6 and gGCS heavy
+chain in untreated homozygous nrf2 knockout mice suggest a
+lack of response to natural dietary inducers
+or to the 
+endogenous oxidative stress that occurs as a result of normal 
+biological activities (Klaunig et al., 1995; Martin et al., 1996). This
+observation indicates the importance of Nrf2 in counteracting
+the oxidative stress generated during normal metabolic 
+processes, in addition to providing protection against xenobiotics.
+Oxidative stress appears to be an important factor associated
+with APAP toxicity. Indeed, metallothionein (MT)-I/II 
+knockout mice were recently shown to be highly sensitive to APAP,
+perhaps due
+to the lack of the antioxidant function of MT (Liu
+et al., 1999). In mice, the oxidative stress produced by reactive
+APAP metabolites may act as a strong inducer of Nrf2-regu-
+lated gene expression mediated through the ARE. However,
+induction of detoxification enzymes and antioxidant systems
+by xenobiotics might be impaired in the nrf2 knockout mouse.
+It is interesting to note that, in the nrf2 knockout mouse,
+recovery of NPSH level to normal following APAP exposure
+was markedly delayed. Two possibilities may explain this
+result. First, the normal function of hepatocytes might have
+been lost in the homozygous knockout mice and recovery of
+NPSH level needed regeneration of hepatocytes. Second, the
+nrf2 knockout mice might not have been able to activate the
+compensatory pathway involved in recovering the NPSH level.
+We cannot eliminate either possibility, and further roles of
+Nrf2 in protecting against xenobiotics remain to be elucidated.
+In contrast to the unequivocal phenotypic difference 
+between homozygous knockout and wild-type mice, the 
+sensitivity of heterozygous knockout animals to APAP appears to be
+comparable to that of wild-type mice. Based on the mortality,
+clinical chemistry, and histopathology data, no differences existed
+between the heterozygous and wild-type mice following APAP
+administration. Thus, a single copy of the Nrf2 gene seems to
+provide sufficient protection against APAP hepatotoxicity.
+Our study clearly demonstrates that Nrf2 protects against
+APAP-induced toxicity by increasing the expression of both drug
+metabolizing enzymes and antioxidants. Additional studies on the
+Nrf2-mediated gene regulatory system would provide further 
+insight into the integrated defense mechanisms of biological 
+systems against xenobiotics and xenobiotic-induced oxidative stress.
+
+>>>section: results
+RESULTS
+Dose-Response Study
+To elucidate the role of Nrf2 in protection against APAP
+toxicity, we first examined whether the sensitivity of the mice
+to APAP toxicity was affected by eliminating Nrf2. A previous
+study showed that 600 mg/kg APAP resulted in hepatic 
+necrosis, with 10% lethality, in adult male CD-1 mice, whereas no
+hepatotoxicity was observed at a dose of 200 mg/kg (Ginsberg
+et al., 1982). Based on these data, doses of 600, 300, and 150
+mg/kg APAP were chosen for the present study. The oral route
+of administration was selected because Nrf2 is expressed in
+gastrointestinal tract as well as in liver (Itoh et al., 1997).
+When Nrf2-deficient mice were exposed to APAP, doses of
+300 mg/kg and 600 mg/kg resulted in the deaths of 1 and 3
+mice, respectively, within 24 h. In contrast, no such lethality
+was seen in either wild-type or heterozygous knockout mice at
+any of the doses used (Table 1). These results suggest that nrf2
+knockout mice are more sensitive to APAP toxicity than those
+expressing Nrf2.
+To characterize the APAP toxicity observed in Nrf2-defi-
+cient mice, plasma ALT and hepatic NPSH levels were 
+examined in animals that survived for 24 h after APAP treatment.
+homozygous nrf2 knockout mouse (B) 24 h after exposure to 300 mg/kg APAP
+(po). Slight and severe centrilobular hepatocellular necrosis is present in the
+wild-type and knockout mouse livers, respectively. H&E. Magnification 354.
+PROTECTION AGAINST ACETAMINOPHEN
+173NRF2
+3. ALT activity (A) and hepatic NPSH content (B) of wild-type
+heterozygous nrf2 mice (1/-), and homozygous nrf2 knockout micemice(1/1),
+et al., 1982). Compared to such
+Examination of the changes
+seen in the levels of toxicity in
+nrf2
+knockout mice at different time points after APAP 
+exposure allowed further characterization of the high-sensitivity
+phenotype associated with mice lacking Nrf2. Based on the
+results of the dose-response study described above, 300 mg/kg
+was selected as the optimum dose to use in the time-course
+study. Animals were sacrificed before dosing (0 h) and at 2, 8,
+and 24 h after dosing. One of the homozygous knockout mice
+(-/-) at different time points after administration of 300 mg/kg APAP (po).
+Both ALT activity and NPSH content were determined as described in Figure
+1. Values are represented as mean 6 SD, where n 5 4, except for -/- 24 h after
+dosing (n 5 3). *Significantly different from the pre-dose values (0 h) of the
+same genotype (p # 0.05).
+2, Fig. 2). The morphological features of the lesion were
+comparable to those seen in the wild-type mice exposed to 800
+mg/kg of APAP (Ginsberg
+marked damage found in the livers of Nrf2-deficient mice, the
+most severe lesion that occurred in the wild-type mice was only
+moderate (11) in one of 4 mice treated with 600 mg/kg
+APAP. These data clearly show that nrf2 knockout mice are
+more sensitive to APAP toxicity than wild-type animals.
+Time-Course Study
+died between 8 and 24 h after receiving the 300 mg/kg APAP
+dose; however, this dose was not lethal to the other genotypes
+tested.
+Plasma ALT level markedly increased in the homozygous
+knockout mice at 8 h after dosing, although the change was
+not statistically significant because of large interindividual
+differences among animals. On the other hand, wild-type
+mice showed only a marginal increase after 24 h (Fig. 3A).
+No significant changes in ALT levels were detected in
+heterozygous mice at any of the time points tested. These
+results indicate that hepatic damage occurs earlier in 
+homozygous knockout mice compared to wild-type animals.
+However, since the only histopathological change detected
+in the latter was slight hepatocellular necrosis, even after
+24 h (Table 2), it is possible that the hepatic injury in the
+wild-type mice after 8 h was too subtle to be detected by the
+analysis of ALT.
+Hepatic NPSH levels significantly decreased in mice of
+all genotypes after 2 h (Fig. 3B). Specifically, NPSH content
+measured 2 h after APAP administration was 29, 25, and
+10% of those measured before dosing (after overnight 
+fast-ing) in the wild-type, heterozygous, and homozygous
+knockout mice, respectively. The result is consistent with
+previous findings which showed a decline in hepatic NPSH
+levels at early time points after APAP exposure (Brady et
+al., 1988). After 8 h, NPSH in the livers of the wild-type and
+heterozygous knockout mice recovered and even became
+higher than the pre-dose levels, suggesting complete 
+recovery from the effect of APAP treatment subsequent to over-FIG.
+overnight-fasted wild-type (1/1) and homo- (-/-) and heterozygous (1/-)
+nrf2 knockout mice. Livers from animals killed at different time points were
+examined by light microscopy and graded from to 111 for severity of
+-
+lesions as described in Materials and Methods.
+a Includes one that died between 8 and 24 h.
+Immunohistochemical Detection of APAP in the Liver
+Since the binding of an APAP metabolite to cellular proteins
+represents an important early event in its hepatotoxicity, the
+levels of APAP-bound proteins in the livers of wild-type and
+homozygous knockout mice were examined. 
+Immunohisto-chemical staining, using an anti-APAP antibody, was 
+performed on mice that had been sacrificed 2 h after dosing with
+300 mg/kg APAP. Positive staining for APAP was detected in
+the centrilobular hepatocytes of homozygous knockout mice,
+but not in hepatocytes in other regions, nor in livers of 
+wild-type mice (Fig. 5). These results suggest that a greater extent of
+APAP-protein adduct formation occurs in livers of 
+homozygous knockout mice compared to those of wild-type mice after
+the same level of APAP exposure.
+Baseline Activities of APAP Metabolism
+The amount of the reactive APAP metabolite that can bind
+to cellular proteins depends on both its activation and 
+detoxi-night fasting, whereas values remained low in the 
+homozygous knockout mice. Hepatic NPSH content of the latter
+after 24 h was still at the pre-dose level, indicating that an
+early decrease in NPSH in mice lacking Nrf2 is followed by
+slow or insufficient recovery.
+Histopathological examination revealed a degeneration in
+centrilobular hepatocytes with small cytoplasmic vacuoles
+(grade: 6) in all homozygous knockout mice after 2 h, while
+most wild type and heterozygous knockout mice showed no
+abnormality at this time point (Table 3 and Fig. 4). Various
+degrees of centrilobular hepatocellular necrosis became 
+apparent in all homozygous knockout mice after 8 h, but not in mice
+of other genotypes. Collectively, these data demonstrate that
+nrf2 knockout mice exhibit similar time-course changes of
+toxicity as those seen in wild-type mice exposed to higher
+doses of APAP (Brady
+et al., 1988; Cohen, 1998; Mitchell,
+1973),
+thus indicating a shared underlying mechanism of 
+toxicity.
+groups as in Figure 4. Negative and positive staining can be seen in 
+centrilobular hepatocytes of wild-type (A) and knockout (B) mouse livers, 
+respectively. Magnification 3152.
+175NRF2
+fication by processes of drug metabolism. To compare the
+metabolic activity in nrf2 homozygous knockout mice with that
+in wild-type mice, cytochrome P450 content, UDP-GT 
+activity, and NPSH level were examined. In the livers of 
+homozygous knockout mice, hepatic UDP-GT activity and NPSH
+content were reduced to 64 and 82% of that in wild-type mice,
+respectively (Fig. 6). In contrast, the cytochrome P450 content
+in the livers of knockout and wild-type mice was similar. These
+results suggest that Nrf2 affects basal activity of some 
+pathways of APAP metabolism.
+One plausible explanation for these differences in metabolic
+activity is the transcriptional shut-off of drug-metabolizing
+enzyme and antioxidant genes. To address this question, we
+measured the mRNA levels of Ugt1a6 and the heavy and light
+chains of gGCS in the livers of the mice by Northern blot
+analysis. The mRNA levels of Ugt1a6 and the gGCS heavy
+chain in the livers of the homozygous knockout mice were
+lower than were those in the wild-type mice (56 and 64%,
+respectively: Fig. 7), with a statistical significance of p # 0.05.
+On the other hand, the mRNA level of the gGCS light chain
+was only slightly less than that found in the control mice
+(88%).
+We also analyzed the expression of the above genes 2 h after
+exposure to APAP to assess whether the induction of these
+genes affected the sensitivity of the mice to APAP. However,
+no induction of these genes was detected in mice of either
+genotype at this time point (data not shown).
+
+>>>section: introduction
+TOXICOLOGICAL SCIENCES 59, 169-177 (2001)
+Copyright © 2001 by the Society of Toxicology
+High Sensitivity of Nrf2 Knockout Mice to Acetaminophen
+Hepatotoxicity Associated with Decreased Expression of 
+ARE-Regulated Drug Metabolizing Enzymes and Antioxidant Genes
+Akiko Enomoto,*,1 Ken Itoh,† Eiko Nagayoshi,‡ Junko Haruta,* Toyoe Kimura,* Tania O’Connor,†
+Takanori Harada,* and Masayuki Yamamoto†
+for Tsukuba Advanced Research Alliance and Institute of Basic Medical Sciences, University of Tsukuba, Tsukuba, Ibaraki 305-8577, Japan; and
+Received July 16, 2000; accepted September 26, 2000
+*Toxicology Division II, Laboratory of Pathology, Institute of Environmental Toxicology, 4321 Uchimoriya, Mitsukaido, Ibaraki 303-0043, Japan; †Center
+‡Chemistry Division, Institute of Environmental Toxicology, 4321 Uchimoriya, Mitsukaido, Ibaraki 303-0043, Japan
+Nrf2, which belongs to the basic leucine zipper (bZip) 
+transcription factor family, has been implicated as a key molecule involved
+in antioxidant-responsive element (ARE)-mediated gene 
+expression. In order to examine the role of Nrf2 in protection against
+xenobiotic toxicity, the sensitivity of nrf2 knockout mice to 
+acetaminophen (N-acetyl-4-aminophenol (APAP)) was analyzed. The
+saturation of detoxification pathways after high levels of exposure
+to APAP is known to induce hepatotoxicity. Two factors 
+important in its detoxification are UDP-glucuronosyltransferase (UDP-
+GT), an ARE-regulated phase-II drug-metabolizing enzyme, and
+glutathione (GSH), an antioxidant molecule whose synthesis 
+depends on ARE-regulated g-glutamylcysteine synthetase (gGCS).
+Two- to 4-month-old male mice were orally administered a single
+dose of APAP at 0, 150, 300, or 600 mg/kg. Doses of 300 mg/kg
+APAP or greater caused death in the homozygous knockout mice
+only, and those that survived showed a greater severity in hepatic
+damage than the wild-type mice, as demonstrated by increased
+plasma alanine aminotransferase activity, decreased hepatic 
+non-protein sulfhydryl (NPSH) content, and centrilobular 
+hepatocellular necrosis. The high sensitivity of Nrf2-deficient mice was
+confirmed from observations made at 0, 2, 8, and 24 h after dosing
+with 300 mg/kg APAP; increased anti-APAP immunoreactivity
+was also noted in their livers at 2 h. Untreated homozygous
+knockout mice showed both a lower UDP-GT activity and NPSH
+content, which corresponded to decreased mRNA levels of
+UDP-GT (Ugt1a6) and the heavy chain of gGCS, respectively.
+These results show that Nrf2 plays a protective role against APAP
+hepatotoxicity by regulating both drug metabolizing enzymes and
+antioxidant genes through the ARE.
+Key Words: Nrf2; knockout mice; acetaminophen; 
+hepatotoxicity; ARE; oxidative stress; electrophile; UDP-glucuronosyltrans-
+ferase; glutathione; g-glutamylcysteine synthetase.
+Presented in part at the 39th Annual Meeting of the Society of Toxicology,
+Philadelphia, March 2000.
+1 To whom correspondence should be addressed. Fax. 81-297-27-4518.
+E-mail: enomoto@iinet.ne.jp.
+Drug metabolizing enzymes and antioxidant systems 
+represent 2 major defense mechanisms against xenobiotic toxicity.
+Electrophiles, radicals, and reactive oxygen species (ROS) are
+often generated as intermediates or by-products of xenobiotic
+metabolism. These molecules, if not properly eliminated, 
+provoke lipid peroxidation and oxidation of DNA and other 
+cellular components, which results in various acute and chronic
+tissue injuries, carcinogenesis, and aging (Halliwell et al.,
+1995a,b; Martin et al., 1996; Slaga, 1995). Accumulation of
+these harmful oxidants in the cell is prevented through the
+actions of small antioxidant molecules such as GSH and 
+vitamins, and antioxidant enzymes such as heme oxygenase 1
+(HO-1), catalase, and superoxide dismutase (SOD) (Rautalahti
+and Huttunen, 1993; Sen, 1995). Drug metabolizing enzymes,
+such as glutathione S-transferase (GST), work in concert with
+antioxidant systems by metabolizing electrophiles and 
+xenobiotics, and some of the molecules involved in these 2 defense
+mechanisms are induced simultaneously in response to 
+xenobiotic exposure (Prestera et al., 1995). Such concerted gene
+induction of drug metabolizing and antioxidant defense 
+systems occurs through a common regulatory region called the
+ARE (antioxidant responsive element) or EpRE (electrophile
+responsive element) (Buetler et al., 1995; Prestera and Talalay,
+1995).
+While searching for proteins that regulate expression of the
+b-globin gene during differentiation, the Nrf family of 
+transcription factors was identified. Originally, Nrf2 was isolated
+in 1994 from a human K562 erythroid cell line and in 1995
+from a chicken erythroid cDNA library (HD3) (Itoh et al.,
+1995; Moi et al., 1994). The designation Nrf2 (NF-E2 related
+factor 2) was derived from the known transcription factor p45
+subunit of NF-E2 (Nuclear Factor Erythroid 2), with which it
+shows high sequence homology. Within the family of bZip
+transcription factors, Nrf2, p45 NF-E2, and their homologues
+constitute a discrete subfamily whose members share regions
+of homology with that of the Drosophila Cap’n’Collar (CNC)
+protein (Chan et al., 1993; Itoh et al., 1995; Kobayashi et al.,
+169
+170
+1999; Moi et al., 1994). While the expression of p45 is limited
+to erythroid cells and megakaryocytes, Nrf2 is widely 
+expressed in tissues that include muscle, kidney, lung, intestine,
+and liver (Itoh et al., 1995; Moi et al., 1994). Furthermore,
+elimination of Nrf2 expression does not influence 
+erythropoi-esis (Chan et al., 1996; Itoh et al., 1997; Kuroha et al., 1998).
+Thus, until recently, the precise function of Nrf2 was unknown.
+The fact that the Nrf2 binding site, namely the NF-E2 binding
+motif or MARE (Maf-recognition element), is highly similar to
+the ARE, and that its tissue-specific expression is most similar
+to that of ARE-regulated genes led to the speculation that Nrf2
+is an important regulator of ARE-mediated gene expression
+(Itoh et al., 1997; Venugopal and Jaiswal, 1996).
+The genes that were first shown to be controlled by Nrf2 in
+vivo encode drug-metabolizing enzymes such as GST and
+quinone oxidoreductase 1 (NQO1) (Itoh et al., 1997); these
+genes are inducible by the antioxidant butylated 
+hydroxyanisole (BHA) which acts through the ARE present in their 
+regulatory regions. Dietary administration of 0.7% BHA for 16 to
+20 days greatly impaired the induction of NQO1 and 3 classes
+of GST (Alpha, Mu, and Pi) in both the liver and intestine of
+homozygous nrf2 knockout mice compared to their 
+heterozygous littermates (Itoh et al., 1997). It was recently 
+demonstrated that detoxification-enzyme genes are not unique in their
+regulation by Nrf2. For example, Nrf2 was shown to be 
+essential for the induction of HO-1, peroxiredoxin MSP23, and the
+cystine transporter (Xc2) by electrophilic agents in mouse 
+peritoneal macrophages (Ishii et al., 2000). HO-1 and 
+peroxiredoxin have antioxidative activities, whereas Xc2 increases the
+intracellular cysteine necessary for GSH synthesis. The 
+involvement of Nrf2 in the regulation of HO-1 and gGCS, an
+enzyme which catalyzes the rate-limiting step in the synthetic
+pathway of GSH, has also been reported by other investigators
+(Alam
+et al., 1999; Moinova and Mulcahy, 1999). The 
+requirement of Nrf2 in the regulation of such genes was further
+confirmed by the depressed expression of UDP-GT (Ugt1a6),
+catalase, and SOD1 observed in nrf2 knockout mice (Chan and
+Kan, 1999).
+The molecular mechanism of Nrf2 activation by reactive
+electrophiles has partially been clarified (Ishii et al., 2000; Itoh
+et al., 1999). Keap1, a homologue of the Drosophila actin
+binding protein Kelch, binds to the N-terminal Neh2 domain of
+Nrf2, thereby retaining this transcription factor in the 
+cytoplasm (Adams et al., 2000; Itoh et al., 1999; Xue and Cooley,
+1993). Treatment of cells with reactive electrophiles 
+counteracts this sequestration of Nrf2 by Keap1, such that Nrf2 
+trans-locates
+to the nucleus and upregulates ARE-mediated 
+transcription.
+Considering its function, Nrf2 is expected to play an 
+important role in the defense mechanisms against xenobiotic toxicity.
+In fact, the high sensitivity of nrf2 knockout mice to butylated
+hydroxytoluene (BHT)-induced pulmonary injury has recently
+been reported (Chan and Kan, 1999); the mechanism of their
+high sensitivity was, however, not clearly demonstrated. APAP
+ENOMOTO ET AL.
+was used as a chemical model in the present study to examine
+the mechanism by which Nrf2 plays a protective role against
+the toxicity of xenobiotics and to elucidate the relationship
+between Nrf2-regulated gene expression and such protection.
+APAP is widely used in tablet form for its antipyretic and
+analgesic properties, and its metabolic pathways are well 
+characterized (Cohen et al., 1998). At low doses, the majority of
+APAP is readily conjugated with glucuronic acid and sulfate
+and subsequently eliminated. A small portion of APAP 
+undergoes biotransformation by cytochrome P450s to an 
+electrophilic quinoneimine that nonenzymatically reacts with GSH for
+excretion. Exposure to high doses of APAP saturates the 
+glucuronidation and sulfation pathways and depletes the GSH
+pool, thus enabling the reactive APAP intermediate to bind to
+important intracellular macromolecules and result in 
+cytotox-icity. Both the ARE-regulated phase II drug-metabolizing 
+enzyme UDP-GT, and the antioxidant molecule GSH, whose
+synthesis depends on the ARE-regulated gGCS enzyme, are
+important in the detoxification of APAP.
+In the present study, we demonstrated that nrf2 knockout
+mice are highly sensitive to APAP-induced hepatotoxicity as a
+result of a lowered activity of drug-metabolizing enzymes and
+antioxidant systems, which represent the major Nrf2-regulated
+defense mechanisms against xenobiotic toxicity.
+
+>>>section: table_1
+TABLE 1 
+Mortality of nrf2 Knockout and Wild-type Mice Exposed 
+to Acetaminophen 
+Genotype 
+Dose (mg/kg) 
+1/1 
+1/- 
+-/- 
+0 
+0/4a 
+0/4 
+0/4 
+150 
+0/4 
+0/3 
+0/4 
+300 
+0/4 
+0/4 
+1/4 
+600 
+0/4 
+0/4 
+3/4 
+
+>>>section: table_2
+TABLE 2 
+When homozygous knockout mice were treated with 300 and 
+Liver Histopathology of nrf2 Knockout and Wild-type Mice 
+600 mg/kg APAP, mean plasma ALT activity was markedly 
+24 h After Exposure to Acetaminophen at Different Doses 
+increased, while mean hepatic NPSH content showed a de- 
+creasing trend compared to the vehicle-treated mice (Figs. 1A 
+Genotype 
+and 1B). In contrast, the mean ALT value of wild-type mice 
+Dose (mg/kg) 
+Grade 
+1/1 
+1/- 
+-/- 
+showed only minimal increases at 300 and 600 mg/kg (Fig. 
+1A), except for an animal in which an extremely high ALT 
+0 
+- 
+4 
+4 
+4 
+activity was observed (this value was eliminated from the 
+150 
+4 
+3 
+4 
+- 
+statistical analysis). The mean hepatic NPSH of the wild-type 
+300 
+3 
+1 
+0 
+- 
+mice was only marginally decreased after treatment with 600 
+6 
+0 
+1 
+0 
+1 
+1 
+2 
+2 
+mg/kg APAP. These data clearly demonstrate that, although 
+11 
+0 
+0 
+0 
+hepatic damage was observed even in the wild-type mice when 
+111 
+0 
+0 
+2a 
+treated with higher doses of APAP, the extent of the toxicity 
+600 
+2 
+1 
+0 
+- 
+was considerably more severe in the nrf2 knockout mice. 
+6 
+1 
+0 
+0 
+To examine the hepatotoxicity induced by APAP in more 
+1 
+0 
+3 
+0 
+11 
+1 
+0 
+0 
+detail, we performed histopathological examination of the liv- 
+111 
+0 
+0 
+4a 
+ers from all of the animals, including those that died within 
+24 h. Administration of 300 mg/kg and 600 mg/kg APAP 
+Note. Acetaminophen in 50% propylene glycol was administered (po) to 
+induced severe (111) centrilobular hepatocellular necrosis in 
+overnight-fasted wild-type (1/1) and homo- (-/-) and heterozygous (1/-) 
+nrf2 knockout mice. Number of animals 
+2 and 4 of the homozygous knockout mice, respectively (Table 
+was 4/genotype/dose except for 1/- 
+
+>>>section: table_3
+TABLE 3 
+Time-Course Changes of Liver Histopathology in nrf2 Knockout 
+and 
+Wild-type Mice Exposed to Acetaminophen at 300 mg/kg 
+Genotype 
+Time after dosing (h) 
+Grade 
+1/1 
+1/- 
+-/- 
+0 
+- 
+4 
+4 
+4 
+2 
+- 
+3 
+4 
+0 
+6 
+1 
+0 
+4 
+8 
+- 
+4 
+4 
+0 
+6 
+0 
+0 
+0 
+1 
+0 
+0 
+1 
+11 
+0 
+0 
+2 
+111 
+0 
+0 
+1 
+24 
+3 
+1 
+0 
+- 
+6 
+0 
+1 
+0 
+1 
+1 
+2 
+2 
+11 
+0 
+0 
+0 
+111 
+0 
+0 
+2a 
+Note. Acetaminophen in 50% propylene glycol was administered (po) to 
+
+>>>section: figure_1
+FIG. 1. 
+Plasma ALT activity (A) and hepatic NPSH content (B) of wild 
+type mice (1/1), heterozygous nrf2 mice (1/-), and homozygous nrf2 knock- 
+out mice (-/-) administered APAP (po) at different doses. Plasma ALT activity 
+was determined from blood samples taken from animals that survived 24 h 
+after dosing. Hepatic NPSH level was measured in the same animals, as 
+described in Materials and Methods. Values are represented as mean 6 SD, 
+where n 5 3 or 4, except for -/- at 600 mg/kg (n 5 1). *Significantly different 
+from the vehicle control of the same genotype (p # 0.05). 
+
+>>>section: figure_2
+FIG. 2. 
+Photomicrographs of livers from a wild-type mouse (A) and a 
+
+>>>section: figure_3
+174 
+ENOMOTO ET AL. 
+FIG. 4. Photomicrographs of livers from a wild-type mouse (A) and a 
+homozygous nrf2 knockout mouse (B) 2 h after exposure to 300 mg/kg APAP 
+(po). Slight degeneration of centrilobular hepatocytes with small cytoplasmic 
+vacuoles present in the knockout mouse liver. H&E. Magnification 3152. 
+
+>>>section: figure_4
+FIG. 5. 
+Immunohistochemical staining for APAP in livers from the 
+same 
+
+>>>section: figure_5
+PROTECTION AGAINST ACETAMINOPHEN 
+FIG. 6. Comparison of cytochrome P450 content, UDP-GT activity, and 
+NPSH levels in livers from untreated wild-type mice (1/1) and homozygous 
+nrf2 knockout mice (-/-). P450s and UDP-GT per mg microsomal protein and 
+NPSH per g liver were determined as described in Materials and Methods, and 
+expressed as percentages of control (1/1) mean values (0.59 nmol/mg protein, 
+3.3 nmol/min/mg protein, and 7.1 mmol/g liver for P450, UDP-GT and NPSH, 
+respectively). Values are represented as mean 6 SD, where n 5 8. *Signifi- 
+cantly different from the values of 1/1 mice (p # 0.05). 
+
+>>>section: figure_6
+FIG. 7. Expression of gGCS (heavy and light chains) and Ugt1a6 in livers 
+from untreated wild-type mice (1/1, lanes 1-4) and homozygous nrf2 knock- 
+out mice (-/-, lanes 5-8). Total cellular RNA 
+was extracted from each liver, 
+samples (20 mg) were subjected to electrophoresis and transferred to Zeta- 
+Probe GT membrane. The membrane was probed with [32P]-labelled cDNA 
+probes, as indicated in the Figure. b-actin cDNA was used as a control. 
+
+>>>section: figure_7
+176 
+ENOMOTO ET AL. 
+FIG. 8. The effects of knocking out nrf2 on APAP hepatotoxicity. Nrf2 
+affects UDP-GT activity and GSH (NPSH) level by controlling the expression 
+of Ugt1a6 and gGCS genes, respectively. In nrf2 knockout mice, 
+more APAP 
+is biotransformed to the reactive metabolite, NAPQI, due to the low UDP-GT 
+activity. Elimination of NAPQI by conjugation with GSH is also decreased 
+because of the low GSH level. White arrows indicate the changes that occur 
+with loss of Nrf2. 
+
+**References**
+ REFERENCES
+Adams J Kelso R and Cooley L (2000) The Kelch repeat superfamily of proteins Propellers of cell function Trends Cell Biol 10 17-24
+Alam J Stewart D Touchard C Boinapally S Choi A M K and Cook J L (1999) Nrf2 a Cap’n’Collar transcription factor regulates induction of the heme oxygenase-1 gene J Biol Chem 274 26071-26078
+Bartolone J B Cohen S D and Khairallah E A (1989) Immunohisto- chemical localization of acetaminophen-bound liver proteins Fundam Appl Toxicol 13 859-862
+Bock K W and Bock-Hennig B S (1987) Differential induction of human liver UDP-glucuronosyltransferase activities by phenobarbital-type induc- ers Biochem Pharmacol 36 4137-4143
+Brady J T Montelius D A Wyand D S Khairallah E A and Cohen S D (1988) Effect of piperonyl butoxide post-treatment on acetaminophen hepatotoxicity Biochem Pharmacol 37 2097-2099
+Buetler T M Gallagher E P Wang C Stahl D L Hayes J D and Eaton D L (1995) Induction of Phase I and Phase II drug-metabolizing enzyme mRNA protein and activity by BHA ethoxyquin and oltipraz Toxicol Appl Pharmacol 135 45-57
+Chan J Y Han X-L and Kan Y W (1993) Cloning of Nrf1 an NF-E2- related transcription factor by genetic selection in yeast Proc Natl Acad Sci USA 90 11371-11375
+Chan K and Kan Y W (1999) Nrf2 is essential for protection against
+acute pulmonary injury in mice Proc Natl Acad Sci USA 96
+12731-12736
+Chan K Lu R Chang J C and Kan Y W (1996) NRF2 a member of the
+NFE2 family of transcription factors is not essential for murine erythropoi-
+esis growth and development Proc Natl Acad Sci USA 93 13943-
+13948
+Cohen S D Hoivik D J and Khairallah E A (1998) Acetaminophen-
+induced hepatotoxicity In Toxicology of the Liver (G L Plaa and W R
+Hewitt Eds) pp 159-186 Taylor & Francis Washington DC
+Ginsberg G L Placke M E Wyand D S and Cohen S D (1982)
+Protection against acetaminophen-induced hepatotoxicity by prior treatment
+with fenitrothion Toxicol Appl Pharmacol 66 383-399
+Griffith O W (1980) Determination of glutathione and glutathione disulfide
+using glutathione reductase and 2-vinylpyridine Anal Biochem 106 207-
+212
+Halliwell B Aeschbach R Lo¨liger J and Aruoma O I (1995a) The
+characterization of antioxidants Food Chem Toxicol 33 601-617
+Halliwell B Murcia M A Chirico S and Aruoma O I (1995b) Free
+radicals and antioxidants in food and in vivo What they do and how they
+work Crit Rev Food Sci Nutr 35 7-20
+Hazelton G A Hjelle J J and Klaassen C D (1986) Effects of butylated
+hydroxyanisole on acetaminophen hepatotoxicity and glucuronidation in
+vivo Toxicol Appl Pharmacol 83 474-485
+Ishii T Itoh K Takahashi S Sato H Yanagawa T Katoh Y Bannai S
+and Yamamoto M (2000) Transcription factor Nrf2 coordinately regulates
+a group of oxidative stress-inducible genes in macrophages J Biol Chem
+275 16023-16029
+Itoh K Chiba T Takahashi S Ishii T Igarashi K Katoh Y Oyake T
+Hayashi N Satoh K Hatayama I Yamamoto M and Nabeshima Y
+(1997) An Nrf2/small Maf heterodimer mediates the induction of phase II
+detoxifying enzyme genes through antioxidant response elements Biochem
+Biophys Res Commun 236 313-322
+Itoh K Igarashi K Hayashi N Nishizawa M and Yamamoto M (1995)
+Cloning and characterization of a novel erythroid cell-derived CNC family
+transcription factor heterodimerizing with the small Maf family proteins
+Mol Cell Biol 15 4184-4193
+Itoh K Wakabayashi N Katoh Y Ishii T Igarashi K Engel J D and
+Yamamoto M (1999) Keap1 represses nuclear activation of antioxidant
+responsive elements by Nrf2 through binding to the amino-terminal Neh2
+domain Genes Dev 13 76-86
+Kim H J Rozman P and Klaassen C D (1995) Acetaminophen does not
+decrease hepatic 39-phosphoadenosine 59-phosphosulfate in mice J Phar-
+macol Exp Ther 275 1506-1511
+Klaunig J E Xu Y Bachowski S Ketcham C A Isenberg J S Kolaja
+K L Baker T K Walborg E F Jr and Stevenson D E (1995)
+Oxidative stress in nongenotoxic carcinogenesis Toxicol Lett 82/83 683-
+691
+Kobayashi A Ito E Toki T Kogame K Takahashi S Igarashi K
+Hayashi N and Yamamoto M (1999) Molecular cloning and functional
+characterization of a new Cap9n9Collar family transcription factor Nrf3
+J Biol Chem 274 6443-6452
+Kuroha T Takahashi S Komeno T Itoh K Nagasawa T and
+Yamamoto M (1998) Ablation of Nrf2 function does not increase the
+erythroid or megakaryocytic cell lineage dysfunction caused by p45 NF-E2
+gene disruption J Biochem (Tokyo) 123 376-379 PROTECTION AGAINST ACETAMINOPHEN 177NRF2
+Liu J Liu Y Hartley D Klaassen C D Shehin-Johnson S E Lucas A and Cohen S D (1999) Metallothionein-I/II knockout mice are sensitive to acetaminophen-induced hepatotoxicity J Pharmacol Exp Ther 289 580- 586
+Lowry O H Rosenbrough N J Farr A L and Randall R J (1951) Protein measurement with the Folin phenol reagent J Biol Chem 193 265-275
+Manautou J E Tveit A Hoivik D J Khairallah E A and Cohen S D (1996) Protection by clofibrate against acetaminophen hepatotoxicity in male CD-1 mice is associated with an early increase in biliary concentration of acetaminophen-glutathione adducts Toxicol Appl Pharmacol 140 30- 38
+Martin G M Austad S N and Johnson T E (1996) Genetic analysis of ageing role of oxidative damage and environmental stresses Nat Genet 13 25-34
+Mitchell J R Jollow D J Potter W Z Davis D C Gillette J R and Brodie B B (1973) Acetaminophen-induced hepatic necrosis I Role of drug metabolism J Phamacol Exp Ther 187 185-194
+Moi P Chan K Asunis I Cao A and Kan Y W (1994) Isolation of NF-E2-related factor 2 (Nrf2) an NF-E2-like basic leucine zipper tran- scriptional activator that binds to the tandem NF-E2/AP1 repeat of the b-globin locus control region Proc Natl Acad Sci USA 91 9926 - 9930
+Moinova H R and Mulcahy R T (1999) Up-regulation of the human g-glutamylcysteine synthetase regulatory subunit gene involves binding of Nrf-2 to an electrophile responsive element Biochem Biophys Res Com- mun 261 661-668
+Omura T and Sato R (1964) The carbon monoxide-binding pigment of liver microsomes I Evidence for its hemoprotein nature J Biol Chem 239 2370-2378
+Prestera T and Talalay P (1995) Electrophile and antioxidant regulation of enzymes that detoxify carcinogens Proc Natl Acad Sci USA 92 8965- 8969
+Prestera T Talalay P Alam J Ahn Y I Lee PJ and Choi A M K (1995) Parallel induction of heme oxygenase-1 and chemoprotective phase 2 enzymes by electrophiles and antioxidants Regulation by upstream anti- oxidant-responsive elements (ARE) Mol Med 1 827-837
+Qiu Y Benet L Z and Burlingame A L (1998) Identification of the hepatic protein targets of reactive metabolites of acetaminophen in vivo in mice using two-dimensional gel electrophoresis and mass spectrometry J Biol Chem 273 17940-17953
+Rautalahti M and Huttunen J (1993) Antioxidants and carcinogenesis Ann Med 26 435-441
+Sen C K (1995) Oxygen toxicity and antioxidants State of the art Indian J Physiol Pharmacol 39 177-196
+Slaga T J (1995) Inhibition of the induction of cancer by antioxidants Adv Exp Med Biol 369 167-174
+Tietze F (1969) Enzymic method for quantitative determination of nanogram amounts of total and oxidized glutathione Applications to mammalian blood and other tissues Anal Biochem 27 502-522
+Venugopal R and Jaiswal A K (1996) Nrf1 and Nrf2 positively and c-Fos and Fra1 negatively regulate the human antioxidant response element- mediated expression of NAD(P)Hquinone oxidoreductase1 gene Proc Natl Acad Sci USA 93 14960-14965
+Xue F and Cooley L (1993) kelch encodes a component of intracellular bridges in Drosophila egg chambers Cell 72 681-693

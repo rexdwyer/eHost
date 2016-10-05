@@ -1,0 +1,1404 @@
+TOXICOLOGICAL SCIENCES, 142(2), 2014, 403-417
+doi: 10.1093/toxsci/kfu187
+Advance Access Publication Date: September 19, 2014
+Inhaled Diesel Emissions Generated with Cerium
+Oxide Nanoparticle Fuel Additive Induce Adverse
+Pulmonary and Systemic Effects
+Samantha J. Snow*,†,1, John McGee†, Desinia B. Miller*, Virginia Bass‡,
+Mette C. Schladweiler†, Ronald F. Thomas†, Todd Krantz†, Charly King†,
+Allen D. Ledbetter†, Judy Richards†, Jason P. Weinstein§, Teri Conner§,
+Robert Willis§, William P. Linak¶, David Nash¶,k, Charles E. Woodjjj,
+Susan A. Elmorejjjj, James P. Morrison#, Crystal L. Johnson#,
+Matthew Ian Gilmour†, and Urmila P. Kodavanti†
+*Curriculum in Toxicology, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599,
+†Environmental Public Health Division, NHEERL, US Environmental Protection Agency, Research Triangle
+Park, North Carolina, 27711, ‡Department of Environmental Science and Engineering, Gillings School of Public
+Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27599, §Environmental
+Characterization and Apportionment Branch, NERL, US Environmental Protection Agency, Research Triangle
+Park, North Carolina, 27711, ¶Air Pollution Prevention and Control Division, NRMRL, US Environmental
+Protection Agency, Research Triangle Park, North Carolina, 27711, jjArcadis US Inc., Durham, North Carolina,
+27713, jjjIntegrated Systems Toxicology Division, NHEERL, US Environmental Protection Agency, Research
+Triangle Park, North Carolina, 27711, jjjjNational Toxicology Program Division, National Institute of
+Environmental Health Sciences, Research Triangle Park, North Carolina, 27711 and #Pathology Associates Inc.,
+Charles River Laboratories, Durham, North Carolina, 27703
+1To whom correspondence should be addressed at Environmental Public Health Division, NHEERL, US Environmental Protection Agency, 109 T.W.
+Alexander Dr., Research Triangle Park, NC 27711. Fax: 919 541 0026. E-mail: snow.samantha@epa.gov.
+Disclaimer: The research described in this article has been reviewed by the National Health and Environmental Effects Research Laboratory, U.S.
+Environmental Protection Agency and approved for publication. Approval does not signify that the contents necessarily reflect the views and the policies
+of the agency, nor does mention of trade names of commercial products constitute endorsement or recommendation for use.
+ABSTRACT
+Diesel exhaust (DE) exposure induces adverse cardiopulmonary effects. Cerium oxide nanoparticles added to diesel fuel
+(DECe) increases fuel burning efficiency but leads to altered emission characteristics and potentially altered health effects.
+Here, we evaluated whether DECe results in greater adverse pulmonary effects compared with DE. Male Sprague Dawley
+rats were exposed to filtered air, DE, or DECe for 5 h/day for 2 days. N-acetyl glucosaminidase activity was increased in
+bronchial alveolar lavage fluid (BALF) of rats exposed to DECe but not DE. There were also marginal but insignificant
+increases in several other lung injury biomarkers in both exposure groups (DECe>DE for all). To further characterize DECe
+toxicity, rats in a second study were exposed to filtered air or DECe for 5 h/day for 2 days or 4 weeks. Tissue analysis
+indicated a concentration- and time-dependent accumulation of lung and liver cerium followed by a delayed clearance.
+The gas-phase and high concentration of DECe increased lung inflammation at the 2-day time point, indicating that
+Published by Oxford University Press on behalf of the Society of Toxicology 2014. This work is written by US Government employees and is in the public
+domain in the US.
+403
+404 | TOXICOLOGICAL SCIENCES, 2014, Vol. 142, No. 2
+gas-phase components, in addition to particles, contribute to pulmonary toxicity. This effect was reduced at 4 weeks except
+for a sustained increase in BALF c-glutamyl transferase activity. Histopathology and transmission electron microscopy
+revealed increased alveolar septa thickness due to edema and increased numbers of pigmented macrophages after DECe
+exposure. Collectively, these findings indicate that DECe induces more adverse pulmonary effects on a mass basis than DE.
+In addition, lung accumulation of cerium, systemic translocation to the liver, and delayed clearance are added concerns to
+existing health effects of DECe.
+Key words: diesel exhaust; cerium oxide; cardiopulmonary; nanoparticle
+Epidemiological and experimental studies have indicated a
+strong association between air pollution exposure and adverse
+cardiopulmonary morbidity and mortality (Brunekreef and
+Holgate, 2002; Stanek et al., 2011). Diesel exhaust (DE) 
+contributes to overall air pollution and has been extensively studied
+for adverse health outcomes in humans and animals (Ghio
+et al., 2012; Hesterberg et al., 2009b; Ristovski et al., 2012). Acute
+exposures to DE have been shown to increase pulmonary 
+inflammation, alter systemic vascular reactivity and contractility,
+and promote myocardial ischemia (Cosselman et al., 2012; Mills
+et al., 2007; Salvi et al., 1999; Wauters et al., 2013). Increasing 
+demand of travel, widespread availability of diesel fuels, and
+stricter emission standards have necessitated the development
+of alternative fuel technologies. Among these technologies are
+methods to increase fuel burning efficiency and decrease 
+particulate matter (PM) emission, including the use of fuel borne 
+catalysts, particulate filters, and renewable energy sources, such as
+ethanol and biofuels (HEI, 2001; Neeft et al., 1996).
+Cerium oxide (CeO2) nanoparticles are increasingly being
+used as a fuel borne catalyst in Europe, North America, and
+elsewhere (Cassee et al., 2011; Johnson and Park, 2012;
+Wakefield et al., 2008). Ce-based fuel borne catalysts increase
+fuel burning efficiency, decrease exhaust emission of PM on a
+mass basis, reduce the number of particles in the accumulation
+mode (diameter of 0.1-2.5lm), increase the number of ultrafine
+particles emitted (diameter <0.1 lm), and alter the emission 
+levels of several gaseous pollutants (HEI, 2001; Jung et al., 2005;
+Skillas et al., 2000; Zhang et al., 2013). Metal fuel borne catalysts,
+which may also include iron and platinum for diesel 
+applications, are often intended for use in combination with 
+specialized diesel particulate filters (DPFs) that effectively trap the
+metals. However, they may also be used without DPFs where
+the metals can contribute to environmental emissions and 
+elevate metal concentrations in the air, soil, and water (HEI, 2001;
+Johnson and Park, 2012; O’Brien and Cummins, 2010). These
+metal fuel borne catalysts form nanoparticles during 
+combustion and are effective in promoting soot oxidation and reducing
+mass emissions though they can also lead to increases in 
+particle number emissions. Further details describing metal fuel
+borne catalyst behavior and mechanisms in diesel systems are
+discussed by Nash et al. (2013).
+Exposure to nanoparticles leads to different toxicological
+profiles than larger sized particles because of their large surface
+area-to-mass ratio, increased reactivity, and altered deposition,
+absorption, translocation, and elimination rates (Geraets et al.,
+2012; Shannahan et al., 2012). Studies using in vitro cellular 
+models or ex vivo lung slices have resulted in conflicting findings 
+following exposure to CeO2 nanoparticles. Several investigators
+have reported that CeO2 nanoparticles are protective against 
+ag-onist- or ROS-induced cell cytotoxicity, apoptosis, and oxidative
+stress (Chen et al., 2013; Hirst et al., 2009), whereas others have
+shown minimal to no change in cell viability, cell morphology,
+or markers of inflammation and oxidative damage (Fall et al.,
+2007; Park et al., 2007, 2008a). Additional studies have 
+demonstrated that exposure to CeO2 nanoparticles increase cell
+cytotoxicity, oxidative stress, inflammation, apoptosis, and
+autophagy (Eom and Choi, 2009; Gojova et al., 2009; Hussain
+et al., 2012; Lin et al., 2006; Park et al., 2008b). In vivo, exposure to
+CeO2 nanoparticles leads to translocation and accumulation of
+Ce in extrapulmonary organs including the liver, kidney, and
+spleen (Geraets et al., 2012; He et al., 2010; Hirst et al., 2013; Yokel
+et al., 2009), as well as induction of pulmonary and hepatic 
+toxicity (Ma et al., 2011; Nalabotu et al., 2011; Srinivas et al., 2011).
+Collectively, these studies suggest Ce inhaled along with DE, as
+a result of CeO2 nanoparticle fuel additive (DECe) use, may
+result in distinct health consequences compared with exposure
+to DE alone.
+There are only a small number of comparative animal 
+studies investigating the differences in cardiopulmonary and 
+systemic health effects following exposure to DE and DECe. Cassee
+et al. (2012) demonstrated that exposure to DE increased the 
+atherosclerotic burden in atherosclerosis-prone mice that was not
+seen following exposure to DECe, however, only DECe exposure
+resulted in elevated neuroinflammation in the cerebellum and
+brain stem. In a study conducted by Ma et al. (2014), it was
+shown that CeO2 nanoparticles and DECe led to increased and
+sustained lung injury in rats compared with DE alone. Clearly,
+the potential adverse health effects from exposure to DE with
+the addition of CeO2 nanoparticles are not yet fully understood.
+The objectives of our study were to (1) compare the pulmonary
+toxicity following exposure to DE and DECe and (2) characterize
+the tissue deposition of Ce and cardiopulmonary toxicity 
+following DECe exposure for 2 days or 4 weeks with and without a
+14-day recovery period. We hypothesized that the addition of
+CeO2 nanoparticles to diesel fuel would result in lung 
+accumulation and systemic translocation of Ce, and cause greater adverse
+pulmonary health effects compared with DE exposure alone.
+MATERIALS ANDMETHODS
+Animals. Healthy male Sprague Dawley rats (8 weeks old) were
+purchased from Charles River Laboratories Inc (Raleigh, North
+Carolina). Animals were housed (2 per cage) in polycarbonate
+cages containing beta chip bedding and acclimatized for
+2-3 weeks in an Association for Assessment and Accreditation
+of Laboratory Animal Care-approved animal facility (2161C,
+5065% relative humidity [RH], and 12 h light/dark cycle). Rats
+were then transported to a nearby satellite animal facility
+where they were single housed in polycarbonate individually
+ventilated cages with beta chip bedding. Animals received
+standard (5001) Purina rat chow (Brentwood, Missouri) and
+water ad libitum except during exposures. The U.S. EPA NHEERL
+Institutional Animal Care and Use Committee approved all 
+procedures in this protocol.
+Generation and characterization of DE and DECe exhaust. DE for
+exposure experiments was generated using a 4.8-kW (6.4 hp)
+direct injection single-cylinder 0.320 l displacement Yanmar L70
+V diesel generator operated at a constant 3600 rpm. Resistance
+heating elements provided a constant 3 kW load. While the
+engine is not representative of newer technologies, it does 
+represent an important set of legacy technologies likely to remain
+in use for decades. This system was chosen because it is 
+inexpensive, quickly replaceable in case of malfunction during 
+long-term exposure studies, and because small diesel systems have
+been used by other groups to study fuel borne catalysts (Miller
+et al., 2007) and comparative health effects (Campen et al., 2005;
+McDonald et al., 2011). The base fuel was ultralow sulfur diesel
+(ULSD, <15 ppm sulfur), purchased locally (Red Star Oil, Raleigh,
+North Carolina), while the Ce modified fuel was prepared by
+adding the product Envirox (Energenics Europe Ltd, Kidlington,
+Oxfordshire, United Kingdom) to achieve a 10-ppm Ce by weight
+concentration. In the United States, ULSD was phased in for 
+on-road use from 2006 to 2010, and has been used exclusively since
+December 1, 2010.
+For the first exposure experiment, two identical engines and
+dilution systems were used. One engine was fueled with base
+ULSD, and the other was fueled with the same ULSD with Ce
+additive. These dilution systems consisted of single eductors
+(Air-Vac, Model TD26OH, Seymour, Connecticut) operating near
+the engine exhaust port, which directed diluted DE without and
+with Ce additive (DE and DECe) to two Hazelton 1000 (984 l)
+exposure chambers housed in an isolated animal exposure
+room. Both eductors were fitted with an orifice that drew in
+approximately 2 l/min of DE while using 28 l/min of high 
+efficiency particulate air (HEPA) filtered dilution air. The resulting
+dilution ratio (14:1 dilution) resulted in target particle exposure
+concentrations of approximately 1000 mg/m3. A third control
+chamber was supplied with HEPA filtered room air.
+For the second exposure experiment, two different dilution
+systems were used simultaneously on a single engine to provide
+whole emissions to two exposure chambers. These two dilution
+systems created low (approximately 100 mg/m3) and high
+(approximately 1000 mg/m3) concentration DECe. High 
+concentration exhaust was also directed through a HEPA filter to a
+third chamber to examine particle free gas-phase diesel 
+emissions. To generate sufficient sample volumes for both the high
+concentration DECe and HEPA filtered gas-phase exposures, a
+different dilution system was used. This system diluted 
+approximately 85 l/min of engine exhaust with approximately 1200 l/
+min (14:1 dilution) of HEPA filtered air through a cone diluter as
+previously described (Gowdy et al., 2010; Sharkhuu et al., 2010).
+The low concentration DECe exposure used the same eductor
+dilution system described earlier for the first exposure 
+experiment. However, dilution flows were increased (140:1) to achieve
+particle concentrations and residence times sufficiently low to
+preserve an ultrafine mode created by the Ce catalyst. A fourth
+control chamber received HEPA filtered room air.
+All chamber concentrations (exhaust dilutions) were 
+controlled by periodic adjustments of dilution air based on 
+continuous mass concentrations determined by a tapered element
+oscillating microbalance (TEOM; Rupprecht and Patashnick Co.,
+series 1400, Albany, New York). Particle size distributions (PSDs)
+were characterized during each exposure using a scanning
+mobility particle sizer spectrometer (SMPS; TSI Inc, Model 3080/
+3022a, St. Paul, Minnesota). Continuous emission monitors were
+used to measure chamber concentrations of PM and gas 
+components as described elsewhere (Gordon et al., 2012). Chamber
+temperatures, RH, and noise were also monitored. The organic
+SNOW ET AL. | 405
+carbon/elemental carbon ratio of 0.6 for the particulate fraction
+of DE using similar fuel and combustion conditions have been
+reported (Sharkhuu et al., 2010).
+Animal exposures. Two exposure experiments were conducted.
+In the first experiment, rats were exposed to filtered air, DE, or
+DECe (high concentration; approximately 1000 lg/m3) for 5 h/
+day 2 consecutive days. In the second experiment, rats were
+exposed to filtered air, DECe at a low concentration (approxi-
+mately 100 lg/m3), DECe at a high concentration (approximately
+1000lg/m3), or the gas-phase components of the high 
+concentration of DECe for 5 h/day 2 consecutive days or 5 h/
+day 5 days/week 4 weeks. The 2-day exposure time point
+was chosen to assess acute effects, while the 4-week time point
+was selected to evaluate the persistency and progressive nature
+of these potential effects. A group of rats exposed to filtered air
+or DECe (high concentration) were allowed a 14-day recovery
+period after the 4-week exposure to determine reversibility of
+health effects. All necropsies for both experiments were 
+performed 1 day after the final exposure.
+Necropsy and sample collection. At designated time points, rats
+were weighed and anesthetized with an overdose of sodium
+pentobarbital (50-100 mg/kg, ip; Virbac AH, Inc, Fort Worth,
+Texas). Blood was collected via abdominal aortic puncture
+directly into vacutainers (Sigma-Aldrich, St. Louis, Missouri)
+containing citrate for platelet aggregation assay or EDTA for
+complete blood counts (CBC). The trachea was cannulated, and
+the left lung and right cardiac lobe were ligated while lavaging
+the remaining three right lung lobes (apical, diaphragmatic, and
+azygous). The three right lung lobes were lavaged with Ca2þ/
+Mg2þ free phosphate buffered saline (pH 7.4, 37C) using a 10-ml
+syringe. The lavage volume was based on 28 ml/kg body weight,
+with the three right lung lobes representing 50% of the total
+lung weight. Three washes were performed with the same 
+buffer aliquot. The bronchoalveolar lavage fluid (BALF) was stored
+in 15 ml sterile tubes on ice until processing. The left lung was
+inflated with 10% formalin and processed for histopathology.
+The right cardiac lobe and a consistent portion of a given liver
+lobe from each animal were frozen in liquid nitrogen and stored
+at 20C for later analysis of tissue Ce burden. The thoracic
+aorta was isolated from surrounding connective tissues and
+quick frozen in liquid nitrogen for later RNA isolation and PCR.
+Cell differential and BALF analysis. For both experiments, aliquots
+of BALF were used to determine total cell counts with a Z1
+Beckman-Coulter Counter (Beckman-Coulter, Inc, Miami,
+Florida) and cell differentials according to previously described
+procedures (Gordon et al., 2013). The cell-free BALF was used to
+analyze lung injury biomarkers total protein, albumin, lactate
+dehydrogenase (LDH) activity, N-acetyl glucosaminidase (NAG)
+activity, and c-glutamyl transferase (GGT) activity as previously
+described (Gordon et al., 2013).
+Filter and tissue Ce analysis. Gelman Teflo filters (1 lm nominal
+pore size, 47 mm diameter; Pall Gelman Sciences, Ann Arbor,
+Michigan) containing deposited DECe during daily exposures,
+along with lot-matched blank filters, were analyzed for Ce 
+content using energy dispersive X-ray fluorescence spectrometry
+(EDXRF; Model Epsilon 5, PANalytical, Westborough,
+Massachusetts). The analytical method followed the principles
+of the U.S. EPA Method IO-3.3 (EPA, 1997).
+Lung (approximately 0.1 g) and liver (approximately 0.5 g) 
+samples were weighed and microwave digested (Yokel et al., 2009)
+406 | TOXICOLOGICAL SCIENCES, 2014, Vol. 142, No. 2
+with a mixture of concentrated HNO3 (1.5 ml) and H2O2
+(0.75 ml) (Optima grades; Fisher Scientific, Pittsburgh,
+Pennsylvania) in 10 ml Teflon vessels (SP-D; CEM Corporation,
+Matthews, North Carolina). Sample digests were transferred to
+acid-cleaned 15 ml polypropylene centrifuge tubes, and diluted
+using a solution of 0.4% H2SO4 (10 ml) (Optima grade; Fisher
+Scientific) in ultrapure water (Milli-Q; Millipore Corporation,
+Billerica, Massachusetts). Ce content was measured using 
+inductively coupled plasma-mass spectrometry (ICP-MS; Model ELAN
+DRCII, PerkinElmer, Shelton, Connecticut). Ce is not an analyte in
+standardized environmental ICP-MS methods; however, we
+followed the quality control and run sequence of U.S. EPA
+Method 200.8, rev 5.4 (EPA, 1994) to achieve study data quality
+objectives. Ce isotopes 140 (reported) and 142 (confirmation) were
+monitored, and indium and terbium internal standards were
+spiked into all samples, blanks, and standards using an online
+mixer. Calibration (PCEN-100; VHG Labs, Manchester, New
+Hampshire) and quality control (PLCE2-2 Y; Spex CertiPrep,
+Metuchen, New Jersey) standards were diluted with an acid blank
+solution that was matrix-matched with the samples. Detection
+limits of 0.22 ng Ce/g lung tissue and 0.38 ng Ce/g liver tissue were
+achieved.
+Pulmonary deposition estimation. The multiple-path particle 
+dosimetry modeling software (MPPD v 2.11; Applied Research
+Associates, Inc, Albuquerque, New Mexico) was used to predict
+the pulmonary deposition fraction of particles for the animals
+exposed to the low concentration and high concentration of
+DECe for 2 days and 4 weeks. Default rat-specific values 
+provided by the software including functional residual capacity 
+volume (4.0 ml), upper respiratory tract volume (0.42 ml), head
+volume (0.42 ml), and inspiratory fraction (0.5), along with the
+average experimental-specific data for tidal volume (VT, 2.5 ml)
+and breathing frequency (f, 208 breaths/min), obtained using a
+whole-body plethysmography (Buxco Electronics, Inc, Sharon,
+Connecticut) as previously described (Kodavanti et al., 2006),
+were inputed into the model. Whole-body plethysmography
+was performed prior to the start of exposure, 2 days post-expo-
+sure, and after 19 days of exposure for the 4-week group. No
+major exposure-related effects on breathing parameters were
+noted. For the particle properties, density was estimated to be
+1.0 g/cc (Yoon et al., 2011) with a geometric standard deviation
+(rg) of 1.70 for the low chamber and 1.45 for the high chamber.
+The concentration and mass median aerodynamic diameter for
+each exposure group were determined by TEOM and SMPS,
+respectively, as described earlier.
+The estimated pulmonary deposition of PM was calculated
+from the following equation as previously described (Wichers
+et al., 2006):
+DPM ¼ C f  VT  t df  UPM
+where DPM¼pulmonary deposition of PM in the total lung (mg),
+C¼average
+concentration of PM (mg/m3), f¼breathing frequency
+(breaths/min), VT¼ tidal volume (ml), t¼ total time of exposure
+(min), df¼pulmonary deposition fraction for the total lung as
+predicted by the MPPD model, and UPM¼unit conversion
+(1 106 m3/ml).
+The estimated pulmonary deposition of Ce was calculated
+from the following equation:
+DCe ¼ DPM  PCe  UCe
+where DCe¼pulmonary deposition of Ce in the total lung (ng),
+PCe¼percent of Ce present in PM as calculated based on
+XRF analysis of the chamber filters, and UCe¼unit conversion
+(1 103 ng/mg).
+Lung histology and transmission electron microscopy. Left lungs were
+collected at necropsy for histopathology. After removal and
+inflation with 10% neutral buffered formalin (NBF), the lungs
+were placed whole in 10% NBF followed by 80% ethanol. Fixed
+lungs were paraffin-embedded, sectioned longitudinally at
+5 lm, and stained with hematoxylin and eosin (H&E) using
+standard histological procedures. One H&E-stained section per
+animal was evaluated by a board-certified pathologist. 
+Semi-quantitative scoring of select pathological findings was 
+conducted using severity scores: 0¼not present, 1¼minimal (<10%
+of examined area), 2¼mild (11-40%), 3¼moderate (41-80%),
+and 4¼marked (81-100%). Images of representative lung 
+sections were taken using a Nikon Eclipse E400 microscope (Nikon
+Instruments, Melville, New York) and Lumenera Infinity2 digital
+camera (Ottawa, Ontario).
+Selected formalin fixed lung tissue samples from the second
+experiment were processed through an industry standard
+transmission electron microscopy (TEM) processing protocol
+per Charles River Laboratories, Pathology Associates Inc
+(Durham, North Carolina) and embedded in Spurr’s epoxy resin.
+Approximately 1 mm thick sections were cut on one of two ultra
+microtomes (Reichert-Jung Ultracut E; Leica Microsystems,
+Vienna, Austria; RMC Powertome X; Boeckeler Instruments,
+Tucson, Arizona), placed on glass slides, and stained with 
+tolui-dine blue for histological examination and for final tissue area
+selection for TEM. The selected areas were sectioned at 
+approximately 80 nm thickness, placed on 200 mesh copper grids, and
+stained with uranyl acetate and lead citrate using standard 
+protocols to enhance contrast on the electron microscope (Zeiss
+900 Transmission Electron Microscope, Thornwood, New York).
+Photomicrographs were captured from selected fields at 
+magnifications of 4270-96 800 to characterize ultrastructural changes
+in the lung.
+In vitro platelet aggregation and CBC. Citrated blood was 
+centrifuged at 200 g for 30 s. An aliquot of the platelet-rich plasma
+was collected, and the remaining sample was centrifuged at
+2000 g for 2 min to collect a platelet-poor fraction of plasma.
+Adenosine diphosphate (ADP)-induced primary aggregation and
+rates of aggregation and disaggregation were measured by 
+adding 25 ll of ADP (1 104 M) to the platelet-rich plasma fraction
+at 37C using a platelet aggregation profiler (Platelet
+Aggregation Profiler Model PAP-8E, Bio/Data Corp, Horsham,
+Pennsylvania). The light transmission set by the absorbance of
+the platelet-poor plasma fraction was used to blank each 
+individual sample. Plasma samples from each individual animal
+were run in duplicate, and an average of the replicate values
+was used. CBC of EDTA containing blood tubes were performed
+using a Beckman-Coulter AcT blood analyzer (Beckman-Coulter
+Inc).
+RNA isolation and real time reverse transcriptase PCR. Thoracic 
+aortas from the second experiment (4-week time point) were used
+for determination of mRNA expression levels for markers of
+inflammation, vascular activity, and coagulation/thrombosis.
+Total thoracic aorta RNA was isolated with a commercially
+available RNeasy mini kit (Qiagen, Valencia, California) using
+silica gel membrane purification. RNA yield was determined
+spectrophotometrically on a NanoDrop 1000 (Thermo Scientific,
+Wilmington, Delaware). Reverse transcriptase PCR (RT-PCR) was
+conducted on an ABI Prism 7900 HT sequence detection system
+(Applied Biosystems Inc, Foster City, California) as previously
+described (Gordon et al., 2013). Primers were purchased from ABI
+as inventoried TaqMan Gene Expression Assays, each containing
+a 6-carboxy-fluorescein (FAM dye) label at the 50 end. Data were
+analyzed using ABI sequence detection software version 2.2. For
+each PCR plate, cycle threshold (Ct) was set to an order of 
+magnitude above background. For each individual sample, target gene
+Ct was normalized to a control gene Ct, hypoxanthine-guanine
+phosphoribosyltransferase (Hprt1), to account for variability in
+the starting RNA amount. Expression of each exposure group
+was quantified as fold change over filtered air control.
+Statistical analysis. Statistical analysis was performed using
+GraphPad Prism (GraphPad Software, San Diego, California).
+One-way ANOVA analysis followed by Bonferroni’s post hoc
+test was used to compare differences between exposure groups
+at each time point or concentration. The data from each 
+experiment and at each time point were independently analyzed. A
+t test was used to compare differences between the animals
+exposed to filtered air or high concentration of DECe for 4 weeks
+and allowed a 14-day recovery period. A p-value <.05 was 
+considered statistically significant.
+RESULTS
+Exposure Characterization
+Figure 1A presents SMPS volume PSDs comparing emission
+measurements of the base ULSD (DE) and the ULSD with 10 ppm
+Ce (DECe). Standard deviations of multiple PSDs are included.
+These PSDs were determined from eductor diluted samples 
+corrected back to engine stack concentrations as previously
+described (Nash et al., 2013). Volume PSDs are calculated from
+the measured SMPS number distributions, assuming spherical
+particles with unit density, and provide an estimate of the 
+relative change in mass emissions, and the distribution of mass
+across the PSD. Evident from Figure 1A is that the Ce fuel borne
+catalyst is effective in reducing engine volume/mass emissions.
+The SMPS data indicate that total volume concentrations
+decrease 40% (from 2.1 1013 to 1.2 1013 nm3/cm3) with the Ce
+SNOW ET AL. | 407
+additive. However, these same data also indicate particle 
+number concentrations increase 27% (from 1.1 108 to 1.4 108
+#/cm3) with the addition of the Ce nanoparticles. These particles
+are associated with an ultrafine particle mode seen in the
+10 ppm Ce PSD between 15 and 35 nm. While these particles add
+little to the total volume or mass, and are minor compared to
+volume reductions in the larger accumulation mode, they 
+dominate the number distribution. Median diameters for the 0 and
+10 ppm Ce PSDs are 51 nm (number) and 104 nm (volume), and
+29 nm (number) and 94 nm (volume), respectively.
+The target DE and DECe particulate concentrations were
+either 1000 (high concentration) or 100 (low concentration) lg of
+PM/m3. Actual PM mass concentrations, the chamber gas 
+components, and atmospheric variables are provided in Table 1. In
+the first exposure experiment comparing high concentration
+exposures, average DE and DECe levels were 1000 and
+800 lg/m3, respectively (Table 1). The gas components CO, NO,
+and NO2 from the DECe chamber were also decreased. In the
+second exposure experiment characterizing the 
+cardiopulmonary effects of DECe, we examined the low concentration 
+condition because it preserved a bimodal PSD into the exposure
+chamber, and we wanted to examine possible effects due to this
+characteristic. Figure 1B presents number PSDs comparing DECe
+particles from the low and high concentration exposure 
+chambers. Note that the high concentration PSD does not indicate
+bimodal behavior or the presence of the ultrafine mode seen in
+the engine exhaust (Fig. 1A). This is due to the speed of aerosol
+kinetics and the distance and residence time (several seconds)
+required to transport aerosol emissions from the engine
+exhaust to the isolated exposure chambers. At 1000 mg/m3, the
+kinetics are too fast to preserve the bimodal PSD observed in
+the exhaust (Fig. 1A). Additional dilution (to approximately
+100 mg/m3) slowed aerosol interaction, and preserved the
+bimodal PSD into the exposure chamber. The total number 
+concentration and number median diameter for the high 
+concentration exposure was 2.0 106 #/cm3 and 79 nm, respectively.
+Corresponding values for the low concentration exposure was
+9.3 105 #/cm3 and 31 nm, respectively. However, the bimodal
+PSD indicates separate modes with medians of approximately
+408 | TOXICOLOGICAL SCIENCES, 2014, Vol. 142, No. 2
+Abbreviations: DE, diesel exhaust; DECe, cerium oxide nanoparticles added to diesel fuel; PM, particulate matter; TEOM, tapered element oscillating microbalance; RH,
+relative humidity.
+22 and 50 nm. While the HEPA filter effectively reduced particle
+concentrations, similar levels of all gases were reported for the
+high concentration and gas-phase chambers for both the 2-day
+and 4-week exposures (Table 1). XRF analysis of the chamber 
+filters indicated that Ce additive at 10 ppm concentration resulted
+in a final Ce content that was 0.4% and 0.9% of the total PM
+mass for the low concentration and high concentration of DECe,
+respectively.
+Deposition of Ce in the Lung and Liver after Exposure to DECe
+Analysis of lung and liver tissue in rats exposed to DECe
+resulted in concentration- and time-dependent increases in Ce
+content. The lung levels of Ce in rats exposed to the high 
+concentration were more than 10-fold greater than the levels
+achieved at the low concentration for both the 2-day and
+4-week exposure time points (Fig. 2A). The 4-week exposure
+resulted in accumulation of Ce in the lung at nearly four times
+the levels observed following the 2-day exposure (Fig. 2B). There
+was no significant increase in liver Ce levels at the 2-day 
+exposure with either concentration; however, increases in liver
+cerium levels were noted at both the low and high 
+concentrations at the 4-week time point (Fig. 2C). The 4-week exposure to
+the high concentration of DECe resulted in over six times the Ce
+deposition in the liver when compared with exposure at the low
+concentration (Fig. 2D). In addition, when the rats exposed to 
+filtered air or high concentration of DECe were allowed a 14-day
+recovery period following the 4-week exposure, a 35% reduction
+in lung levels and 59% reduction in liver levels of Ce occurred
+(Fig. 2B and 2D). Collectively, these data suggest accumulation
+of Ce in the lung and liver resulting from an extended exposure
+period, followed by a delayed clearance over time.
+The MPPD model was used to estimate the fraction of 
+particles deposited in the total lung (df) in animals exposed to the
+low and high concentrations of DECe for either 2 days or
+4 weeks (Table 2). Based on the MPPD model predictions, the
+estimated pulmonary deposition of total PM (DPM) and Ce (DCe)
+was calculated. These predicted Ce levels were compared with
+the measured lung levels of Ce (Fig. 2A) to estimate the percent
+of Ce retained in the lungs (Table 2). Exposure to the low 
+concentration of DECe resulted in a greater percent of Ce retained
+in the lungs as compared with exposure to the high 
+concentration at both the 2-day (122% vs 56%, respectively) and 4-week
+time point (40% vs 22%, respectively), indicating inefficient
+clearance of Ce at the low concentration.
+Lung Injury and Inflammation Following Exposure to DE and DECe
+In the comparative study examining the 2-day exposure to the
+high concentration of DE and DECe in parallel, BALF NAG activity,
+a marker for macrophage activation, was increased significantly
+in rats exposed to DECe but not DE (Fig. 3A). There were also 
+marginal but not statistically significant increases in the levels of 
+several other markers of lung injury (Fig. 3B-D) and inflammation
+(Fig. 3E and 3F), with DECe resulting in consistently greater values
+compared with DE. As the DECe chamber achieved 20% less PM
+aAn estimated lung weight of 2.0 g for 12-week-old male Sprague Dawley rats was used to convert total lung deposition to per unit weight (Piao et al., 2013).
+Abbreviations: MMAD, mass median aerodynamic diameter; df, pulmonary deposition fraction for the total lung as predicted by the MPPD model; DPM, pulmonary 
+deposition of PM in the total lung; PCe, percent of Ce present in PM; DCe, pulmonary deposition of Ce in the total lung.
+mass concentration than the DE chamber (Table 1), this suggests
+that the effects induced by DECe were underestimated and that
+DECe on an equal mass basis is more likely to induce greater
+lung injury and inflammation than DE alone.
+The 2-day and 4-week exposure studies with DECe consisted
+of rats exposed to a low concentration, high concentration, and
+gas-phase components from the high concentration. BALF total
+protein and albumin, markers of lung permeability, were 
+significantly increased in rats following a 2-day exposure to only the
+gas-phase components of DECe (Fig. 4A and 4B). GGT activity
+levels, a marker of lung cell injury, were significantly increased
+in BALF from rats exposed to the high concentration and 
+gas-phase components of DECe at the 2-day and 4-week time points
+(Fig. 4C). BALF neutrophils were significantly increased 
+following a 2-day exposure to the high concentration and gas-phase
+components of DECe (Fig. 4D). No significant changes in BALF
+alveolar macrophage (Fig. 4E), LDH, or NAG activity levels (data
+not shown) were noted. These data indicate that the acute 
+pulmonary injury and inflammation following exposure to the
+whole exhaust are likely to be driven by the gas-phase 
+components of DECe.
+Histological and Ultrastructural Lung Effects of DE and DECe
+Exposure
+Lungs were examined by light microscopy to evaluate the
+effects of exposure to the high concentration of DE and DECe.
+Two exposure-related findings were apparent in comparison to
+the control lung sample (Fig. 5A): (1) minimal to mild 
+yellow-brown to black pigmentation within the alveolar macrophages
+following a 2-day exposure to DE and DECe (data not shown)
+410 | TOXICOLOGICAL SCIENCES, 2014, Vol. 142, No. 2
+and 4-week exposure to DECe (Fig. 5B); and (2) minimal increase
+in alveolar macrophages (histiocytosis) following exposure to
+DECe at 4 weeks with and without a 14-day recovery period
+(Fig. 5C and 5D). The alveolar histiocytosis was characterized by
+slightly increased numbers of alveolar macrophages that in
+general were diffusely distributed throughout the lung. The 
+pigmented particles found in the alveolar macrophages from the
+recovery animals were more commonly observed in punctate
+aggregates, possibly reflecting continued cellular processing of
+the material (Fig. 5D). No effects of the gas-phase exposure were
+observed (data not shown).
+Pulmonary changes were examined by TEM following 
+exposure to filtered air or high concentration of DECe for 4 weeks
+(Fig. 6A-D). Intracytoplasmic foreign material was observed
+within alveolar macrophages from DECe (Fig. 6C) but not control
+(Fig. 6A) lungs. This material was characterized by numerous
+smooth electron dense bodies ranging in size from 10 to 600 nm
+within membrane bound organelles, in some cases containing
+variably sized clear spaces. Intracellular edema was also
+present in alveolar macrophages following exposure to DECe as
+indicated by increased clear space within the cytoplasm
+(Fig. 6C). Enlarged alveolar septal capillaries, often with 
+neutrophils, were present within the capillary lumens from DECe
+lungs (Fig. 6D) compared with control (Fig. 6B). Adjacent septal
+and capillary membranes were separated by increased clear
+space, indicating edema (Fig. 6D). Animals that were allowed
+412 | TOXICOLOGICAL SCIENCES, 2014, Vol. 142, No. 2
+Values are calculated as relative fold change over filtered air exposed controls after normalizing the expression with Hprt1. Values
+represent mean6SE of six rat tissues, each analyzed in duplicate.
+*p< .05, **p< .01 significantly different than filtered air.
+Abbreviations: eNOS, endothelial nitric oxide synthase; ET-1, endothelin-1; ETRB, endothelin receptor B; tPA, tissue plasminogen 
+activator; PAI-1, plasminogen activator inhibitor-1; TF, tissue factor; TNF-a, tumor necrosis factor-a; ATR1, angiotensin receptor type 1 a.
+the 14-day recovery period following the 4-week exposure did
+not show improvement in the incidence or severity of alveolar
+histiocytosis (data not shown).
+Systemic Effects of Inhaled DECe
+In general, the CBC encompassing changes in hematological
+parameters, platelets, and white blood cell profiles showed 
+minimal exposure related changes (data not shown). ADP-induced
+platelet aggregation determined in vitro was also not 
+significantly affected with exposure to DECe (gas-phase, low 
+concentration, and high concentration; data not shown). Relatively
+small changes were noted in aortic RNA for markers of vascular
+activity, thrombosis, inflammation, and atherogenesis in rats
+exposed for 4 weeks to DECe (Table 3). Specifically, expression
+of endothelial nitric oxide synthase, tissue factor, and tumor
+necrosis factor-a were significantly increased, suggesting that
+exposure to whole DECe exhaust or gas-phase components of
+DECe may contribute to vascular contractility changes, 
+procoa-gulant responses, and inflammation.
+DISCUSSION
+Health consequences of soot emissions from diesel fueled
+engines with CeO2 nanoparticle additive may differ greatly from
+those that occur in the absence of a Ce fuel borne catalyst. The
+rise in use of this fuel additive will lead to increased 
+environmental deposition of Ce, which raises concerns about potential 
+long-term health consequences (HEI, 2001). More importantly, the
+addition of a Ce catalyst results not only in overall PM mass
+reductions but also a modified exhaust chemistry (Zhang et al.,
+2013). This change in chemistry and the possibility of Ce 
+accumulation in the body over a lifetime of exposure warrants 
+examination of potential adverse health effects from an altered emission
+profile. Few studies have undertaken examination of health 
+consequences following exposure to DECe exhaust, and detailed
+evaluation in healthy animal models is lacking (Cassee et al.,
+2012; HEI, 2001; Ma et al., 2014). In this study, we undertook 
+extensive toxicological analysis of laboratory generated exhausts of
+diesel with or without CeO2 nanoparticle fuel additive.
+In the first acute study comparing DE and DECe in parallel,
+we demonstrated that DECe caused a greater increase in BALF
+NAG activity (a marker for macrophage activation) than DE.
+Although not significant with other markers of lung injury and
+inflammation, this pattern was consistently observed and
+occurred despite 20% less mass concentration in the DECe
+chamber compared with the DE chamber. These findings 
+suggest that DECe exposure might induce greater pulmonary injury
+upon acute inhalation, providing support for a recent study that
+demonstrated increased and sustained pulmonary damage in
+rats intratracheally instilled with diesel particles containing
+CeO2 nanoparticles compared to diesel particles alone (Ma et al.,
+2014). These data are at odds with the results from another
+study which implied that the addition of a Ce-based fuel borne
+catalyst may reduce the atherosclerotic burden associated with
+exposure to diesel fuel (Cassee et al., 2012). Collectively, these
+studies indicate that additional investigations must be 
+conducted comparing DE and DECe exposure in healthy and 
+compromised animal models to fully understand the health risk
+involved with adding CeO2 nanoparticles to diesel fuel.
+In our second study, we examined pulmonary and systemic
+health outcomes in addition to analysis of Ce tissue deposition
+following acute and subacute exposure to whole DECe or 
+gas-phase components in healthy rats. The augmented effects on
+albumin and total protein following a 2-day exposure to high
+SNOW ET AL. | 413
+concentration and gas-phase components of DECe were not 
+evident in rats exposed for 4 weeks; however, the increases in
+BALF GGT activity (a marker for lung cell injury) were sustained,
+suggesting that the effect of whole exhaust and gas-phase 
+components on GGT activity was not reversible over a 4-week
+period. Significant increases in BALF neutrophils with DECe
+(high concentration and gas-phase components) were evident
+in rats exposed for 2 days but not 4 weeks, suggesting that the
+neutrophilic inflammatory response was acute and that a 
+blunting of the response occurs with repeated exposure to DECe. This
+latter finding differs from other high concentration metal-rich
+oil-combustion PM studies where progressive inflammation
+was observed upon repeated exposure (Kodavanti et al., 2002).
+Light and transmission electron microscopy examination
+provided further insights into the morphologic effects of
+inhaled DECe in the lung. Ultrastructural changes included
+interstitial neutrophils and edema, consistent with increased
+neutrophils in BALF observed following a 2-day DECe exposure
+and the continued increases in BALF GGT activity. The
+increased number of alveolar macrophages and presence of 
+pigmentation was similar between the animals exposed to DE and
+DECe for 2 days, which corresponds to the findings of Cassee
+et al. (2012) who observed a comparable response in an 
+athero-sclerosis-prone mouse model. Notably, the alveolar 
+histiocytosis, edema, and presence of pigmented particles within the
+alveolar macrophages seen at 4 weeks were still apparent after
+a 14-day recovery period following exposure to DECe. It is likely
+that alterations of the diesel soot particles with CeO2 
+nanoparticle additive may contribute to less efficient clearing from the
+lung. This would align with recent studies that have 
+demonstrated a long elimination half-life and accumulation of Ce in
+the lungs following exposure to CeO2 nanoparticles (Geraets
+et al., 2012; He et al., 2010).
+The high concentration of DECe exhaust contains CO, NOx,
+and other organic vapors at environmentally relevant 
+concentrations that may contribute to observed health effects in 
+different ways. Therefore, we wanted to determine the relative
+contribution of gas-phase components in the whole exhaust.
+Many of the adverse pulmonary effects as determined by BALF
+analysis of DECe at this concentration were also observed 
+following filtration of the particles from the exhaust, indicating
+that the contribution of gas-phase components cannot be
+ignored. These data correspond with a previous study that
+demonstrated acute pulmonary injury and inflammation in
+normotensive and hypertensive rats following exposure to the
+gas-phase components of DE (Kodavanti et al., 2013). CO and NO
+are known to have many biological effects including the ability
+to induce vasorelaxation (Cooke and Dzau, 1997; Leffler et al.,
+2011). Following exposure, these components could reach 
+alveolar capillaries where they can directly impact the 
+microvasculature contractility. Often these effects are opposite of those
+expected from DE (Li et al., 2005; Peretz et al., 2008), which could
+lead to underestimation of some adverse health outcomes
+observed with whole exhaust. We observed that only the 
+gas-phase components induced pulmonary vascular protein leakage
+whereas markers of pulmonary inflammation and lung 
+epithelial cell injury were noted with both gas-phase and high 
+concentration of DECe. This finding supports a previous study
+demonstrating increased BALF neutrophils and GGT activity
+levels following a 2-day and 4-week exposure to gas-phase and
+whole DE in Wistar-Kyoto rats (Gordon et al., 2012). Although an
+earlier study from our laboratory illustrated that bulk collected
+diesel particles without gas-phase components induced lung
+injury in rats (Kodavanti et al., 2011), this current data indicates
+414 | TOXICOLOGICAL SCIENCES, 2014, Vol. 142, No. 2
+that one cannot conclude that the lung injury resulting from
+such exhausts are attributed to just soot particles. Partitioning
+of the gas-phase volatile organic substances on soot particles
+during exhaust generation and bulk particle collection may 
+contribute to the toxicity of bulk collected DE particles, but 
+separating these attributes will be technically challenging.
+The addition of CeO2 nanoparticles to diesel fuel has been
+shown to alter the emission profile and increase the number of
+ultrafine particles emitted (Zhang et al., 2013). Our results 
+support this observation and, in addition, demonstrate that soot
+particles were of smaller diameter at the low concentration
+when the dilution factor was increased. Systemic translocation
+of smaller particles has been shown to be greater than larger 
+particles (Sadauskas et al., 2009), which could potentially result in
+increased systemic translocation of particles at our low 
+concentration. Examination of health consequences indicated that the
+lung injury caused by exposure to the low concentration was
+minimal relative to injury caused by the high concentration;
+however, we noted that aortic markers of vascular activity and
+inflammation were affected similarly by both. The estimated
+percent of Ce retained in the lung was greater following 
+exposure to the low concentration of DECe when the particle 
+diameter range was smaller, indicating that Ce is not as efficiently
+cleared when animals are exposed to an increased number of
+ultrafine particles. Adverse vascular responses of diesel and 
+gasoline exhausts have been noted to occur in 
+atherosclerosis-prone mice exposed to low concentrations similar to what is
+used in our present study (Campen et al., 2010). Our results
+extend these observations by demonstrating effects on vascular
+markers in a healthy animal model. At the low concentration of
+DECe, the gas-phase components are below the levels where 
+systemic impacts are expected (Hesterberg et al., 2009a; WHO, 2010).
+Thus, the vascular effects of low concentration exhaust 
+emissions may be attributed to the DECe ultrafine particles that have
+the propensity to translocate systemically. These results suggest
+that vascular outcomes at the low concentration of DECe 
+exposure are possible and warrant further examination, including
+chronic exposures in healthy and compromised rodent models.
+One of the ancillary objectives of this work was to examine
+tissue Ce burden and clearance in rats inhaling DECe, especially
+as Ce has been detected in the blood from residents of Europe
+where this additive is used as a diesel catalyst (Hollriegl et al.,
+2010). Extrapulmonary translocation and accumulation of Ce
+occurs in various organs following a subacute inhalation 
+exposure to CeO2 nanoparticles in rats (Geraets et al., 2012). Our data
+correspond with this observation and extend it to illustrate a
+concentration- and time-dependent accumulation of Ce in lung
+and liver tissue following exposure to DECe. He et al. (2010) have
+shown that CeO2 nanoparticles have an elimination half-life
+from the lung of 103 days after a single high concentration
+exposure via intratracheal instillation. Accordingly, our data
+indicate a delayed clearance of Ce from these tissues as 
+demonstrated by the small percent that was cleared from the organs in
+the rats given a 14-day recovery period. Furthermore, the low
+levels of Ce present in the liver following the 2-day exposure
+suggest a delay in biodistribution as the Ce is cleared from the
+lung. Intratracheal instillation of CeO2 nanoparticles has been
+shown to induce hydropic degeneration of hepatocytes, dilate
+the sinusoids, and elevate several serum markers of hepatic
+toxicity (Nalabotu et al., 2011), suggesting that Ce accumulation
+in the liver following DECe exposure might induce liver toxicity
+and will need to be considered in future studies. When 
+theoretical lung Ce burden was calculated by imputing real exposure
+values and ventilatory parameters into the MPPD model, which
+did not take into account clearance, and compared to actual
+lung Ce concentrations, it was apparent that Ce was cleared
+slowly from the lung over time. Thus, the health consequences
+of Ce retained in the lung along with soot particle clearance will
+need to be investigated further.
+Our study design has a few limitations. The mass 
+concentrations of DE and DECe used in this study are several fold higher
+than ambient exposure levels. However, tailpipe emissions and
+near roadway levels of DE can reach mass concentrations in the
+hundreds of lg/m3 PM (Buzzard et al., 2009). The low 
+concentration of DECe used in our study is likely to occur near roadways
+and is more realistic for human exposure. In addition, we found
+that the low concentration of DECe preserved a bimodal PSD
+and decreased the median diameter of the particles being 
+emitted. This allowed us to examine the systemic effects of
+increased ultrafine particle number. The high concentration of
+DECe, which can occur during an occupational exposure
+(Stayner et al., 1998), was used to increase the likelihood of 
+finding detectable changes in lung injury biomarkers. In a previous
+study using an iron fuel borne catalyst, Nash et al. (2013)
+describe that the metal catalyst particles undergo complex
+processes where they are incorporated into soot during its 
+formation, enhance soot oxidation within the flame, are liberated
+from the receding carbon matrix, and continue to interact via
+coagulation and agglomeration with each other and residual
+soot particles post flame. In the exhaust, these metal catalyst
+particles can be incorporated within, deposited externally upon,
+or remain independent of the diesel soot particles producing a
+bimodal PSD. Depending on dilution, this bimodal PSD 
+eventually evolves into a single accumulation mode, but high dilution
+rates, characteristic of highway environments, can preserve
+this bimodal PSD for tens of minutes. This is an important area
+to research further because the rates of deposition, absorption,
+translocation, and elimination might differ between CeO2 
+nanoparticles and diesel soot particles, which may affect the location
+and severity of lung and systemic injury.
+In conclusion, we report that inhalation exposures to DECe
+are likely to have greater adverse pulmonary effects than DE
+alone. We observed that the particle-free gas-phase 
+components of DECe, in addition to the whole exhaust, were capable
+of inducing pulmonary damage. DECe is also likely to impair
+deep lung alveolar integrity upon chronic exposure with little
+recovery upon termination of exposure. Finally, we have 
+demonstrated that significant quantities of Ce accumulate in the
+lung and translocate to the liver with delayed clearance, leading
+to increased systemic Ce burden and potential pathological
+effects. These novel findings add to the limited data available
+concerning exposure to DECe, and suggest that the pulmonary
+and systemic health consequences of Ce additive to diesel fuel
+should be further evaluated.
+FUNDING
+This work was supported by the U.S. Environmental Protection
+Agency/University of North Carolina Toxicology Training
+Agreement CR835152010 to S.J.S.; U.S. Environmental Protection
+Agency Senior Environmental Employment Program to R.F.T.;
+and the Division of the National Toxicology Program of the
+National Institutes of Health.
+ACKNOWLEDGMENTS
+The authors would like to thank Drs William Boyes and
+Kevin Dreher of the U.S. EPA for their critical review of this
+manuscript. The contributing authors declare no competing
+financial interests or other conflicts of interest.
+REFERENCES
+Brunekreef, B., and Holgate, S. T. (2002). Air pollution and health.
+Lancet 360, 1233-1242.
+Buzzard, N. A., Clark, N. N., and Guffey, S. E. (2009). Investigation
+into pedestrian exposure to near-vehicle exhaust emissions.
+Environ. Health 8, 13.
+Campen, M. J., Babu, N. S., Helms, G. A., Pett, S., Wernly, J.,
+Mehran, R., and McDonald, J. D. (2005). Nonparticulate 
+components of diesel exhaust promote constriction in coronary
+arteries from ApoE-/- mice. Toxicol. Sci. 88, 95-102.
+Campen, M. J., Lund, A. K., Doyle-Eisele, M. L., McDonald, J. D.,
+Knuckles, T. L., Rohr, A. C., Knipping, E. M., and Mauderly, J. L.
+(2010). A comparison of vascular effects from complex and
+individual air pollutants indicates a role for monoxide gases
+and volatile hydrocarbons. Environ. Health Perspect. 118,
+921-927.
+Cassee, F. R., Campbell, A., Boere, A. J., McLean, S. G., Duffin, R.,
+Krystek, P., Gosens, I., and Miller, M. R. (2012). The biological
+effects of subacute inhalation of diesel exhaust following 
+addition of cerium oxide nanoparticles in 
+atherosclerosis-prone mice. Environ. Res. 115, 1-10.
+Cassee, F. R., van Balen, E. C., Singh, C., Green, D., Muijser, H.,
+Weinstein, J., and Dreher, K. (2011). Exposure, health and 
+ecological effects review of engineered nanoscale cerium and
+cerium oxide associated with its use as a fuel additive. Crit.
+Rev. Toxicol. 41, 213-229.
+Chen, S., Hou, Y., Cheng, G., Zhang, C., Wang, S., and Zhang, J.
+(2013). Cerium oxide nanoparticles protect endothelial cells
+from apoptosis induced by oxidative stress. Biol. Trace Elem.
+Res. 154, 156-166.
+Cooke, J. P., and Dzau, V. J. (1997). Nitric oxide synthase: Role in
+the genesis of vascular disease. Annu. Rev. Med. 48, 489-509.
+Cosselman, K. E., Krishnan, R. M., Oron, A. P., Jansen, K., Peretz,
+A., Sullivan, J. H., Larson, T. V., and Kaufman, J. D. (2012).
+Blood pressure response to controlled diesel exhaust 
+exposure in human subjects. Hypertension 59, 943-948.
+Eom, H. J., and Choi, J. (2009). Oxidative stress of CeO2 
+nanoparticles via p38-Nrf-2 signaling pathway in human bronchial 
+epithelial cell, BEAS-2B. Toxicol. Lett. 187, 77-83.
+EPA. (1994). Method 200.8 Revision 5.4: Determination of Metals and
+Trace Elements in Water and Wastes by Inductively Coupled
+Plasma - Mass Spectrometry. Available at: http://water.Epa.
+Gov/scitech/methods/cwa/bioindicators/upload/2007_07_
+10_methods_method_200_8.Pdf. Accessed October 8, 2014.
+EPA. (1997). Compendium Method IO-3.3: Determination of Metals in
+Ambient Particulate Matter Using X-ray Fluorescence (XRF)
+Spectroscopy. Available at: http://www.epa.gov/ttnamti1/files/
+ambient/inorganic/iocompen.pdf. Accessed October 8, 2014.
+Fall, M., Guerbet, M., Park, B., Gouriou, F., Dionnet, F., and Morin,
+J. P. (2007). Evaluation of cerium oxide and cerium oxide
+based fuel additive safety on organotypic cultures of lung 
+slices. Nanotoxicology 1, 227-234.
+Geraets, L., Oomen, A. G., Schroeter, J. D., Coleman, V. A., and
+Cassee, F. R. (2012). Tissue distribution of inhaled micro- and
+nano-sized cerium oxide particles in rats: Results from a 
+28-day exposure study. Toxicol. Sci. 127, 463-473.
+Ghio, A. J., Sobus, J. R., Pleil, J. D., and Madden, M. C. (2012).
+Controlled human exposures to diesel exhaust. Swiss. Med.
+Wkly. 142, w13597.
+SNOW ET AL. | 415
+Gojova, A., Lee, J. T., Jung, H. S., Guo, B., Barakat, A. I., and
+Kennedy, I. M. (2009). Effect of cerium oxide nanoparticles on
+inflammation in vascular endothelial cells. Inhal. Toxicol.
+21(Suppl. 1), 123-130.
+Gordon, C. J., Jarema, K. A., Lehmann, J. R., Ledbetter, A. D.,
+Schladweiler, M. C., Schmid, J. E., Ward, W. O., Kodavanti, U.
+P., Nyska, A., and MacPhail, R. C. (2013). Susceptibility of adult
+and senescent brown norway rats to repeated ozone 
+exposure: An assessment of behavior, serum biochemistry and
+cardiopulmonary function. Inhal. Toxicol. 25, 141-159.
+Gordon, C. J., Schladweiler, M. C., Krantz, T., King, C., and
+Kodavanti, U. P. (2012). Cardiovascular and thermoregulatory
+responses of unrestrained rats exposed to filtered or 
+unfiltered diesel exhaust. Inhal. Toxicol. 24, 296-309.
+Gowdy, K. M., Krantz, Q. T., King, C., Boykin, E., Jaspers, I., Linak,
+W. P., and Gilmour, M. I. (2010). Role of oxidative stress on
+diesel-enhanced influenza infection in mice. Part. Fibre
+Toxicol. 7, 34.
+He, X., Zhang, H., Ma, Y., Bai, W., Zhang, Z., Lu, K., Ding, Y., Zhao,
+Y., and Chai, Z. (2010). Lung deposition and extrapulmonary
+translocation of nano-ceria after intratracheal instillation.
+Nanotechnology 21, 285103.
+Health Effects Institute (HEI). (2001). Evaluation of human
+health risk from cerium added to diesel fuel. Health
+Effects Institute Communication, p. 9. Available at: http://pubs.
+healtheffects.org/view.php?id=172. Accessed October 8,
+2014.
+Hesterberg, T. W., Bunn, W. B., McClellan, R. O., Hamade, A. K.,
+Long, C. M., and Valberg, P. A. (2009a). Critical review of the
+human data on short-term nitrogen dioxide (NO2) 
+exposures: Evidence for NO2 no-effect levels. Crit. Rev. Toxicol. 39,
+743-781.
+Hesterberg, T. W., Long, C. M., Bunn, W. B., Sax, S. N., Lapin, C. A.,
+and Valberg, P. A. (2009b). Non-cancer health effects of diesel
+exhaust: A critical assessment of recent human and animal
+toxicological literature. Crit. Rev. Toxicol. 39, 195-227.
+Hirst, S. M., Karakoti, A., Singh, S., Self, W., Tyler, R., Seal, S., and
+Reilly, C. M. (2013). Bio-distribution and in vivo antioxidant
+effects of cerium oxide nanoparticles in mice. Environ.
+Toxicol. 28, 107-118.
+Hirst, S. M., Karakoti, A. S., Tyler, R. D., Sriranganathan, N., Seal,
+S., and Reilly, C. M. (2009). Anti-inflammatory properties of
+cerium oxide nanoparticles. Small 5, 2848-2856.
+Hollriegl, V., Gonzalez-Estecha, M., Trasobares, E. M., Giussani,
+A., Oeh, U., Herraiz, M. A., and Michalke, B. (2010).
+Measurement of cerium in human breast milk and blood
+samples. J. Trace Elem. Med. Biol. 24, 193-199.
+Hussain, S., Al-Nsour, F., Rice, A. B., Marshburn, J., Yingling, B., Ji,
+Z., Zink, J. I., Walker, N. J., and Garantziotis, S. (2012). Cerium
+dioxide nanoparticles induce apoptosis and autophagy in
+human peripheral blood monocytes. ACS Nano. 6, 5820-5829.
+Johnson, A. C., and Park, B. (2012). Predicting contamination by
+the fuel additive cerium oxide engineered nanoparticles
+within the united kingdom and the associated risks. Environ.
+Toxicol. Chem. 31, 2582-2587.
+Jung, H., Kittelson, D. B., and Zachariah, M. R. (2005). The 
+influence of a cerium additive on ultrafine diesel particle 
+emissions and kinetics of oxidation. Combust. Flame 142, 276-288.
+Kodavanti, U. P., Schladweiler, M. C., Ledbetter, A. D., Hauser, R.,
+Christiani, D. C., McGee, J., Richards, J. R., and Costa, D. L.
+(2002). Temporal association between pulmonary and 
+systemic effects of particulate matter in healthy and 
+cardiovascular compromised rats. J. Toxicol. Environ. Health A 65,
+1545-1569.
+416 | TOXICOLOGICAL SCIENCES, 2014, Vol. 142, No. 2
+Kodavanti, U. P., Schladweiler, M. C., Ledbetter, A. D., Ortuno, R.
+V., Suffia, M., Evansky, P., Richards, J. H., Jaskot, R. H.,
+Thomas, R., Karoly, E., et al. (2006). The spontaneously 
+hypertensive rat: An experimental model of sulfur 
+dioxide-induced airways disease. Toxicol. Sci. 94, 193-205.
+Kodavanti, U. P., Thomas, R., Ledbetter, A. D., Schladweiler, M.
+C., Shannahan, J. H., Wallenborn, J. G., Lund, A. K., Campen,
+M. J., Butler, E. O., Gottipolu, R. R., et al. (2011). Vascular and
+cardiac impairments in rats inhaling ozone and diesel 
+exhaust particles. Environ. Health Perspect. 119, 312-318.
+Kodavanti, U. P., Thomas, R. F., Ledbetter, A. D., Schladweiler, M.
+C., Bass, V., Krantz, Q. T., King, C., Nyska, A., Richards, J. E.,
+Andrews, D., et al. (2013). Diesel exhaust induced pulmonary
+and cardiovascular impairment: The role of hypertension 
+intervention. Toxicol. Appl. Pharmacol. 268, 232-240.
+Leffler, C. W., Parfenova, H., and Jaggar, J. H. (2011). Carbon 
+monoxide as an endogenous vascular modulator. Am. J. Physiol.
+Heart Circ. Physiol. 301, H1-H11.
+Li, Z., Carter, J. D., Dailey, L. A., and Huang, Y. C. (2005). Pollutant
+particles produce vasoconstriction and enhance MAPK 
+signaling via angiotensin type I receptor. Environ. Health
+Perspect. 113, 1009-1014.
+Lin, W., Huang, Y. W., Zhou, X. D., and Ma, Y. (2006). Toxicity of
+cerium oxide nanoparticles in human lung cancer cells. Int. J.
+Toxicol. 25, 451-457.
+Ma, J. Y., Young, S. H., Mercer, R. R., Barger, M., Schwegler-Berry,
+D., Ma, J. K., and Castranova, V. (2014). Interactive effects
+of cerium oxide and diesel exhaust nanoparticles on 
+inducing pulmonary fibrosis. Toxicol. Appl. Pharmacol. 278, 135-147.
+Ma, J. Y., Zhao, H., Mercer, R. R., Barger, M., Rao, M., Meighan, T.,
+Schwegler-Berry, D., Castranova, V., and Ma, J. K. (2011).
+Cerium oxide nanoparticle-induced pulmonary 
+inflammation and alveolar macrophage functional change in rats.
+Nanotoxicology 5, 312-325.
+McDonald, J. D., Campen, M. J., Harrod, K. S., Seagrave, J., Seilkop,
+S. K., and Mauderly, J. L. (2011). Engine-operating load 
+influences diesel exhaust composition and cardiopulmonary and
+immune responses. Environ. Health Perspect. 119, 1136-1141.
+Miller, A., Ahlstrand, G., Kittelson, D. B., and Zachariah, M. R.
+(2007). The fate of metal (Fe) during diesel combustion:
+Morphology, chemistry, and formation pathways of 
+nanoparticles. Combust. Flame 149, 129-143.
+Mills, N. L., Tornqvist, H., Gonzalez, M. C., Vink, E., Robinson, S.
+D., Soderberg, S., Boon, N. A., Donaldson, K., Sandstrom, T.,
+Blomberg, A., et al. (2007). Ischemic and thrombotic effects of
+dilute diesel-exhaust inhalation in men with coronary heart
+disease. N. Engl. J. Med. 357, 1075-1082.
+Nalabotu, S. K., Kolli, M. B., Triest, W. E., Ma, J. Y., Manne, N. D.,
+Katta, A., Addagarla, H. S., Rice, K. M., and Blough, E. R. (2011).
+Intratracheal instillation of cerium oxide nanoparticles 
+induces hepatic toxicity in male Sprague-Dawley rats. Int. J.
+Nanomedicine 6, 2327-2335.
+Nash, D. G., Swanson, N. B., Preston, W. T., Yelverton, T. L. B.,
+Roberts, W. L., Wendt, J. O. L., and Linak, W. P. (2013).
+Environmental implications of iron fuel borne catalysts and
+their effects on diesel particulate formation and 
+composition. J. Aerosol. Sci. 58, 50-61.
+Neeft, J. P. A., Makkee, M., and Moulijn, J. A. (1996). Diesel 
+particulate emission control. Fuel Process. Technol. 47, 1-69.
+O’Brien, N., and Cummins, E. (2010). Nano-scale pollutants: Fate
+in Irish surface and drinking water regulatory systems. Hum.
+Ecol. Risk Assess. 16, 847-872.
+Park, B., Donaldson, K., Duffin, R., Tran, L., Kelly, F., Mudway, I.,
+Morin, J. P., Guest, R., Jenkinson, P., Samaras, Z., et al. (2008a).
+Hazard and risk assessment of a nanoparticulate cerium 
+ox-ide-based diesel fuel additive-A case study. Inhal. Toxicol. 20,
+547-566.
+Park, B., Martin, P., Harris, C., Guest, R., Whittingham, A.,
+Jenkinson, P., and Handley, J. (2007). Initial in vitro screening
+approach to investigate the potential health and 
+environmental hazards of EnviroxTM-A nanoparticulate cerium 
+oxide diesel fuel additive. Part Fibre Toxicol. 4, 4-12.
+Park, E. J., Choi, J., Park, Y. K., and Park, K. (2008b). Oxidative
+stress induced by cerium oxide nanoparticles in cultured
+BEAS-2B cells. Toxicology 245, 90-100.
+Peretz, A., Sullivan, J. H., Leotta, D. F., Trenga, C. A., Sands, F. N.,
+Allen, J., Carlsten, C., Wilkinson, C. W., Gill, E. A., and
+Kaufman, J. D. (2008). Diesel exhaust inhalation elicits acute
+vasoconstriction in vivo. Environ. Health Perspect. 116,
+937-942.
+Piao, Y., Liu, Y., and Xie, X. (2013). Change trends of organ weight
+background data in Sprague Dawley rats at different ages.
+J. Toxicol. Pathol. 26, 29-34.
+Ristovski, Z. D., Miljevic, B., Surawski, N. C., Morawska, L., Fong,
+K. M., Goh, F., and Yang, I. A. (2012). Respiratory health effects
+of diesel particulate matter. Respirology 17, 201-212.
+Sadauskas, E., Jacobsen, N. R., Danscher, G., Stoltenberg, M.,
+Vogel, U., Larsen, A., Kreyling, W., and Wallin, H. (2009).
+Biodistribution of gold nanoparticles in mouse lung 
+following intratracheal instillation. Chem. Cent. J. 3, 16.
+Salvi, S., Blomberg, A., Rudell, B., Kelly, F., Sandstrom, T.,
+Holgate, S. T., and Frew, A. (1999). Acute inflammatory 
+responses in the airways and peripheral blood after short-term
+exposure to diesel exhaust in healthy human volunteers.
+Am. J. Respir. Crit. Care Med. 159, 702-709.
+Shannahan, J. H., Kodavanti, U. P., and Brown, J. M. (2012).
+Manufactured and airborne nanoparticle cardiopulmonary
+interactions: A review of mechanisms and the possible 
+contribution of mast cells. Inhal. Toxicol. 24, 320-339.
+Sharkhuu, T., Doerfler, D. L., Krantz, Q. T., Luebke, R. W., Linak,
+W. P., and Gilmour, M. I. (2010). Effects of prenatal diesel 
+exhaust inhalation on pulmonary inflammation and 
+development of specific immune responses. Toxicol. Lett. 196, 12-20.
+Skillas, G., Qian, Z., Baltensperger, U., Matter, U., and Burtscher,
+H. (2000). The influence of additives on the size distribution
+and composition of particles produced by diesel engines.
+Combust. Sci. Technol. 154, 259-273.
+Srinivas, A., Rao, P. J., Selvam, G., Murthy, P. B., and Reddy, P. N.
+(2011). Acute inhalation toxicity of cerium oxide 
+nanoparticles in rats. Toxicol. Lett. 205, 105-115.
+Stanek, L. W., Brown, J. S., Stanek, J., Gift, J., and Costa, D. L.
+(2011). Air pollution toxicology-A brief review of the role of
+the science in shaping the current understanding of air 
+pollution health risks. Toxicol. Sci. 120(Suppl. 1), S8-S27.
+Stayner, L., Dankovic, D., Smith, R., and Steenland, K. (1998).
+Predicted lung cancer risk among miners exposed to diesel
+exhaust particles. Am. J. Ind. Med. 34, 207-219.
+Wakefield, G., Wu, X., Gardener, M., Park, B., and Anderson, S.
+(2008). EnviroxTM fuel-borne catalyst: Developing and
+launching a nano-fuel additive. Technol. Anal. Strat. 20,
+127-136.
+Wauters, A., Dreyfuss, C., Pochet, S., Hendrick, P., Berkenboom,
+G., van de Borne, P., and Argacha, J. F. (2013). Acute exposure
+to diesel exhaust impairs nitric oxide-mediated endothelial
+vasomotor function by increasing endothelial oxidative
+stress. Hypertension 62, 352-358.
+WHO. (2010). World Health Organization Guidelines for Indoor Air
+Quality: Selected Pollutants. Available at: http://www.euro.
+who.int/__data/assets/pdf_file/0009/128169/e94535.pdf.
+Accessed October 8, 2014.
+Wichers, L. B., Rowan, W. H., 3rd, Nolan, J. P., Ledbetter, A. D.,
+McGee, J. K., Costa, D. L., and Watkinson, W. P. (2006). Particle
+deposition in spontaneously hypertensive rats exposed via
+whole-body inhalation: Measured and estimated dose.
+Toxicol. Sci. 93, 400-410.
+Yokel, R. A., Florence, R. L., Unrine, J. M., Tseng, M. T.,
+Graham, U. M., Wu, P., Grulke, E. A., Sultana, R., Hardas,
+S. S., and Butterfield, D. A. (2009). Biodistribution and 
+oxidative stress effects of a systemically-introduced
+SNOW ET AL. | 417
+commercial ceria engineered nanomaterial. Nanotoxicology
+3, 234-248.
+Yoon, J., Kim, M., Song, S., and Chun, K. M. (2011).
+Calculation of mass-weighted distribution of diesel 
+particulate matters using primary particle density. J. Aerosol.
+Sci. 42, 419-427.
+Zhang, J., Nazarenko, Y., Zhang, L., Calderon, L., Lee, K. B.,
+Garfunkel, E., Schwander, S., Tetley, T. D., Chung, K. F.,
+Porter, A. E., et al. (2013). Impacts of a nanosized ceria 
+additive on diesel engine emissions of particulate and gaseous
+pollutants. Environ. Sci. Technol. 47, 13077-13085.
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+
+TABLE 1. Chamber Operating Conditions during 2-Day and 4-Week Exposure of Rats to Filtered Air, DE, and DECe 
+Chamber parameter 
+Filtered air 
+DE (high concentration) 
+DECe (high concentration) 
+2-Day exposure comparing DE and DECe 
+PM mass, TEOM (lg/m3) 
+0.56 1.4 
+1015.36 103.2 
+798.16 12.2 
+O2 (%) 
+20.86 0.3 
+20.76 0.2 
+20.86 0.3 
+CO (ppm) 
+1.76 0.3 
+11.86 1.4 
+9.36 0.6 
+NO (ppm) 
+0.36 0.2 
+5.16 0.5 
+3.56 0.1 
+NO2 (ppm) 
+0.36 0.1 
+0.56 0.2 
+0.46 0.1 
+Temperature (F) 
+68.96 0.7 
+76.86 0.2 
+71.36 0.4 
+RH (%) 
+54.86 0.1 
+37.16 0.3 
+32.26 0.3 
+Chamber parameter 
+Filtered air 
+DECe (gas-phase) 
+DECe (low concentration) 
+DECe (high concentration.) 
+2-Day DECe exposure 
+PM mass, TEOM (lg/m3) 
+1.46 0.2 
+27.46 8.4 
+66.46 9.4 
+1003.56 31.6 
+O2 (%) 
+21.06 0.1 
+20.16 0.4 
+21.06 0.1 
+20.06 0.4 
+CO (ppm) 
+0.26 0.1 
+40.56 15.8 
+3.46 0.6 
+39.36 18.5 
+NO (ppm) 
+0.26 0.1 
+37.06 4.8 
+3.36 0.9 
+36.56 8.9 
+NO2 (ppm) 
+0.46 0.3 
+5.56 1.2 
+1.06 0.3 
+4.16 1.4 
+Temperature (F) 
+74.76 0.6 
+73.06 0.5 
+74.06 0.4 
+72.46 0.3 
+RH (%) 
+41.86 5.3 
+49.36 2.9 
+48.96 3.6 
+36.46 0.7 
+Chamber parameter 
+Filtered air 
+DECe (gas-phase) 
+DECe (low concentration) 
+DECe (high concentration) 
+4-Week DECe exposure 
+PM mass, TEOM (lg/m3) 
+1.46 0.1 
+30.16 7.1 
+68.46 6.1 
+988.66 54.4 
+O2 (%) 
+21.06 0.2 
+20.16 0.4 
+21.16 0.3 
+20.06 0.4 
+CO (ppm) 
+0.36 0.2 
+44.36 10.7 
+3.26 0.6 
+42.66 15.0 
+NO (ppm) 
+0.46 0.3 
+37.56 4.3 
+2.86 0.8 
+35.36 9.8 
+NO2 (ppm) 
+0.66 0.5 
+5.66 1.1 
+0.76 0.3 
+4.06 1.5 
+Temperature (F) 
+73.66 1.0 
+72.66 0.5 
+73.96 0.6 
+72.16 0.9 
+RH (%) 
+44.06 5.1 
+49.56 3.1 
+51.56 4.3 
+36.06 0.9 
+Each value in the table represents the average6SD of the mean daily values for each exposure day. 
+
+TABLE 2. Estimated Pulmonary Deposition of PM and Ce 
+DECe 
+Length of PM mass 
+MMAD 
+df 
+Estimated DPM 
+PCe (%) 
+Estimated DCe 
+Measured lung 
+Estimated 
+exposure (mg/m3) 
+(mg/g lung 
+(ng/g lung 
+Ce levels 
+lung retention 
+tissue)a 
+tissue)a 
+(ng/g lung tissue) 
+of Ce (%) 
+Low concentration 2 Days 
+66.4 
+31 
+0.290 
+3.0 
+0.36 
+10.8 
+13.2 
+122.2 
+4 Weeks 
+68.4 
+31 
+0.290 
+30.9 
+0.39 
+120.7 
+48.5 
+40.2 
+High concentration 2 Days 
+1003.5 
+79 
+0.189 
+29.6 
+0.89 
+263.3 
+148.0 
+56.2 
+4 Weeks 
+988.6 
+79 
+0.189 
+291.4 
+0.85 
+2477.6 
+541.3 
+21.8 
+
+TABLE 3. Changes in Aortic RNA for Markers of Vasoconstriction, Thrombosis, Inflammation, and Atherogenesis 
+in Rats Exposed to DECe for 4 weeks 
+Marker 
+Filtered air 
+DECe (gas-phase) 
+DECe (low concentration) 
+DECe (high concentration) 
+eNOS 
+1.056 0.15 
+1.9860.25 
+2.1860.39* 
+2.2460.31* 
+ET-1 
+1.126 0.23 
+1.3360.16 
+1.5760.14 
+1.4760.15 
+ETRB 
+1.196 0.33 
+1.7360.36 
+1.8860.23 
+1.5860.37 
+tPA 
+1.056 0.13 
+1.5860.20 
+1.4160.15 
+1.2360.09 
+PAI-1 
+1.186 0.35 
+0.9260.20 
+2.8860.78 
+1.0860.32 
+TF 
+1.046 0.11 
+1.7260.17** 
+1.5260.10 
+1.6460.17* 
+TNF-a 
+1.176 0.29 
+2.1560.09* 
+2.4360.18** 
+1.8460.25 
+ATR1 
+1.106 0.22 
+1.7560.34 
+1.8760.47 
+1.8460.33 
+Caveolin-1 
+1.046 0.12 
+1.1360.07 
+1.0160.06 
+1.2560.10 
+
+FIG. 1. Scanning mobility particle sizer spectrometer particle size distributions measured in the diesel engine exhaust and exposure chambers. A, Particle volume dis- 
+tributions calculated from measured particle number distributions and corrected for dilution to engine exhaust concentrations comparing emissions without (diesel 
+exhaust [DE]: 0 ppm) and with (cerium oxide nanoparticles added to diesel fuel [DECe]: 10 ppm) Ce additive. B, Particle number distributions measured from the low 
+concentration and high concentration exposure chambers. Average values with standard deviations are presented. 
+
+SNOW ET AL. | 409 
+FIG. 2. Concentration- and time-dependent accumulation of Ce in the lungs and livers of rats inhaling DE with Ce additive. Ce levels following exposure to filtered air 
+or DECe (gas-phase, low concentration, or high concentration) for 2 days, 4 weeks, or 4 weeks with a 14-day recovery period were analyzed in the A, B, lung and C, D, 
+liver by inductively coupled plasma-mass spectrometry. B and D, Ce levels following exposure to the high concentration of DECe were compared at the different time 
+points. Data show mean6SE of n¼8 rats per group. *p< .05; **p< .01; ***p< .001 significantly different from other groups. 
+
+FIG. 3. Comparative effect of DE and DECe exposures on lung injury markers and inflammation. Rats were exposed to filtered air, DE, or DECe for two consecutive days. 
+Bronchoalveolar lavage fluid (BALF) samples were collected 1 day after final exposure and analyzed for A, N-acetyl glucosaminidase (NAG) activity, B, total protein, C, 
+lactate dehydrogenase (LDH) activity, D, c-glutamyl transferase (GGT) activity, E, alveolar macrophages, and F, neutrophils. Data show mean6SE of n¼6 rats/group. 
+*p< .05 significantly different from other groups. 
+
+SNOW ET AL. | 411 
+FIG. 4. Acute and long-term effect of DECe exposures on lung injury markers and inflammation. Rats were exposed to filtered air or DECe (gas-phase, low concentra- 
+tion, or high concentration) for 2 days, 4 weeks, or 4 weeks with a 14-day recovery period. Bronchoalveolar lavage fluid (BALF) samples were collected 1 day after final 
+exposure or recovery period and analyzed for A, total protein, B, albumin, C, GGT activity, D, neutrophils, and E, alveolar macrophages. Data show mean6SE of n¼8 
+rats/group. *p< .05; **p< .01; ***p< .001 significantly different from other groups. 
+
+FIG. 5. Histopathological effects in the lung following exposure to DECe. A, Control animal exposed to filtered air for 4 weeks: Normal alveolar air spaces and septa. Air 
+spaces contain scattered pulmonary interstitial macrophages (arrow). B, Rat exposed to DECe (high concentration) for 4 weeks: Alveolar air spaces contain increased 
+numbers of macrophages with minimal to mild pigmentation. C, Rat exposed to DECe (high concentration) for 4 weeks: Higher magnification view of pulmonary alveo- 
+lar macrophages containing dark yellow to black intracytoplasmic pigments. D, Rat exposed to DECe (high concentration) for 4 weeks with a 14-day recovery: Increased 
+numbers of pulmonary alveolar macrophages containing intracytoplasmic pigment. Images were taken at an objective magnification of 40 (A, B) or 60 (C, D). 
+
+FIG. 6. Pulmonary changes on transmission electron microscopy following exposure to DECe. A, Control rat exposed to filtered air for 4 weeks: A normal pulmonary 
+interstitial macrophage with several intracytoplasmic primary and secondary lysosomal vacuoles of varying electron density present. B, Control animal exposed to fil- 
+tered air for 4 weeks: A normal alveolar septal capillary. Two elliptical erythrocytes are present within the capillary lumen (arrows). C, Rat exposed to DECe (high con- 
+centration) for 4 weeks: A pulmonary alveolar macrophage containing possible intracytoplasmic foreign material. The cytoplasm is filled with multiple smooth 
+electron dense bodies ranging in size from 10 to 600 nm within membrane bound organelles (arrows). Multiple clear spaces appear within the foreign material (*). 
+Increased clear space within the cytoplasm indicates intracellular edema. D, Rat exposed to DECe (high concentration) for 4 weeks: An enlarged alveolar septal capil- 
+lary. Three erythrocytes (*) and two neutrophils (þ) are present within the capillary lumen. Adjacent septal and capillary membranes are separated by increased clear 
+space, indicating edema. Images were taken at a magnification of 15 400 (A, B, D) or 22 200 (C). 
+

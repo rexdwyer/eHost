@@ -1,0 +1,633 @@
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96
+DOI 10.1186/s13018-016-0433-7
+RESEARCH ARTICLE
+Combination of platelet-rich plasma and
+bone marrow mesenchymal stem cells
+enhances tendon-bone healing in a rabbit
+model of anterior cruciate ligament
+reconstruction
+Chong Teng1, Chenhe Zhou2, Danfeng Xu2 and Fanggang Bi3*
+Abstract
+Background: The objective of this study was to investigate the potency of platelet-rich plasma (PRP) combined
+with bone marrow mesenchymal stem cells (BMSCs) to promote tendon-bone healing in a rabbit model.
+Methods: In the in vitro study, the effects of PRP on osteogenic induction of BMSCs were analysed. Later, PRP
+with or without BMSCs was used in the rabbit model of anterior cruciate ligament reconstruction. Specimens
+were harvested 8 weeks postoperatively to evaluate tendon-bone healing by histology, radiology, and biomechanical
+testing.
+Results: The in vitro study revealed that collagen I, osteocalcin, and osteopontin expression was higher in BMSCs
+co-cultured with PRP for 14 days. The in vivo study revealed a more mature tendon-bone interface using light
+microscopy, a more newly formed bone at the bone tunnel walls detected by micro-computed tomography, and
+a significantly higher failure load as assessed by biomechanical testing in the BMSC + PRP group than in the
+control and PRP groups.
+Conclusions: These results indicate that the combination of PRP and BMSCs promotes tendon-bone healing and
+has potential for clinical use.
+Keywords: Platelet-rich plasma, Bone marrow mesenchymal stem cells, Anterior cruciate ligament, Reconstruction,
+Tendon-bone healing
+Abbreviations: ACL, Anterior cruciate ligament; BMSCs, Bone marrow mesenchymal stem cells; PRP, Platelet-rich
+plasma; B-PT-B, Bone-patellar tendon-bone; PDGF, Platelet-derived growth factor; PDEGF, Platelet-derived epidermal
+growth factor; TGF, Transforming growth factor; VEGF, Vascular endothelial growth factor; DMEM, Dulbecco’s
+modified Eagle medium; EDTA, Ethylenediaminetetraacetic acid; H&E, Haematoxylin and eosin; Micro-CT,
+Micro-computed tomography; RT-PCR, Real-time quantitative reverse transcription-polymerase chain reaction;
+GFP, Green fluorescence protein
+Open Access
+* Correspondence: 163bfg@163.com
+3Department of Orthopaedic Surgery, The First Affiliated Hospital of
+Zhengzhou University, Zhengzhou 450001, China
+Full list of author information is available at the end of the article
+© 2016 The Author(s). Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 2 of 9
+Background
+Anterior cruciate ligament (ACL) injuries are common,
+frequently lead to knee disability, and have low intrinsic
+regenerative ability [1]. ACL reconstruction is the gold
+standard because of its positive outcomes. Hamstring 
+tendon grafts have been widely used due to the lower 
+donor-site morbidity compared to bone-patellar tendon-bone
+(B-PT-B) grafts [2]. However, tendon-bone healing
+between a hamstring tendon graft and the created bone
+tunnels is associated with significantly slower bone healing
+compared with the B-PT-B graft [3]. Therefore, means for
+improving tendon-bone healing after reconstruction have
+become a major research focus in sports medicine [4].
+Platelet-rich plasma (PRP), an autologous enriched
+source of various growth factors, such as platelet-derived
+growth factor (PDGF), platelet-derived epidermal growth
+factor (PDEGF), platelet-derived angiogenesis factor,
+transforming growth factor (TGF), insulin-like growth
+factor, and vascular endothelial growth factor (VEGF),
+has been widely used during trauma and orthopaedic
+surgery [5, 6]. PRP can clinically accelerate the healing
+of hard and soft tissues after maxillofacial, plastic, 
+der-matologic, dental, and orthopaedic surgeries [7]. 
+However, existing preclinical and clinical evidence regarding
+PRP use in ACL surgery failed to demonstrate a clear
+benefit [8]. Bone marrow mesenchymal stem cells
+(BMSCs) have attracted much interest and have 
+become ideal seed cells for tissue engineering because of
+their multipotentiality and self-renewal potential, as
+well as their possible suitability for clinical use [9].
+BMSCs have outstanding potential to promote tendon
+regeneration [10], and their osteogenic differentiation
+potential in vitro and bone formation capability on 
+biodegradable scaffolds in vivo have been characterised in
+several studies [11, 12]. Many studies have shown that
+host cells containing BMSCs from surrounding bone
+tunnel bone marrow contribute to tendon-bone 
+healing [13, 14]. However, BMSCs in bone marrow are rare,
+with only one BMSC detected in 1 × 105 bone marrow
+mononuclear cells. PRP, as a storage vehicle for growth
+factors such as PDGF, TGF-β, PDEGF, VEGF, and 
+platelet factor-4, enhances osteogenic differentiation of
+BMSCs [15]. Many studies have shown that factors that
+positively affect bone formation and fracture healing
+also positively affect tendon-bone healing [16].
+In the present study, we seeded PRP and BMSCs at
+the tendon-bone interface using fibrin glue to explore
+whether tendon-bone healing is promoted by providing
+BMSCs and an osteoinductive factor.
+Methods
+Preparation of PRP
+Autologous PRP was prepared as described previously
+[17]. Briefly, 10 mL of whole blood was drawn from the
+marginal auricular vein using an 18-gauge catheter. The
+blood was injected into a sterile centrifuge tube 
+containing 1.5 mL of sodium citrate. The mixture was 
+centrifuged at 1200×g for 10 min to separate the plasma from
+the red blood cells. The plasma was centrifuged again at
+2500×g at 4 °C for 20 min, and the precipitated platelets
+(1 mL) were collected.
+Isolation and culture of BMSCs
+BMSCs were generated from bone marrow aspirates of
+New Zealand White rabbits (age, 12 weeks; weight,
+2.5 ± 0.2 kg), as described previously [18]. 
+Mono-nuclear cells were collected after centrifugation in
+Ficoll-Hypaque gradient (Sigma Co., St. Louis, MO,
+USA) and resuspended in Dulbecco’s modified Eagle
+medium (DMEM) containing 10 % fetal bovine serum
+(FBS; Gibco, Grand Island, NY, USA). After a 72-h
+incubation at 37 °C in 5 % CO2, the non-adherent cells
+were removed by changing the culture medium.
+Adherent cells were subcultured when they reached
+70-80 % confluence. A homogenous BMSC population
+was obtained after 2 weeks of culture, and the third
+passage was harvested for further use. The passage 3
+cells were identified by detecting surface antigen
+marker expression profiles using flow cytometry. The
+osteogenic, chondrogenic, and adipogenic 
+differentiation abilities of the cells were determined using 
+inducing media for 3 weeks. Alizarin red, oil red O, and
+alcian blue staining were performed.
+Induction of osteogenic gene expression by PRP
+Third passage BMSCs were harvested by trypsinisation
+and centrifugation. After culturing for 24 h, the original
+culture medium was removed. The BMSCs were
+washed three times with PBS and incubated in DMEM
+with 10 % PRP. In the control group, BMSCs were 
+incubated in DMEM with 10 % FBS. Total RNA was
+extracted from cells cultured for 3, 7, and 14 days using
+TRIzol reagent (Invitrogen, Carlsbad, CA, USA). RNA
+concentration was determined with the NanoDrop
+spectrophotometer (NanoDrop Technologies, 
+Wil-mington, DE, USA), and 200 ng of RNA was used to
+synthesise complementary DNA (cDNA) using the
+iScript cDNA synthesis kit (Bio-Rad Laboratories,
+Hercules, CA, USA). The Stratagene M×3000P system
+(Stratagene, La Jolla, CA, USA) was used to perform
+and monitor the reactions. The QuantiTect SYBR
+Green PCR kit (Qiagen, Valencia, CA, USA) was used
+to quantify transcription levels of osteogenic genes, 
+including collagen I, osteocalcin, and osteopontin. The
+glyceraldehyde-3-phosphate dehydrogenase gene was
+amplified in parallel with the target genes. The primer
+sequences are listed in Table 1.
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 3 of 9
+ACL reconstruction model in rabbits
+Animal experiments were approved by the Zhejiang
+University Ethics Committee. A total of 30 New Zealand
+White rabbits (age, 12 weeks, and weight, 2.5 ± 0.2 kg)
+were used in this study. All rabbits underwent ACL
+reconstruction in the left hind leg after intravenous 
+anaesthesia with 30 mg/kg body weight pentobarbital
+sodium solution (Dawen Biotech, Seoul, Korea). After
+shaving and disinfecting the left hind leg, a lateral 
+para-patellar incision was made to expose the knee joint.
+After the native ACL was excised, the tibial and femoral
+bone tunnels were created with a 2.5-mm-diameter drill
+(Fig. 1b). The ipsilateral semitendinosus tendon was 
+harvested to reconstruct the ACL (Fig. 1a). The rabbits were
+divided randomly into three groups. In the first group, a
+normal hamstring tendon was used for ACL 
+reconstruction (control group). Rabbits from the second group
+(PRP group) received hamstring tendons wrapped with
+0.1 mL PRP immobilised in 0.1 mL fibrin glue (TISSEEL
+kit; Baxter AG, Vienna, Austria) for ACL reconstruction.
+In the third group (BMSC + PRP group), 1 × 107 BMSCs
+were immobilised in 0.2 mL PRP and 0.1 mL fibrin glue
+and used for ACL reconstruction. The PRP 
+concentration and number of BMSCs were determined by flow
+cytometry. Grafts for the PRP and BMSC + PRP groups
+were wrapped with glue immediately before insertion
+into the bone tunnels. Both ends of the graft were fixed
+by sutures tied over screws in the femur and tibia
+(Fig. 1c). Animals were allowed to move freely 
+postoperatively. All rabbits were sacrificed with a lethal injection
+of pentobarbital 8 weeks postoperatively for assessment;
+half of the specimens in each group (n = 5/group) were
+used for the histological assessment and the other half
+(n = 5/group) were used for radiological and 
+biomechanical assessments.
+Histology
+The specimens were fixed in 4 % paraformaldehyde for
+72 h after harvest. All samples were decalcified in 10 %
+EDTA with PBS at room temperature for 4 weeks. The
+samples were dehydrated through a graded ethanol
+series, embedded in paraffin wax, and sectioned at
+3 μm parallel to the longitudinal axis of the bone 
+tunnel. Haematoxylin and eosin (H&E) and Russell-Movat
+pentachrome staining were performed to evaluate 
+tendon-bone healing for conventional light microscopy.
+Radiology and biomechanical testing
+The specimens for radiology and biomechanical testing
+were frozen at −80 °C immediately after harvest. After
+thawing overnight at 4 °C, the specimens from each
+group were scanned using a micro-computed 
+tomog-raphy (CT) imaging system with a 36-μm isotropic voxel
+resolution under a 60-kV scanning voltage (Skyscan1176;
+BRUKER, Antwerp, Belgium).
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 4 of 9
+Biomechanical testing was performed immediately
+after the scan. All soft tissue except the graft was 
+removed to create a femoral-ACL graft-tibial complex.
+The femur and tibia were fixed at 45° flexion in an
+Instron 553A material testing system (Instron,
+Norwood, MA, USA; Fig. 2a). The test was performed
+by increasing the tensile load continuously at a speed
+of 20 mm/min. The failure load (N) was recorded by
+the load-deformation curve, and stiffness (N/mm) was
+calculated from the slope of the linear part of the
+load-deformation curve (Fig. 2b).
+Statistical analysis
+All values are expressed as means ± standard deviation,
+and the statistical analysis was performed using SPSS
+software (ver. 16.0; SPSS Inc., Chicago, IL, USA). 
+Differences between groups were detected using one-way
+analysis of variance followed by Scheffe’s multiple 
+comparison test. A p value <0.05 was considered significant.
+Results
+Identification of BMSCs
+A total of 69.2 and 99.7 % of the passage 3 cultured cells
+expressed CD44 and CD90, respectively, whereas only
+4.82 % expressed CD45 and were identified as BMSCs
+(Fig. 3). Following 3 weeks of culture in osteogenesis
+induction medium followed by alizarin red staining, 
+obvious mineralised nodules were observed under the
+microscope (Fig. 4a). Oil red O staining revealed many
+lipid droplets (Fig. 4b), and the BMSC cytoplasm was
+stained green by alcian blue after 3 weeks of 
+chondro-genic induction (Fig. 4c).
+Transcription levels of osteogenic genes
+The transcription of osteogenic genes, including collagen
+I, osteocalcin, and osteopontin, was evaluated by 
+real-time quantitative reverse transcription-polymerase chain
+reaction (RT-PCR) analysis. Collagen I, osteocalcin, and
+osteopontin messenger RNA (mRNA) levels in BMSCs
+increased gradually after co-culture with PRP. The levels
+of the three osteogenic genes were significantly higher
+than those in uninduced BMSCs at all time points (p <
+0.05, Fig. 5).
+Histological observations
+Organised fibrous tissue and some new bone containing
+chondrocytes were observed at the tendon-bone interface
+in the control group 8 weeks postoperatively (Fig. 6a, d).
+Aligned connective tissue, newly formed woven bone, and
+cartilage were observed at the tendon-bone interface in
+the PRP group (Fig. 6b, e). A more mature interface with
+aligned chondrocytes was observed in the BMSC + PRP
+group, but the fibrous connective tissue at the 
+tendon-bone interface was unclear. A more aligned and layered
+cartilage zone was observed, which incorporated adjacent
+bone and tendon (Fig. 6c, f ).
+Micro-CT scan
+The transverse, coronal, and sagittal section images of
+the tibial bone tunnel were reconstructed with 
+high-resolution micro-CT. Newly formed mineralised tissue
+was evident along the entire length of the bone tunnel
+by screening slices of each sample. The control 
+micro-CT images showed no obvious mineralised tissue in the
+tibial bone tunnels 8 weeks postoperatively (Fig. 7a1-3).
+Obvious signals were detected in the bone tunnels of the
+PRP (Fig. 7b1-3) and BMSC + PRP groups (Fig. 7c1-3),
+indicating mineralised tissue formation at the 
+tendon-bone interface. A stronger signal was observed in the
+BMSC + PRP group than in the PRP group, indicative of
+more mineralised tissue formation.
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 5 of 9
+Biomechanical testing
+The failure load (36.22 ± 8.77 N, n = 5) was significantly
+greater in the BMSC + PRP group 8 weeks 
+postoperatively than in the control (19.56 ± 2.45 N, n = 5; p =
+0.001) and PRP groups (24.08 ± 1.16 N, n = 5; p =
+0.012). No difference was observed between the control
+and PRP groups (p = 0.429; Fig. 8a). No difference in
+stiffness was observed among the groups (Fig. 8b)
+(Additional file 1).
+Discussion
+This study demonstrated that the combination of PRP
+and BMSCs enhanced tendon-bone healing in a rabbit
+model of ACL reconstruction. The aligned and layered
+cartilage zone revealed that directly inserting the tissue
+resembled the histology of inserting a native ACL. More
+mineralised tissue had formed, as detected by micro-CT,
+and a larger failure load was observed in the BMSC +
+PRP group, indicative of better osteointegration at the
+tendon-bone interface. These results indicate that the
+BMSC + PRP combination is a promising way to 
+promote tendon-bone healing.
+BMSCs have the potential for differentiation as 
+multi-potent stem cells, but this process is not completely
+spontaneous. Many studies have shown that some 
+cyto-kines have stimulatory effects on the differentiation of
+BMSCs [19-21]. In the present study, collagen I, 
+osteo-calcin, and osteopontin mRNA levels increased gradually
+when cells were co-cultured with PRP for 14 days. 
+Activated platelets release TGF-β, PDGF, VEGF, and 
+epidermal growth factor, which promote wound healing [22].
+de Mos et al. found that PRP enhanced human tendon
+cell proliferation and total collagen production in an in
+vitro study [23].
+Tendon-bone healing is slow because the 
+reconstructed tendon graft in the bone tunnel is separated
+from a vascular supply and the bone is lost at the injury
+site. During healing, the structure and composition of
+the native direct tendon-bone interface is not reformed,
+but a mechanically and structurally inferior interface
+forms [24]. Previous studies have demonstrated that
+osteoinductive agents accelerate osteointegration to the
+tendon graft, improving tendon-bone healing and the
+mechanical properties [25-27]. Rodeo et al. reported a
+narrower interface zone in bone morphogenetic 
+protein-treated specimens, indicative of better tendon-bone
+healing [26]. In the present study, we found that PRP
+promoted BMSC osteodifferentiation in vitro, and the
+combination of the two agents promoted tendon-bone
+healing in vivo.
+Successful ACL reconstruction requires solid 
+tendon-bone healing. Direct and indirect insertion are the two
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 6 of 9
+types of tendon-bone insertion. Direct insertion, which
+serves to transmit tensile forces, comprises four typically
+distinct transition zones, of the bone, mineralised 
+cartilage, fibrocartilage, and ligament. Indirect insertion 
+includes the bone, Sharpey’s fibres (which anchor the soft
+tissue to the bone), and ligament. The present study
+showed that PRP and BMSCs histologically promoted
+bone ingrowth into the tendon-bone interface. An 
+incompletely mature chondral tendon-bone interface was
+observed in the BMSC + PRP group by H&E and
+Russell-Movat pentachrome staining.
+The walls of the bone tunnel in the PRP and BMSC +
+PRP groups showed more new bone formation than
+those of the control group. The newly formed bone
+represents a direct bonding area between the tendon
+and bone and prevents the knee instability associated
+with enlarging the bone tunnel. Enlargement of the
+bone tunnel at the articular end due to bone resorption
+is a common problem after ACL reconstruction [28].
+New bone formation in the PRP and BMSC + PRP
+groups could be effective for long-term knee function
+by preventing the instability associated with bone 
+tunnel enlargement.
+The failure load in the BMSC + PRP group was 
+significantly higher than that in the other two groups at
+8 weeks postoperatively, but no difference was observed
+between the PRP and control groups. Tendon-bone
+healing after ACL reconstruction encompasses an 
+orderly transition of necrosis of graft cells and ingrowth of
+host cells [13]. The cell types that initiate and regulate
+tendon-bone healing have not been positively identified
+until now [4]. Kobayashi et al. reported that if graft
+cells do not survive the first 2 weeks after ACL 
+reconstruction, the graft will undergo necrosis [13]. It seems
+that the host cells from the surrounding bone marrow
+in the bone tunnel, which contains BMSCs and other
+preosteoblasts, contribute to tendon-bone interface 
+repair [13, 14]. In our study, significant differences in
+mechanical properties were observed between the
+BMSC + PRP and the other two groups, indicating that
+the seeded cells contribute to the tendon-bone healing
+process.
+MSCs have become the gold standard for cellular 
+therapies in musculoskeletal diseases because of their ease of
+expansion and capability of differentiating into 
+chondrocytes, tenocytes, and osteocytes [29-31]. Several studies
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 7 of 9
+have explored the effects of tendon-bone healing with
+MSCs. Ouyang et al. applied BMSCs at the tendon-bone
+interface when fixing the hallucis longus tendon in a 
+cal-caneal bone tunnel. Only 50 % of the tendon-bone
+interface contained fibrocartilage, although the BMSC
+group promoted collagen II staining [32]. Ju et al. 
+explored the effect and mechanism of the implantation of
+BMSCs on tendon-bone healing in rats. The MSC
+group had a higher percentage of oblique fibres relative
+to the total interface area compared with controls [33].
+Gulotta et al. reported that the addition of BMSCs to
+the tendon-bone interface did not improve the 
+composition, structure, or strength of the tendon-bone 
+attachment site [34]. It is possible that the tendon-bone
+interface lacks the molecular and/or cellular signals 
+necessary for inducing the transplanted cells to appropriate
+differentiation, implying that MSC-based strategies
+should be combined with appropriate differentiation and
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 8 of 9
+growth factors. In the present study, BMSCs serve as the
+material for regeneration, while PRP serves as the 
+impetus to promote tendon-bone healing.
+A limitation of this study was that the BMSCs were
+not labelled and tracked. Fan et al. labelled BMSCs with
+green fluorescence protein (GFP) to examine cell 
+viability on scaffolds implanted into a rabbit knee joint for
+ACL reconstruction. Their results revealed GFP-positive
+scaffolds 4 weeks postoperatively, indicating that the
+BMSCs were viable [35]. Further studies are required to
+precisely track the fate of implanted BMSCs. Another
+limitation of this study was that the failure load was
+tested only under a static condition at 45° of flexion.
+The biomechanical test was limited by our sample size
+and our Instron machine, which only tested tensile
+strength in a straight line.
+Conclusions
+PRP significantly stimulated osteogenic differentiation
+in BMSCs. The combination of PRP and BMSCs 
+enhanced tendon-bone healing in a rabbit model of ACL
+reconstruction, demonstrating its potential for clinical
+use.
+Additional file
+Additional file 1: Results of biomechanical test. (PDF 94 kb)
+Acknowledgements
+This work was supported by the National Natural Science Foundation of
+China (81171687).
+Availability of data and materials
+All the data of the manuscript are presented in the paper or additional
+supporting files.
+Authors’ contributions
+FB conceived and designed the experiment. CT, CZ, and DX performed the
+experiments. CT and FB analysed the data. CT contributed reagents/
+materials/analysis tools. CT wrote the manuscript. All authors read and
+approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Consent for publication
+Not applicable.
+Ethics approval and consent to participate
+Animal experiments were approved by the Zhejiang University Ethics Committee.
+Author details
+1Department of Orthopaedic Surgery, The Fourth Affiliated Hospital, School
+of Medicine, Zhejiang University, Yiwu 322000, China. 2Department of
+Orthopaedic Surgery, The Second Affiliated Hospital, School of Medicine,
+Zhejiang University, Hangzhou 310009, China. 3Department of Orthopaedic
+Surgery, The First Affiliated Hospital of Zhengzhou University, Zhengzhou
+450001, China.
+Received: 19 June 2016 Accepted: 28 August 2016
+References
+1.
+Claes S, Verdonk P, Forsyth R, Bellemans J. The “ligamentization” process in
+anterior cruciate ligament reconstruction: what happens to the human
+graft? A systematic review of the literature. Am J Sports Med. 2011;39(11):
+2476-83.
+2.
+Fujita N, Kuroda R, Matsumoto T, Yamaguchi M, Yagi M, Matsumoto A, Kubo S,
+Matsushita T, Hoshino Y, Nishimoto K, et al. Comparison of the clinical
+outcome of double-bundle, anteromedial single-bundle, and posterolateral
+single-bundle anterior cruciate ligament reconstruction using hamstring
+tendon graft with minimum 2-year follow-up. Arthroscopy. 2011;27(7):906-13.
+3.
+Tomita F, Yasuda K, Mikami S, Sakai T, Yamazaki S, Tohyama H. Comparisons
+of intraosseous graft healing between the doubled flexor tendon graft and
+the bone-patellar tendon-bone graft in anterior cruciate ligament
+reconstruction. Arthroscopy. 2001;17(5):461-76.
+4.
+Bi F, Shi Z, Jiang S, Guo P, Yan S. Intermittently administered parathyroid
+hormone [1-34] promotes tendon-bone healing in a rat model. Int J Mol
+Sci. 2014;15(10):17366-79.
+5.
+Eppley BL, Woodell JE, Higgins J. Platelet quantification and growth factor
+analysis from platelet-rich plasma: implications for wound healing. Plast
+Reconstr Surg. 2004;114(6):1502-8.
+6.
+van den Dolder J, Mooren R, Vloon AP, Stoelinga PJ, Jansen JA. Platelet-rich
+plasma: quantification of growth factor levels and the effect on growth and
+differentiation of rat bone marrow cells. Tissue Eng. 2006;12(11):3067-73.
+7.
+Kon E, Filardo G, Delcogliano M, Presti ML, Russo A, Bondi A, Di Martino A,
+Cenacchi A, Fornasari PM, Marcacci M. Platelet-rich plasma: new clinical
+application: a pilot study for treatment of jumper’s knee. Injury. 2009;40(6):
+598-603.
+8.
+Hutchinson ID, Rodeo SA, Perrone GS, Murray MM. Can platelet-rich plasma
+enhance anterior cruciate ligament and meniscal repair? J Knee Surg. 2015;
+28(1):19-28.
+9.
+Chanda D, Kumar S, Ponnazhagan S. Therapeutic potential of adult bone
+marrow-derived mesenchymal stem cells in diseases of the skeleton. J Cell
+Biochem. 2010;111(2):249-57.
+10.
+Chen X, Song XH, Yin Z, Zou XH, Wang LL, Hu H, Cao T, Zheng M, Ouyang
+HW. Stepwise differentiation of human embryonic stem cells promotes
+tendon regeneration by secreting fetal tendon matrix and differentiation
+factors. Stem Cells (Dayton, Ohio). 2009;27(6):1276-87.
+11.
+Tucker BA, Karamsadkar SS, Khan WS, Pastides P. The role of bone marrow
+derived mesenchymal stem cells in sports injuries. J Stem Cells. 2010;5(4):
+155-66.
+12.
+Muruganandan S, Roman AA, Sinal CJ. Adipocyte differentiation of bone
+marrow-derived mesenchymal stem cells: cross talk with the
+osteoblastogenic program. Cell Mol Life Sci. 2009;66(2):236-53.
+13.
+Kobayashi M, Watanabe N, Oshima Y, Kajikawa Y, Kawata M, Kubo T. The
+fate of host and graft cells in early healing of bone tunnel after tendon
+graft. Am J Sports Med. 2005;33(12):1892-7.
+14.
+Kawamura S, Ying L, Kim HJ, Dynybil C, Rodeo SA. Macrophages accumulate
+in the early phase of tendon-bone healing. J Orthop Res. 2005;23(6):1425-
+32.
+15.
+Zou J, Yuan C, Wu C, Cao C, Yang H. The effects of platelet-rich plasma on
+the osteogenic induction of bone marrow mesenchymal stem cells.
+Connect Tissue Res. 2014;55(4):304-9.
+16.
+Atesok K, Fu FH, Wolf MR, Ochi M, Jazrawi LM, Doral MN, Lubowitz JH,
+Rodeo SA. Augmentation of tendon-to-bone healing. J Bone Joint Surg Am.
+2014;96(6):513-21.
+17.
+Wu W, Chen F, Liu Y, Ma Q, Mao T. Autologous injectable tissue-engineered
+cartilage by using platelet-rich plasma: experimental study in a rabbit
+model. J Oral Maxillofac Surg. 2007;65(10):1951-7.
+18.
+Fan H, Hu Y, Zhang C, Li X, Lv R, Qin L, Zhu R. Cartilage regeneration using
+mesenchymal stem cells and a PLGA-gelatin/chondroitin/hyaluronate
+hybrid scaffold. Biomaterials. 2006;27(26):4573-80.
+19.
+Yang L, Chang N, Liu X, Han Z, Zhu T, Li C, Yang L, Li L. Bone 
+marrow-derived mesenchymal stem cells differentiate to hepatic myofibroblasts by
+transforming growth factor-beta1 via sphingosine kinase/sphingosine 
+1-phosphate (S1P)/S1P receptor axis. Am J Pathol. 2012;181(1):85-97.
+20.
+Jenhani F, Durand V, Ben Azouna N, Thallet S, Ben Othmen T, Bejaoui M,
+Domenech J. Human cytokine expression profile in various conditioned
+media for in vitro expansion bone marrow and umbilical cord blood
+immunophenotyped mesenchymal stem cells. Transplant Proc. 2011;43(2):639-43.
+21.
+Cheng K, Rai P, Plagov A, Lan X, Kumar D, Salhan D, Rehman S, Malhotra A,
+Bhargava K, Palestro CJ, et al. Transplantation of bone marrow-derived MSCs
+Teng et al. Journal of Orthopaedic Surgery and Research  (2016) 11:96 Page 9 of 9
+improves cisplatinum-induced renal injury through paracrine mechanisms.
+Exp Mol Pathol. 2013;94(3):466-73.
+22. Anitua E, Andia I, Ardanza B, Nurden P, Nurden AT. Autologous platelets as
+a source of proteins for healing and tissue regeneration. Thromb Haemost.
+2004;91(1):4-15.
+23. de Mos M, van der Windt AE, Jahr H, van Schie HT, Weinans H, Verhaar JA,
+van Osch GJ. Can platelet-rich plasma enhance tendon repair? A cell culture
+study. Am J Sports Med. 2008;36(6):1171-8.
+24. Rothrauff BB, Tuan RS. Cellular therapy in bone-tendon interface
+regeneration. Organogenesis. 2014;10(1):13-28.
+25. Martinek V, Latterman C, Usas A, Abramowitch S, Woo SL, Fu FH, Huard J.
+Enhancement of tendon-bone integration of anterior cruciate ligament
+grafts with bone morphogenetic protein-2 gene transfer: a histological and
+biomechanical study. J Bone Joint Surg Am. 2002;84-a(7):1123-31.
+26. Rodeo SA, Suzuki K, Deng XH, Wozney J, Warren RF. Use of recombinant
+human bone morphogenetic protein-2 to enhance tendon healing in a
+bone tunnel. Am J Sports Med. 1999;27(4):476-88.
+27. Chen CH, Liu HW, Tsai CL, Yu CM, Lin IH, Hsiue GH. Photoencapsulation of
+bone morphogenetic protein-2 and periosteal progenitor cells improve
+tendon graft healing in a bone tunnel. Am J Sports Med. 2008;36(3):461-73.
+28. Rodeo SA, Kawamura S, Ma CB, Deng XH, Sussman PS, Hays P, Ying L. The
+effect of osteoclastic activity on tendon-to-bone healing: an experimental
+study in rabbits. J Bone Joint Surg Am. 2007;89(10):2250-9.
+29. Awad HA, Butler DL, Boivin GP, Smith FN, Malaviya P, Huibregtse B, Caplan
+AI. Autologous mesenchymal stem cell-mediated repair of tendon. Tissue
+Eng. 1999;5(3):267-77.
+30. Tuan RS, Boland G, Tuli R. Adult mesenchymal stem cells and cell-based
+tissue engineering. Arthritis Res Ther. 2003;5(1):32-45.
+31. Kuo CK, Tuan RS. Mechanoactive tenogenic differentiation of human
+mesenchymal stem cells. Tissue Eng Part A. 2008;14(10):1615-27.
+32. Ouyang HW, Goh JC, Lee EH. Use of bone marrow stromal cells for tendon
+graft-to-bone healing: histological and immunohistochemical studies in a
+rabbit model. Am J Sports Med. 2004;32(2):321-7.
+33. Ju YJ, Muneta T, Yoshimura H, Koga H, Sekiya I. Synovial mesenchymal stem
+cells accelerate early remodeling of tendon-bone healing. Cell Tissue Res.
+2008;332(3):469-78.
+34. Gulotta LV, Kovacevic D, Ehteshami JR, Dagher E, Packer JD, Rodeo SA.
+Application of bone marrow-derived mesenchymal stem cells in a rotator
+cuff repair model. Am J Sports Med. 2009;37(11):2126-33.
+35. Liu H, Fan H, Toh SL, Goh JC. A comparison of rabbit mesenchymal stem
+cells and anterior cruciate ligament fibroblasts responses on combined silk
+scaffolds. Biomaterials. 2008;29(10):1443-53.
+Submit your next manuscript to BioMed Central
+and we will help you at every step:
+•  We accept pre-submission inquiries
+•  Our selector tool helps you to find the most relevant journal
+•  We provide round the clock customer support
+•  Convenient online submission
+•  Thorough peer review
+•  Inclusion in PubMed and all major indexing services
+•  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submit
+
+Table 1 Primers of collagen I, OCN, and OPN used in RT-PCR in 
+this study 
+Gene 
+Primer sequence 
+GAPDH 
+Forward 
+5′-ATGGGGAAGGTGAAGGTCG-3′ 
+Reverse 
+5′-TAAAAGCAGCCCTGGTGACC-3′ 
+Collagen I 
+Forward 
+5′-GGTTTGTTGAAGAGGCTG-3′ 
+Reverse 
+5′-GATGGCCTGAAGCTCAA-3′ 
+Osteocalcin 
+Forward 
+5′-CCGGGAGGAGATCTGTGAAA-3′ 
+Reverse 
+5′-CTGCCTTCTTCCACAATTTTATCC-3′ 
+Osteopontin 
+Forward 
+5′-GCCAGTTGCAGCCTTCTCA-3′ 
+Reverse 
+5′-GCCATGCCCAAGAGACAAAA-3′ 
+
+Fig. 1 a Gross observations of the semitendinosus tendon (black arrow) and b native anterior cruciate ligament (ACL) (black arrow). c Macroscopic 
+view of ACL reconstruction (arrow points to autologous semitendinosus tendon graft) 
+
+Fig. 2 a The femoral-graft-tibial complex was firmly fixed on the Instron machine to perform the mechanical test (black arrow points to the 
+intra-articular graft). b Representative load-deformation curve obtained by the biomechanical test 
+
+Fig. 3 Flow cytometry analysis of passage 3 cell surface markers: 69.2, 4.82, and 99.7 % positive cells for CD44 (a), CD45 (b), and CD90 
+(c), respectively 
+
+Fig. 4 Alizarin red (a), oil red O (b), and alcian blue staining (c) to detect the differentiating ability of bone marrow mesenchymal stem cells 
+(BMSCs) relative to the bone, fat, and cartilage, respectively. Scale bar, 50 μm 
+
+Fig. 5 Reverse transcription-polymerase chain reaction evaluation of osteogenic gene mRNA expression. Asterisk indicates significant difference 
+(p < 0.05) compared with gene expression levels of BMSCs co-cultured with or without platelet-rich plasma (PRP) a collagen I; b osteocalcin 
+(OCN); c osteopontin (OPN) 
+
+Fig. 6 Histological observations of the tendon-bone interface in the control (a, d), PRP (b, e), and BMSC + PRP groups (c, f) by haematoxylin and 
+eosin (H&E) (a-c) and Russell-Movat pentachrome staining (d-f). Magnification, ×100; scale bar, 100 μm. t tendon graft; b bone; if interface 
+
+Fig. 7 Representative transverse (a1, b1, and c1), coronal (a2, b2, and c2), and sagittal (A3, b3, and c3) section micro-computed tomography 
+images in the three groups. No obvious mineralised tissue had formed in the tibial bone tunnels in the control group (a1-3). Clear mineralised 
+tissue had formed at the tendon-bone interface in the PRP (b1-3) and BMSC + PRP groups (c1-3). The red arrows point to the newly formed 
+mineralized tissue around the wall of the tibial bone tunnel 
+
+Fig. 8 Biomechanical test results: failure load (a) and stiffness (b). *p < 0.05 vs. control group; #p < 0.05 vs. the PRP group 
+

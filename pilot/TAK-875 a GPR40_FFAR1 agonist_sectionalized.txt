@@ -1,0 +1,2127 @@
+>>>section: conclusion
+CONCLUSION AND IMPLICATIONS
+Our results indicate that combination therapy with TAK-875 and metformin could be a valuable strategy for glycaemic control
+and β-cell preservation in type 2 diabetes.
+Abbreviations
+DPP-4, dipeptidyl peptidase-4; FFAs, free fatty acids; GHb, glycosylated Hb; GLP-1, glucagon-like peptide-1; GPR40,
+GPCR40; HOMA-β, homeostasis model assessment of β-cell function; NEFA, non-esterified fatty acids; OGTT, oral
+glucose tolerance test; PDX-1, pancreas duodenum homeobox-1; SU, sulfonylureas; TC, total cholesterol; TG,
+triglyceride; ZDF, Zucker diabetic fatty; ZL, Zucker lean
+568 British Journal of Pharmacology (2013) 170 568-580
+© 2013 The British Pharmacological Society
+
+>>>section: references
+References
+Araki T, Hirayama M, Hiroi S, Kaku K (2012). GPR40-induced
+insulin secretion by the novel agonist TAK-875: first clinical
+findings in patients with type 2 diabetes. Diabetes Obes Metab 14:
+271-278.
+Blonde L, Rosenstock J, Mooradian AD, Piper BA, Henry D (2002).
+Glyburide/metformin combination product is safe and efficacious
+in patients with type 2 diabetes failing sulphonylurea therapy.
+Diabetes Obes Metab 4: 368-375.
+Briscoe CP, Tadayyon M, Andrews JL, Benson WG, Chambers JK,
+Eilert MM et al. (2003). The orphan G protein-coupled receptor
+GPR40 is activated by medium and long chain fatty acids. J Biol
+Chem 278: 11303-11311.
+Burant CF, Viswanathan P, Marcinak J, Cao C, Vakilynejad M, Xie B
+et al. (2012). TAK-875 versus placebo or glimepiride in type 2
+diabetes mellitus: a phase 2, randomised, double-blind,
+placebo-controlled trial. Lancet 379: 1403-1411.
+Butler AE, Janson J, Bonner-Weir S, Ritzel R, Rizza RA, Butler PC
+(2003). Beta-cell deficit and increased beta-cell apoptosis in humans
+with type 2 diabetes. Diabetes 52: 102-110.
+Charpentier G (2002). Oral combination therapy for type 2
+diabetes. Diabetes Metab Res Rev 18 (Suppl. 3): S70-S76.
+Edfalk S, Steneberg P, Edlund H (2008). Gpr40 is expressed in
+enteroendocrine cells and mediates free fatty acid stimulation of
+incretin secretion. Diabetes 57: 2280-2287.
+Finegood DT, McArthur MD, Kojwang D, Thomas MJ, Topp BG,
+Leonard T et al. (2001). Beta-cell mass dynamics in Zucker diabetic
+fatty rats: rosiglitazone prevents the rise in net cell death. Diabetes
+50: 1021-1029.
+Flodgren E, Olde B, Meidute-Abaraviciene S, Winzell MS, Ahren B,
+Salehi A (2007). GPR40 is expressed in glucagon producing cells
+and affects glucagon secretion. Biochem Biophys Res Commun 354:
+240-245.
+Fu A, Eberhard CE, Screaton RA (2013). Role of AMPK in pancreatic
+beta cell function. Mol Cell Endocrinol 366: 127-134.
+Fujiwara K, Maekawa F, Yada T (2005). Oleic acid interacts with
+GPR40 to induce Ca2+ signaling in rat islet beta-cells: mediation by
+of GPR40 agonist and metformin BJPCombination
+PLC and L-type Ca2+ channel and link to insulin release. Am J
+Physiol Endocrinol Metab 289: E670-E677.
+Giorgino F, Laviola L, Leonardini A (2005). Pathophysiology of type
+2 diabetes: rationale for different oral antidiabetic treatment
+strategies. Diabetes Res Clin Pract 68 (Suppl. 1): S22-S29.
+Goldstein BJ, Feinglos MN, Lunceford JK, Johnson J,
+Williams-Herman DE (2007). Effect of initial combination therapy
+with sitagliptin, a dipeptidyl peptidase-4 inhibitor, and metformin
+on glycemic control in patients with type 2 diabetes. Diabetes Care
+30: 1979-1987.
+Han SJ, Choi SE, Kang Y, Jung JG, Yi SA, Kim HJ et al. (2011). Effect
+of sitagliptin plus metformin on beta-cell function, islet integrity
+and islet gene expression in Zucker diabetic fatty rats. Diabetes Res
+Clin Pract 92: 213-222.
+Harmon JS, Gleason CE, Tanaka Y, Oseid EA, Hunter-Berger KK,
+Robertson RP (1999). In vivo prevention of hyperglycemia also
+prevents glucotoxic effects on PDX-1 and insulin gene expression.
+Diabetes 48: 1995-2000.
+Hundal RS, Inzucchi SE (2003). Metformin: new understandings,
+new uses. Drugs 63: 1879-1894.
+Inzucchi SE, Bergenstal RM, Buse JB, Diamant M, Ferrannini E,
+Nauck M et al. (2012). Management of hyperglycaemia in type 2
+diabetes: a patient-centered approach. Position statement of the
+American Diabetes Association (ADA) and the European Association
+for the Study of Diabetes (EASD). Diabetologia 55: 1577-1596.
+Itoh Y, Kawamata Y, Harada M, Kobayashi M, Fujii R, Fukusumi S
+et al. (2003). Free fatty acids regulate insulin secretion from
+pancreatic beta cells through GPR40. Nature 422: 173-176.
+Jain S, de Azua IR, Lu H, White MF, Guettier JM, Wess J (2013).
+Chronic activation of a designer Gq-coupled receptor improves beta
+cell function. J Clin Invest 123: 1750-1762. doi:10.1172/JCI66432.
+Janssen SW, Martens GJ, Sweep CG, Span PN, Verhofstad AA,
+Hermus AR (2003). Phlorizin treatment prevents the decrease in
+plasma insulin levels but not the progressive histopathological
+changes in the pancreatic islets during aging of Zucker diabetic
+fatty rats. J Endocrinol Invest 26: 508-515.
+Kahn SE (2000). The importance of the beta-cell in the
+pathogenesis of type 2 diabetes mellitus. Am J Med 108 (Suppl. 6a):
+2S-8S.
+Kebede M, Alquier T, Latour MG, Semache M, Tremblay C, Poitout
+V (2008). The fatty acid receptor GPR40 plays a role in insulin
+secretion in vivo after high-fat feeding. Diabetes 57: 2432-2437.
+Kilkenny C, Browne W, Cuthill IC, Emerson M, Altman DG (2010).
+Animal research: reporting in vivo experiments: the ARRIVE
+guidelines. Br J Pharmacol 160: 1577-1579.
+Latour MG, Alquier T, Oseid E, Tremblay C, Jetton TL, Luo J et al.
+(2007). GPR40 is necessary but not sufficient for fatty acid
+stimulation of insulin secretion in vivo. Diabetes 56: 1087-1094.
+Lee Y, Hirose H, Ohneda M, Johnson JH, McGarry JD, Unger RH
+(1994). Beta-cell lipotoxicity in the pathogenesis of
+non-insulin-dependent diabetes mellitus of obese rats: impairment
+in adipocyte-beta-cell relationships. Proc Natl Acad Sci U S A 91:
+10878-10882.
+Lin DC, Zhang J, Zhuang R, Li F, Nguyen K, Chen M et al. (2011).
+AMG 837: a novel GPR40/FFA1 agonist that enhances insulin
+secretion and lowers glucose levels in rodents. PLoS ONE 6: e27270.
+Lupi R, Del Guerra S, Tellini C, Giannarelli R, Coppelli A, Lorenzetti
+M et al. (1999). The biguanide compound metformin prevents
+desensitization of human pancreatic islets induced by high glucose.
+Eur J Pharmacol 364: 205-209.
+British Journal of Pharmacology (2013) 170 568-580 579
+BJP R Ito et al.
+Lupi R, Del Guerra S, Fierabracci V, Marselli L, Novelli M, Patanè G
+et al. (2002). Lipotoxicity in human pancreatic islets and the
+protective effect of metformin. Diabetes 51 (Suppl. 1): S134-S137.
+McGrath JC, Drummond GB, McLachlan EM, Kilkenny C,
+Wainwright CL (2010). Guidelines for reporting experiments
+involving animals: the ARRIVE guidelines. Br J Pharmacol 160:
+1573-1576.
+Mannucci E, Ognibene A, Cremasco F, Bardini G, Mencucci A,
+Pierazzuoli E et al. (2001). Effect of metformin on glucagon-like
+peptide 1 (GLP-1) and leptin levels in obese nondiabetic subjects.
+Diabetes Care 24: 489-494.
+Marchetti P, Del Guerra S, Marselli L, Lupi R, Masini M, Pollera M
+et al. (2004). Pancreatic islets from type 2 diabetic patients have
+functional defects and increased apoptosis that are ameliorated by
+metformin. J Clin Endocrinol Metab 89: 5535-5541.
+Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF,
+Turner RC (1985). Homeostasis model assessment: insulin resistance
+and beta-cell function from fasting plasma glucose and insulin
+concentrations in man. Diabetologia 28: 412-419.
+Melloul D (2004). Transcription factors in islet development and
+physiology: role of PDX-1 in beta-cell function. Ann N Y Acad Sci
+1014: 28-37.
+Moritoh Y, Takeuchi K, Asakawa T, Kataoka O, Odaka H (2009).
+Combining a dipeptidyl peptidase-4 inhibitor, alogliptin, with
+pioglitazone improves glycaemic control, lipid profiles and beta-cell
+function in db/db mice. Br J Pharmacol 157: 415-426.
+Nagasumi K, Esaki R, Iwachidow K, Yasuhara Y, Ogi K, Tanaka H
+et al. (2009). Overexpression of GPR40 in pancreatic beta-cells
+augments glucose-stimulated insulin secretion and improves
+glucose tolerance in normal and diabetic mice. Diabetes 58:
+1067-1076.
+Naik H, Vakilynejad M, Wu J, Viswanathan P, Dote N, Higuchi T
+et al. (2012). Safety, tolerability, pharmacokinetics, and
+pharmacodynamic properties of the GPR40 agonist TAK-875: results
+from a double-blind, placebo-controlled single oral dose rising
+study in healthy volunteers. J Clin Pharmacol 52: 1007-1016.
+Negoro N, Sasaki S, Mikami S, Ito M, Suzuki M, Tsujihata Y et al.
+(2010). Discovery of TAK-875: a potent, selective, and orally
+bioavailable GPR40 agonist. ACS Medicinal. Chem Lett 1: 290-294.
+Negoro N, Sasaki S, Mikami S, Ito M, Tsujihata Y, Ito R et al. (2012).
+Optimization of (2,3-dihydro-1-benzofuran-3-yl)acetic acids:
+discovery of a non-free fatty acid-like, highly bioavailable G-protein
+coupled receptor 40/free fatty acid receptor 1 agonist as a
+glucose-dependent insulinotropic agent. J Med Chem 55:
+3960-3974.
+Pan QR, Li WH, Wang H, Sun Q, Xiao XH, Brock B et al. (2009).
+Glucose, metformin, and AICAR regulate the expression of G
+protein-coupled receptor members in INS-1 beta cell. Horm Metab
+Res 41: 799-804.
+Perfetti R, Hui H (2004). The role of GLP-1 in the life and death of
+pancreatic beta cells. Horm Metab Res 36: 804-810.
+Pratley RE (2009). Alogliptin: a new, highly selective dipeptidyl
+peptidase-4 inhibitor for the treatment of type 2 diabetes. Expert
+Opin Pharmacother 10: 503-512.
+Rafacho A, Ribeiro DL, Boschero AC, Taboga SR, Bosqueiro JR
+(2008). Increased pancreatic islet mass is accompanied by activation
+of the insulin receptor substrate-2/serine-threonine kinase pathway
+and augmented cyclin D2 protein levels in insulin-resistant rats. Int
+J Exp Pathol 89: 264-275.
+Rendell M (2004). The role of sulphonylureas in the management
+of type 2 diabetes mellitus. Drugs 64: 1339-1358.
+Shapiro H, Shachar S, Sekler I, Hershfinkel M, Walker MD (2005).
+Role of GPR40 in fatty acid action on the beta cell line INS-1E.
+Biochem Biophys Res Commun 335: 97-104.
+Sloop KW, Michael MD, Moyers JS (2005). Glucagon as a target for
+the treatment of type 2 diabetes. Expert Opin Ther Targets 9:
+593-600.
+Steneberg P, Rubins N, Bartoov-Shifman R, Walker MD, Edlund H
+(2005). The FFA receptor GPR40 links hyperinsulinemia, hepatic
+steatosis, and impaired glucose homeostasis in mouse. Cell Metab
+1: 245-258.
+Tan CP, Feng Y, Zhou YP, Eiermann GJ, Petrov A, Zhou C et al.
+(2008). Selective small-molecule agonists of G protein-coupled
+receptor 40 promote glucose-dependent insulin secretion and
+reduce blood glucose in mice. Diabetes 57: 2211-2219.
+Tsujihata Y, Ito R, Suzuki M, Harada A, Negoro N, Yasuma T et al.
+(2011). TAK-875, an orally available G protein-coupled receptor
+40/free fatty acid receptor 1 agonist, enhances glucose-dependent
+insulin secretion and improves both postprandial and fasting
+hyperglycemia in type 2 diabetic rats. J Pharmacol Exp Ther 339:
+228-237.
+U.K. Prospective Diabetes Study Group (1995). U.K. prospective
+diabetes study 16: overview of 6 years’ therapy of type II diabetes: a
+progressive disease. U.K. Prospective Diabetes Study Group.
+Diabetes 44: 1249-1258.
+Williams-Herman D, Xu L, Teng R, Golm GT, Johnson J, Davies MJ
+et al. (2012). Effect of initial combination therapy with sitagliptin
+and metformin on beta-cell function in patients with type 2
+diabetes. Diabetes Obes Metab 14: 67-76.
+Winzell MS, Ahren B (2007). G-protein-coupled receptors and islet
+function - implications for treatment of type 2 diabetes. Pharmacol
+Ther 116: 437-448.
+Yashiro H, Tsujihata Y, Takeuchi K, Hazama M, Johnson PR,
+Rorsman P (2012). The effects of TAK-875, a selective GPR40/FFA1
+agonist, on insulin and glucagon in isolated rat and human islets.
+J Pharmacol Exp Ther 340: 483-489.
+Yecies JL, Zhang HH, Menon S, Liu S, Yecies D, Lipovsky AI et al.
+(2011). Akt stimulates hepatic SREBP1c and lipogenesis through
+parallel mTORC1-dependent and independent pathways. Cell
+Metab 14: 21-32.
+Supporting information
+Additional Supporting Information may be found in the
+online version of this article at the publisher’s web-site:
+Figure S1 Effects of 44-day treatment with TAK-875, 
+metformin and TAK-875 in combination with metformin on
+insulin- and PCNA-double positive cell numbers in 
+pancreatic islets from ZDF rats. ZDF rats were administered the
+combination 10 mg·kg−1, b.i.d. of TAK-875 and 50 mg·kg−1,
+q.d. of metformin for 44 days. The pancreata were isolated
+and immunostained with anti-insulin (red colour) and 
+anti-PCNA (brown colour) antibodies. Arrows indicate the 
+representative image of the co-localization of PCNA-positive
+nuclei with insulin staining. Scale bar = 250 μm.
+580 British Journal of Pharmacology (2013) 170 568-580
+
+>>>section: methods
+Methods
+Animals
+Male ZDF (leprfa/CrlCrlj fatty fa/fa) rats and non-diabetic
+littermates, male Zucker lean (ZL; leprfa/CrlCrlj lean +/+ or
+fa/+) rats, were obtained from Charles River Laboratories
+Japan, Inc. (Yokohama, Japan). All rats were housed in 
+individual metal cages in a room with controlled temperature
+(23°C), humidity (55%) and lighting, and were allowed free
+access to powdered standard laboratory chow diet (CE-2,
+Clea, Japan Inc., Tokyo, Japan) and tap water, unless 
+otherwise indicated. Rats were group housed in single dosing
+study, while they were single housed in multiple dosing study
+due to precise measurement of each food intake. All studies
+involving animals are reported in accordance with the
+ARRIVE guidelines (Kilkenny et al., 2010; McGrath et al.,
+2010). The care and use of the animals and experimental
+protocols used in this study were approved by the 
+Experimental Animal Care and Use Committee of Takeda 
+Pharmaceutical Company Limited (Kanagawa, Japan).
+Materials
+TAK-875 ([(3S)-6-({2′,6′-dimethyl-4′-[3-(methylsulfonyl)
+propoxy]biphenyl-3-yl}methoxy)-2,3-dihydro-1-benzofuran-
+3-yl]acetic acid hemihydrate) was synthesized at Chemical
+British Journal of Pharmacology (2013) 170 568-580 569
+BJP R Ito et al.
+Development Laboratories, Takeda Pharmaceutical Company
+Limited. Metformin hydrochloride was purchased fromWako
+Pure Chemical Industries Limited (Osaka, Japan). TAK-875
+and metformin were suspended in 0.5%methylcellulose 
+solution (Wako Pure Chemical Industries Limited).
+OGTT
+At the age of 8 weeks, ZDF and ZL rats were fasted overnight.
+ZDF rats were divided into four groups (n = 6) so that each
+mean of plasma glucose, TG and body weight had no 
+statistically significant differences among groups. Each group of
+ZDF rats was orally given vehicle, TAK-875 (3 mg·kg−1), 
+metformin (50 mg·kg−1) or TAK-875 (3 mg·kg−1) in combination
+with metformin (50 mg·kg−1). ZL rats (n = 5) were orally given
+vehicle. Plasma parameters measured for the grouping of the
+animals were used as baseline (pre) data. Sixty minutes after
+drug administration, all animals received an oral glucose load
+(1 g·kg−1). Blood samples were collected from the tail vein just
+before glucose load (time 0), and 10, 30, 60 and 120 min after
+glucose load for determination of plasma glucose and insulin
+levels.
+Single dosing study in the fasted state
+At the age of 19 weeks, non-fasted ZDF rats were divided
+into four groups (n = 6) so that each mean of glycosylated
+Hb (GHb), plasma glucose, TG and body weight had no
+statistically significant differences among groups. Rats were
+fasted overnight, and each group was orally given vehicle,
+TAK-875 (10 mg·kg−1), metformin (150 mg·kg−1) or TAK-875
+(10 mg·kg−1) in combination with metformin (150 mg·kg−1).
+Plasma glucose and insulin levels were determined using
+blood samples collected from the tail vein at time 0 and 0.5,
+1, 2, 4 and 6 h after dosing.
+Multiple dosing study
+ZDF and ZL rats were fed powder normal chow twice a day in
+the morning and evening (2 h each) for 5 days. At the age of
+10 weeks, ZDF rats were divided into four groups (n = 6) so
+that each mean of GHb, plasma glucose, TG, insulin and
+body weight had no statistically significant differences
+among groups. The diet was switched to a high-calorie diet
+(Quick Fat, Clea, Japan Inc.) under the same time-restricted
+feeding conditions, and each group was orally given vehicle,
+TAK-875 (10 mg·kg−1, b.i.d.), metformin (50 mg·kg−1, q.d. in
+the evening) or TAK-875 (10 mg·kg−1, b.i.d.) in combination
+with metformin (50 mg·kg−1, q.d. in the evening) 30 min
+prior to feeding. Five ZL rats were treated with vehicle as a
+healthy control. After 2, 4 and 6 weeks of treatment, blood
+samples were collected from the tail vein before feeding in
+the morning, and GHb, plasma glucose, TG, total cholesterol
+(TC), non-esterified fatty acids (NEFA), insulin and glucagon
+were measured. Body weight and food intake were measured
+once weekly. After 44 days of treatment, all rats were killed,
+and a portion of the pancreas was cut into two pieces. One
+piece was used for determination of pancreatic hormone
+content, and the other was placed in Bouin’s fixative solution
+(Polysciences, Inc., Warrington, PA, USA) for 
+immunohisto-chemical analysis.
+570 British Journal of Pharmacology (2013) 170 568-580
+Measurements of plasma and
+pancreatic parameters
+Plasma glucose, TG, TC and NEFA were enzymatically 
+measured with an Autoanalyzer 7080 (Hitachi, Tokyo, Japan). GHb
+was measured by an HPLC-based automated Analyzer 
+HLC-723 G7 (TOSOH, Tokyo, Japan). Plasma insulin and glucagon
+were measured using a RIA kit (Millipore, Bedford, MA, USA).
+A piece of pancreas was homogenized in acid-ethanol (74%
+ethanol containing 0.15 mol·L−1 HCl), and centrifuged. The
+insulin and glucagon levels in the supernatant were measured
+using an RIA kit (Millipore, for insulin and TFB, Tokyo, Japan
+for glucagon).
+Immunohistochemical analysis
+After overnight fixation, four pancreata from each group
+were embedded in paraffin. The deparaffinized sections
+were exposed to primary antibodies, guinea pig anti-insulin
+antibody (DAKO A/S, Glostrup, Denmark), rabbit 
+anti-glucagon antibody (DAKO), rabbit anti-pancreas duodenum
+homeobox-1 [PDX-1, a key transcriptional factor of β-cell
+function (Melloul, 2004) ] polyclonal antibody (TransGenic,
+Kumamoto, Japan) or mouse anti-PCNA, a marker of cell
+proliferation (Rafacho et al., 2008) monoclonal antibody
+(DAKO) overnight at 4°C. After detection of bound antibody
+using a polymer-labelled Envision+ system (DAKO), the 
+sections were developed using 3,3′-diaminobenzidine 
+tetrahy-drochloride substrate and counterstained with haematoxylin.
+Digital images were obtained with an inverted microscope
+IX71 (Olympus, Tokyo, Japan), or with an Aperio ScanScope
+XT system (Aperio Technologies, Vista, CA, USA).
+Statistical analysis
+The homeostasis model assessment of β-cell function
+(HOMA-β) index was calculated using the following formula:
+[fasting insulin (μU·mL−1) × 360] / [fasting glucose (mg·dL−1) -
+63] (Matthews et al., 1985). Statistical differences compared
+with vehicle were analysed with Dunnett’s test or Steel’s test.
+Statistical differences between ZDF rats and ZL rats were 
+analysed with Student’s t-test or the Aspin-Welch test. To 
+evaluate if combination treatment had significant additive or
+synergistic effects, two-way
+et al., 2009). The results were interpreted as follow (i) When a
+significant interaction effect (P ≤ 0.05) was observed, the
+effect of combination was synergistic (when the effect of the
+combination treatment exceeds the sum of the effect of
+the monotreatment); and (ii) When no significant interaction
+and significant main effects of both drugs (P ≤ 0.05) were
+observed, the effect was additive (when the effects of the
+combination treatment equals the sum of the effect of the
+monotreatment). All data were presented as mean ± SD.
+
+>>>section: fulltext
+BJP British Journal ofPharmacology
+RESEARCH PAPER
+TAK-875, a GPR40/FFAR1
+agonist, in combination
+with metformin prevents
+progression of diabetes and
+β-cell dysfunction in Zucker
+diabetic fatty rats
+R Ito1, Y Tsujihata1, K Matsuda-Nagasumi1, I Mori2, N Negoro3 and
+K Takeuchi1
+1Cardiovascular and Metabolic Drug Discovery Unit, 2Biomolecular Research Laboratories, and
+3Central Nervous System Drug Discovery Unit, Pharmaceutical Research Division, Takeda
+Pharmaceutical Company Limited, Kanagawa, Japan
+Correspondence
+Ryo Ito, Cardiovascular and
+Metabolic Drug Discovery Unit,
+Pharmaceutical Research
+Division, Takeda Pharmaceutical
+Company Limited, 26-1
+Muraoka-higashi 2-Chome,
+Fujisawa, Kanagawa 251-8555,
+Japan.. E-mail:
+ryo.ito@takeda.com
+----------------------------------------------------------------
+Keywords
+GPR40/FFAR1; TAK-875;
+metformin; Zucker diabetic fatty
+rats; insulin secretion; glycaemic
+control; β-cell preservation;
+hyperlipidaemia
+----------------------------------------------------------------
+Received
+28 November 2012
+Revised
+20 June 2013
+Accepted
+3 July 2013
+DOI:10.1111/bph.12297
+www.brjpharmacol.org
+BACKGROUND AND PURPOSE
+TAK-875, a selective GPCR40/free fatty acid receptor 1 agonist, improves glycaemic control by increasing glucose-dependent
+insulin secretion. Metformin is a first-line drug for treatment of type 2 diabetes that improves peripheral insulin resistance.
+Based on complementary mechanism of action, combining these agents is expected to enhance glycaemic control. Here, we
+evaluated the chronic effects of TAK-875 monotherapy and combination therapy with metformin in diabetic rats.
+EXPERIMENTAL APPROACH
+Long-term effects on glycaemic control and β-cell function were evaluated using Zucker diabetic fatty (ZDF) rats, which
+develop diabetes with hyperlipidaemia and progressive β-cell dysfunction.
+KEY RESULTS
+Single doses of TAK-875 (3-10 mg·kg−1) and metformin (50-150 mg·kg−1) significantly improved both postprandial and
+fasting hyperglycaemia, and additive improvements were observed in their combination. Six-week treatment with TAK-875
+(10 mg·kg−1, b.i.d.) significantly decreased glycosylated Hb (GHb) by 1.7%, and the effect was additively enhanced by
+combination with metformin (50 mg·kg−1, q.d.; GHb: −2.4%). This improvement in glycaemic control in the combination
+group was accompanied by significant 3.2-fold increase in fasting plasma insulin levels. Pancreatic insulin content was
+maintained at a level comparable to that in normal rats by combination treatment (vehicle: 26, combination: 67.1; normal
+lean: 69.1 ng·mg−1 pancreas) without affecting pancreatic glucagon content. Immunohistochemical analyses revealed normal
+morphology, enhanced pancreas duodenum homeobox-1 expression and increased PCNA-positive cells in islets of the
+combination group.
+CONCLUSION AND IMPLICATIONS
+Our results indicate that combination therapy with TAK-875 and metformin could be a valuable strategy for glycaemic control
+and β-cell preservation in type 2 diabetes.
+Abbreviations
+DPP-4, dipeptidyl peptidase-4; FFAs, free fatty acids; GHb, glycosylated Hb; GLP-1, glucagon-like peptide-1; GPR40,
+GPCR40; HOMA-β, homeostasis model assessment of β-cell function; NEFA, non-esterified fatty acids; OGTT, oral
+glucose tolerance test; PDX-1, pancreas duodenum homeobox-1; SU, sulfonylureas; TC, total cholesterol; TG,
+triglyceride; ZDF, Zucker diabetic fatty; ZL, Zucker lean
+568 British Journal of Pharmacology (2013) 170 568-580
+© 2013 The British Pharmacological Society
+Introduction
+Type 2 diabetes mellitus is characterized by elevated plasma
+glucose levels arising from increased peripheral insulin
+resistance and the gradual loss of β-cell function (Kahn,
+2000). As chronic hyperglycaemia contributes to the 
+complications associated with type 2 diabetes (Giorgino et al.,
+2005), the primary goal for treatment is to maintain 
+normo-glycaemia with fewer adverse effects such as hypoglycaemia.
+Based on the algorithm for medical management of type
+2 diabetes, metformin, a biguanide derivative, is 
+recommended as the initial pharmacological therapy (Inzucchi
+et al., 2012). Metformin provides glucose-lowering effects
+via pleiotropic action including decreased hepatic glucose
+production, increased peripheral glucose disposal and
+reduced intestinal glucose absorption (Hundal and Inzucchi,
+2003). To achieve adequate glycaemic control, combination
+therapy with multiple drugs that have different mechanisms
+of action than metformin is often required. However, despite
+the availability of numerous anti-diabetic agents, many
+patients have not yet achieved adequate glycaemic control
+(U.K. Prospective Diabetes Study Group, 1995). Therefore,
+there remains a need for agents that have improved
+efficacy and/or a lower risk of adverse effects and can be
+used in combination treatment, especially with metformin
+(Charpentier, 2002).
+GPCR40 (GPR40)/free fatty acid receptor 1 is a GPCR
+highly expressed in pancreatic β-cells (Briscoe et al., 2003;
+Itoh et al., 2003). Long- and medium-chain free fatty acids
+(FFAs) are endogenous ligands for GPR40, and the activation
+of GPR40 by FFAs leads to glucose-dependent augmentation
+of insulin secretion through activation of the Gαq-pathway
+(Fujiwara et al., 2005; Shapiro et al., 2005), which is a distinct
+mechanism from other oral insulinotropic drugs, such as
+sulfonylureas (SU; Rendell, 2004) and dipeptidyl peptidase-4
+(DPP-4) inhibitors (Pratley, 2009). Nagasumi et al. (2009)
+have previously reported that mice overexpressing human
+GPR40 in pancreatic β-cells exhibit improved glucose 
+excursion and increased insulin secretion during an oral glucose
+tolerance test (OGTT). This finding suggests that GPR40 could
+be an attractive drug target to enhance insulin secretion in
+type 2 diabetes.
+TAK-875 is a potent, selective and orally available GPR40
+agonist that enhances insulin secretion in a glucose
+concentration-dependent manner (Negoro et al., 2010; 2012;
+Tsujihata et al., 2011). Oral administration of TAK-875 
+markedly improves postprandial hyperglycaemia in diabetic rats,
+while TAK-875 does not affect normoglycaemia even at a dose
+higher than the effective dose in fasted normal rats (Tsujihata
+et al., 2011). In addition, it was demonstrated that TAK-875
+significantly improved glycaemic control in type 2 diabetic
+patients with minimum risk of hypoglycaemia compared
+with SUs (Araki et al., 2012; Burant et al., 2012).
+FFAs acutely stimulate insulin secretion, while chronic
+exposure to FFAs causes β-cell dysfunction and death,
+so-called lipotoxicity. Because endogenous ligands of GPR40
+are medium- and long-chain FFAs, there remained concern
+regarding the involvement of GPR40 in lipotoxicity
+(Steneberg et al., 2005). We have previously shown that
+chronic exposure to TAK-875 does not cause β-cell 
+dysfunction in rat insulinoma cells, in contrast to FFAs (Tsujihata
+of GPR40 agonist and metformin BJPCombination
+et al., 2011). However, there are no published reports 
+examining in detail the effects on β-cell function after long-term
+activation of GPR40 in vivo. Because such analyses in clinical
+trials are difficult, animal studies are essential for the 
+development of novel anti-diabetic drugs.
+Because of the complementary mechanisms of action
+between GPR40 agonists and metformin, combination
+therapy with these agents is expected to provide favourable
+effects on glycaemic control. Recently, combination 
+treatment with a DPP-4 inhibitor and metformin in a diabetic rat
+model and drug-naive patients with type 2 diabetes has been
+shown to improve glycaemic control and β-cell function
+(Han et al., 2011; Williams-Herman et al., 2012). However,
+the effects of combination treatment with a GPR40 agonist
+and metformin on development of diabetes and on β-cell
+dysfunction remain poorly understood.
+In the present study, we evaluated the chronic effects
+of TAK-875 in combination with metformin on glycaemic
+control in Zucker diabetic fatty (ZDF) rats. The ZDF rat is a
+severe type 2 diabetic model, which exhibits hyperglycaemia,
+hyperlipidaemia and insulin resistance. The islets of these rats
+show disruption of normal islet architecture, β-cell 
+degranu-lation and increased β-cell death (Lee et al., 1994; Finegood
+et al., 2001). It has been reported that plasma FFA and 
+triglyceride (TG) content of islets begins to rise progressively prior to
+the onset of hyperglycaemia (Lee et al., 1994), suggesting the
+involvement of lipotoxicity in β-cell dysfunction in this
+model. Therefore, this model is also suitable for evaluating
+the chronic effects of TAK-875 on β-cell function. In addition,
+our study was designed to evaluate the chronic effects of
+combination treatment with TAK-875 and metformin on
+plasma hormone profiles, pancreatic hormone content and
+β-cell morphology in these rats.
+Methods
+Animals
+Male ZDF (leprfa/CrlCrlj fatty fa/fa) rats and non-diabetic
+littermates, male Zucker lean (ZL; leprfa/CrlCrlj lean +/+ or
+fa/+) rats, were obtained from Charles River Laboratories
+Japan, Inc. (Yokohama, Japan). All rats were housed in 
+individual metal cages in a room with controlled temperature
+(23°C), humidity (55%) and lighting, and were allowed free
+access to powdered standard laboratory chow diet (CE-2,
+Clea, Japan Inc., Tokyo, Japan) and tap water, unless 
+otherwise indicated. Rats were group housed in single dosing
+study, while they were single housed in multiple dosing study
+due to precise measurement of each food intake. All studies
+involving animals are reported in accordance with the
+ARRIVE guidelines (Kilkenny et al., 2010; McGrath et al.,
+2010). The care and use of the animals and experimental
+protocols used in this study were approved by the 
+Experimental Animal Care and Use Committee of Takeda 
+Pharmaceutical Company Limited (Kanagawa, Japan).
+Materials
+TAK-875 ([(3S)-6-({2′,6′-dimethyl-4′-[3-(methylsulfonyl)
+propoxy]biphenyl-3-yl}methoxy)-2,3-dihydro-1-benzofuran-
+3-yl]acetic acid hemihydrate) was synthesized at Chemical
+British Journal of Pharmacology (2013) 170 568-580 569
+BJP R Ito et al.
+Development Laboratories, Takeda Pharmaceutical Company
+Limited. Metformin hydrochloride was purchased fromWako
+Pure Chemical Industries Limited (Osaka, Japan). TAK-875
+and metformin were suspended in 0.5%methylcellulose 
+solution (Wako Pure Chemical Industries Limited).
+OGTT
+At the age of 8 weeks, ZDF and ZL rats were fasted overnight.
+ZDF rats were divided into four groups (n = 6) so that each
+mean of plasma glucose, TG and body weight had no 
+statistically significant differences among groups. Each group of
+ZDF rats was orally given vehicle, TAK-875 (3 mg·kg−1), 
+metformin (50 mg·kg−1) or TAK-875 (3 mg·kg−1) in combination
+with metformin (50 mg·kg−1). ZL rats (n = 5) were orally given
+vehicle. Plasma parameters measured for the grouping of the
+animals were used as baseline (pre) data. Sixty minutes after
+drug administration, all animals received an oral glucose load
+(1 g·kg−1). Blood samples were collected from the tail vein just
+before glucose load (time 0), and 10, 30, 60 and 120 min after
+glucose load for determination of plasma glucose and insulin
+levels.
+Single dosing study in the fasted state
+At the age of 19 weeks, non-fasted ZDF rats were divided
+into four groups (n = 6) so that each mean of glycosylated
+Hb (GHb), plasma glucose, TG and body weight had no
+statistically significant differences among groups. Rats were
+fasted overnight, and each group was orally given vehicle,
+TAK-875 (10 mg·kg−1), metformin (150 mg·kg−1) or TAK-875
+(10 mg·kg−1) in combination with metformin (150 mg·kg−1).
+Plasma glucose and insulin levels were determined using
+blood samples collected from the tail vein at time 0 and 0.5,
+1, 2, 4 and 6 h after dosing.
+Multiple dosing study
+ZDF and ZL rats were fed powder normal chow twice a day in
+the morning and evening (2 h each) for 5 days. At the age of
+10 weeks, ZDF rats were divided into four groups (n = 6) so
+that each mean of GHb, plasma glucose, TG, insulin and
+body weight had no statistically significant differences
+among groups. The diet was switched to a high-calorie diet
+(Quick Fat, Clea, Japan Inc.) under the same time-restricted
+feeding conditions, and each group was orally given vehicle,
+TAK-875 (10 mg·kg−1, b.i.d.), metformin (50 mg·kg−1, q.d. in
+the evening) or TAK-875 (10 mg·kg−1, b.i.d.) in combination
+with metformin (50 mg·kg−1, q.d. in the evening) 30 min
+prior to feeding. Five ZL rats were treated with vehicle as a
+healthy control. After 2, 4 and 6 weeks of treatment, blood
+samples were collected from the tail vein before feeding in
+the morning, and GHb, plasma glucose, TG, total cholesterol
+(TC), non-esterified fatty acids (NEFA), insulin and glucagon
+were measured. Body weight and food intake were measured
+once weekly. After 44 days of treatment, all rats were killed,
+and a portion of the pancreas was cut into two pieces. One
+piece was used for determination of pancreatic hormone
+content, and the other was placed in Bouin’s fixative solution
+(Polysciences, Inc., Warrington, PA, USA) for 
+immunohisto-chemical analysis.
+570 British Journal of Pharmacology (2013) 170 568-580
+Measurements of plasma and
+pancreatic parameters
+Plasma glucose, TG, TC and NEFA were enzymatically 
+measured with an Autoanalyzer 7080 (Hitachi, Tokyo, Japan). GHb
+was measured by an HPLC-based automated Analyzer 
+HLC-723 G7 (TOSOH, Tokyo, Japan). Plasma insulin and glucagon
+were measured using a RIA kit (Millipore, Bedford, MA, USA).
+A piece of pancreas was homogenized in acid-ethanol (74%
+ethanol containing 0.15 mol·L−1 HCl), and centrifuged. The
+insulin and glucagon levels in the supernatant were measured
+using an RIA kit (Millipore, for insulin and TFB, Tokyo, Japan
+for glucagon).
+Immunohistochemical analysis
+After overnight fixation, four pancreata from each group
+were embedded in paraffin. The deparaffinized sections
+were exposed to primary antibodies, guinea pig anti-insulin
+antibody (DAKO A/S, Glostrup, Denmark), rabbit 
+anti-glucagon antibody (DAKO), rabbit anti-pancreas duodenum
+homeobox-1 [PDX-1, a key transcriptional factor of β-cell
+function (Melloul, 2004) ] polyclonal antibody (TransGenic,
+Kumamoto, Japan) or mouse anti-PCNA, a marker of cell
+proliferation (Rafacho et al., 2008) monoclonal antibody
+(DAKO) overnight at 4°C. After detection of bound antibody
+using a polymer-labelled Envision+ system (DAKO), the 
+sections were developed using 3,3′-diaminobenzidine 
+tetrahy-drochloride substrate and counterstained with haematoxylin.
+Digital images were obtained with an inverted microscope
+IX71 (Olympus, Tokyo, Japan), or with an Aperio ScanScope
+XT system (Aperio Technologies, Vista, CA, USA).
+Statistical analysis
+The homeostasis model assessment of β-cell function
+(HOMA-β) index was calculated using the following formula:
+[fasting insulin (μU·mL−1) × 360] / [fasting glucose (mg·dL−1) -
+63] (Matthews et al., 1985). Statistical differences compared
+with vehicle were analysed with Dunnett’s test or Steel’s test.
+Statistical differences between ZDF rats and ZL rats were 
+analysed with Student’s t-test or the Aspin-Welch test. To 
+evaluate if combination treatment had significant additive or
+synergistic effects, two-way
+et al., 2009). The results were interpreted as follow (i) When a
+significant interaction effect (P ≤ 0.05) was observed, the
+effect of combination was synergistic (when the effect of the
+combination treatment exceeds the sum of the effect of
+the monotreatment); and (ii) When no significant interaction
+and significant main effects of both drugs (P ≤ 0.05) were
+observed, the effect was additive (when the effects of the
+combination treatment equals the sum of the effect of the
+monotreatment). All data were presented as mean ± SD.
+Results
+Acute administration of TAK-875 and
+metformin in combination additively
+improves postprandial and fasting
+hyperglycaemia
+Before multiple dosing studies, we examined the
+effects of TAK-875, metformin and their combination on
+ANOVA was performed (Moritoh
+acute
+postprandial hyperglycaemia during OGTT in young ZDF
+rats (8 weeks of age). TAK-875 exhibits high oral 
+bioavail-ability (76%), Cmax of 5.8 μg mL−1, Tmax of 1 h following a
+3 mg kg−1 oral dosing in fasted rats (Negoro et al., 2010). In
+this study, 3-10 mg·kg−1 of TAK-875 was selected based on
+the pharmacokinetic profiles: this dose is similar to clinical
+doses of TAK-875 (Naik et al., 2012). Oral administration of
+TAK-875 (3 mg·kg−1), metformin (50 mg·kg−1), and their
+combination 1 h before glucose load significantly decreased
+plasma glucose AUC by 21.0, 15.4 and 33.8%, respectively,
+compared with vehicle, and the glucose tolerance in the
+combination group was even better than that in normal ZL
+rats (Figure 1A, C). Two-way ANOVA showed additive 
+glucose-lowering effects in the combination (TAK-875, P ≤ 0.01;
+metformin, P ≤ 0.01; interaction, not significant). TAK-875
+significantly enhanced insulin secretion before a glucose
+load (P ≤ 0.01) and tended to augment it at 10 min after
+of GPR40 agonist and metformin BJPCombination
+glucose load, while metformin showed a trend towards
+reduce insulin release at 10 min (Figure 1B, D). TAK-875 and
+metformin in combination also increased insulin secretion
+just before glucose challenge compared with vehicle,
+although the increase was not statistically significant
+(P = 0.059; Figure 1B, D).
+Next, effects of these drugs on fasting hyperglycaemia
+were evaluated in aged ZDF rats. Fasting plasma glucose levels
+were significantly elevated in 19-week-old ZDF rats compared
+with age-matched normal rats (13.0 ± 3.0 mmol·L−1 vs.
+5.6 ± 0.2 mmol·L−1, P ≤ 0.01). Acute dosing of TAK-875
+(10 mg·kg−1) significantly decreased fasting plasma glucose
+levels with augmentation of insulin secretion in ZDF rats
+(Figure 2). Metformin (150 mg·kg−1) also improved fasting
+hyperglycaemia without changes in insulin release (Figure 2).
+The combination treatment with TAK-875 and metformin
+additively decreased fasting plasma glucose levels (TAK-875,
+British Journal of Pharmacology (2013) 170 568-580 571
+P ≤ 0.01; metformin, P ≤ 0.01; interaction, not significant),
+and significantly increased fasting plasma insulin levels 
+compared with vehicle (Figure 2). The amount of the secreted
+insulin was almost the same as that seen with TAK-875 
+treatment (Figure 2B, D). These results indicate that combination
+treatment with TAK-875 and metformin effectively improves
+postprandial and fasting hyperglycaemia while sparing
+insulin secretion, compared with each drug alone.
+Multiple dosing of TAK-875 slows
+progression of diabetes, and the effect is
+additively potentiated by the combination
+with metformin
+To expand the results mentioned earlier after acute dosing
+to the chronic setting, the effects of multiple dosing of 
+TAK-875 on glycaemic control were examined in ZDF rats. To
+accurately confirm the effects of insulinotropic drugs taken
+before meals, rats were subjected to time-restricted feeding,
+in which a high-calorie diet was fed twice daily for 2 h per
+feeding. TAK-875 (10 mg·kg−1) or metformin (50 mg·kg−1)
+572 British Journal of Pharmacology (2013) 170 568-580
+was administered 30 min before meal twice daily or once
+daily in the evening respectively. After 6 weeks of 
+treatment, no significant changes in body weight and 
+cumulative food intake were observed, except for significant
+increase in body weight in ZDF rats receiving metformin
+alone (P ≤ 0.01) or the combination of TAK-875 and 
+metformin (P ≤ 0.01; Figure 3). In vehicle-treated ZDF rats,
+fasting plasma glucose levels began to elevate at week 2,
+and reached hyperglycaemic levels (26.2 ± 1.2 mmol·L−1) at
+week 6 (Figure 4A). A 6-week treatment with TAK-875, 
+metformin and their combination showed a trend towards
+decrease in fasting plasma glucose levels by 22.4, 15.1 and
+37.9%, respectively, compared with vehicle (Figure 4A, B).
+Consistent with fasting plasma glucose levels, GHb levels,
+which reflect long-term glycaemic control, were 
+significantly decreased by 1.7, 1.8 and 2.4% after 6 weeks of 
+treatment with TAK-875, metformin and their combination,
+respectively, compared with vehicle (Figure 4C), and an
+additive GHb-lowering effect was observed in their 
+combination (TAK-875, P ≤ 0.05; metformin, P ≤ 0.01; interaction,
+not significant).
+Multiple dosing of TAK-875 alone or in
+combination with metformin prevents
+β-cell dysfunction
+To evaluate in vivo effects on pancreatic β-cell function, fasting
+plasma insulin levels were examined in ZDF rats after multiple
+dosing. In vehicle-treated ZDF rats, plasma insulin levels were
+gradually elevated until 4 weeks of treatment, followed by a
+rapid reduction (Figure 5A), indicating that progressive β-cell
+dysfunction began around week 4. Plasma insulin levels at
+week 6 remained 2.2- and 2.4-fold higher in the TAK-875 and
+metformin groups, respectively, compared with the vehicle
+group, although the increase was not statistically significant
+(Figure 5A, B). In combination-treated ZDF rats, plasma
+insulin levels continued to increase through the study period
+with a maximal 3.2-fold increase compared with 
+vehicle-treated rats (Figure 5A, B), and the additive increase was
+observed at week 6 (TAK-875, P ≤ 0.05; metformin, P ≤ 0.01;
+interaction, not significant). Furthermore, as assessed by
+HOMA-β after 6 weeks of treatment, β-cell function was
+increased 5.0-, 4.7- and 9.6-fold in the TAK-875, the 
+metformin and the combination groups, respectively, and 
+significant increases were observed in the metformin and the
+combination group compared with vehicle (Figure 5C). As
+often observed in type 2 diabetic patients, ZDF rats exhibited
+elevated plasma glucagon levels compared with normal rats
+(Figure 5D). In contrast to plasma insulin levels, plasma 
+glucagon levels were not significantly changed by any of the 
+treatments (Figure 5D). At week 6, vehicle-treated ZDF rats showed
+significant increases in fasting plasma TG and TC levels, but
+not NEFA levels, compared with normal rats (Table 1). Plasma
+TG, TC and NEFA levels were not significantly changed by 6
+weeks of treatment with TAK-875 (Table 1). In 
+metformin-and the combination-treated rats, a significant increase in
+plasma TG was observed compared with vehicle-treated rats
+(Table 1). Altogether, these results indicate that long-term
+activation of GPR40 by TAK-875 prevents progressive β-cell
+dysfunction even in the presence of hyperlipidaemia, and the
+effects are potentiated by the combination with metformin.
+of GPR40 agonist and metformin BJPCombination
+Pancreatic insulin content is maintained at
+normal levels in rats given TAK-875 and
+metformin in combination
+Pancreatic hormone contents were measured at the end of
+study period. In vehicle-treated ZDF rats, pancreatic insulin
+content was significantly decreased to 37.7% of that in
+normal rats (Figure 6A). After 44 days of treatment with 
+TAK-875 and metformin, pancreatic insulin contents were 1.6-
+and 2.2-fold higher, respectively, than in the vehicle group,
+although the differences did not reach statistical significance
+(Figure 6A). The combination of TAK-875 and metformin
+maintained a significantly higher level of pancreatic insulin
+content, which was almost equivalent to that in normal rats
+(vehicle: 26, combination: 67.1; normal lean: 69.1 ng·mg−1
+pancreas; Figure 6A). On the other hand, pancreatic glucagon
+contents were not significantly different among the ZDF
+groups (Figure 6B).
+Structural abnormality and altered protein
+expression necessary for β-cell function and
+proliferation are improved by TAK-875 and
+metformin in combination
+Pancreata isolated from rats were analysed by 
+immunohisto-chemistry using anti-insulin, anti-glucagon, anti-PDX-1 and
+anti-PCNA antibodies at the end of the study period. 
+Immu-nostaining for insulin revealed that islets in vehicle-treated
+ZDF rats were enlarged and disorganized with extensions into
+the surrounding exocrine tissue compared with those in
+normal rats (Figure 7A, Q). Moreover, widespread distribution
+of glucagon-positive α-cells and reduced PDX-1 expression
+throughout the islets were observed in vehicle-treated ZDF
+rats (Figure 7B, C, R, S). Multiple dosing of TAK-875 and
+metformin did not produce detectable changes in islet 
+morphology or in the expression of insulin, glucagon and PDX-1
+in ZDF rats (Figure 7A-C, E-G, I-K). In contrast, in ZDF rats
+receiving TAK-875 and metformin in combination, many
+insulin-positive cells displayed relatively normal round and
+British Journal of Pharmacology (2013) 170 568-580 573
+or their combination, and in ZL rats during 6 weeks of treatment with vehicle. Data in (B) and (C) represent fasting plasma glucose and GHb levels
+after 6 weeks of treatment, respectively. *P ≤ 0.05, **P ≤ 0.01 compared to vehicle-treated ZDF rats by Dunnett’s test or Steel’s test. ++P ≤ 0.01
+compared to vehicle-treated ZDF rats by Student’s t-test or the Aspin-Welch test. The results of two-way ANOVA are indicated in insets. Values are
+mean ± SD (n = 6 for ZDF rats, n = 5 for ZL rats). n.s., not significant.
+dense islet architecture compared with those in 
+vehicle-treated ZDF rats (Figure 7A, M). The distributions of
+glucagon-positive cells in islets were not different between
+the combination and vehicle groups (Figure 7B, N). 
+Interestingly, high levels of PDX-1 expression were maintained in
+nucleus and cytosol of islets from combination-treated ZDF
+rats, as observed in those from ZL rats (Figure 7C, O, S).
+Moreover, immunostaining of PCNA showed increased
+PCNA-positive cell numbers in islets from the combination
+group compared with the vehicle group (arrows in Figure 7P).
+The double staining revealed the co-localizations of 
+PCNA-positive nuclei with insulin staining in these islets (Support-
+ing Information Figure S1). Taken together, these results
+indicate that multiple dosing of TAK-875 and metformin in
+combination could exert beneficial effects on pancreatic
+β-cell function and mass in ZDF rats.
+574 British Journal of Pharmacology (2013) 170 568-580
+Discussion and Conclusions
+TAK-875, a potent, selective and orally available GPR40
+agonist, provides glucose-dependent insulin secretion
+through activation of the Gαq-signalling pathway and 
+amplification of intracellular Ca2+ (Tsujihata et al., 2011; Yashiro
+et al., 2012), which is a mechanism distinct from those of
+other clinically available oral insulinotropic drugs, including
+SUs and DPP-4 inhibitors (Winzell and Ahren, 2007). We
+previously showed that acute administration of TAK-875
+improved postprandial hyperglycaemia due to augmentation
+of insulin secretion in non-obese type 2 diabetic rats
+(Tsujihata et al., 2011). In addition, it has been demonstrated
+that TAK-875 significantly improved glycaemic control in
+type 2 diabetic patients with minimum risk of hypoglycaemia
+compared with SUs (Araki et al., 2012; Burant et al., 2012).
+Given that TAK-875 could become a new class of 
+anti-hyperglycaemic agent, there is a need to evaluate its
+potential use in combination treatment with existing 
+anti-hyperglycaemic agents. In the present study, we examined
+the effects of combination treatment with TAK-875 and 
+metformin, which is a first-line drug for treatment of type 2
+diabetes, on glycaemic control, pancreatic β-cell function and
+islet morphology in male ZDF rats. This model shows insulin
+resistance at a young age, after which severe hyperglycaemia
+and progressive β-cell dysfunction develop, due at least in
+of GPR40 agonist and metformin BJPCombination
+part to insufficient compensation for insulin resistance. It is
+therefore suitable for evaluation of combination effects of
+insulin secretagogues and insulin sensitizers (Lee et al., 1994;
+Finegood et al., 2001).
+In this study, 6-week multiple dosing of TAK-875 
+significantly decreased GHb levels by 1.7%, and the efficacy was
+almost comparable with that of metformin. Several 
+nonclinical studies with GPR40 agonists other than TAK-875 have
+been described in recent years. These results show that
+glucose-lowering and insulinotropic effects during an 
+intra-British Journal of Pharmacology (2013) 170 568-580 575
+BJP R Ito et al.
+Data show plasma TG, TC and NEFA levels in ZDF rats after 6 weeks of treatment with vehicle, 10 mg·kg−1, b.i.d. of TAK-875 (TAK),
+50 mg·kg−1, q.d. of MET, or their combination, and in ZL rats during 6 weeks of treatment with vehicle.
+aP ≤ 0.05 compared with vehicle-treated ZDF rats by Dunnett’s test or Steel’s test.
+bP ≤ 0.01 compared with vehicle-treated ZDF rats by Student’s t-test or the Aspin-Welch test. Values are mean ± SD (n = 6 for ZDF rats, n = 5
+peritoneal glucose tolerance test are well maintained in obese
+rodents after multiple dosing (Tan et al., 2008; Lin et al.,
+2011), indicating a lack of tachyphylaxis of GPR40 agonists.
+However, distinct anti-diabetic effects by long-term 
+activation of GPR40 have not been demonstrated. In this study, we
+demonstrated for the first time that administration of the
+GPR40 agonist TAK-875 not only acutely improved both 
+postprandial and fasting hyperglycaemia, but also chronically
+delayed the progression of diabetes in a rodent model. Our
+findings strongly support clinical results (Araki et al., 2012;
+Burant et al., 2012).
+576 British Journal of Pharmacology (2013) 170 568-580
+While FFAs acutely stimulate insulin secretion, chronic
+exposure to them is reported to cause β-cell dysfunction and
+cell death. Although GPR40 has been considered to be 
+possibly involved in lipotoxicity (Steneberg et al., 2005), a number
+of experimental observations do not support a central role for
+GPR40 in lipotoxicity (Latour et al., 2007; Kebede et al., 2008;
+Nagasumi et al., 2009). In our previous study, prolonged
+exposure to TAK-875 did not cause β-cell dysfunction in vitro,
+in contrast to FFA (Tsujihata et al., 2011). In ZDF rats, 
+hyperlipidaemia precedes the rise in plasma glucose, and these
+lipotoxic effects on β-cells are thought to contribute to
+gradual progression of β-cell dysfunction (Lee et al., 1994).
+Actually, in the present study, hyperlipidaemia was observed
+in ZDF rats compared with normal rats. Despite the high
+plasma lipid levels, TAK-875 achieved the improvement in
+glycaemic control with a trend towards increase in fasting
+plasma insulin levels and pancreatic insulin content, and no
+changes in islet morphology. These results indicate that 
+long-term activation of GPR40 by TAK-875 could have beneficial
+effects on pancreatic β-cell function even in the presence of
+hyperlipidaemia. Our results support a previous in vitro study
+showing that GPR40 is not involved in the chronic toxic
+effects of FFAs (Tsujihata et al., 2011).
+of GPR40 agonist and metformin BJPCombination
+Metformin provides glucose-lowering effects via 
+pleio-tropic mechanisms including decreased hepatic glucose 
+production, increased peripheral glucose disposal and reduced
+intestinal glucose absorption (Hundal and Inzucchi, 2003). As
+expected from their complementary mechanisms of action,
+acute administration of TAK-875 and metformin in 
+combination resulted in a greater decrease in postprandial and fasting
+hyperglycaemia compared with each drug alone, despite the
+fact that insulin secretion was almost the same as that in rats
+treated with TAK-875 alone. This insulin-sparing action of the
+combination could lead to the alleviation of β-cell 
+exhaustion. In fact, chronic dosing of TAK-875 and metformin in
+British Journal of Pharmacology (2013) 170 568-580 577
+BJP R Ito et al.
+combination significantly decreased GHb levels by 2.4% and
+prevented the progressive decline in plasma insulin levels,
+both of which effects were greater than those seen with either
+drug alone. Furthermore, the combination treatment showed
+a significant increase in HOMA-β and pancreatic insulin
+content, and the insulin content was comparable with that in
+normal rats. As assessed by immunohistochemistry, normal
+rounded islet architecture, elevated PDX-1 expression and
+increased PCNA-positive cell numbers were observed in the
+combination group. Considering that the balance of β-cell
+proliferation and apoptosis can control pancreatic β-cell
+mass, thereby forming islet architecture (Butler et al., 2003),
+relatively normal islet architecture in the combination group
+may be maintained due to increased β-cell proliferation. 
+Altogether, these results suggest that this combination strategy is
+effective for preserving β-cell function in ZDF rats.
+The mechanism of the strong protective effects on β-cells
+by the combination of TAK-875 and metformin is not fully
+understood. Previous reports have demonstrated that 
+prevention of progressive hyperglycaemia per se preserves
+insulin and PDX-1 gene expression by relieving glucotoxicity
+on β-cells in ZDF rats (Harmon et al., 1999). Thus, 
+improvement in β-cell function in the combination group observed
+in the present study may be mediated, at least in part, by
+improved glycaemic control. On the other hand, Janssen
+et al. (2003) have reported that glycaemic control by 
+treatment with phlorizin, a renal sodium-dependent glucose
+transport inhibitor, prevents the decrease in plasma insulin,
+but not the progressive histochemical changes in islets in
+these rats, implying the involvement of direct trophic effects
+of TAK-875 and metformin on β-cell survival in our studies.
+It has been very recently shown that chronic activation of
+designer Gq-coupled receptor in β-cells leads to the 
+sequential activation of ERK1/2 and IRS-2 signalling, thus triggering
+a series of events that greatly improve β-cell function (Jain
+et al., 2013). Because GPR40 is one of the Gq-coupled 
+receptors highly expressed in β-cells, there is a possibility that
+TAK-875 may directly activate ERK1/2 and IRS-2 cascade in
+β-cells, leading to improved β-cell function. Indeed, it has
+been reported that activation of GPR40 by endogenous
+ligand FFA causes increased ERK1/2 phosphorylation in
+mouse insulinoma MIN6 cells (Itoh et al., 2003). While 
+metformin suppresses hepatic glucose production in liver, the
+direct effects in pancreatic β-cells have also been reported.
+The therapeutic concentration of metformin has been also
+shown to cause β-cell protection against glucolipotoxicity
+(Lupi et al., 1999; 2002; Marchetti et al., 2004), although
+there is an ongoing debate whether activation of AMPK has
+positive or negative impact on pancreatic β-cell function (Fu
+et al., 2013). These direct protective effects of TAK-875 and
+metformin in β-cells might be particularly potentiated in
+their combination treatment, by which the additive 
+glycaemic control has been achieved. Further studies are required
+to clarify how TAK-875 directly affects β-cell growth or how
+TAK-875 and metformin can interact with each other in
+β-cells. Alternatively, recent clinical observation indicates
+that metformin increases glucagon-like peptide-1 (GLP-1)
+concentration (Mannucci et al., 2001). GPR40 is also
+expressed in enteroendocrine cells, and mediates 
+FFA-induced GLP-1 secretion (Edfalk et al., 2008). It is well known
+that GLP-1 has protective effects on β-cells (Perfetti and Hui,
+578 British Journal of Pharmacology (2013) 170 568-580
+2004). Although plasma GLP-1 levels were not assessed in
+this study, the potential role of GLP-1 in the combination
+effects should be assessed in a future study.
+The combination of SU drugs and metformin is one of the
+most frequently used combination therapies, but increases
+the risk of hypoglycaemia (Blonde et al., 2002). Our study
+showed that plasma glucose levels just before glucose load
+(time 0) in ZDF rats receiving a combination of TAK-875 and
+metformin were similar to those of normal rats. These results
+suggest that the combination of TAK-875 and metformin may
+pose a low risk of hypoglycaemia due to the 
+glucose-dependent insulin secretion seen with TAK-875 (Tsujihata
+et al., 2011). Combination therapy with metformin and
+DPP-4 inhibitors, which augments insulin secretion via 
+elevation of active forms of incretins, is currently attracting 
+attention because of the additive improvement in glycaemic
+control with a minimum risk of hypoglycaemia (Goldstein
+et al., 2007). The recent in vitro report has shown that high
+concentration of glucose or metformin regulates expressions
+of GLP-1 and glucose-dependent insulinotropic polypeptide
+receptor, but not GPR40 in β-cells (Pan et al., 2009). In future
+studies, it will be of interest to determine whether expression
+of GPR40 can be regulated by diabetic condition and 
+combination with other anti-diabetic drugs in vivo.
+In diabetic patients, hyperglucagonemia has been
+reported (Sloop et al., 2005) and is involved in 
+hyperglycaemia by increasing hepatic glucose production. In the present
+study, ZDF rats showed elevated plasma glucagon levels
+compared with normal rats. It has been previously reported
+that GPR40 mediates FFA-induced glucagon secretion via
+GPR40 in α-cells (Flodgren et al., 2007). In our study, 
+TAK-875 did not affect plasma glucagon levels, pancreatic 
+glucagon content or distribution of glucagon-positive cells in
+ZDF rats. These results are consistent with the previously
+reported in vitro study using human pancreatic islets and in
+clinical data on diabetic patients (Araki et al., 2012; Yashiro
+et al., 2012).
+In our study, increases in body weight were observed in
+the metformin and the combination groups. Consistent with
+these observations, the DPP-4 inhibitor alogliptin and 
+pioglitazone in combination increased body weight compared
+with pioglitazone alone in db/db mice, a diabetic model with
+progressive β-cell dysfunction like ZDF rats (Moritoh et al.,
+2009). This may be associated with anabolic effects of
+elevated plasma insulin. Moreover, significant increases in
+fasting plasma TG levels in the metformin and combination
+groups were observed at week 6 in this study. Because 
+hyper-insulinaemia promotes hepatic lipogenesis via activation of
+lipogenic transcriptional factor sterol regulatory 
+element-binding protein-1c (Yecies et al., 2011), thereby causing an
+increase in plasma TG levels, plasma TG levels in the 
+vehicle-treated ZDF rats may have been decreased by the reduction of
+plasma insulin levels at week 6.
+In conclusion, the present study is the first to 
+demonstrate that chronic activation of GPR40 by TAK-875 has the
+potential to slow the progression of diabetes without 
+accelerating the progression of β-cell dysfunction in a diabetic
+animal model. Our findings also suggest that combination
+therapy with TAK-875 and metformin may be a valuable
+strategy for glycaemic control and β-cell preservation in
+patients with type 2 diabetes.
+Acknowledgements
+We are very grateful to Drs. Seigo Izumo, Yukio Yamada and
+Masakuni Noda for valuable discussions and helpful 
+suggestions. Also, thanks are due to Dr. Yusuke Moritoh for helpful
+support, Shoichi Asano for technical assistance with animal
+testing, and Kazuko Hirai for technical assistance with 
+immu-nohistochemistry. Parts of these studies were presented in
+abstract form at the 71st Scientific Sessions of the American
+Diabetes Association, San Diego, CA, 24-28 June 2011.
+Conflicts of interest
+All authors are current employees of Takeda Pharmaceutical
+Company Limited, Kanagawa, Japan.
+References
+Araki T, Hirayama M, Hiroi S, Kaku K (2012). GPR40-induced
+insulin secretion by the novel agonist TAK-875: first clinical
+findings in patients with type 2 diabetes. Diabetes Obes Metab 14:
+271-278.
+Blonde L, Rosenstock J, Mooradian AD, Piper BA, Henry D (2002).
+Glyburide/metformin combination product is safe and efficacious
+in patients with type 2 diabetes failing sulphonylurea therapy.
+Diabetes Obes Metab 4: 368-375.
+Briscoe CP, Tadayyon M, Andrews JL, Benson WG, Chambers JK,
+Eilert MM et al. (2003). The orphan G protein-coupled receptor
+GPR40 is activated by medium and long chain fatty acids. J Biol
+Chem 278: 11303-11311.
+Burant CF, Viswanathan P, Marcinak J, Cao C, Vakilynejad M, Xie B
+et al. (2012). TAK-875 versus placebo or glimepiride in type 2
+diabetes mellitus: a phase 2, randomised, double-blind,
+placebo-controlled trial. Lancet 379: 1403-1411.
+Butler AE, Janson J, Bonner-Weir S, Ritzel R, Rizza RA, Butler PC
+(2003). Beta-cell deficit and increased beta-cell apoptosis in humans
+with type 2 diabetes. Diabetes 52: 102-110.
+Charpentier G (2002). Oral combination therapy for type 2
+diabetes. Diabetes Metab Res Rev 18 (Suppl. 3): S70-S76.
+Edfalk S, Steneberg P, Edlund H (2008). Gpr40 is expressed in
+enteroendocrine cells and mediates free fatty acid stimulation of
+incretin secretion. Diabetes 57: 2280-2287.
+Finegood DT, McArthur MD, Kojwang D, Thomas MJ, Topp BG,
+Leonard T et al. (2001). Beta-cell mass dynamics in Zucker diabetic
+fatty rats: rosiglitazone prevents the rise in net cell death. Diabetes
+50: 1021-1029.
+Flodgren E, Olde B, Meidute-Abaraviciene S, Winzell MS, Ahren B,
+Salehi A (2007). GPR40 is expressed in glucagon producing cells
+and affects glucagon secretion. Biochem Biophys Res Commun 354:
+240-245.
+Fu A, Eberhard CE, Screaton RA (2013). Role of AMPK in pancreatic
+beta cell function. Mol Cell Endocrinol 366: 127-134.
+Fujiwara K, Maekawa F, Yada T (2005). Oleic acid interacts with
+GPR40 to induce Ca2+ signaling in rat islet beta-cells: mediation by
+of GPR40 agonist and metformin BJPCombination
+PLC and L-type Ca2+ channel and link to insulin release. Am J
+Physiol Endocrinol Metab 289: E670-E677.
+Giorgino F, Laviola L, Leonardini A (2005). Pathophysiology of type
+2 diabetes: rationale for different oral antidiabetic treatment
+strategies. Diabetes Res Clin Pract 68 (Suppl. 1): S22-S29.
+Goldstein BJ, Feinglos MN, Lunceford JK, Johnson J,
+Williams-Herman DE (2007). Effect of initial combination therapy
+with sitagliptin, a dipeptidyl peptidase-4 inhibitor, and metformin
+on glycemic control in patients with type 2 diabetes. Diabetes Care
+30: 1979-1987.
+Han SJ, Choi SE, Kang Y, Jung JG, Yi SA, Kim HJ et al. (2011). Effect
+of sitagliptin plus metformin on beta-cell function, islet integrity
+and islet gene expression in Zucker diabetic fatty rats. Diabetes Res
+Clin Pract 92: 213-222.
+Harmon JS, Gleason CE, Tanaka Y, Oseid EA, Hunter-Berger KK,
+Robertson RP (1999). In vivo prevention of hyperglycemia also
+prevents glucotoxic effects on PDX-1 and insulin gene expression.
+Diabetes 48: 1995-2000.
+Hundal RS, Inzucchi SE (2003). Metformin: new understandings,
+new uses. Drugs 63: 1879-1894.
+Inzucchi SE, Bergenstal RM, Buse JB, Diamant M, Ferrannini E,
+Nauck M et al. (2012). Management of hyperglycaemia in type 2
+diabetes: a patient-centered approach. Position statement of the
+American Diabetes Association (ADA) and the European Association
+for the Study of Diabetes (EASD). Diabetologia 55: 1577-1596.
+Itoh Y, Kawamata Y, Harada M, Kobayashi M, Fujii R, Fukusumi S
+et al. (2003). Free fatty acids regulate insulin secretion from
+pancreatic beta cells through GPR40. Nature 422: 173-176.
+Jain S, de Azua IR, Lu H, White MF, Guettier JM, Wess J (2013).
+Chronic activation of a designer Gq-coupled receptor improves beta
+cell function. J Clin Invest 123: 1750-1762. doi:10.1172/JCI66432.
+Janssen SW, Martens GJ, Sweep CG, Span PN, Verhofstad AA,
+Hermus AR (2003). Phlorizin treatment prevents the decrease in
+plasma insulin levels but not the progressive histopathological
+changes in the pancreatic islets during aging of Zucker diabetic
+fatty rats. J Endocrinol Invest 26: 508-515.
+Kahn SE (2000). The importance of the beta-cell in the
+pathogenesis of type 2 diabetes mellitus. Am J Med 108 (Suppl. 6a):
+2S-8S.
+Kebede M, Alquier T, Latour MG, Semache M, Tremblay C, Poitout
+V (2008). The fatty acid receptor GPR40 plays a role in insulin
+secretion in vivo after high-fat feeding. Diabetes 57: 2432-2437.
+Kilkenny C, Browne W, Cuthill IC, Emerson M, Altman DG (2010).
+Animal research: reporting in vivo experiments: the ARRIVE
+guidelines. Br J Pharmacol 160: 1577-1579.
+Latour MG, Alquier T, Oseid E, Tremblay C, Jetton TL, Luo J et al.
+(2007). GPR40 is necessary but not sufficient for fatty acid
+stimulation of insulin secretion in vivo. Diabetes 56: 1087-1094.
+Lee Y, Hirose H, Ohneda M, Johnson JH, McGarry JD, Unger RH
+(1994). Beta-cell lipotoxicity in the pathogenesis of
+non-insulin-dependent diabetes mellitus of obese rats: impairment
+in adipocyte-beta-cell relationships. Proc Natl Acad Sci U S A 91:
+10878-10882.
+Lin DC, Zhang J, Zhuang R, Li F, Nguyen K, Chen M et al. (2011).
+AMG 837: a novel GPR40/FFA1 agonist that enhances insulin
+secretion and lowers glucose levels in rodents. PLoS ONE 6: e27270.
+Lupi R, Del Guerra S, Tellini C, Giannarelli R, Coppelli A, Lorenzetti
+M et al. (1999). The biguanide compound metformin prevents
+desensitization of human pancreatic islets induced by high glucose.
+Eur J Pharmacol 364: 205-209.
+British Journal of Pharmacology (2013) 170 568-580 579
+BJP R Ito et al.
+Lupi R, Del Guerra S, Fierabracci V, Marselli L, Novelli M, Patanè G
+et al. (2002). Lipotoxicity in human pancreatic islets and the
+protective effect of metformin. Diabetes 51 (Suppl. 1): S134-S137.
+McGrath JC, Drummond GB, McLachlan EM, Kilkenny C,
+Wainwright CL (2010). Guidelines for reporting experiments
+involving animals: the ARRIVE guidelines. Br J Pharmacol 160:
+1573-1576.
+Mannucci E, Ognibene A, Cremasco F, Bardini G, Mencucci A,
+Pierazzuoli E et al. (2001). Effect of metformin on glucagon-like
+peptide 1 (GLP-1) and leptin levels in obese nondiabetic subjects.
+Diabetes Care 24: 489-494.
+Marchetti P, Del Guerra S, Marselli L, Lupi R, Masini M, Pollera M
+et al. (2004). Pancreatic islets from type 2 diabetic patients have
+functional defects and increased apoptosis that are ameliorated by
+metformin. J Clin Endocrinol Metab 89: 5535-5541.
+Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF,
+Turner RC (1985). Homeostasis model assessment: insulin resistance
+and beta-cell function from fasting plasma glucose and insulin
+concentrations in man. Diabetologia 28: 412-419.
+Melloul D (2004). Transcription factors in islet development and
+physiology: role of PDX-1 in beta-cell function. Ann N Y Acad Sci
+1014: 28-37.
+Moritoh Y, Takeuchi K, Asakawa T, Kataoka O, Odaka H (2009).
+Combining a dipeptidyl peptidase-4 inhibitor, alogliptin, with
+pioglitazone improves glycaemic control, lipid profiles and beta-cell
+function in db/db mice. Br J Pharmacol 157: 415-426.
+Nagasumi K, Esaki R, Iwachidow K, Yasuhara Y, Ogi K, Tanaka H
+et al. (2009). Overexpression of GPR40 in pancreatic beta-cells
+augments glucose-stimulated insulin secretion and improves
+glucose tolerance in normal and diabetic mice. Diabetes 58:
+1067-1076.
+Naik H, Vakilynejad M, Wu J, Viswanathan P, Dote N, Higuchi T
+et al. (2012). Safety, tolerability, pharmacokinetics, and
+pharmacodynamic properties of the GPR40 agonist TAK-875: results
+from a double-blind, placebo-controlled single oral dose rising
+study in healthy volunteers. J Clin Pharmacol 52: 1007-1016.
+Negoro N, Sasaki S, Mikami S, Ito M, Suzuki M, Tsujihata Y et al.
+(2010). Discovery of TAK-875: a potent, selective, and orally
+bioavailable GPR40 agonist. ACS Medicinal. Chem Lett 1: 290-294.
+Negoro N, Sasaki S, Mikami S, Ito M, Tsujihata Y, Ito R et al. (2012).
+Optimization of (2,3-dihydro-1-benzofuran-3-yl)acetic acids:
+discovery of a non-free fatty acid-like, highly bioavailable G-protein
+coupled receptor 40/free fatty acid receptor 1 agonist as a
+glucose-dependent insulinotropic agent. J Med Chem 55:
+3960-3974.
+Pan QR, Li WH, Wang H, Sun Q, Xiao XH, Brock B et al. (2009).
+Glucose, metformin, and AICAR regulate the expression of G
+protein-coupled receptor members in INS-1 beta cell. Horm Metab
+Res 41: 799-804.
+Perfetti R, Hui H (2004). The role of GLP-1 in the life and death of
+pancreatic beta cells. Horm Metab Res 36: 804-810.
+Pratley RE (2009). Alogliptin: a new, highly selective dipeptidyl
+peptidase-4 inhibitor for the treatment of type 2 diabetes. Expert
+Opin Pharmacother 10: 503-512.
+Rafacho A, Ribeiro DL, Boschero AC, Taboga SR, Bosqueiro JR
+(2008). Increased pancreatic islet mass is accompanied by activation
+of the insulin receptor substrate-2/serine-threonine kinase pathway
+and augmented cyclin D2 protein levels in insulin-resistant rats. Int
+J Exp Pathol 89: 264-275.
+Rendell M (2004). The role of sulphonylureas in the management
+of type 2 diabetes mellitus. Drugs 64: 1339-1358.
+Shapiro H, Shachar S, Sekler I, Hershfinkel M, Walker MD (2005).
+Role of GPR40 in fatty acid action on the beta cell line INS-1E.
+Biochem Biophys Res Commun 335: 97-104.
+Sloop KW, Michael MD, Moyers JS (2005). Glucagon as a target for
+the treatment of type 2 diabetes. Expert Opin Ther Targets 9:
+593-600.
+Steneberg P, Rubins N, Bartoov-Shifman R, Walker MD, Edlund H
+(2005). The FFA receptor GPR40 links hyperinsulinemia, hepatic
+steatosis, and impaired glucose homeostasis in mouse. Cell Metab
+1: 245-258.
+Tan CP, Feng Y, Zhou YP, Eiermann GJ, Petrov A, Zhou C et al.
+(2008). Selective small-molecule agonists of G protein-coupled
+receptor 40 promote glucose-dependent insulin secretion and
+reduce blood glucose in mice. Diabetes 57: 2211-2219.
+Tsujihata Y, Ito R, Suzuki M, Harada A, Negoro N, Yasuma T et al.
+(2011). TAK-875, an orally available G protein-coupled receptor
+40/free fatty acid receptor 1 agonist, enhances glucose-dependent
+insulin secretion and improves both postprandial and fasting
+hyperglycemia in type 2 diabetic rats. J Pharmacol Exp Ther 339:
+228-237.
+U.K. Prospective Diabetes Study Group (1995). U.K. prospective
+diabetes study 16: overview of 6 years’ therapy of type II diabetes: a
+progressive disease. U.K. Prospective Diabetes Study Group.
+Diabetes 44: 1249-1258.
+Williams-Herman D, Xu L, Teng R, Golm GT, Johnson J, Davies MJ
+et al. (2012). Effect of initial combination therapy with sitagliptin
+and metformin on beta-cell function in patients with type 2
+diabetes. Diabetes Obes Metab 14: 67-76.
+Winzell MS, Ahren B (2007). G-protein-coupled receptors and islet
+function - implications for treatment of type 2 diabetes. Pharmacol
+Ther 116: 437-448.
+Yashiro H, Tsujihata Y, Takeuchi K, Hazama M, Johnson PR,
+Rorsman P (2012). The effects of TAK-875, a selective GPR40/FFA1
+agonist, on insulin and glucagon in isolated rat and human islets.
+J Pharmacol Exp Ther 340: 483-489.
+Yecies JL, Zhang HH, Menon S, Liu S, Yecies D, Lipovsky AI et al.
+(2011). Akt stimulates hepatic SREBP1c and lipogenesis through
+parallel mTORC1-dependent and independent pathways. Cell
+Metab 14: 21-32.
+Supporting information
+Additional Supporting Information may be found in the
+online version of this article at the publisher’s web-site:
+Figure S1 Effects of 44-day treatment with TAK-875, 
+metformin and TAK-875 in combination with metformin on
+insulin- and PCNA-double positive cell numbers in 
+pancreatic islets from ZDF rats. ZDF rats were administered the
+combination 10 mg·kg−1, b.i.d. of TAK-875 and 50 mg·kg−1,
+q.d. of metformin for 44 days. The pancreata were isolated
+and immunostained with anti-insulin (red colour) and 
+anti-PCNA (brown colour) antibodies. Arrows indicate the 
+representative image of the co-localization of PCNA-positive
+nuclei with insulin staining. Scale bar = 250 μm.
+580 British Journal of Pharmacology (2013) 170 568-580
+
+>>>section: acknowledgements
+Acknowledgements
+We are very grateful to Drs. Seigo Izumo, Yukio Yamada and
+Masakuni Noda for valuable discussions and helpful 
+suggestions. Also, thanks are due to Dr. Yusuke Moritoh for helpful
+support, Shoichi Asano for technical assistance with animal
+testing, and Kazuko Hirai for technical assistance with 
+immu-nohistochemistry. Parts of these studies were presented in
+abstract form at the 71st Scientific Sessions of the American
+Diabetes Association, San Diego, CA, 24-28 June 2011.
+Conflicts of interest
+All authors are current employees of Takeda Pharmaceutical
+Company Limited, Kanagawa, Japan.
+
+>>>section: abstract
+
+>>>section: discussion
+
+>>>section: results
+Results
+Acute administration of TAK-875 and
+metformin in combination additively
+improves postprandial and fasting
+hyperglycaemia
+Before multiple dosing studies, we examined the
+effects of TAK-875, metformin and their combination on
+ANOVA was performed (Moritoh
+acute
+postprandial hyperglycaemia during OGTT in young ZDF
+rats (8 weeks of age). TAK-875 exhibits high oral 
+bioavail-ability (76%), Cmax of 5.8 μg mL−1, Tmax of 1 h following a
+3 mg kg−1 oral dosing in fasted rats (Negoro et al., 2010). In
+this study, 3-10 mg·kg−1 of TAK-875 was selected based on
+the pharmacokinetic profiles: this dose is similar to clinical
+doses of TAK-875 (Naik et al., 2012). Oral administration of
+TAK-875 (3 mg·kg−1), metformin (50 mg·kg−1), and their
+combination 1 h before glucose load significantly decreased
+plasma glucose AUC by 21.0, 15.4 and 33.8%, respectively,
+compared with vehicle, and the glucose tolerance in the
+combination group was even better than that in normal ZL
+rats (Figure 1A, C). Two-way ANOVA showed additive 
+glucose-lowering effects in the combination (TAK-875, P ≤ 0.01;
+metformin, P ≤ 0.01; interaction, not significant). TAK-875
+significantly enhanced insulin secretion before a glucose
+load (P ≤ 0.01) and tended to augment it at 10 min after
+of GPR40 agonist and metformin BJPCombination
+glucose load, while metformin showed a trend towards
+reduce insulin release at 10 min (Figure 1B, D). TAK-875 and
+metformin in combination also increased insulin secretion
+just before glucose challenge compared with vehicle,
+although the increase was not statistically significant
+(P = 0.059; Figure 1B, D).
+Next, effects of these drugs on fasting hyperglycaemia
+were evaluated in aged ZDF rats. Fasting plasma glucose levels
+were significantly elevated in 19-week-old ZDF rats compared
+with age-matched normal rats (13.0 ± 3.0 mmol·L−1 vs.
+5.6 ± 0.2 mmol·L−1, P ≤ 0.01). Acute dosing of TAK-875
+(10 mg·kg−1) significantly decreased fasting plasma glucose
+levels with augmentation of insulin secretion in ZDF rats
+(Figure 2). Metformin (150 mg·kg−1) also improved fasting
+hyperglycaemia without changes in insulin release (Figure 2).
+The combination treatment with TAK-875 and metformin
+additively decreased fasting plasma glucose levels (TAK-875,
+British Journal of Pharmacology (2013) 170 568-580 571
+P ≤ 0.01; metformin, P ≤ 0.01; interaction, not significant),
+and significantly increased fasting plasma insulin levels 
+compared with vehicle (Figure 2). The amount of the secreted
+insulin was almost the same as that seen with TAK-875 
+treatment (Figure 2B, D). These results indicate that combination
+treatment with TAK-875 and metformin effectively improves
+postprandial and fasting hyperglycaemia while sparing
+insulin secretion, compared with each drug alone.
+Multiple dosing of TAK-875 slows
+progression of diabetes, and the effect is
+additively potentiated by the combination
+with metformin
+To expand the results mentioned earlier after acute dosing
+to the chronic setting, the effects of multiple dosing of 
+TAK-875 on glycaemic control were examined in ZDF rats. To
+accurately confirm the effects of insulinotropic drugs taken
+before meals, rats were subjected to time-restricted feeding,
+in which a high-calorie diet was fed twice daily for 2 h per
+feeding. TAK-875 (10 mg·kg−1) or metformin (50 mg·kg−1)
+572 British Journal of Pharmacology (2013) 170 568-580
+was administered 30 min before meal twice daily or once
+daily in the evening respectively. After 6 weeks of 
+treatment, no significant changes in body weight and 
+cumulative food intake were observed, except for significant
+increase in body weight in ZDF rats receiving metformin
+alone (P ≤ 0.01) or the combination of TAK-875 and 
+metformin (P ≤ 0.01; Figure 3). In vehicle-treated ZDF rats,
+fasting plasma glucose levels began to elevate at week 2,
+and reached hyperglycaemic levels (26.2 ± 1.2 mmol·L−1) at
+week 6 (Figure 4A). A 6-week treatment with TAK-875, 
+metformin and their combination showed a trend towards
+decrease in fasting plasma glucose levels by 22.4, 15.1 and
+37.9%, respectively, compared with vehicle (Figure 4A, B).
+Consistent with fasting plasma glucose levels, GHb levels,
+which reflect long-term glycaemic control, were 
+significantly decreased by 1.7, 1.8 and 2.4% after 6 weeks of 
+treatment with TAK-875, metformin and their combination,
+respectively, compared with vehicle (Figure 4C), and an
+additive GHb-lowering effect was observed in their 
+combination (TAK-875, P ≤ 0.05; metformin, P ≤ 0.01; interaction,
+not significant).
+Multiple dosing of TAK-875 alone or in
+combination with metformin prevents
+β-cell dysfunction
+To evaluate in vivo effects on pancreatic β-cell function, fasting
+plasma insulin levels were examined in ZDF rats after multiple
+dosing. In vehicle-treated ZDF rats, plasma insulin levels were
+gradually elevated until 4 weeks of treatment, followed by a
+rapid reduction (Figure 5A), indicating that progressive β-cell
+dysfunction began around week 4. Plasma insulin levels at
+week 6 remained 2.2- and 2.4-fold higher in the TAK-875 and
+metformin groups, respectively, compared with the vehicle
+group, although the increase was not statistically significant
+(Figure 5A, B). In combination-treated ZDF rats, plasma
+insulin levels continued to increase through the study period
+with a maximal 3.2-fold increase compared with 
+vehicle-treated rats (Figure 5A, B), and the additive increase was
+observed at week 6 (TAK-875, P ≤ 0.05; metformin, P ≤ 0.01;
+interaction, not significant). Furthermore, as assessed by
+HOMA-β after 6 weeks of treatment, β-cell function was
+increased 5.0-, 4.7- and 9.6-fold in the TAK-875, the 
+metformin and the combination groups, respectively, and 
+significant increases were observed in the metformin and the
+combination group compared with vehicle (Figure 5C). As
+often observed in type 2 diabetic patients, ZDF rats exhibited
+elevated plasma glucagon levels compared with normal rats
+(Figure 5D). In contrast to plasma insulin levels, plasma 
+glucagon levels were not significantly changed by any of the 
+treatments (Figure 5D). At week 6, vehicle-treated ZDF rats showed
+significant increases in fasting plasma TG and TC levels, but
+not NEFA levels, compared with normal rats (Table 1). Plasma
+TG, TC and NEFA levels were not significantly changed by 6
+weeks of treatment with TAK-875 (Table 1). In 
+metformin-and the combination-treated rats, a significant increase in
+plasma TG was observed compared with vehicle-treated rats
+(Table 1). Altogether, these results indicate that long-term
+activation of GPR40 by TAK-875 prevents progressive β-cell
+dysfunction even in the presence of hyperlipidaemia, and the
+effects are potentiated by the combination with metformin.
+of GPR40 agonist and metformin BJPCombination
+Pancreatic insulin content is maintained at
+normal levels in rats given TAK-875 and
+metformin in combination
+Pancreatic hormone contents were measured at the end of
+study period. In vehicle-treated ZDF rats, pancreatic insulin
+content was significantly decreased to 37.7% of that in
+normal rats (Figure 6A). After 44 days of treatment with 
+TAK-875 and metformin, pancreatic insulin contents were 1.6-
+and 2.2-fold higher, respectively, than in the vehicle group,
+although the differences did not reach statistical significance
+(Figure 6A). The combination of TAK-875 and metformin
+maintained a significantly higher level of pancreatic insulin
+content, which was almost equivalent to that in normal rats
+(vehicle: 26, combination: 67.1; normal lean: 69.1 ng·mg−1
+pancreas; Figure 6A). On the other hand, pancreatic glucagon
+contents were not significantly different among the ZDF
+groups (Figure 6B).
+Structural abnormality and altered protein
+expression necessary for β-cell function and
+proliferation are improved by TAK-875 and
+metformin in combination
+Pancreata isolated from rats were analysed by 
+immunohisto-chemistry using anti-insulin, anti-glucagon, anti-PDX-1 and
+anti-PCNA antibodies at the end of the study period. 
+Immunostaining for insulin revealed that islets in vehicle-treated
+ZDF rats were enlarged and disorganized with extensions into
+the surrounding exocrine tissue compared with those in
+normal rats (Figure 7A, Q). Moreover, widespread distribution
+of glucagon-positive α-cells and reduced PDX-1 expression
+throughout the islets were observed in vehicle-treated ZDF
+rats (Figure 7B, C, R, S). Multiple dosing of TAK-875 and
+metformin did not produce detectable changes in islet 
+morphology or in the expression of insulin, glucagon and PDX-1
+in ZDF rats (Figure 7A-C, E-G, I-K). In contrast, in ZDF rats
+receiving TAK-875 and metformin in combination, many
+insulin-positive cells displayed relatively normal round and
+British Journal of Pharmacology (2013) 170 568-580 573
+or their combination, and in ZL rats during 6 weeks of treatment with vehicle. Data in (B) and (C) represent fasting plasma glucose and GHb levels
+after 6 weeks of treatment, respectively. *P ≤ 0.05, **P ≤ 0.01 compared to vehicle-treated ZDF rats by Dunnett’s test or Steel’s test. ++P ≤ 0.01
+compared to vehicle-treated ZDF rats by Student’s t-test or the Aspin-Welch test. The results of two-way ANOVA are indicated in insets. Values are
+mean ± SD (n = 6 for ZDF rats, n = 5 for ZL rats). n.s., not significant.
+dense islet architecture compared with those in 
+vehicle-treated ZDF rats (Figure 7A, M). The distributions of
+glucagon-positive cells in islets were not different between
+the combination and vehicle groups (Figure 7B, N). 
+Interestingly, high levels of PDX-1 expression were maintained in
+nucleus and cytosol of islets from combination-treated ZDF
+rats, as observed in those from ZL rats (Figure 7C, O, S).
+Moreover, immunostaining of PCNA showed increased
+PCNA-positive cell numbers in islets from the combination
+group compared with the vehicle group (arrows in Figure 7P).
+The double staining revealed the co-localizations of 
+PCNA-positive nuclei with insulin staining in these islets (Support-
+ing Information Figure S1). Taken together, these results
+indicate that multiple dosing of TAK-875 and metformin in
+combination could exert beneficial effects on pancreatic
+β-cell function and mass in ZDF rats.
+574 British Journal of Pharmacology (2013) 170 568-580
+Discussion and Conclusions
+TAK-875, a potent, selective and orally available GPR40
+agonist, provides glucose-dependent insulin secretion
+through activation of the Gαq-signalling pathway and 
+amplification of intracellular Ca2+ (Tsujihata et al., 2011; Yashiro
+et al., 2012), which is a mechanism distinct from those of
+other clinically available oral insulinotropic drugs, including
+SUs and DPP-4 inhibitors (Winzell and Ahren, 2007). We
+previously showed that acute administration of TAK-875
+improved postprandial hyperglycaemia due to augmentation
+of insulin secretion in non-obese type 2 diabetic rats
+(Tsujihata et al., 2011). In addition, it has been demonstrated
+that TAK-875 significantly improved glycaemic control in
+type 2 diabetic patients with minimum risk of hypoglycaemia
+compared with SUs (Araki et al., 2012; Burant et al., 2012).
+Given that TAK-875 could become a new class of 
+anti-hyperglycaemic agent, there is a need to evaluate its
+potential use in combination treatment with existing 
+anti-hyperglycaemic agents. In the present study, we examined
+the effects of combination treatment with TAK-875 and 
+metformin, which is a first-line drug for treatment of type 2
+diabetes, on glycaemic control, pancreatic β-cell function and
+islet morphology in male ZDF rats. This model shows insulin
+resistance at a young age, after which severe hyperglycaemia
+and progressive β-cell dysfunction develop, due at least in
+of GPR40 agonist and metformin BJPCombination
+part to insufficient compensation for insulin resistance. It is
+therefore suitable for evaluation of combination effects of
+insulin secretagogues and insulin sensitizers (Lee et al., 1994;
+Finegood et al., 2001).
+In this study, 6-week multiple dosing of TAK-875 
+significantly decreased GHb levels by 1.7%, and the efficacy was
+almost comparable with that of metformin. Several 
+nonclinical studies with GPR40 agonists other than TAK-875 have
+been described in recent years. These results show that
+glucose-lowering and insulinotropic effects during an 
+intra-British Journal of Pharmacology (2013) 170 568-580 575
+BJP R Ito et al.
+Data show plasma TG, TC and NEFA levels in ZDF rats after 6 weeks of treatment with vehicle, 10 mg·kg−1, b.i.d. of TAK-875 (TAK),
+50 mg·kg−1, q.d. of MET, or their combination, and in ZL rats during 6 weeks of treatment with vehicle.
+aP ≤ 0.05 compared with vehicle-treated ZDF rats by Dunnett’s test or Steel’s test.
+bP ≤ 0.01 compared with vehicle-treated ZDF rats by Student’s t-test or the Aspin-Welch test. Values are mean ± SD (n = 6 for ZDF rats, n = 5
+peritoneal glucose tolerance test are well maintained in obese
+rodents after multiple dosing (Tan et al., 2008; Lin et al.,
+2011), indicating a lack of tachyphylaxis of GPR40 agonists.
+However, distinct anti-diabetic effects by long-term 
+activation of GPR40 have not been demonstrated. In this study, we
+demonstrated for the first time that administration of the
+GPR40 agonist TAK-875 not only acutely improved both 
+postprandial and fasting hyperglycaemia, but also chronically
+delayed the progression of diabetes in a rodent model. Our
+findings strongly support clinical results (Araki et al., 2012;
+Burant et al., 2012).
+576 British Journal of Pharmacology (2013) 170 568-580
+While FFAs acutely stimulate insulin secretion, chronic
+exposure to them is reported to cause β-cell dysfunction and
+cell death. Although GPR40 has been considered to be 
+possibly involved in lipotoxicity (Steneberg et al., 2005), a number
+of experimental observations do not support a central role for
+GPR40 in lipotoxicity (Latour et al., 2007; Kebede et al., 2008;
+Nagasumi et al., 2009). In our previous study, prolonged
+exposure to TAK-875 did not cause β-cell dysfunction in vitro,
+in contrast to FFA (Tsujihata et al., 2011). In ZDF rats, 
+hyperlipidaemia precedes the rise in plasma glucose, and these
+lipotoxic effects on β-cells are thought to contribute to
+gradual progression of β-cell dysfunction (Lee et al., 1994).
+Actually, in the present study, hyperlipidaemia was observed
+in ZDF rats compared with normal rats. Despite the high
+plasma lipid levels, TAK-875 achieved the improvement in
+glycaemic control with a trend towards increase in fasting
+plasma insulin levels and pancreatic insulin content, and no
+changes in islet morphology. These results indicate that 
+long-term activation of GPR40 by TAK-875 could have beneficial
+effects on pancreatic β-cell function even in the presence of
+hyperlipidaemia. Our results support a previous in vitro study
+showing that GPR40 is not involved in the chronic toxic
+effects of FFAs (Tsujihata et al., 2011).
+of GPR40 agonist and metformin BJPCombination
+Metformin provides glucose-lowering effects via 
+pleio-tropic mechanisms including decreased hepatic glucose 
+production, increased peripheral glucose disposal and reduced
+intestinal glucose absorption (Hundal and Inzucchi, 2003). As
+expected from their complementary mechanisms of action,
+acute administration of TAK-875 and metformin in 
+combination resulted in a greater decrease in postprandial and fasting
+hyperglycaemia compared with each drug alone, despite the
+fact that insulin secretion was almost the same as that in rats
+treated with TAK-875 alone. This insulin-sparing action of the
+combination could lead to the alleviation of β-cell 
+exhaustion. In fact, chronic dosing of TAK-875 and metformin in
+British Journal of Pharmacology (2013) 170 568-580 577
+BJP R Ito et al.
+combination significantly decreased GHb levels by 2.4% and
+prevented the progressive decline in plasma insulin levels,
+both of which effects were greater than those seen with either
+drug alone. Furthermore, the combination treatment showed
+a significant increase in HOMA-β and pancreatic insulin
+content, and the insulin content was comparable with that in
+normal rats. As assessed by immunohistochemistry, normal
+rounded islet architecture, elevated PDX-1 expression and
+increased PCNA-positive cell numbers were observed in the
+combination group. Considering that the balance of β-cell
+proliferation and apoptosis can control pancreatic β-cell
+mass, thereby forming islet architecture (Butler et al., 2003),
+relatively normal islet architecture in the combination group
+may be maintained due to increased β-cell proliferation. 
+Altogether, these results suggest that this combination strategy is
+effective for preserving β-cell function in ZDF rats.
+The mechanism of the strong protective effects on β-cells
+by the combination of TAK-875 and metformin is not fully
+understood. Previous reports have demonstrated that 
+prevention of progressive hyperglycaemia per se preserves
+insulin and PDX-1 gene expression by relieving glucotoxicity
+on β-cells in ZDF rats (Harmon et al., 1999). Thus, 
+improvement in β-cell function in the combination group observed
+in the present study may be mediated, at least in part, by
+improved glycaemic control. On the other hand, Janssen
+et al. (2003) have reported that glycaemic control by 
+treatment with phlorizin, a renal sodium-dependent glucose
+transport inhibitor, prevents the decrease in plasma insulin,
+but not the progressive histochemical changes in islets in
+these rats, implying the involvement of direct trophic effects
+of TAK-875 and metformin on β-cell survival in our studies.
+It has been very recently shown that chronic activation of
+designer Gq-coupled receptor in β-cells leads to the 
+sequential activation of ERK1/2 and IRS-2 signalling, thus triggering
+a series of events that greatly improve β-cell function (Jain
+et al., 2013). Because GPR40 is one of the Gq-coupled 
+receptors highly expressed in β-cells, there is a possibility that
+TAK-875 may directly activate ERK1/2 and IRS-2 cascade in
+β-cells, leading to improved β-cell function. Indeed, it has
+been reported that activation of GPR40 by endogenous
+ligand FFA causes increased ERK1/2 phosphorylation in
+mouse insulinoma MIN6 cells (Itoh et al., 2003). While 
+metformin suppresses hepatic glucose production in liver, the
+direct effects in pancreatic β-cells have also been reported.
+The therapeutic concentration of metformin has been also
+shown to cause β-cell protection against glucolipotoxicity
+(Lupi et al., 1999; 2002; Marchetti et al., 2004), although
+there is an ongoing debate whether activation of AMPK has
+positive or negative impact on pancreatic β-cell function (Fu
+et al., 2013). These direct protective effects of TAK-875 and
+metformin in β-cells might be particularly potentiated in
+their combination treatment, by which the additive 
+glycaemic control has been achieved. Further studies are required
+to clarify how TAK-875 directly affects β-cell growth or how
+TAK-875 and metformin can interact with each other in
+β-cells. Alternatively, recent clinical observation indicates
+that metformin increases glucagon-like peptide-1 (GLP-1)
+concentration (Mannucci et al., 2001). GPR40 is also
+expressed in enteroendocrine cells, and mediates 
+FFA-induced GLP-1 secretion (Edfalk et al., 2008). It is well known
+that GLP-1 has protective effects on β-cells (Perfetti and Hui,
+578 British Journal of Pharmacology (2013) 170 568-580
+2004). Although plasma GLP-1 levels were not assessed in
+this study, the potential role of GLP-1 in the combination
+effects should be assessed in a future study.
+The combination of SU drugs and metformin is one of the
+most frequently used combination therapies, but increases
+the risk of hypoglycaemia (Blonde et al., 2002). Our study
+showed that plasma glucose levels just before glucose load
+(time 0) in ZDF rats receiving a combination of TAK-875 and
+metformin were similar to those of normal rats. These results
+suggest that the combination of TAK-875 and metformin may
+pose a low risk of hypoglycaemia due to the 
+glucose-dependent insulin secretion seen with TAK-875 (Tsujihata
+et al., 2011). Combination therapy with metformin and
+DPP-4 inhibitors, which augments insulin secretion via 
+elevation of active forms of incretins, is currently attracting 
+attention because of the additive improvement in glycaemic
+control with a minimum risk of hypoglycaemia (Goldstein
+et al., 2007). The recent in vitro report has shown that high
+concentration of glucose or metformin regulates expressions
+of GLP-1 and glucose-dependent insulinotropic polypeptide
+receptor, but not GPR40 in β-cells (Pan et al., 2009). In future
+studies, it will be of interest to determine whether expression
+of GPR40 can be regulated by diabetic condition and 
+combination with other anti-diabetic drugs in vivo.
+In diabetic patients, hyperglucagonemia has been
+reported (Sloop et al., 2005) and is involved in 
+hyperglycaemia by increasing hepatic glucose production. In the present
+study, ZDF rats showed elevated plasma glucagon levels
+compared with normal rats. It has been previously reported
+that GPR40 mediates FFA-induced glucagon secretion via
+GPR40 in α-cells (Flodgren et al., 2007). In our study, 
+TAK-875 did not affect plasma glucagon levels, pancreatic 
+glucagon content or distribution of glucagon-positive cells in
+ZDF rats. These results are consistent with the previously
+reported in vitro study using human pancreatic islets and in
+clinical data on diabetic patients (Araki et al., 2012; Yashiro
+et al., 2012).
+In our study, increases in body weight were observed in
+the metformin and the combination groups. Consistent with
+these observations, the DPP-4 inhibitor alogliptin and 
+pioglitazone in combination increased body weight compared
+with pioglitazone alone in db/db mice, a diabetic model with
+progressive β-cell dysfunction like ZDF rats (Moritoh et al.,
+2009). This may be associated with anabolic effects of
+elevated plasma insulin. Moreover, significant increases in
+fasting plasma TG levels in the metformin and combination
+groups were observed at week 6 in this study. Because 
+hyper-insulinaemia promotes hepatic lipogenesis via activation of
+lipogenic transcriptional factor sterol regulatory 
+element-binding protein-1c (Yecies et al., 2011), thereby causing an
+increase in plasma TG levels, plasma TG levels in the 
+vehicle-treated ZDF rats may have been decreased by the reduction of
+plasma insulin levels at week 6.
+In conclusion, the present study is the first to 
+demonstrate that chronic activation of GPR40 by TAK-875 has the
+potential to slow the progression of diabetes without 
+accelerating the progression of β-cell dysfunction in a diabetic
+animal model. Our findings also suggest that combination
+therapy with TAK-875 and metformin may be a valuable
+strategy for glycaemic control and β-cell preservation in
+patients with type 2 diabetes.
+
+>>>section: introduction
+BJP British Journal ofPharmacology
+RESEARCH PAPER
+TAK-875, a GPR40/FFAR1
+agonist, in combination
+with metformin prevents
+progression of diabetes and
+β-cell dysfunction in Zucker
+diabetic fatty rats
+R Ito1, Y Tsujihata1, K Matsuda-Nagasumi1, I Mori2, N Negoro3 and
+K Takeuchi1
+1Cardiovascular and Metabolic Drug Discovery Unit, 2Biomolecular Research Laboratories, and
+3Central Nervous System Drug Discovery Unit, Pharmaceutical Research Division, Takeda
+Pharmaceutical Company Limited, Kanagawa, Japan
+Correspondence
+Ryo Ito, Cardiovascular and
+Metabolic Drug Discovery Unit,
+Pharmaceutical Research
+Division, Takeda Pharmaceutical
+Company Limited, 26-1
+Muraoka-higashi 2-Chome,
+Fujisawa, Kanagawa 251-8555,
+Japan.. E-mail:
+ryo.ito@takeda.com
+----------------------------------------------------------------
+Keywords
+GPR40/FFAR1; TAK-875;
+metformin; Zucker diabetic fatty
+rats; insulin secretion; glycaemic
+control; β-cell preservation;
+hyperlipidaemia
+----------------------------------------------------------------
+Received
+28 November 2012
+Revised
+20 June 2013
+Accepted
+3 July 2013
+DOI:10.1111/bph.12297
+www.brjpharmacol.org
+BACKGROUND AND PURPOSE
+TAK-875, a selective GPCR40/free fatty acid receptor 1 agonist, improves glycaemic control by increasing glucose-dependent
+insulin secretion. Metformin is a first-line drug for treatment of type 2 diabetes that improves peripheral insulin resistance.
+Based on complementary mechanism of action, combining these agents is expected to enhance glycaemic control. Here, we
+evaluated the chronic effects of TAK-875 monotherapy and combination therapy with metformin in diabetic rats.
+EXPERIMENTAL APPROACH
+Long-term effects on glycaemic control and β-cell function were evaluated using Zucker diabetic fatty (ZDF) rats, which
+develop diabetes with hyperlipidaemia and progressive β-cell dysfunction.
+KEY RESULTS
+Single doses of TAK-875 (3-10 mg·kg−1) and metformin (50-150 mg·kg−1) significantly improved both postprandial and
+fasting hyperglycaemia, and additive improvements were observed in their combination. Six-week treatment with TAK-875
+(10 mg·kg−1, b.i.d.) significantly decreased glycosylated Hb (GHb) by 1.7%, and the effect was additively enhanced by
+combination with metformin (50 mg·kg−1, q.d.; GHb: −2.4%). This improvement in glycaemic control in the combination
+group was accompanied by significant 3.2-fold increase in fasting plasma insulin levels. Pancreatic insulin content was
+maintained at a level comparable to that in normal rats by combination treatment (vehicle: 26, combination: 67.1; normal
+lean: 69.1 ng·mg−1 pancreas) without affecting pancreatic glucagon content. Immunohistochemical analyses revealed normal
+morphology, enhanced pancreas duodenum homeobox-1 expression and increased PCNA-positive cells in islets of the
+combination group.
+Introduction
+Type 2 diabetes mellitus is characterized by elevated plasma
+glucose levels arising from increased peripheral insulin
+resistance and the gradual loss of β-cell function (Kahn,
+2000). As chronic hyperglycaemia contributes to the 
+complications associated with type 2 diabetes (Giorgino et al.,
+2005), the primary goal for treatment is to maintain 
+normoglycaemia with fewer adverse effects such as hypoglycaemia.
+Based on the algorithm for medical management of type
+2 diabetes, metformin, a biguanide derivative, is 
+recommended as the initial pharmacological therapy (Inzucchi
+et al., 2012). Metformin provides glucose-lowering effects
+via pleiotropic action including decreased hepatic glucose
+production, increased peripheral glucose disposal and
+reduced intestinal glucose absorption (Hundal and Inzucchi,
+2003). To achieve adequate glycaemic control, combination
+therapy with multiple drugs that have different mechanisms
+of action than metformin is often required. However, despite
+the availability of numerous anti-diabetic agents, many
+patients have not yet achieved adequate glycaemic control
+(U.K. Prospective Diabetes Study Group, 1995). Therefore,
+there remains a need for agents that have improved
+efficacy and/or a lower risk of adverse effects and can be
+used in combination treatment, especially with metformin
+(Charpentier, 2002).
+GPCR40 (GPR40)/free fatty acid receptor 1 is a GPCR
+highly expressed in pancreatic β-cells (Briscoe et al., 2003;
+Itoh et al., 2003). Long- and medium-chain free fatty acids
+(FFAs) are endogenous ligands for GPR40, and the activation
+of GPR40 by FFAs leads to glucose-dependent augmentation
+of insulin secretion through activation of the Gαq-pathway
+(Fujiwara et al., 2005; Shapiro et al., 2005), which is a distinct
+mechanism from other oral insulinotropic drugs, such as
+sulfonylureas (SU; Rendell, 2004) and dipeptidyl peptidase-4
+(DPP-4) inhibitors (Pratley, 2009). Nagasumi et al. (2009)
+have previously reported that mice overexpressing human
+GPR40 in pancreatic β-cells exhibit improved glucose 
+excursion and increased insulin secretion during an oral glucose
+tolerance test (OGTT). This finding suggests that GPR40 could
+be an attractive drug target to enhance insulin secretion in
+type 2 diabetes.
+TAK-875 is a potent, selective and orally available GPR40
+agonist that enhances insulin secretion in a glucose
+concentration-dependent manner (Negoro et al., 2010; 2012;
+Tsujihata et al., 2011). Oral administration of TAK-875 
+markedly improves postprandial hyperglycaemia in diabetic rats,
+while TAK-875 does not affect normoglycaemia even at a dose
+higher than the effective dose in fasted normal rats (Tsujihata
+et al., 2011). In addition, it was demonstrated that TAK-875
+significantly improved glycaemic control in type 2 diabetic
+patients with minimum risk of hypoglycaemia compared
+with SUs (Araki et al., 2012; Burant et al., 2012).
+FFAs acutely stimulate insulin secretion, while chronic
+exposure to FFAs causes β-cell dysfunction and death,
+so-called lipotoxicity. Because endogenous ligands of GPR40
+are medium- and long-chain FFAs, there remained concern
+regarding the involvement of GPR40 in lipotoxicity
+(Steneberg et al., 2005). We have previously shown that
+chronic exposure to TAK-875 does not cause β-cell 
+dysfunction in rat insulinoma cells, in contrast to FFAs (Tsujihata
+of GPR40 agonist and metformin BJPCombination
+et al., 2011). However, there are no published reports 
+examining in detail the effects on β-cell function after long-term
+activation of GPR40 in vivo. Because such analyses in clinical
+trials are difficult, animal studies are essential for the 
+development of novel anti-diabetic drugs.
+Because of the complementary mechanisms of action
+between GPR40 agonists and metformin, combination
+therapy with these agents is expected to provide favourable
+effects on glycaemic control. Recently, combination 
+treatment with a DPP-4 inhibitor and metformin in a diabetic rat
+model and drug-naive patients with type 2 diabetes has been
+shown to improve glycaemic control and β-cell function
+(Han et al., 2011; Williams-Herman et al., 2012). However,
+the effects of combination treatment with a GPR40 agonist
+and metformin on development of diabetes and on β-cell
+dysfunction remain poorly understood.
+In the present study, we evaluated the chronic effects
+of TAK-875 in combination with metformin on glycaemic
+control in Zucker diabetic fatty (ZDF) rats. The ZDF rat is a
+severe type 2 diabetic model, which exhibits hyperglycaemia,
+hyperlipidaemia and insulin resistance. The islets of these rats
+show disruption of normal islet architecture, β-cell 
+degranu-lation and increased β-cell death (Lee et al., 1994; Finegood
+et al., 2001). It has been reported that plasma FFA and 
+triglyceride (TG) content of islets begins to rise progressively prior to
+the onset of hyperglycaemia (Lee et al., 1994), suggesting the
+involvement of lipotoxicity in β-cell dysfunction in this
+model. Therefore, this model is also suitable for evaluating
+the chronic effects of TAK-875 on β-cell function. In addition,
+our study was designed to evaluate the chronic effects of
+combination treatment with TAK-875 and metformin on
+plasma hormone profiles, pancreatic hormone content and
+β-cell morphology in these rats.
+
+>>>section: table_1
+Table 1 
+Effects of 6-week treatment with TAK-875, MET and TAK-875 in combination with MET on plasma lipid profile 
+TG 
+TC 
+NEFA 
+Animal 
+Compound 
+(mmol·L−1) 
+(mmol·L−1) 
+(mEq·L−1) 
+ZDF 
+Vehicle 
+12.4 ± 2.9 
+4.8 ± 0.5 
+0.44 ± 0.05 
+ZDF 
+TAK 
+12.9 ± 3.9 
+4.5 ± 0.6 
+0.49 ± 0.11 
+ZDF 
+MET 
+18.3 ± 3.7a 
+5.1 ± 0.4 
+0.48 ± 0.09 
+ZDF 
+TAK + MET 
+18.0 ± 3.3a 
+4.9 ± 0.4 
+0.53 ± 0.1 
+ZL 
+Vehicle 
+2.1 ± 0.5b 
+2.1 ± 0.1b 
+0.48 ± 0.05 
+
+>>>section: figure_1
+Figure 1 
+Effects of single dosing of TAK-875 (TAK), metformin (MET) and TAK in combination with MET on glucose excursion and insulin secretion during 
+oral glucose tolerance test in young ZDF rats. (A) and (B) show plasma glucose and change in plasma insulin levels, respectively, during oral 
+glucose tolerance test in ZDF rats treated with vehicle, 3 mg·kg−1 of TAK, 50 mg·kg−1 of MET, or their combination, and in ZL rats treated with 
+vehicle. Data in (C) and (D) represent plasma glucose AUC0-120 min and incremental plasma insulin AUCpre-120 min respectively. *P ≤ 0.05, **P ≤ 0.01 
+compared to vehicle-treated ZDF rats by Dunnett’s test or Steel’s test. +P ≤ 0.05, ++P ≤ 0.01 compared to vehicle-treated ZDF rats by Student’s t-test 
+or the Aspin-Welch test. The results of two-way ANOVA are indicated in insets. Values are mean ± SD (n = 6 for ZDF rats, n = 5 for ZL rats). n.s., 
+not significant. 
+
+>>>section: figure_2
+BJP R Ito et al. 
+Figure 2 
+Effects of single dosing of TAK-875 (TAK), metformin (MET) and TAK in combination with MET on fasting hyperglycaemia in aged ZDF rats. (A) 
+and (B) show changes in plasma glucose and insulin levels, respectively, after single treatment with vehicle, 10 mg·kg−1 of TAK, 150 mg·kg−1 of 
+metformin, or their combination. Data in (C) and (D) represent change in glucose AUC0-6 h and change in insulin AUC0-6 h respectively. **P ≤ 0.01 
+compared to vehicle-treated ZDF rats by Student’s t-test or the Aspin-Welch test. The results of two-way ANOVA are indicated in insets. Values are 
+mean ± SD (n = 6). n.s., not significant. 
+
+>>>section: figure_3
+Figure 3 
+Effects of 6 week treatment with TAK-875 (TAK), metformin (MET) and TAK in combination with MET on body weight and cumulative food intake 
+in ZDF rats. (A) and (B) show body weight and cumulative food intake, respectively, in ZDF rats during 6 weeks of treatment with vehicle, 
+10 mg·kg−1, b.i.d. of TAK, 50 mg·kg−1, q.d. of MET, or their combination, and in ZL rats during 6 weeks of treatment with vehicle. ** P ≤0.01 
+compared to vehicle-treated ZDF rats by Dunnett’s test or Steel’s test. ++P ≤ 0.01 compared to vehicle-treated ZDF rats by Student’s t-test or the 
+Aspin-Welch test. Values are mean ± SD (n = 6 for ZDF rats, n = 5 for ZL rats). 
+
+>>>section: figure_4
+BJP R Ito et al. 
+Figure 4 
+Effects of 6 week treatment with TAK-875 (TAK), metformin (MET) and TAK in combination with MET on glycaemic parameters in ZDF rats. 
+(A) shows fasting plasma glucose levels in ZDF rats during 6 weeks of treatment with vehicle, 10 mg·kg−1, b.i.d. of TAK, 50 mg·kg−1, q.d. of MET, 
+
+>>>section: figure_5
+Figure 5 
+Effects of 6 week treatment with TAK-875 (TAK), metformin (MET) and TAK in combination with MET on plasma insulin and glucagon levels in 
+ZDF rats. (A) shows fasting plasma insulin in ZDF rats during 6 weeks of treatment with vehicle, 10 mg·kg−1, b.i.d. of TAK, 50 mg·kg−1, q.d. of MET, 
+or their combination, and in ZL rats during 6 weeks of treatment with vehicle. Data in (B), (C) and (D) represent fasting plasma insulin levels, 
+homeostasis model assessment of β-cell function (HOMA-β) index calculated from fasting plasma glucose and insulin levels and fasting plasma 
+glucagon levels after 6 weeks of treatment, respectively. *P ≤ 0.05, ** P ≤ 0.01 compared to vehicle-treated ZDF rats by Dunnett’s test or Steel’s 
+test. ++P ≤ 0.01 compared to vehicle-treated ZDF rats by Student’s t-test or the Aspin-Welch test. The results of two-way ANOVA are indicated in 
+insets. Values are mean ± SD (n = 6 for ZDF rats, n = 5 for ZL rats). n.s., not significant. 
+
+>>>section: figure_6
+for ZL rats). MET, metformin. 
+Figure 6 
+Effects of 44 day treatment with TAK-875 (TAK) , metformin (MET) and TAK in combination with metformin on pancreatic insulin and glucagon 
+content. Data in (A) and (B) represent pancreatic insulin and glucagon content, respectively, in ZDF rats after 44 days of treatment with vehicle, 
+10 mg·kg−1, b.i.d. of TAK, 50 mg·kg−1, q.d. of MET, or their combination, and in ZL rats after 44 days of treatment with vehicle. *P ≤ 0.05 compared 
+to vehicle-treated ZDF rats by Dunnett’s test or Steel’s test. ++P ≤ 0.01 compared to vehicle-treated ZDF rats by Student’s t-test or the Aspin-Welch 
+test. The results of two-way ANOVA are indicated in insets. Values are mean ± SD (n = 6 for ZDF rats, n = 5 for ZL rats). n.s., not significant. 
+
+>>>section: figure_7
+Figure 7 
+Effects of 44 day treatment with TAK-875 (TAK), metformin (MET) and TAK in combination with MET on insulin staining, glucagon staining, PDX-1 
+expression and PCNA-positive cell numbers in pancreatic islets from ZDF rats. ZDF rats were administered vehicle (A-D), 10 mg·kg−1, b.i.d. of TAK 
+(E-H), 50 mg·kg−1, q.d. of MET (I-L), or their combination (M-P) for 44 days, and ZL rats were administered vehicle (Q-T). The pancreata were 
+isolated and immunostained with anti-insulin (A, E, I, M, Q), anti-glucagon (B, F, J, N, R), anti-PDX-1 (C, G, K, O, S) and anti-PCNA (D, H, L, P, 
+T) antibodies. Representative images for each group are shown. Arrows indicate PCNA-positive cells. Scale bar = 250 μm. 
+
+**References**
+ References
+Araki T Hirayama M Hiroi S Kaku K (2012) GPR40-induced insulin secretion by the novel agonist TAK-875 first clinical
+findings in patients with type 2 diabetes Diabetes Obes Metab 14
+271-278
+Blonde L Rosenstock J Mooradian AD Piper BA Henry D (2002) Glyburide/metformin combination product is safe and efficacious
+in patients with type 2 diabetes failing sulphonylurea therapy
+Diabetes Obes Metab 4 368-375
+Briscoe CP Tadayyon M Andrews JL Benson WG Chambers JK Eilert MM et al (2003) The orphan G protein-coupled receptor
+GPR40 is activated by medium and long chain fatty acids J Biol
+Chem 278 11303-11311
+Burant CF Viswanathan P Marcinak J Cao C Vakilynejad M Xie B
+et al (2012) TAK-875 versus placebo or glimepiride in type 2
+diabetes mellitus a phase 2 randomised double-blind
+placebo-controlled trial Lancet 379 1403-1411
+Butler AE Janson J Bonner-Weir S Ritzel R Rizza RA Butler PC
+(2003) Beta-cell deficit and increased beta-cell apoptosis in humans
+with type 2 diabetes Diabetes 52 102-110
+Charpentier G (2002) Oral combination therapy for type 2 diabetes Diabetes Metab Res Rev 18 (Suppl 3) S70-S76
+Edfalk S Steneberg P Edlund H (2008) Gpr40 is expressed in
+enteroendocrine cells and mediates free fatty acid stimulation of
+incretin secretion Diabetes 57 2280-2287
+Finegood DT McArthur MD Kojwang D Thomas MJ Topp BG
+Leonard T et al (2001) Beta-cell mass dynamics in Zucker diabetic
+fatty rats rosiglitazone prevents the rise in net cell death Diabetes 50 1021-1029
+Flodgren E Olde B Meidute-Abaraviciene S Winzell MS Ahren B
+Salehi A (2007) GPR40 is expressed in glucagon producing cells
+and affects glucagon secretion Biochem Biophys Res Commun 354 240-245
+Fu A Eberhard CE Screaton RA (2013) Role of AMPK in pancreatic
+beta cell function Mol Cell Endocrinol 366 127-134
+Fujiwara K Maekawa F Yada T (2005) Oleic acid interacts with
+GPR40 to induce Ca2+ signaling in rat islet beta-cells mediation by
+of GPR40 agonist and metformin BJPCombination
+PLC and L-type Ca2+ channel and link to insulin release Am J Physiol Endocrinol Metab 289 E670-E677
+Giorgino F Laviola L Leonardini A (2005) Pathophysiology of type
+2 diabetes rationale for different oral antidiabetic treatment
+strategies Diabetes Res Clin Pract 68 (Suppl 1) S22-S29
+Goldstein BJ Feinglos MN Lunceford JK Johnson J
+Williams-Herman DE (2007) Effect of initial combination therapy with sitagliptin a dipeptidyl peptidase-4 inhibitor and metformin
+on glycemic control in patients with type 2 diabetes Diabetes Care
+30 1979-1987
+Han SJ Choi SE Kang Y Jung JG Yi SA Kim HJ et al (2011) Effect
+of sitagliptin plus metformin on beta-cell function islet integrity and islet gene expression in Zucker diabetic fatty rats Diabetes Res
+Clin Pract 92 213-222
+Harmon JS Gleason CE Tanaka Y Oseid EA Hunter-Berger KK
+Robertson RP (1999) In vivo prevention of hyperglycemia also
+prevents glucotoxic effects on PDX-1 and insulin gene expression Diabetes 48 1995-2000
+Hundal RS Inzucchi SE (2003) Metformin new understandings
+new uses Drugs 63 1879-1894
+Inzucchi SE Bergenstal RM Buse JB Diamant M Ferrannini E
+Nauck M et al (2012) Management of hyperglycaemia in type 2 diabetes a patient-centered approach Position statement of the
+American Diabetes Association (ADA) and the European Association
+for the Study of Diabetes (EASD) Diabetologia 55 1577-1596
+Itoh Y Kawamata Y Harada M Kobayashi M Fujii R Fukusumi S et al (2003) Free fatty acids regulate insulin secretion from
+pancreatic beta cells through GPR40 Nature 422 173-176
+Jain S de Azua IR Lu H White MF Guettier JM Wess J (2013)
+Chronic activation of a designer Gq-coupled receptor improves beta
+cell function J Clin Invest 123 1750-1762 doi101172/JCI66432
+Janssen SW Martens GJ Sweep CG Span PN Verhofstad AA Hermus AR (2003) Phlorizin treatment prevents the decrease in
+plasma insulin levels but not the progressive histopathological
+changes in the pancreatic islets during aging of Zucker diabetic
+fatty rats J Endocrinol Invest 26 508-515
+Kahn SE (2000) The importance of the beta-cell in the
+pathogenesis of type 2 diabetes mellitus Am J Med 108 (Suppl 6a)
+2S-8S
+Kebede M Alquier T Latour MG Semache M Tremblay C Poitout
+V (2008) The fatty acid receptor GPR40 plays a role in insulin secretion in vivo after high-fat feeding Diabetes 57 2432-2437
+Kilkenny C Browne W Cuthill IC Emerson M Altman DG (2010)
+Animal research reporting in vivo experiments the ARRIVE
+guidelines Br J Pharmacol 160 1577-1579
+Latour MG Alquier T Oseid E Tremblay C Jetton TL Luo J et al (2007) GPR40 is necessary but not sufficient for fatty acid
+stimulation of insulin secretion in vivo Diabetes 56 1087-1094
+Lee Y Hirose H Ohneda M Johnson JH McGarry JD Unger RH
+(1994) Beta-cell lipotoxicity in the pathogenesis of
+non-insulin-dependent diabetes mellitus of obese rats impairment in adipocyte-beta-cell relationships Proc Natl Acad Sci U S A 91
+10878-10882
+Lin DC Zhang J Zhuang R Li F Nguyen K Chen M et al (2011)
+AMG 837 a novel GPR40/FFA1 agonist that enhances insulin
+secretion and lowers glucose levels in rodents PLoS ONE 6 e27270
+Lupi R Del Guerra S Tellini C Giannarelli R Coppelli A Lorenzetti
+M et al (1999) The biguanide compound metformin prevents
+desensitization of human pancreatic islets induced by high glucose
+Eur J Pharmacol 364 205-209
+British Journal of Pharmacology (2013) 170 568-580 579
+BJP R Ito et al
+Lupi R Del Guerra S Fierabracci V Marselli L Novelli M Patanè G
+et al (2002) Lipotoxicity in human pancreatic islets and the
+protective effect of metformin Diabetes 51 (Suppl 1) S134-S137
+McGrath JC Drummond GB McLachlan EM Kilkenny C
+Wainwright CL (2010) Guidelines for reporting experiments involving animals the ARRIVE guidelines Br J Pharmacol 160
+1573-1576
+Mannucci E Ognibene A Cremasco F Bardini G Mencucci A
+Pierazzuoli E et al (2001) Effect of metformin on glucagon-like
+peptide 1 (GLP-1) and leptin levels in obese nondiabetic subjects
+Diabetes Care 24 489-494
+Marchetti P Del Guerra S Marselli L Lupi R Masini M Pollera M
+et al (2004) Pancreatic islets from type 2 diabetic patients have functional defects and increased apoptosis that are ameliorated by
+metformin J Clin Endocrinol Metab 89 5535-5541
+Matthews DR Hosker JP Rudenski AS Naylor BA Treacher DF
+Turner RC (1985) Homeostasis model assessment insulin resistance
+and beta-cell function from fasting plasma glucose and insulin
+concentrations in man Diabetologia 28 412-419
+Melloul D (2004) Transcription factors in islet development and
+physiology role of PDX-1 in beta-cell function Ann N Y Acad Sci
+1014 28-37
+Moritoh Y Takeuchi K Asakawa T Kataoka O Odaka H (2009) Combining a dipeptidyl peptidase-4 inhibitor alogliptin with
+pioglitazone improves glycaemic control lipid profiles and beta-cell
+function in db/db mice Br J Pharmacol 157 415-426
+Nagasumi K Esaki R Iwachidow K Yasuhara Y Ogi K Tanaka H
+et al (2009) Overexpression of GPR40 in pancreatic beta-cells
+augments glucose-stimulated insulin secretion and improves glucose tolerance in normal and diabetic mice Diabetes 58
+1067-1076
+Naik H Vakilynejad M Wu J Viswanathan P Dote N Higuchi T
+et al (2012) Safety tolerability pharmacokinetics and
+pharmacodynamic properties of the GPR40 agonist TAK-875 results
+from a double-blind placebo-controlled single oral dose rising study in healthy volunteers J Clin Pharmacol 52 1007-1016
+Negoro N Sasaki S Mikami S Ito M Suzuki M Tsujihata Y et al (2010) Discovery of TAK-875 a potent selective and orally
+bioavailable GPR40 agonist ACS Medicinal Chem Lett 1 290-294
+Negoro N Sasaki S Mikami S Ito M Tsujihata Y Ito R et al (2012)
+Optimization of (23-dihydro-1-benzofuran-3-yl)acetic acids
+discovery of a non-free fatty acid-like highly bioavailable G-protein coupled receptor 40/free fatty acid receptor 1 agonist as a
+glucose-dependent insulinotropic agent J Med Chem 55
+3960-3974
+Pan QR Li WH Wang H Sun Q Xiao XH Brock B et al (2009)
+Glucose metformin and AICAR regulate the expression of G
+protein-coupled receptor members in INS-1 beta cell Horm Metab Res 41 799-804
+Perfetti R Hui H (2004) The role of GLP-1 in the life and death of pancreatic beta cells Horm Metab Res 36 804-810
+Pratley RE (2009) Alogliptin a new highly selective dipeptidyl
+peptidase-4 inhibitor for the treatment of type 2 diabetes Expert
+Opin Pharmacother 10 503-512
+Rafacho A Ribeiro DL Boschero AC Taboga SR Bosqueiro JR
+(2008) Increased pancreatic islet mass is accompanied by activation
+of the insulin receptor substrate-2/serine-threonine kinase pathway and augmented cyclin D2 protein levels in insulin-resistant rats Int
+J Exp Pathol 89 264-275
+Rendell M (2004) The role of sulphonylureas in the management
+of type 2 diabetes mellitus Drugs 64 1339-1358
+Shapiro H Shachar S Sekler I Hershfinkel M Walker MD (2005) Role of GPR40 in fatty acid action on the beta cell line INS-1E
+Biochem Biophys Res Commun 335 97-104
+Sloop KW Michael MD Moyers JS (2005) Glucagon as a target for the treatment of type 2 diabetes Expert Opin Ther Targets 9
+593-600
+Steneberg P Rubins N Bartoov-Shifman R Walker MD Edlund H (2005) The FFA receptor GPR40 links hyperinsulinemia hepatic
+steatosis and impaired glucose homeostasis in mouse Cell Metab
+1 245-258
+Tan CP Feng Y Zhou YP Eiermann GJ Petrov A Zhou C et al
+(2008) Selective small-molecule agonists of G protein-coupled
+receptor 40 promote glucose-dependent insulin secretion and
+reduce blood glucose in mice Diabetes 57 2211-2219
+Tsujihata Y Ito R Suzuki M Harada A Negoro N Yasuma T et al
+(2011) TAK-875 an orally available G protein-coupled receptor
+40/free fatty acid receptor 1 agonist enhances glucose-dependent insulin secretion and improves both postprandial and fasting
+hyperglycemia in type 2 diabetic rats J Pharmacol Exp Ther 339
+228-237
+UK Prospective Diabetes Study Group (1995) UK prospective diabetes study 16 overview of 6 years’ therapy of type II diabetes a
+progressive disease UK Prospective Diabetes Study Group
+Diabetes 44 1249-1258
+Williams-Herman D Xu L Teng R Golm GT Johnson J Davies MJ
+et al (2012) Effect of initial combination therapy with sitagliptin
+and metformin on beta-cell function in patients with type 2
+diabetes Diabetes Obes Metab 14 67-76
+Winzell MS Ahren B (2007) G-protein-coupled receptors and islet
+function - implications for treatment of type 2 diabetes Pharmacol
+Ther 116 437-448
+Yashiro H Tsujihata Y Takeuchi K Hazama M Johnson PR
+Rorsman P (2012) The effects of TAK-875 a selective GPR40/FFA1
+agonist on insulin and glucagon in isolated rat and human islets
+J Pharmacol Exp Ther 340 483-489
+Yecies JL Zhang HH Menon S Liu S Yecies D Lipovsky AI et al
+(2011) Akt stimulates hepatic SREBP1c and lipogenesis through
+parallel mTORC1-dependent and independent pathways Cell
+Metab 14 21-32
+Supporting information
+Additional Supporting Information may be found in the
+online version of this article at the publisher’s web-site
+Figure S1 Effects of 44-day treatment with TAK-875 met-
+formin and TAK-875 in combination with metformin on
+insulin- and PCNA-double positive cell numbers in pancre-
+atic islets from ZDF rats ZDF rats were administered the
+combination 10 mg·kg−1 bid of TAK-875 and 50 mg·kg−1
+qd of metformin for 44 days The pancreata were isolated
+and immunostained with anti-insulin (red colour) and anti-
+PCNA (brown colour) antibodies Arrows indicate the repre-
+sentative image of the co-localization of PCNA-positive
+nuclei with insulin staining Scale bar = 250 μm
+580 British Journal of Pharmacology (2013) 170 568-580

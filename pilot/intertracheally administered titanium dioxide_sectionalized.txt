@@ -1,0 +1,1628 @@
+>>>section: conclusion
+5. Conclusion
+In the present study, the tissue distribution and clearance of
+TiO2 nanoparticles (P25) were determined after intratracheal
+administration to rats, using highly sensitive analytical methods.
+By 26 weeks after administration, the lung TiO2 burden including
+BALF had decreased to 6.6-8.9% of the 0.375-1.5 mg/kg doses and
+to 13% and 31% of the 3.0 and 6.0 mg/kg doses. At higher doses,
+pulmonary clearance was inhibited. The pulmonary clearance rate
+constants k1, k12, and k2, estimated to be 0.014-0.030,
+0.0025-0.018, and 0.0000-0.0093/day using a 2-compartment
+model, decreased in a dose-dependent manner. The translocation
+rate constants from lung to thoracic lymph nodes, kLung!Lym,
+estimated to be 0.000037-0.00081/day, were much lower than
+these pulmonary clearance rate constants and increased in a 
+dose-dependent manner.
+Conflict of interest
+This work is part of the research program “Development of
+innovative methodology for safety assessment of industrial
+nanomaterials” supported by the Ministry of Economy, Trade
+and Industry (METI) of Japan.
+Transparency document
+The Transparency document associated with this article can be
+found in the online version.
+Appendix A Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.tox.2014.08.003.
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 11
+
+>>>section: references
+References
+Bermudez, E., Mangum, J.B., Wong, B.A., Asgharian, B., Hext, P.M., Warheit, D.B.,
+Everitt, J.I., 2004. Pulmonary responses of mice rats, and hamsters to subchronic
+inhalation of ultrafine titanium dioxide particles. Toxicol. Sci. 77, 347-357.
+De Jong, W.H., Hagens, W.I., Krystek, P., Burger, M.C., Sips, A.J.A.M., Geertsma, R.E.,
+2008. Particle size-dependent organ distribution of gold nanoparticles after
+intravenous administration. Biomaterials 29, 1912-1919.
+Donaldson, K., Stone, V., Clouter, A., Renwick, L., MacNee, W., 2001. Ultrafine
+particles. Occup. Environ. Med. 58, 211-216.
+Donaldson, K., Stone, V., Tran, C.L., Kreyling, W., Borm, P.J., 2004. Nanotoxicology.
+Occup. Environ. Med. 61, 727-728.
+Fuji Chimera Research Institute, Inc. , 2009. Metallic Oxide 10. Ultrafine Particle
+Titanium Dioxide, Metallic Oxide 12. Titanium Dioxide for Photocatalyst, III.
+Market Compilation by Commodity Item, Current State and Future Outlook of
+the Ultrafine Particle Market in 2009. (Japanese).
+Kuempel, E.D., O'Flaherty, E.J., Stayner, L.T., Smith, R.J., Green, F.H.Y., Vallyathan, V.,
+2001. A biomathematical model of particle clearance and retention in the
+lungs of coal miners - I Model development. Regul. Toxicol. Pharmacol 34,
+69-87.
+Lightowler, N.M., Williams, J.R., 1969. Tracheal mucus flow rates in experimental
+bronchitis in rats. Br. J. Exp. Pathol. 50, 139-149.
+Ma-Hock, L., Burkhardt, S., Strauss, V., Gamer, A., Wiench, K., van Ravenzwaay, B.,
+Landsiedel, R., 2009. Development of a short-term inhalation test in the rat
+using nano-titanium dioxide as a model substance. Inhal. Toxicol 21, 102-118.
+Morrow, P.E., 1992. Dust overloading of the lungs - update and appraisal. Toxicol.
+Appl. Pharmacol 113, 1-12.
+Oberdörster, G., Ferin, J., Gelein, R., Soderholm, S.C., Finkelstein, J., 1992. Role of the
+alveolar macrophage in lung injury - studies with ultrafine particles. Environ.
+Health Perspect 97, 193-199.
+Oberdörster, G., Oberdörster, E., Oberdörster, J., 2005. Nanotoxicology: an emerging
+discipline evolving from studies of ultrafine particles. Environ. Health Perspect
+113, 823-839.
+Oyabu, T., Morimoto, Y., Hirohashi, M., Horie, M., Kambara, T., Lee, B.W., Hashiba, M.,
+Mizuguchi, Y., Myojo, T., Kuroda, E., 2013. Dose-dependent pulmonary response
+of well-dispersed titanium dioxide nanoparticles following intratracheal
+instillation. J. Nanopart. Res 15, 1600.
+Rehn, B., Seiler, F., Rehn, S., Bruch, J., Maier, M., 2003. Investigation on the
+inflammatory and genotoxic lung effects of two types of titanium dioxide:
+untreated and surface treated. Toxicol. Appl. Pharmacol 189, 84-95.
+Sager, T.M., Kommineni, C., Castranova, V., 2008. Pulmonary response to 
+intratracheal instillation of ultrafine versus fine titanium dioxide: role of particle
+surface area. Part. Fibre Toxicol. 5, 17.
+Shinohara, N., Nakazato, T., Tamura, M., Endoh, S., Fukui, H., Morimoto, Y., Myojo, T.,
+Shimada, M., Yamamoto, K., Tao, H., Yoshida, Y., Nakanishi, J., 2010. Clearance
+kinetics of fullerene C60 nanoparticles from rat lungs after intratracheal C60
+instillation and inhalation C60 exposure. Toxicol. Sci 118, 564-573.
+Shinohara, N., Danno, N., Ichinose, T., Sasaki, T., Fukui, H., Honda, K., Gamo, M., 2014.
+Tissue distribution and clearance of intravenously administered titanium
+dioxide (TiO2) nanoparticles. Nanotoxicology 8, 132-141.
+Stöber, W., 1999. POCK model simulations of pulmonary quartz dust retention data
+in extended inhalation exposures of rats. Inhal Toxicol. 11, 269-292.
+van Ravenzwaay, B., Landsiedel, R., Fabian, E., Burkhardt, S., Strauss, V., Ma-Hock, L.,
+2009. Comparing fate and effects of three particles of different surface
+properties Nano-TiO2, pigmentary TiO2 and quartz. Toxicol. Lett. 186, 152-159.
+Warheit, D.B., Webb, T.R., Reed, K.L., Frerichs, S., Sayes, C.M., 2007. Pulmonary
+toxicity study in rats with three forms of ultrafine-TiO2 particles: Differential
+responses to surface properties. Toxicology 230, 90-104.
+Yeh, H.C., Schum, G.M., Duggan, M.T., 1979. Anatomic models of the 
+tracheobronchial and pulmonary regions of the rat. Anat. Rec. 195 483, 492.
+
+>>>section: methods
+2. Material and methods
+2.1. Preparation of TiO2 suspension
+AEROSIL1 P25 TiO2 nanoparticles (Evonik Industries,
+Germany), consisting of approximately 80% anatase and 20% rutile
+forms of TiO2, were used in the present study. These spherical
+21 nm particles had a specific surface of 50  15 m2/g, and >99.5%
+purity (Catalog value; Nippon Aerosil Co., Ltd.).
+P25 TiO2 nanoparticles (2 g) were sonicated in 50 mL of 0.2%
+disodium phosphate solution (DSP) (food additive grade, Wako
+Pure Chemical Industries, Ltd. , Japan) for 3 h in an ultrasonic bath
+(5510J-MT; Branson Ultrasonics Co., USA) and then centrifuged at
+1000  g for 30 min at 20 C (CF16RXII and T15A41; Hitachi Koki
+Co., Ltd. , Japan). Supernatant (30 mL) was collected as stock
+suspension. The concentration of the stock suspension was
+determined by weight (AUW220D; Shimadzu Co., Japan) after
+drying in a thermostatic chamber (ON-300S; Asone Co., Japan).
+Suspensions of 0.375, 0.75, 1.5, 3.0, and 6.0 mg/mL were prepared
+for administration by diluting the stock suspension with 0.2% DSP.
+The size distribution and z potential of the TiO2 nanoparticles in
+the administered suspension were determined by dynamic light
+scattering (DLS) (Zetasizer nano-ZS; Malvern Instruments Ltd.,
+UK). The specific surface area of TiO2 nanoparticles in administered
+suspension was determined using the BET-method after washing
+with pure water and drying in a thermostatic chamber.
+2.2. Experimental procedure
+All animal were treated in accordance with the guideline for the
+animal experiment ofourlaboratory whichreferredtothe guidelines
+of Ministry of the Environment, Japan, Ministry of Health, Labourand
+Welfare, Japan, Ministry of Agriculture, Forestry and Fisheries, Japan,
+Ministry of Education, Culture, Sports, Science and Technology,
+Japan. The present experiment was approved by the Animal Care and
+Use Committee, Chemicals Evaluation and Research Institute, Japan,
+and by the Institutional Animal Care and Use Committee, National
+Institute of Advanced Industrial Science and Technology.
+Male F344/DuCrlCrlj rats were obtained from Charles River
+Laboratories Japan, Inc. (Kanagawa, Japan). The animals were
+12 weeks old with mean body weight of 246 g (range, 215-273 g) at
+the start of the study. Rats were anesthetized by isoflurane
+inhalation and treated by intratracheal administration of five
+concentrations of TiO2 nanoparticles (0.375, 0.75, 1.5, 3.0, and
+6.0 mg/mL) and negative control (0.2% DSP) at 1 mL/kg body
+weight using MicroSprayer1 Aerosolizer (Model IA-1B-R for Rat;
+Penn-Century, Inc., USA).
+Five rats in each group were euthanized and dissected at 1 day,
+3days,7days,4weeks,13weeks,and26weeksafterTiO2nanoparticle
+administration. The animals were euthanized by exsanguination
+from the abdominal aorta under intraperitoneal pentobarbital
+anesthesia (50 mg/kg body weight). Thereafter, the trachea was
+cannulated with a disposable feeding needle, which was then tied in
+place. The lungs were lavaged with 7 mL of physiological saline freely
+flowingfrom30 cmabovethe ratand thisfluidwascollectedinatube
+placed30 cmbelowtherat.Thislavagewasperformedtwiceand>90%
+of the 14 mL of lavage fluid was recovered. After BALF sampling, the
+lungs, trachea, right and left posterior mediastinal lymph nodes,
+parathymic lymph nodes, liver, kidneys, and spleen of each animal
+were dissected, rinsed with saline, and weighed.
+2.3. Analysis
+The Ti contents in the lungs after BALF sampling, BALF, trachea,
+right and left posterior mediastinal lymph nodes, parathymic
+lymph nodes, and liver of every animal were analyzed. The Ti
+contents in the kidneys and spleen of the negative control and
+highest dose groups were analyzed. In addition, the Ti contents in
+the stock suspension, drinking water, and food were also analyzed.
+The lungs after BALF sampling, kidneys, and spleen were
+homogenized with 2 mL of ultrapure water (Milli-Q Advantage
+A10 Ultrapure Water Purification System, Merck Millipore, USA),
+and the liver was homogenized with 10 mL of ultrapure water. An
+electric homogenizer (PT10-35 Kinematica AG and NS-50; 
+Micro-tec Co. Ltd., Japan) was used and the resulting homogenates were
+stored at <30 C until analysis.
+All samples were treated with acid prior to determination of Ti
+levels. Nitric acid (HNO3; 68%, 0.5 mL) and hydrogen peroxide
+(H2O2; 35%, 0.2 mL) were added to 0.1 mL of BALF, HNO3 (1 mL), and
+sulfuric acid (H2SO4; 98%, 0.2 mL) were added to 1 g of 
+homogenized tissues, HNO3 (0.5 mL) and H2SO4 (0.1 mL) were added to
+whole lymph node samples, HNO3 (1 mL) and H2O2 (0.3 mL) were
+added to 0.02 g of animal feed, and H2SO4 (0.5 mL) and hydrofluoric
+acid (HF; 38%, 0.5 mL) were added to 20 mL and 100 mL for high and
+low concentrations of the administered TiO2 suspension, 
+respectively. Drinking water was diluted 10-fold with 10% HNO3 solution,
+Lung
+Burden B [mg]
+dB
+dt
+Clearance  rate  con sta nt k
+)0( rAB,tkB
+B: Burden  [mg ]
+k:   Cleara nce ra te con stant [/ day ]
+A: Administ ered amount  [mg ]
+r:  Fra ctio n of  the adminis tered  TiO2
+that reached the alveolar regi on [- ]
+Fig. 1. 1-compartmental models for the clearance of TiO2 nanoparticles. This model
+is expressed in a first-order decay equation with rate constant k.
+with no subsequent handling. All acids used in the present study
+were ultrapure grade reagents (TAMAPURE-AA-100, Tama 
+Chemicals Co., Ltd., Japan). The acidified samples (apart from drinking
+water) were placed in a 7 mL perfluoroalkylvinylether vessel,
+which was inserted into a 100 mL digestion vessel of a microwave
+sample preparation instrument (ETHOS 1; Milestone Srl Italy or
+Speedwave 4; Berghof, Germany), and they were heated to 180 C
+for 20 min or 200 C for 20 min. After cooling to 40 C, the 
+acid-treated samples, with the exception of the TiO2 nanoparticle
+suspensions, were diluted to 5 mL (BALF and lymph nodes) or
+10 mL (the other organs and feed) with ultrapure water (made by
+PURELAB Option-R 7 and PURELAB Flex UV from Veolia Water
+Solutions and Technologies, France). Samples of the acid-treated
+TiO2 nanoparticle suspensions were heated on a hotplate for
+approximately 2 h until white fuming sulfuric acid was generated.
+After cooling, the solution was diluted to 50 mL with 10% HNO3.
+The sample Ti contents were then determined by ICP-SFMS using
+a Finnigan ELEMENT II (Thermo Fisher Scientific Inc. , Germany), and
+the Ti content in the administered TiO2 nanoparticle suspensions
+BkBk
+11211
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 3
+was determined by ICP atomic emission spectrometry (ICP-AES;
+SPS4000, SII NanoTechnology Inc., Japan). For ICP-SFMS, RF power
+was 1250 W, cool gas flow rate was 16 L/min, auxiliary gas flow rate
+was 0.87 L/min, sample gas flow rate was 0.870-0.965 L/min,
+additional gas flow rate was 0.080-0.180 L/min, mass resolution
+[/ day ]
+(R) was 4000, and the measured mass number m/z was 49. For 
+ICP-AES, RF power was 1.3 kW, plasma gas flow rate was 16 L/min,
+additional gas flow rate was 0.5 L/min, carrier gas flow rate was
+1.0 L/min, and wavelength was 334.941 nm. In the present study,
+49Ti (mass: 48.9479) was analyzed because its spectrum could be
+separated from the spectra of 33S16O (mass: 48.9666), 31P18O (mass:
+48.9729), and 32S16O1H (mass: 48.9748). Linearity of the calibration
+curves for 49Ti using ICP-SFMS was good between 0 and 20 ng/mL of
+standard solution (0, 0.01, 0.05, 0.1, 1, 5, 10, and 20 ng/mL;
+R2 > 0.999). Quality assurance data for the analysis were as
+previously described (Shinohara et al., 2014).
+2.4. TiO2 clearance analysis using decay model fitting
+Both 1-compartment and 2-compartment models were
+employed in this study. The 1-compartment model assumed one
+clearance pathway from the lungs (Fig. 1). For the 2-compartment
+approach, two kinds of clearance pathway models were 
+considered. Model A (Fig. 2A) assumed, direct clearance from the
+compartment 1, translocation from compartment 1 to 2, and
+clearance via compartment 2, while model B (Fig. 2B) assumed
+clearance from compartment 1 only, and reciprocal translocation
+between compartments 1 and 2.
+The 1-compartment model can be represented by a 1-step
+clearance rate constant, as shown in Eq. (1), where B was the TiO2
+lung burden; A was the amount of TiO2 administered (mg); t was
+the time elapsed after administration (day); r was the fraction of
+the administered TiO2 that reached the alveolar region; and k was
+the clearance rate constant for the clearance (/day).
+dB ¼ kB ðt ¼ 0; B ¼ rAÞ (1)
+dt
+The 2-compartment model A can be represented by a 2-step
+clearance as shown in Eqs. (2) and (3), where B1was the TiO2 burden
+
+BkBkBk
+22111211
+rA, B BtBkBk
+BrABtBkBk
+21221122
+)0,0(
+212211122
+)0;,0(
+4 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+in lung compartment 1 (mg); B2 was the TiO2 burden in lung
+compartment 2 (mg); A was the amount of TiO2 administered (mg);
+r was the fraction of the administered TiO2 that reached the alveolar
+region; and k1, k12, and k2were the rate constants for clearance from
+compartment 1 (/day), translocation from compartment 1 to 2
+(/day), and clearance from compartment 2 (/day), respectively.
+dB1
+dt ¼ k1B1  k12B1
+dB2
+dt ¼ k12 B1  k2 B2 ðt ¼ 0; B1 ¼ rA; B2 ¼ 0Þ (3)
+The 2-compartment model B can be represented by a clearance
+from compartment 1 and reciprocal translocation between
+compartment 1 and 2 as shown in Eqs. (4) and (5), where k21
+was the rate constant for translocation from compartment 1 to 2
+(/day).
+dB1
+dt ¼ k1B1  k12B1 þ k21B2
+dB2
+dt ¼ k12 B1  k21 B2 ðt ¼ 0; B1 ¼ rA; B2 ¼ 0Þ (5)
+The clearance/translocation rate constants, k, k1, k12, k2, and, k21
+and the fraction of the administered TiO2 that reached the alveolar
+region, r, of each model were estimated by fitting the decay curve
+to the total TiO2 burden measured in the lungs including BALF.
+Curve fitting was conducted using a least squares approach, in
+which the following sum of square difference in the logarithmic
+converted lung burden between the measured lung burden
+(Bmeasured), and the estimated lung burden (B1 + B2) was minimized
+(Eq. (6)), using the Solver tool in Excel 2010.
+Sum of square difference ¼ LnBmeasured  Ln B1 þ B2ð Þð Þ2 (6)
+2.5. TiO2 translocation rate coefficients to thoracic lymph nodes
+The rate constants for translocation of TiO2 from lung to thoracic
+lymph nodes were estimated under the following two assumptions,
+applied to the 2-compartment models A and B. One assumption was
+that TiO2 translocated from compartment 1 to the thoracic lymph
+nodes (Eq. (7)) and the other assumption was that TiO2 translocated
+from compartment 2 to the thoracic lymph nodes (Eq. (8)).
+dBLym
+dt ¼ kLung!LymB1 ðt ¼ 0; BLym ¼ 0Þ (7)
+dBLym
+dt ¼ kLung!LymB2 ðt ¼ 0; BLym ¼ 0Þ (8)
+X
+(2)
+(4)
+Where, BLym was the total TiO2 burden in the right and left
+posterior mediastinal lymph nodes, and the parathymic lymph
+nodes (mg); B1was the TiO2 lung burden in compartment 1 (mg); B2
+was the TiO2 lung burden in compartment 2 (mg); and kLung!Lym
+was the translocation rate constant from lung to thoracic lymph
+nodes (/day).
+The least squares method was used for the estimation (Eq. (9)).
+Sum of square difference ¼  2LnBLymmeasured  LnBLymestimated
+(9)
+Where BLym_measured was the measured thoracic lymph node TiO2
+burden and BLym_estimated was the estimated thoracic lymph node
+TiO2 burden.
+2.6. Statistical analysis
+The differences in tissue Ti or TiO2 concentrations between the
+study groups were statistically analyzed by Student’s t test or 
+one-way ANOVA (Welch’s test) after F-testing using SPSS 20.0.
+
+>>>section: fulltext
+Toxicology 325 (2014) 1-11
+Contents lists available at ScienceDirect
+Toxicology
+journa l homepage : www.e l s evier .com/ loca te / toxicol
+Dose-dependent clearance kinetics of intratracheally administered
+titanium dioxide nanoparticles in rat lung
+Naohide Shinohara a,*, Yutaka Oshima b, Toshio Kobayashi b, Nobuya Imatanaka c,
+Makoto Nakai b, Takayuki Ichinose d, Takeshi Sasaki e, Guihua Zhang a, Hiroko Fukui a,
+Masashi Gamo a
+aNational Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8569, Japan
+bChemicals Evaluation and Research Institute (CERI), Hita, Oita 877-0061, Japan
+cChemicals Evaluation and Research Institute (CERI), Bunkyo, Tokyo 112-0004, Japan
+d Toray Research Center, Inc., Otsu, Shiga 520-8567, Japan
+eNational Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan
+A R T I C L E I N F O
+Article history:
+Received 17 June 2014
+Received in revised form 8 August 2014
+Accepted 8 August 2014
+Available online 13 August 2014
+Keywords:
+Nanomaterial
+Overload
+Distribution
+Clearance
+Toxicokinetics
+Compartment model
+A B S T R A C T
+AEROSIL1 P25 titanium dioxide (TiO2) nanoparticles dispersed in 0.2% disodium phosphate solution
+were intratracheally administered to male F344 rats at doses of 0 (control), 0.375, 0.75, 1.5, 3.0, and
+6.0 mg/kg. The rats were sacrificed under anesthesia at 1 day, 3 days, 7 days, 4 weeks, 13 weeks, and
+26 weeks after administration. Ti levels in various pulmonary and extrapulmonary organs were
+determined using sensitive inductively coupled plasma sector field mass spectrometry. One day after
+administration, the lungs contained 62-83% of TiO2 administered dose. Twenty-six weeks after
+administration, the lungs retained 6.6-8.9% of the TiO2 administered at the 0.375, 0.75, and 1.5 mg/kg
+doses, and 13% and 31% of the TiO2 administered at the 3.0 and 6.0 mg/kg doses, respectively. The
+pulmonary clearance rate constants from compartment 1, k1, were estimated using a 2-compartment
+model and were found to be higher for the 0.375 and 0.75 mg/kg doses of TiO2 (0.030/day for both) than
+for TiO2 doses of 1.5-6.0 mg/kg (0.014-0.022/day). The translocation rate constants from compartment
+1 to 2, k12, were estimated to be 0.015 and 0.018/day for the 0.375 and 0.75 mg/kg doses, and
+0.0025-0.0092/day for doses of 1.5-6.0 mg/kg. The pulmonary clearance rate constants from
+compartment 2, k2, were estimated to be 0.0086 and 0.0093/day for doses of 0.375 and 0.75 mg/kg,
+and 0-0.00082/day for 1.5-6.0 mg/kg doses. Translocation of TiO2 from the lungs to the thoracic lymph
+nodes increased in a time- and dose-dependent manner, accounting for 0.10-3.4% of the administered
+dose at 26 weeks. The measured thoracic lymph node burdens were a much better fit to the thoracic
+lymph node burdens estimated assuming translocation from compartment 1 to the thoracic lymph
+nodes, rather than those estimated assuming translocation from compartment 2 to the thoracic lymph
+nodes. The translocation rate constants from the lungs to the thoracic lymph nodes, kLung!Lym, were
+0.000037-0.00081/day, and these also increased with increasing doses of TiO2. Although a small amount
+of TiO2 had translocated to the liver by 3 days after the administration (0.0023-0.012% of the highest dose
+administered, 6.0 mg/kg), translocation to the other extrapulmonary organs was not detected.
+ã 2014 The Author. Published by Elsevier Ireland Ltd. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+1. Introduction
+The safety of nanomaterials has been the focus of worldwide
+concern because of the lack of information available regarding
+their potential risks for workers and the general population.
+Therefore, the toxicity of nanomaterials has been tested
+* Corresponding author. Tel.: +81 29 861 8415; fax: +81 29 861 8030.
+E-mail address: n-shinohara@aist.go.jp (N. Shinohara).
+http://dx.doi.org/10.1016/j.tox.2014.08.003
+0300-483X/ã  2014  The  Author.  Published  by  Elsevier  Ireland  Ltd.  This  is  an  open  access  article  under  the  CC  BY-NC-ND  license  (http://creativecommons.org/licenses/by-nc-
+nd/3.0/).
+internationally. Nano-sized titanium dioxide (TiO2) particles
+(primary particle size <100 nm), one of the most typical industrial
+nanomaterials, have been utilized in sunscreen, cosmetics, and
+photo catalysis since the 1980s. Global demand for TiO2 
+nanomaterials was estimated at 2100-2500 tons per year in 2008
+(Fuji Chimera Research Institute, Inc., 2009). Since TiO2 is 
+water-insoluble and inert, it is generally regarded as having low toxicity
+in humans and is even used as an additive in food products.
+However, nano-sized particles may be more toxic or show a more
+widespread organ distribution than micron-sized particles
+2 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+(Donaldson et al., 2001, 2004; Oberdörster et al., 2005; De Jong
+et al., 2008).
+In order to evaluate the toxicity of TiO2 nanoparticles,
+toxicokinetic data are beneficial. Since it is well established that
+pulmonary clearance of particles is inhibited following the
+administration of higher doses, a phenomenon known as overload
+(Morrow,1992), it is important to evaluate the dose-dependency of
+pulmonary clearance when considering inhalation toxicity. In
+addition, after inhalation or intratracheal administration of TiO2
+nanoparticles, Ti have been detected in the lungs and 
+lung-associated lymph nodes, while Ti levels in other organs such as the
+liver, spleen, kidneys, and brain were below the detection limit
+(Bermudez et al., 2004; Ma-Hock et al., 2009; van Ravenzwaay
+et al., 2009; Oyabu et al., 2013; Sager et al., 2008).
+One-compartment models have been often used for the
+evaluation of pulmonary clearance (Bermudez et al., 2004; Oyabu
+et al., 2013). First order clearance rate constants for highly
+persistent substances often decrease as the observation period
+increases. Therefore, first order clearance rate constants estimated
+by using a 1-compatment model over different observation periods
+cannot be compared with each other. In addition, a 1-compartment
+model does not fit the measured burden closely. A 
+two-compartment model was reported to provide a better fit to the
+measured burden and can be applied to evaluate both faster and
+slower clearances (Shinohara et al., 2010). However, there are no
+studies evaluating the clearance of TiO2 nanoparticles from the
+lung using a 2-compartment model.
+The present study aimed to elucidate dose-dependent 
+pulmonary clearance kinetics and dose-dependent translocation kinetics
+to extrapulmonary organs of TiO2 nanoparticle. In this study, we
+administered TiO2 nanoparticles intratracheally to rats at 5 doses
+and investigated their pulmonary clearance and translocation from
+the lung to extrapulmonary organs over 26 weeks. We determined
+the TiO2 burden in the lungs after sampling of bronchoalveolar
+lavage fluid (BALF), BALF, and trachea, as well as the thoracic lymph
+nodes (right and left posterior mediastinal lymph nodes, 
+parathymic lymph nodes), liver, spleen, and kidneys using a highly
+sensitive inductively coupled plasma sector field mass 
+spectroscopy (ICP-SFMS; double-focusing ICP-MS). The pulmonary 
+clearance rate constants estimated using a classical 2-compartment
+model were compared over a range of doses. AEROSIL1 P25 TiO2
+nanoparticles, which have often been employed for toxicity testing
+of TiO2 nanoparticles and have been shown to induce lung
+inflammation (Rehn et al., 2003; Sager et al., 2008; Warheit et al.,
+2007) were used in the present study.
+2. Material and methods
+2.1. Preparation of TiO2 suspension
+AEROSIL1 P25 TiO2 nanoparticles (Evonik Industries,
+Germany), consisting of approximately 80% anatase and 20% rutile
+forms of TiO2, were used in the present study. These spherical
+21 nm particles had a specific surface of 50  15 m2/g, and >99.5%
+purity (Catalog value; Nippon Aerosil Co., Ltd.).
+P25 TiO2 nanoparticles (2 g) were sonicated in 50 mL of 0.2%
+disodium phosphate solution (DSP) (food additive grade, Wako
+Pure Chemical Industries, Ltd. , Japan) for 3 h in an ultrasonic bath
+(5510J-MT; Branson Ultrasonics Co., USA) and then centrifuged at
+1000  g for 30 min at 20 C (CF16RXII and T15A41; Hitachi Koki
+Co., Ltd. , Japan). Supernatant (30 mL) was collected as stock
+suspension. The concentration of the stock suspension was
+determined by weight (AUW220D; Shimadzu Co., Japan) after
+drying in a thermostatic chamber (ON-300S; Asone Co., Japan).
+Suspensions of 0.375, 0.75, 1.5, 3.0, and 6.0 mg/mL were prepared
+for administration by diluting the stock suspension with 0.2% DSP.
+The size distribution and z potential of the TiO2 nanoparticles in
+the administered suspension were determined by dynamic light
+scattering (DLS) (Zetasizer nano-ZS; Malvern Instruments Ltd.,
+UK). The specific surface area of TiO2 nanoparticles in administered
+suspension was determined using the BET-method after washing
+with pure water and drying in a thermostatic chamber.
+2.2. Experimental procedure
+All animal were treated in accordance with the guideline for the
+animal experiment ofourlaboratory whichreferredtothe guidelines
+of Ministry of the Environment, Japan, Ministry of Health, Labourand
+Welfare, Japan, Ministry of Agriculture, Forestry and Fisheries, Japan,
+Ministry of Education, Culture, Sports, Science and Technology,
+Japan. The present experiment was approved by the Animal Care and
+Use Committee, Chemicals Evaluation and Research Institute, Japan,
+and by the Institutional Animal Care and Use Committee, National
+Institute of Advanced Industrial Science and Technology.
+Male F344/DuCrlCrlj rats were obtained from Charles River
+Laboratories Japan, Inc. (Kanagawa, Japan). The animals were
+12 weeks old with mean body weight of 246 g (range, 215-273 g) at
+the start of the study. Rats were anesthetized by isoflurane
+inhalation and treated by intratracheal administration of five
+concentrations of TiO2 nanoparticles (0.375, 0.75, 1.5, 3.0, and
+6.0 mg/mL) and negative control (0.2% DSP) at 1 mL/kg body
+weight using MicroSprayer1 Aerosolizer (Model IA-1B-R for Rat;
+Penn-Century, Inc., USA).
+Five rats in each group were euthanized and dissected at 1 day,
+3days,7days,4weeks,13weeks,and26weeksafterTiO2nanoparticle
+administration. The animals were euthanized by exsanguination
+from the abdominal aorta under intraperitoneal pentobarbital
+anesthesia (50 mg/kg body weight). Thereafter, the trachea was
+cannulated with a disposable feeding needle, which was then tied in
+place. The lungs were lavaged with 7 mL of physiological saline freely
+flowingfrom30 cmabovethe ratand thisfluidwascollectedinatube
+placed30 cmbelowtherat.Thislavagewasperformedtwiceand>90%
+of the 14 mL of lavage fluid was recovered. After BALF sampling, the
+lungs, trachea, right and left posterior mediastinal lymph nodes,
+parathymic lymph nodes, liver, kidneys, and spleen of each animal
+were dissected, rinsed with saline, and weighed.
+2.3. Analysis
+The Ti contents in the lungs after BALF sampling, BALF, trachea,
+right and left posterior mediastinal lymph nodes, parathymic
+lymph nodes, and liver of every animal were analyzed. The Ti
+contents in the kidneys and spleen of the negative control and
+highest dose groups were analyzed. In addition, the Ti contents in
+the stock suspension, drinking water, and food were also analyzed.
+The lungs after BALF sampling, kidneys, and spleen were
+homogenized with 2 mL of ultrapure water (Milli-Q Advantage
+A10 Ultrapure Water Purification System, Merck Millipore, USA),
+and the liver was homogenized with 10 mL of ultrapure water. An
+electric homogenizer (PT10-35 Kinematica AG and NS-50; 
+Micro-tec Co. Ltd., Japan) was used and the resulting homogenates were
+stored at <30 C until analysis.
+All samples were treated with acid prior to determination of Ti
+levels. Nitric acid (HNO3; 68%, 0.5 mL) and hydrogen peroxide
+(H2O2; 35%, 0.2 mL) were added to 0.1 mL of BALF, HNO3 (1 mL), and
+sulfuric acid (H2SO4; 98%, 0.2 mL) were added to 1 g of 
+homogenized tissues, HNO3 (0.5 mL) and H2SO4 (0.1 mL) were added to
+whole lymph node samples, HNO3 (1 mL) and H2O2 (0.3 mL) were
+added to 0.02 g of animal feed, and H2SO4 (0.5 mL) and hydrofluoric
+acid (HF; 38%, 0.5 mL) were added to 20 mL and 100 mL for high and
+low concentrations of the administered TiO2 suspension, 
+respectively. Drinking water was diluted 10-fold with 10% HNO3 solution,
+Lung
+Burden B [mg]
+dB
+dt
+Clearance  rate  con sta nt k
+)0( rAB,tkB
+B: Burden  [mg ]
+k:   Cleara nce ra te con stant [/ day ]
+A: Administ ered amount  [mg ]
+r:  Fra ctio n of  the adminis tered  TiO2
+that reached the alveolar regi on [- ]
+Fig. 1. 1-compartmental models for the clearance of TiO2 nanoparticles. This model
+is expressed in a first-order decay equation with rate constant k.
+with no subsequent handling. All acids used in the present study
+were ultrapure grade reagents (TAMAPURE-AA-100, Tama 
+Chemicals Co., Ltd., Japan). The acidified samples (apart from drinking
+water) were placed in a 7 mL perfluoroalkylvinylether vessel,
+which was inserted into a 100 mL digestion vessel of a microwave
+sample preparation instrument (ETHOS 1; Milestone Srl Italy or
+Speedwave 4; Berghof, Germany), and they were heated to 180 C
+for 20 min or 200 C for 20 min. After cooling to 40 C, the 
+acid-treated samples, with the exception of the TiO2 nanoparticle
+suspensions, were diluted to 5 mL (BALF and lymph nodes) or
+10 mL (the other organs and feed) with ultrapure water (made by
+PURELAB Option-R 7 and PURELAB Flex UV from Veolia Water
+Solutions and Technologies, France). Samples of the acid-treated
+TiO2 nanoparticle suspensions were heated on a hotplate for
+approximately 2 h until white fuming sulfuric acid was generated.
+After cooling, the solution was diluted to 50 mL with 10% HNO3.
+The sample Ti contents were then determined by ICP-SFMS using
+a Finnigan ELEMENT II (Thermo Fisher Scientific Inc. , Germany), and
+the Ti content in the administered TiO2 nanoparticle suspensions
+BkBk
+11211
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 3
+was determined by ICP atomic emission spectrometry (ICP-AES;
+SPS4000, SII NanoTechnology Inc., Japan). For ICP-SFMS, RF power
+was 1250 W, cool gas flow rate was 16 L/min, auxiliary gas flow rate
+was 0.87 L/min, sample gas flow rate was 0.870-0.965 L/min,
+additional gas flow rate was 0.080-0.180 L/min, mass resolution
+[/ day ]
+(R) was 4000, and the measured mass number m/z was 49. For 
+ICP-AES, RF power was 1.3 kW, plasma gas flow rate was 16 L/min,
+additional gas flow rate was 0.5 L/min, carrier gas flow rate was
+1.0 L/min, and wavelength was 334.941 nm. In the present study,
+49Ti (mass: 48.9479) was analyzed because its spectrum could be
+separated from the spectra of 33S16O (mass: 48.9666), 31P18O (mass:
+48.9729), and 32S16O1H (mass: 48.9748). Linearity of the calibration
+curves for 49Ti using ICP-SFMS was good between 0 and 20 ng/mL of
+standard solution (0, 0.01, 0.05, 0.1, 1, 5, 10, and 20 ng/mL;
+R2 > 0.999). Quality assurance data for the analysis were as
+previously described (Shinohara et al., 2014).
+2.4. TiO2 clearance analysis using decay model fitting
+Both 1-compartment and 2-compartment models were
+employed in this study. The 1-compartment model assumed one
+clearance pathway from the lungs (Fig. 1). For the 2-compartment
+approach, two kinds of clearance pathway models were 
+considered. Model A (Fig. 2A) assumed, direct clearance from the
+compartment 1, translocation from compartment 1 to 2, and
+clearance via compartment 2, while model B (Fig. 2B) assumed
+clearance from compartment 1 only, and reciprocal translocation
+between compartments 1 and 2.
+The 1-compartment model can be represented by a 1-step
+clearance rate constant, as shown in Eq. (1), where B was the TiO2
+lung burden; A was the amount of TiO2 administered (mg); t was
+the time elapsed after administration (day); r was the fraction of
+the administered TiO2 that reached the alveolar region; and k was
+the clearance rate constant for the clearance (/day).
+dB ¼ kB ðt ¼ 0; B ¼ rAÞ (1)
+dt
+The 2-compartment model A can be represented by a 2-step
+clearance as shown in Eqs. (2) and (3), where B1was the TiO2 burden
+
+BkBkBk
+22111211
+rA, B BtBkBk
+BrABtBkBk
+21221122
+)0,0(
+212211122
+)0;,0(
+4 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+in lung compartment 1 (mg); B2 was the TiO2 burden in lung
+compartment 2 (mg); A was the amount of TiO2 administered (mg);
+r was the fraction of the administered TiO2 that reached the alveolar
+region; and k1, k12, and k2were the rate constants for clearance from
+compartment 1 (/day), translocation from compartment 1 to 2
+(/day), and clearance from compartment 2 (/day), respectively.
+dB1
+dt ¼ k1B1  k12B1
+dB2
+dt ¼ k12 B1  k2 B2 ðt ¼ 0; B1 ¼ rA; B2 ¼ 0Þ (3)
+The 2-compartment model B can be represented by a clearance
+from compartment 1 and reciprocal translocation between
+compartment 1 and 2 as shown in Eqs. (4) and (5), where k21
+was the rate constant for translocation from compartment 1 to 2
+(/day).
+dB1
+dt ¼ k1B1  k12B1 þ k21B2
+dB2
+dt ¼ k12 B1  k21 B2 ðt ¼ 0; B1 ¼ rA; B2 ¼ 0Þ (5)
+The clearance/translocation rate constants, k, k1, k12, k2, and, k21
+and the fraction of the administered TiO2 that reached the alveolar
+region, r, of each model were estimated by fitting the decay curve
+to the total TiO2 burden measured in the lungs including BALF.
+Curve fitting was conducted using a least squares approach, in
+which the following sum of square difference in the logarithmic
+converted lung burden between the measured lung burden
+(Bmeasured), and the estimated lung burden (B1 + B2) was minimized
+(Eq. (6)), using the Solver tool in Excel 2010.
+Sum of square difference ¼ LnBmeasured  Ln B1 þ B2ð Þð Þ2 (6)
+2.5. TiO2 translocation rate coefficients to thoracic lymph nodes
+The rate constants for translocation of TiO2 from lung to thoracic
+lymph nodes were estimated under the following two assumptions,
+applied to the 2-compartment models A and B. One assumption was
+that TiO2 translocated from compartment 1 to the thoracic lymph
+nodes (Eq. (7)) and the other assumption was that TiO2 translocated
+from compartment 2 to the thoracic lymph nodes (Eq. (8)).
+dBLym
+dt ¼ kLung!LymB1 ðt ¼ 0; BLym ¼ 0Þ (7)
+dBLym
+dt ¼ kLung!LymB2 ðt ¼ 0; BLym ¼ 0Þ (8)
+X
+(2)
+(4)
+Where, BLym was the total TiO2 burden in the right and left
+posterior mediastinal lymph nodes, and the parathymic lymph
+nodes (mg); B1was the TiO2 lung burden in compartment 1 (mg); B2
+was the TiO2 lung burden in compartment 2 (mg); and kLung!Lym
+was the translocation rate constant from lung to thoracic lymph
+nodes (/day).
+The least squares method was used for the estimation (Eq. (9)).
+Sum of square difference ¼  2LnBLymmeasured  LnBLymestimated
+(9)
+Where BLym_measured was the measured thoracic lymph node TiO2
+burden and BLym_estimated was the estimated thoracic lymph node
+TiO2 burden.
+2.6. Statistical analysis
+The differences in tissue Ti or TiO2 concentrations between the
+study groups were statistically analyzed by Student’s t test or 
+one-way ANOVA (Welch’s test) after F-testing using SPSS 20.0.
+3. Results
+3.1. TiO2 nanoparticle characteristics
+The Z-average particle sizes were 143-148 nm in the 
+administered suspensions, with z potentials of 44 mV. Fig. 3 shows the
+TiO2 nanoparticle size distribution and a scanning electron
+micrograph of the nanoparticle in the stock suspension. The
+specific surface area of TiO2 nanoparticles in the administered
+suspension was 59 m2/g, which was very similar to that of the
+primary particles (50  15 m2/g, catalog value).
+3.2. Ti content in the dosing suspensions, drinking water, and rat feed
+The TiO2 concentrations in the diluted suspensions, determined
+by ICP-AES, were >95% of the concentration estimated by weight
+measurement and accounting for the dilution factor. Thus, the
+concentration of the stock solution was confirmed. The 
+concentrations of Ti in drinking water and feed, determined by ICP-SFMS,
+were <0.10 ng/mL and 2700 ng/g, respectively. This corresponded
+to TiO2-equivalent concentrations of <0.17 ng/mL and 4500 ng/g,
+respectively.
+3.3. Organ TiO2 burdens
+TiO2 burdens in lung after BALF sampling, BALF, and trachea
+between 1 day and 26 weeks after administration of TiO2
+X
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 5
+6 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 7
+nanoparticles were significantly higher (P < 0.01) than those of
+the control group (Fig. 4). The rat TiO2 burden depended on the
+dose administered. TiO2 burdens in lung after BALF sampling and
+BALF decreased over time. One day after administration,
+58%  16%, 70%  15%, 78%  13%, 64%  15%, and 77%  15% of
+the TiO2 administered was present in the lungs after BALF
+sampling of rats dosed with 0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg,
+respectively, while 6.1%  1.7%, 6.5%  0.75%, 8.6%  1.7%,
+13%  3.4%, and 31%  4.9% of administered TiO2 was present in
+the lungs after BALF sampling 26 weeks after administration of
+0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg, respectively. Much less TiO2
+was detected in BALF or trachea following intratracheal 
+administration of TiO2 nanoparticles. In BALF, 3.7%  0.49%, 4.6%  1.4%,
+4.9%  1.6%, 4.8%  1.8%, and 3.5%  0.90% of the TiO2 administered
+was present 1 day after administration of 0.375, 0.75, 1.5, 3.0, and
+6.0 mg/kg, respectively, as compared with 0.43%  0.14%,
+0.31%  0.11%, 0.31%  0.14%, 0.28%  0.13%, and 0.26%  0.031%
+detected in BALF 26 weeks after administration. In trachea,
+1.3%  0.60%, 1.2%  0.26%, 1.0%  0.41%, 0.81%  0.35%, and
+0.84%  0.45% of 0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg TiO2,
+respectively, was present 1 day after administration, as compared
+to 1.1%  0.85%, 0.60%  0.32%, 0.98%  0.78%, 0.50%  0.22%, and
+0.31%  0.27% in the trachea at 26 weeks after administration.
+TiO2 burdens in the thoracic lymph nodes are shown in Fig. 5.
+The TiO2 burdens in most of the thoracic lymph nodes were
+significantly higher in the groups dosed with TiO2 nanoparticles,
+compared with the control group, and increased over time. The
+total thoracic lymph node burden (right and left posterior
+mediastinal lymph nodes, and parathymic lymph nodes) ranged
+from 0.0089-0.040% of the dose administered 1 day after
+intratracheal administration. The TiO2 burden in thoracic lymph
+nodes showed dose-dependency 26 weeks after administration,
+8 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+Table 1
+Pulmonary clearance rate constants, translocation rate constants, and initial fraction of the administered TiO2 that reached the alveolar region estimated using the lung and
+BALF burden data (A) using 1-compartment model, (B) using 2-compartment model A, and (C) using 2-compartment model B.
+(A)
+Dose (mg/kg) k (/day) Initial fraction of the administered TiO2 that reached the alveolar region (%) Sum of square difference
+0.375 0.013 65 0.21
+0.75 0.013 69 0.13
+1.5 0.012 69 0.23
+3.0 0.010 69 0.075
+6.0 0.0055 73 0.13
+(B)
+Dose (mg/kg) k1 (/day) k12 (/day) k2 (/day) Initial fraction of the administered TiO2 that reached the alveolar region (%) Sum of square difference
+0.375 0.030 0.015 0.0086 76 0.069
+0.75 0.030 0.018 0.0093 80 0.0057
+1.5 0.022 0.0025 0.0000 79 0.015
+3.0 0.014 0.0027 0.00082 74 0.025
+6.0 0.016 0.0092 0.0000 82 0.011
+(C)
+Dose (mg/kg) k1 (/day) k12 (/day) k21 (/day) Initial fraction of the administered TiO2 that reached the alveolar region (%) Sum of square difference
+0.375 0.030 0.011 0.013 76 0.069
+0.75 0.030 0.012 0.015 80 0.0057
+1.5 0.022 0.0025 0.0000 79 0.015
+3.0 0.014 0.0025 0.00098 74 0.025
+6.0 0.016 0.0092 0.0000 82 0.011
+with 0.18%  0.13%, 0.10%  0.055%, 0.37%  0.22%,1.3%  0.45%, and
+3.4%  1.2% for the doses of 0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg,
+respectively.
+TiO2 burdens in liver are shown in Fig. 6. The liver TiO2 burden
+was significantly elevated above control levels only in the animals
+administered 6.0 mg/kg at 3 days to 26 weeks after the
+administration (P < 0.01). In these groups, the liver TiO2 burden
+was 0.0023%  0.0013%, 0.0094%  0.0073%, 0.0028%  0.00056%,
+0.012%  0.0053%, and 0.0087%  0.0025% of the dose 
+administered at 3 days, 7 days, 4 weeks, 13 weeks, and 26 weeks after
+administration, respectively. No significant differences were
+observed in kidney and spleen TiO2 levels in animals treated
+with the higher dose of nanoparticles and in control animals.
+3.4. TiO2 clearance analysis using compartment models
+The 2-compartment models were found to provide a better
+description of the pulmonary TiO2 burden decay curves than the
+1-compartment model, as shown in Fig. 7. The sum of square
+difference was 0.006-0.07 for the 2-compartment models A and B
+and 0.07-0.2 for the 1-compartment model. Since fitting results
+did not differ significantly between the 2-compartment models A
+and B, we have mainly shown the results of 2-compartment model
+A below. The estimated fraction of the administered TiO2 that
+reached the alveolar region and clearance/translocation rate
+constants based on the 1- compartment model and
+2-compartment model A are shown in Table 1. The clearance rate
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 9
+Table 2
+Translocation rate constant from lung to thoracic lymph nodes, kLung!Lym. (A)
+Assuming translocation from compartment 1 to thoracic lymph nodes and (B)
+assuming translocation from compartment 2 to thoracic lymph nodes.
+(A)
+Dose (mg/kg) kLung!Lym (/day) Sum of square difference
+0.375 0.00012 2.8
+0.75 0.000037 2.1
+1.5 0.00014 1.6
+3.0 0.00035 0.88
+6.0 0.00081 0.92
+(B)
+Dose (mg/kg) kLung!Lym (/day) Sum of square difference
+0.375 0.0010 33
+0.75 0.00028 23
+1.5 0.0066 35
+3.0 0.016 26
+6.0 0.010 21
+constants estimated by the 1-compartment model were stable
+(0.012-0.013/day) between the doses of 0.375 and 1.5 mg/kg, and
+decreased to 0.0097 and 0.0055/day at doses of 3.0 and 6.0 mg/kg,
+respectively. In the 2-compartment model, the clearance rate
+constants from compartment 1, k1, estimated using model A
+decreased from 0.030 (0.375 and 0.75 mg/kg) to 0.014 and
+0.016/day (3.0 and 6.0 mg/kg) with increasing TiO2 dose. The
+translocation rate constants from compartment 1 to 2, k12,
+estimated for doses of 0.375 and 0.75 mg/kg, 0.015 and
+0.018/day, were higher than those for doses of 1.5-6.0 mg/kg,
+0.0025-0.0092/day. The clearance rate constants from 
+compartment 2, k2, were also higher for doses of 0.375 and 0.75 mg/kg,
+0.0086 and 0.0093/day, than those for doses of 1.5-6.0 mg/kg,
+0-0.00082/day.
+3.5. TiO2 translocation rate coefficients to thoracic lymph nodes
+Measured and estimatedTiO2burden in thoracic lymph nodesare
+shown in Fig. 8. The sum of square differences indicated that the
+estimated thoracic lymph node burdens were a much better fit to the
+measured burdens when TiO2 translocation from compartment 1 to
+the thoracic lymph nodes was assumed, rather than those where
+TiO2 translocation from compartment 2 to the thoracic lymph nodes
+was assumed (Table 2). The sum of square difference was 0.9-3 for
+the former assumption, and 20-40 for the latter assumption. The
+translocation rate coefficients from the lungs to the thoracic lymph
+nodes (kLung!Lym) estimated under the former assumption,
+increased depending on the TiO2 dose, with kLung!Lym of
+0.000037-0.00012/day for doses of 0.375-1.5 mg/kg to
+0.00035 and 0.00081/day for doses of 3.0 and 6.0 mg/kg,
+respectively.
+4. Discussion
+In the results of 2-compartment model fitting, the fraction of
+the administered TiO2, that reached to alveolar region which does
+not include the bronchi and bronchiole, was estimated to be
+74-82%, and this was not dose-dependent. Approximately 20% of
+the administered dose was considered not to have reached to the
+alveolar region, but to be trapped in the bronchi and bronchioles,
+from where it was subsequently excreted by the bronchial
+mucociliary escalator.
+In this study, a certain fraction of the TiO2 nanoparticles
+(0.4-1.5%) was stably detected in the trachea at 1 day to 26 weeks
+after intratracheal administration; this fraction was not 
+dose-dependent. Particles deposited on the bronchi and bronchioles can
+be cleared by the bronchial mucociliary escalator within 5 min
+because the bronchial length (throat to terminal bronchiole) in rats is
+approximately 53 mm (Yeh et al., 1979) and ciliary motion rates are
+7.5-13.6 mm/min (Lightowler and Williams, 1969). It is probably
+incorrect to assume that all of the TiO2 detected in the trachea in the
+present study (0.4-1.5% of the administration dose) was in the
+process of being cleared from the alveoli by the bronchial
+mucociliaryescalator, asthiswould leadtothe unrealisticconclusion
+thatall of the administeredTiO2could beclearedvia thisroutewithin
+1 day. Some TiO2 particles might be retained in the trachea until at
+least 26 weeks after the administration.
+In the present study, lavagable fractions of TiO2 nanoparticle in
+lung (BALF/(lung + BALF)) were 4.4-7.0% 1 day after administration
+and 0.84-6.5% 26 weeks after administration. Although the
+lavagable fraction was constant at lower doses (6.1% and 6.2% at
+1 day to 6.5% and 4.6% at 26 weeks after administration for 0.375
+and 0.75 mg/kg), it decreased at higher doses (4.4-7.0% at 1 day to
+0.84-3.5% at 26 weeks after administration for 1.5-6.0 mg/kg). At
+higher doses, this low fraction could be associated with delayed
+clearance from lung. Previous studies indicated that the lavagable
+fraction of ultrafine TiO2 particles in lung corresponded to 69%,
+which was calculated using the tissue fraction (15.4%) and the
+equation (Tissue fraction = 1 1.23  lavaged fraction), 1 day after
+intratracheal administration of approximately 2.3 mg/kg (0.5 mg/
+rat) (Oberdörster et al., 1992) and 19% 7 days after intratracheal
+administration of approximately 2 mg/kg (0.52 mg/rat) (Sager et al.,
+2008). In the present study, 6.0% and 7.0% of the administered TiO2
+nanoparticles were lavaged 1 day after administration of 1.5 and
+3.0 mg/kg, respectively, and 6.3% and 3.8% 7 days after 
+administration of 1.5 and 3.0 mg/kg. Therefore, comparing similar doses and
+observation timings, the fractions in the present study were smaller
+than those reported previously. In these three studies, the animals
+were of the same strain and sex (Fisher F344 rat; male) and their
+body weight were similar (220 g in Oberdörster et al. (1992),
+200-300 g in Sager et al. (2008); and 215-273 g in our study). The
+primary sizes of the TiO2 nanoparticles were also similar among the
+three studies: 20 nm in Oberdörster et al. (1992) and 21 nm in
+Sager et al. (2008) and in our study. However, BALF was sampled
+using 2  7 mL washes with saline in the present study, compared to
+10  5 mL washes (Oberdörster et al., 1992) or 2  6 mL washes
+followed by several 8 mL washes, up to a total of 80 mL (Sager et al.,
+2008). This was consistent with our observation of fewer 
+macrophages and neutrophils in BALF, compared to those reported in
+previous studies (Table S1) (Oberdörster et al., 1992; Sager et al.,
+2008). Therefore, the smaller fraction in the present study could be
+due to the milder BALF sampling.
+The lavagable fraction in the present study could be either the
+particles internalized in the lavagable alveolar macrophages
+and/or the free particles in the airspaces. Oberdörster et al. (1992)
+considered that 1.23 times the lavagable fraction is retained in the
+alveolar space and the rest is located in the tissue. Sager et al.
+(2008) considered the lavagable fraction as the particles
+internalized by lavagable alveolar macrophages or presenting
+as free particles in the airspaces. Since BALF sampling was milder
+in our study than in the previous studies, the number of particles
+in lavagable macrophages and/or free particles in the air space
+might be larger than the lavagable fraction obtained in the
+present study.
+In previous studies, after inhalation exposure to TiO2 
+nanoparticles, TiO2 was only detected in the lungs and lung-associated
+lymph nodes, and was below the detection limit of <500 ng/organ
+in other organs (Bermudez et al., 2004; Ma-Hock et al., 2009; van
+Ravenzwaay et al., 2009). The present study used highly sensitive
+analytical methods and the detection limit improved to permit
+detection of considerably lower levels of tissue TiO2 (detection
+limits: 30 ng/organ in lung; 1.0 ng/organ in trachea; 0.5 ng/organ in
+lymph nodes; 14 ng/organ in liver), enabling determination of TiO2
+10 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+distribution for organs where TiO2 content could not be 
+determined in previous studies. This identified a liver TiO2 burden of
+34-180 ng/organ (0.0023-0.012%) from 3 days to 26 weeks after
+administration of 6.0 mg/kg, which was significantly higher than
+the level detected in the control group (9.8-27 ng/organ), and
+which would have been below the limit of detection
+(500 ng/organ) in the previous studies. This suggested that some
+pulmonary TiO2 nanoparticles could translocate to the liver via the
+blood. Although TiO2 nanoparticles might translocate from lung to
+liver at 0.375-3.0 mg/kg, we could not observe significant results
+because of the variance in the negative control. Since >90% of
+intravenously injected TiO2 (P25) nanoparticles translocated to the
+liver within 1 day and were rarely cleared from it, even after 30
+days (Shinohara et al., 2014), the burden detected in liver could be
+considered to represent translocation from the lung to blood and it
+is possible that translocation from the lung to other organs (apart
+from the liver) was negligible. In the present study, spleen and
+kidney TiO2 levels did not differ between the groups administered
+TiO2 nanoparticles and the control group.
+Delayed pulmonary clearance of TiO2 nanoparticles was found
+at higher doses, a phenomenon that is termed overload. Using the
+1-compartment model, the clearance rate constant, k, did not vary
+at doses of between 0.375 and 1.5 mg/kg, and decreased at 3.0 and
+6.0 mg/kg. This result was consistent with the findings of a
+12-month observation study after intratracheal instillation
+(Oyabu et al., 2013), where pulmonary clearance of
+intratracheally-administered TiO2 nanoparticles was observed to
+be delayed at high doses of 3.3 mg/kg and 10 mg/kg, compared
+with those observed at low doses of 0.33 mg/kg and 0.66 mg/kg,
+using the 1-compartment model.
+The present study found that 3.4%  1.2% of the 6.0 mg/kg TiO2
+nanoparticle dose had translocated to thoracic lymph nodes by
+26 weeks after administration. Translocation to thoracic lymph
+nodes similarly increased over time after inhalation exposure in
+previous studies (Bermudez et al., 2004). In the present study,
+translocation to thoracic lymph nodes was estimated to occur from
+compartment 1 according tothe comparison ofcurve fittingbetween
+2 assumptions. The dose-dependent increase observed in kLung!Lym
+in the present study suggested that the translocation to thoracic
+lymph nodes was enhanced at higher nanoparticle doses unlike
+pulmonary clearance. Therefore, pulmonary overload was 
+considered not to be associated with the thoracic lymph node clearance
+route. Since the translocation rate constants (kLung!Lym) were
+independently estimated for given burdens in compartments 1 and
+2 (B1 and B2) estimated with the 2-compartment model, the
+translocation rate constants, kLung!Lym, could be considered to be
+the part of the clearance rate constants from compartment 1, k1.
+Although the ratio of kLung!Lym to k1 showed a dose-dependent
+increase (0.4% at 0.375 mg/kg to 5% at 6.0 mg/kg), most clearance
+from lung could occur via other routes, such as the bronchial
+mucociliary escalator. In the previous compartmental models for
+pulmonary clearance, compartments 1 and 2 were considered to be
+the alveolar surface and the interstitium, respectively, and the
+clearance pathways from compartment 1 and 2 were considered to
+be the bronchial mucociliary escalator via the bronchi, and
+translocation to lung-associated lymph nodes via the interstitium,
+respectively (Stöber, 1999; Kuempel et al., 2001). In the present
+study, however, it was suggested that clearances both by the
+bronchial mucociliary escalator via the bronchi after macrophage
+phagocytosis and translocation to the thoracic lymph nodes should
+be described as clearance from compartment 1. Therefore, it is
+better to consider compartment 2 as a lung compartment where
+particle accumulate, rather than as an intermediate compartment
+for slow particle clearance. Compartment 2 might correspond to
+macrophages which have phagocytosed TiO2 nanoparticles and
+have subsequently been sequestered within the interstitium.
+Measured pulmonary burden can be well modeled effectively
+using the classical 2-compartment model in the present study.
+The advantage of the classical model in the present study over the
+previous physiologically based models is that it eliminates the
+arbitrariness and uncertainty in deciding the clearance mechanism
+and compartment meanings because the clearance mechanism
+and compartment meanings do not have to be predicted in
+advance. On the other hand, the disadvantage of the current model
+is that the meaning of the compartments is assumed only on the
+basis of circumstantial evidence. In addition, fitting of the results
+could be unclear if there is only a small amount of data.
+In the results of 2-compartment model fitting, the k1
+(0.014-0.030/day, equivalent half-life: 23-48 days) was higher
+than the k12 (0.0025-0.018/day, equivalent half-life: 39-280 days),
+and the k2 (0-0.0093/day, equivalent half-life: 75->840 days)
+(Table 1B). The rate constants for clearance from compartment 1, k1,
+and translocation from compartments 1 to 2, k12, were lower at
+doses of 1.5-6.0 mg/kg than at doses of 0.375 and 0.75 mg/kg. The
+rate constants for clearance from compartment 2, k2, (or transfer
+rate constants from compartment 2 to 1, k21) were much lower at
+doses of 1.5-6.0 mg/kg than at doses of 0.375 and 0.75 mg/kg. One of
+possible mechanism that could explain these dose-dependencies
+would be follows. Both clearance via the bronchial mucociliary
+escalator, and the sequestration of macrophages that have ingested
+TiO2, showed dose-dependent reductions. In addition, small
+amounts of TiO2 nanoparticle in the sequestrum macrophages
+could be cleared, or the macrophages could become 
+non-sequestrum, at lower nanoparticle doses. However, at higher TiO2
+nanoparticle doses, almost no TiO2 nanoparticles could be cleared
+from the sequestrum macrophages and they could not be cleared
+from the sequestrum macrophages or they could not become 
+non-sequestrum.
+5. Conclusion
+In the present study, the tissue distribution and clearance of
+TiO2 nanoparticles (P25) were determined after intratracheal
+administration to rats, using highly sensitive analytical methods.
+By 26 weeks after administration, the lung TiO2 burden including
+BALF had decreased to 6.6-8.9% of the 0.375-1.5 mg/kg doses and
+to 13% and 31% of the 3.0 and 6.0 mg/kg doses. At higher doses,
+pulmonary clearance was inhibited. The pulmonary clearance rate
+constants k1, k12, and k2, estimated to be 0.014-0.030,
+0.0025-0.018, and 0.0000-0.0093/day using a 2-compartment
+model, decreased in a dose-dependent manner. The translocation
+rate constants from lung to thoracic lymph nodes, kLung!Lym,
+estimated to be 0.000037-0.00081/day, were much lower than
+these pulmonary clearance rate constants and increased in a 
+dose-dependent manner.
+Conflict of interest
+This work is part of the research program “Development of
+innovative methodology for safety assessment of industrial
+nanomaterials” supported by the Ministry of Economy, Trade
+and Industry (METI) of Japan.
+Transparency document
+The Transparency document associated with this article can be
+found in the online version.
+Appendix A Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.tox.2014.08.003.
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 11
+References
+Bermudez, E., Mangum, J.B., Wong, B.A., Asgharian, B., Hext, P.M., Warheit, D.B.,
+Everitt, J.I., 2004. Pulmonary responses of mice rats, and hamsters to subchronic
+inhalation of ultrafine titanium dioxide particles. Toxicol. Sci. 77, 347-357.
+De Jong, W.H., Hagens, W.I., Krystek, P., Burger, M.C., Sips, A.J.A.M., Geertsma, R.E.,
+2008. Particle size-dependent organ distribution of gold nanoparticles after
+intravenous administration. Biomaterials 29, 1912-1919.
+Donaldson, K., Stone, V., Clouter, A., Renwick, L., MacNee, W., 2001. Ultrafine
+particles. Occup. Environ. Med. 58, 211-216.
+Donaldson, K., Stone, V., Tran, C.L., Kreyling, W., Borm, P.J., 2004. Nanotoxicology.
+Occup. Environ. Med. 61, 727-728.
+Fuji Chimera Research Institute, Inc. , 2009. Metallic Oxide 10. Ultrafine Particle
+Titanium Dioxide, Metallic Oxide 12. Titanium Dioxide for Photocatalyst, III.
+Market Compilation by Commodity Item, Current State and Future Outlook of
+the Ultrafine Particle Market in 2009. (Japanese).
+Kuempel, E.D., O'Flaherty, E.J., Stayner, L.T., Smith, R.J., Green, F.H.Y., Vallyathan, V.,
+2001. A biomathematical model of particle clearance and retention in the
+lungs of coal miners - I Model development. Regul. Toxicol. Pharmacol 34,
+69-87.
+Lightowler, N.M., Williams, J.R., 1969. Tracheal mucus flow rates in experimental
+bronchitis in rats. Br. J. Exp. Pathol. 50, 139-149.
+Ma-Hock, L., Burkhardt, S., Strauss, V., Gamer, A., Wiench, K., van Ravenzwaay, B.,
+Landsiedel, R., 2009. Development of a short-term inhalation test in the rat
+using nano-titanium dioxide as a model substance. Inhal. Toxicol 21, 102-118.
+Morrow, P.E., 1992. Dust overloading of the lungs - update and appraisal. Toxicol.
+Appl. Pharmacol 113, 1-12.
+Oberdörster, G., Ferin, J., Gelein, R., Soderholm, S.C., Finkelstein, J., 1992. Role of the
+alveolar macrophage in lung injury - studies with ultrafine particles. Environ.
+Health Perspect 97, 193-199.
+Oberdörster, G., Oberdörster, E., Oberdörster, J., 2005. Nanotoxicology: an emerging
+discipline evolving from studies of ultrafine particles. Environ. Health Perspect
+113, 823-839.
+Oyabu, T., Morimoto, Y., Hirohashi, M., Horie, M., Kambara, T., Lee, B.W., Hashiba, M.,
+Mizuguchi, Y., Myojo, T., Kuroda, E., 2013. Dose-dependent pulmonary response
+of well-dispersed titanium dioxide nanoparticles following intratracheal
+instillation. J. Nanopart. Res 15, 1600.
+Rehn, B., Seiler, F., Rehn, S., Bruch, J., Maier, M., 2003. Investigation on the
+inflammatory and genotoxic lung effects of two types of titanium dioxide:
+untreated and surface treated. Toxicol. Appl. Pharmacol 189, 84-95.
+Sager, T.M., Kommineni, C., Castranova, V., 2008. Pulmonary response to 
+intratracheal instillation of ultrafine versus fine titanium dioxide: role of particle
+surface area. Part. Fibre Toxicol. 5, 17.
+Shinohara, N., Nakazato, T., Tamura, M., Endoh, S., Fukui, H., Morimoto, Y., Myojo, T.,
+Shimada, M., Yamamoto, K., Tao, H., Yoshida, Y., Nakanishi, J., 2010. Clearance
+kinetics of fullerene C60 nanoparticles from rat lungs after intratracheal C60
+instillation and inhalation C60 exposure. Toxicol. Sci 118, 564-573.
+Shinohara, N., Danno, N., Ichinose, T., Sasaki, T., Fukui, H., Honda, K., Gamo, M., 2014.
+Tissue distribution and clearance of intravenously administered titanium
+dioxide (TiO2) nanoparticles. Nanotoxicology 8, 132-141.
+Stöber, W., 1999. POCK model simulations of pulmonary quartz dust retention data
+in extended inhalation exposures of rats. Inhal Toxicol. 11, 269-292.
+van Ravenzwaay, B., Landsiedel, R., Fabian, E., Burkhardt, S., Strauss, V., Ma-Hock, L.,
+2009. Comparing fate and effects of three particles of different surface
+properties Nano-TiO2, pigmentary TiO2 and quartz. Toxicol. Lett. 186, 152-159.
+Warheit, D.B., Webb, T.R., Reed, K.L., Frerichs, S., Sayes, C.M., 2007. Pulmonary
+toxicity study in rats with three forms of ultrafine-TiO2 particles: Differential
+responses to surface properties. Toxicology 230, 90-104.
+Yeh, H.C., Schum, G.M., Duggan, M.T., 1979. Anatomic models of the 
+tracheobronchial and pulmonary regions of the rat. Anat. Rec. 195 483, 492.
+
+>>>section: acknowledgements
+
+>>>section: abstract
+A B S T R A C T
+AEROSIL1 P25 titanium dioxide (TiO2) nanoparticles dispersed in 0.2% disodium phosphate solution
+were intratracheally administered to male F344 rats at doses of 0 (control), 0.375, 0.75, 1.5, 3.0, and
+6.0 mg/kg. The rats were sacrificed under anesthesia at 1 day, 3 days, 7 days, 4 weeks, 13 weeks, and
+26 weeks after administration. Ti levels in various pulmonary and extrapulmonary organs were
+determined using sensitive inductively coupled plasma sector field mass spectrometry. One day after
+administration, the lungs contained 62-83% of TiO2 administered dose. Twenty-six weeks after
+administration, the lungs retained 6.6-8.9% of the TiO2 administered at the 0.375, 0.75, and 1.5 mg/kg
+doses, and 13% and 31% of the TiO2 administered at the 3.0 and 6.0 mg/kg doses, respectively. The
+pulmonary clearance rate constants from compartment 1, k1, were estimated using a 2-compartment
+model and were found to be higher for the 0.375 and 0.75 mg/kg doses of TiO2 (0.030/day for both) than
+for TiO2 doses of 1.5-6.0 mg/kg (0.014-0.022/day). The translocation rate constants from compartment
+1 to 2, k12, were estimated to be 0.015 and 0.018/day for the 0.375 and 0.75 mg/kg doses, and
+0.0025-0.0092/day for doses of 1.5-6.0 mg/kg. The pulmonary clearance rate constants from
+compartment 2, k2, were estimated to be 0.0086 and 0.0093/day for doses of 0.375 and 0.75 mg/kg,
+and 0-0.00082/day for 1.5-6.0 mg/kg doses. Translocation of TiO2 from the lungs to the thoracic lymph
+nodes increased in a time- and dose-dependent manner, accounting for 0.10-3.4% of the administered
+dose at 26 weeks. The measured thoracic lymph node burdens were a much better fit to the thoracic
+lymph node burdens estimated assuming translocation from compartment 1 to the thoracic lymph
+nodes, rather than those estimated assuming translocation from compartment 2 to the thoracic lymph
+nodes. The translocation rate constants from the lungs to the thoracic lymph nodes, kLung!Lym, were
+0.000037-0.00081/day, and these also increased with increasing doses of TiO2. Although a small amount
+of TiO2 had translocated to the liver by 3 days after the administration (0.0023-0.012% of the highest dose
+administered, 6.0 mg/kg), translocation to the other extrapulmonary organs was not detected.
+ã 2014 The Author. Published by Elsevier Ireland Ltd. This is an open access article under the CC BY-NC-
+ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+
+>>>section: discussion
+4. Discussion
+In the results of 2-compartment model fitting, the fraction of
+the administered TiO2, that reached to alveolar region which does
+not include the bronchi and bronchiole, was estimated to be
+74-82%, and this was not dose-dependent. Approximately 20% of
+the administered dose was considered not to have reached to the
+alveolar region, but to be trapped in the bronchi and bronchioles,
+from where it was subsequently excreted by the bronchial
+mucociliary escalator.
+In this study, a certain fraction of the TiO2 nanoparticles
+(0.4-1.5%) was stably detected in the trachea at 1 day to 26 weeks
+after intratracheal administration; this fraction was not 
+dose-dependent. Particles deposited on the bronchi and bronchioles can
+be cleared by the bronchial mucociliary escalator within 5 min
+because the bronchial length (throat to terminal bronchiole) in rats is
+approximately 53 mm (Yeh et al., 1979) and ciliary motion rates are
+7.5-13.6 mm/min (Lightowler and Williams, 1969). It is probably
+incorrect to assume that all of the TiO2 detected in the trachea in the
+present study (0.4-1.5% of the administration dose) was in the
+process of being cleared from the alveoli by the bronchial
+mucociliaryescalator, asthiswould leadtothe unrealisticconclusion
+thatall of the administeredTiO2could beclearedvia thisroutewithin
+1 day. Some TiO2 particles might be retained in the trachea until at
+least 26 weeks after the administration.
+In the present study, lavagable fractions of TiO2 nanoparticle in
+lung (BALF/(lung + BALF)) were 4.4-7.0% 1 day after administration
+and 0.84-6.5% 26 weeks after administration. Although the
+lavagable fraction was constant at lower doses (6.1% and 6.2% at
+1 day to 6.5% and 4.6% at 26 weeks after administration for 0.375
+and 0.75 mg/kg), it decreased at higher doses (4.4-7.0% at 1 day to
+0.84-3.5% at 26 weeks after administration for 1.5-6.0 mg/kg). At
+higher doses, this low fraction could be associated with delayed
+clearance from lung. Previous studies indicated that the lavagable
+fraction of ultrafine TiO2 particles in lung corresponded to 69%,
+which was calculated using the tissue fraction (15.4%) and the
+equation (Tissue fraction = 1 1.23  lavaged fraction), 1 day after
+intratracheal administration of approximately 2.3 mg/kg (0.5 mg/
+rat) (Oberdörster et al., 1992) and 19% 7 days after intratracheal
+administration of approximately 2 mg/kg (0.52 mg/rat) (Sager et al.,
+2008). In the present study, 6.0% and 7.0% of the administered TiO2
+nanoparticles were lavaged 1 day after administration of 1.5 and
+3.0 mg/kg, respectively, and 6.3% and 3.8% 7 days after 
+administration of 1.5 and 3.0 mg/kg. Therefore, comparing similar doses and
+observation timings, the fractions in the present study were smaller
+than those reported previously. In these three studies, the animals
+were of the same strain and sex (Fisher F344 rat; male) and their
+body weight were similar (220 g in Oberdörster et al. (1992),
+200-300 g in Sager et al. (2008); and 215-273 g in our study). The
+primary sizes of the TiO2 nanoparticles were also similar among the
+three studies: 20 nm in Oberdörster et al. (1992) and 21 nm in
+Sager et al. (2008) and in our study. However, BALF was sampled
+using 2  7 mL washes with saline in the present study, compared to
+10  5 mL washes (Oberdörster et al., 1992) or 2  6 mL washes
+followed by several 8 mL washes, up to a total of 80 mL (Sager et al.,
+2008). This was consistent with our observation of fewer 
+macrophages and neutrophils in BALF, compared to those reported in
+previous studies (Table S1) (Oberdörster et al., 1992; Sager et al.,
+2008). Therefore, the smaller fraction in the present study could be
+due to the milder BALF sampling.
+The lavagable fraction in the present study could be either the
+particles internalized in the lavagable alveolar macrophages
+and/or the free particles in the airspaces. Oberdörster et al. (1992)
+considered that 1.23 times the lavagable fraction is retained in the
+alveolar space and the rest is located in the tissue. Sager et al.
+(2008) considered the lavagable fraction as the particles
+internalized by lavagable alveolar macrophages or presenting
+as free particles in the airspaces. Since BALF sampling was milder
+in our study than in the previous studies, the number of particles
+in lavagable macrophages and/or free particles in the air space
+might be larger than the lavagable fraction obtained in the
+present study.
+In previous studies, after inhalation exposure to TiO2 
+nanoparticles, TiO2 was only detected in the lungs and lung-associated
+lymph nodes, and was below the detection limit of <500 ng/organ
+in other organs (Bermudez et al., 2004; Ma-Hock et al., 2009; van
+Ravenzwaay et al., 2009). The present study used highly sensitive
+analytical methods and the detection limit improved to permit
+detection of considerably lower levels of tissue TiO2 (detection
+limits: 30 ng/organ in lung; 1.0 ng/organ in trachea; 0.5 ng/organ in
+lymph nodes; 14 ng/organ in liver), enabling determination of TiO2
+10 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+distribution for organs where TiO2 content could not be 
+determined in previous studies. This identified a liver TiO2 burden of
+34-180 ng/organ (0.0023-0.012%) from 3 days to 26 weeks after
+administration of 6.0 mg/kg, which was significantly higher than
+the level detected in the control group (9.8-27 ng/organ), and
+which would have been below the limit of detection
+(500 ng/organ) in the previous studies. This suggested that some
+pulmonary TiO2 nanoparticles could translocate to the liver via the
+blood. Although TiO2 nanoparticles might translocate from lung to
+liver at 0.375-3.0 mg/kg, we could not observe significant results
+because of the variance in the negative control. Since >90% of
+intravenously injected TiO2 (P25) nanoparticles translocated to the
+liver within 1 day and were rarely cleared from it, even after 30
+days (Shinohara et al., 2014), the burden detected in liver could be
+considered to represent translocation from the lung to blood and it
+is possible that translocation from the lung to other organs (apart
+from the liver) was negligible. In the present study, spleen and
+kidney TiO2 levels did not differ between the groups administered
+TiO2 nanoparticles and the control group.
+Delayed pulmonary clearance of TiO2 nanoparticles was found
+at higher doses, a phenomenon that is termed overload. Using the
+1-compartment model, the clearance rate constant, k, did not vary
+at doses of between 0.375 and 1.5 mg/kg, and decreased at 3.0 and
+6.0 mg/kg. This result was consistent with the findings of a
+12-month observation study after intratracheal instillation
+(Oyabu et al., 2013), where pulmonary clearance of
+intratracheally-administered TiO2 nanoparticles was observed to
+be delayed at high doses of 3.3 mg/kg and 10 mg/kg, compared
+with those observed at low doses of 0.33 mg/kg and 0.66 mg/kg,
+using the 1-compartment model.
+The present study found that 3.4%  1.2% of the 6.0 mg/kg TiO2
+nanoparticle dose had translocated to thoracic lymph nodes by
+26 weeks after administration. Translocation to thoracic lymph
+nodes similarly increased over time after inhalation exposure in
+previous studies (Bermudez et al., 2004). In the present study,
+translocation to thoracic lymph nodes was estimated to occur from
+compartment 1 according tothe comparison ofcurve fittingbetween
+2 assumptions. The dose-dependent increase observed in kLung!Lym
+in the present study suggested that the translocation to thoracic
+lymph nodes was enhanced at higher nanoparticle doses unlike
+pulmonary clearance. Therefore, pulmonary overload was 
+considered not to be associated with the thoracic lymph node clearance
+route. Since the translocation rate constants (kLung!Lym) were
+independently estimated for given burdens in compartments 1 and
+2 (B1 and B2) estimated with the 2-compartment model, the
+translocation rate constants, kLung!Lym, could be considered to be
+the part of the clearance rate constants from compartment 1, k1.
+Although the ratio of kLung!Lym to k1 showed a dose-dependent
+increase (0.4% at 0.375 mg/kg to 5% at 6.0 mg/kg), most clearance
+from lung could occur via other routes, such as the bronchial
+mucociliary escalator. In the previous compartmental models for
+pulmonary clearance, compartments 1 and 2 were considered to be
+the alveolar surface and the interstitium, respectively, and the
+clearance pathways from compartment 1 and 2 were considered to
+be the bronchial mucociliary escalator via the bronchi, and
+translocation to lung-associated lymph nodes via the interstitium,
+respectively (Stöber, 1999; Kuempel et al., 2001). In the present
+study, however, it was suggested that clearances both by the
+bronchial mucociliary escalator via the bronchi after macrophage
+phagocytosis and translocation to the thoracic lymph nodes should
+be described as clearance from compartment 1. Therefore, it is
+better to consider compartment 2 as a lung compartment where
+particle accumulate, rather than as an intermediate compartment
+for slow particle clearance. Compartment 2 might correspond to
+macrophages which have phagocytosed TiO2 nanoparticles and
+have subsequently been sequestered within the interstitium.
+Measured pulmonary burden can be well modeled effectively
+using the classical 2-compartment model in the present study.
+The advantage of the classical model in the present study over the
+previous physiologically based models is that it eliminates the
+arbitrariness and uncertainty in deciding the clearance mechanism
+and compartment meanings because the clearance mechanism
+and compartment meanings do not have to be predicted in
+advance. On the other hand, the disadvantage of the current model
+is that the meaning of the compartments is assumed only on the
+basis of circumstantial evidence. In addition, fitting of the results
+could be unclear if there is only a small amount of data.
+In the results of 2-compartment model fitting, the k1
+(0.014-0.030/day, equivalent half-life: 23-48 days) was higher
+than the k12 (0.0025-0.018/day, equivalent half-life: 39-280 days),
+and the k2 (0-0.0093/day, equivalent half-life: 75->840 days)
+(Table 1B). The rate constants for clearance from compartment 1, k1,
+and translocation from compartments 1 to 2, k12, were lower at
+doses of 1.5-6.0 mg/kg than at doses of 0.375 and 0.75 mg/kg. The
+rate constants for clearance from compartment 2, k2, (or transfer
+rate constants from compartment 2 to 1, k21) were much lower at
+doses of 1.5-6.0 mg/kg than at doses of 0.375 and 0.75 mg/kg. One of
+possible mechanism that could explain these dose-dependencies
+would be follows. Both clearance via the bronchial mucociliary
+escalator, and the sequestration of macrophages that have ingested
+TiO2, showed dose-dependent reductions. In addition, small
+amounts of TiO2 nanoparticle in the sequestrum macrophages
+could be cleared, or the macrophages could become 
+non-sequestrum, at lower nanoparticle doses. However, at higher TiO2
+nanoparticle doses, almost no TiO2 nanoparticles could be cleared
+from the sequestrum macrophages and they could not be cleared
+from the sequestrum macrophages or they could not become 
+non-sequestrum.
+
+>>>section: results
+3. Results
+3.1. TiO2 nanoparticle characteristics
+The Z-average particle sizes were 143-148 nm in the 
+administered suspensions, with z potentials of 44 mV. Fig. 3 shows the
+TiO2 nanoparticle size distribution and a scanning electron
+micrograph of the nanoparticle in the stock suspension. The
+specific surface area of TiO2 nanoparticles in the administered
+suspension was 59 m2/g, which was very similar to that of the
+primary particles (50  15 m2/g, catalog value).
+3.2. Ti content in the dosing suspensions, drinking water, and rat feed
+The TiO2 concentrations in the diluted suspensions, determined
+by ICP-AES, were >95% of the concentration estimated by weight
+measurement and accounting for the dilution factor. Thus, the
+concentration of the stock solution was confirmed. The 
+concentrations of Ti in drinking water and feed, determined by ICP-SFMS,
+were <0.10 ng/mL and 2700 ng/g, respectively. This corresponded
+to TiO2-equivalent concentrations of <0.17 ng/mL and 4500 ng/g,
+respectively.
+3.3. Organ TiO2 burdens
+TiO2 burdens in lung after BALF sampling, BALF, and trachea
+between 1 day and 26 weeks after administration of TiO2
+X
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 5
+6 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 7
+nanoparticles were significantly higher (P < 0.01) than those of
+the control group (Fig. 4). The rat TiO2 burden depended on the
+dose administered. TiO2 burdens in lung after BALF sampling and
+BALF decreased over time. One day after administration,
+58%  16%, 70%  15%, 78%  13%, 64%  15%, and 77%  15% of
+the TiO2 administered was present in the lungs after BALF
+sampling of rats dosed with 0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg,
+respectively, while 6.1%  1.7%, 6.5%  0.75%, 8.6%  1.7%,
+13%  3.4%, and 31%  4.9% of administered TiO2 was present in
+the lungs after BALF sampling 26 weeks after administration of
+0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg, respectively. Much less TiO2
+was detected in BALF or trachea following intratracheal 
+administration of TiO2 nanoparticles. In BALF, 3.7%  0.49%, 4.6%  1.4%,
+4.9%  1.6%, 4.8%  1.8%, and 3.5%  0.90% of the TiO2 administered
+was present 1 day after administration of 0.375, 0.75, 1.5, 3.0, and
+6.0 mg/kg, respectively, as compared with 0.43%  0.14%,
+0.31%  0.11%, 0.31%  0.14%, 0.28%  0.13%, and 0.26%  0.031%
+detected in BALF 26 weeks after administration. In trachea,
+1.3%  0.60%, 1.2%  0.26%, 1.0%  0.41%, 0.81%  0.35%, and
+0.84%  0.45% of 0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg TiO2,
+respectively, was present 1 day after administration, as compared
+to 1.1%  0.85%, 0.60%  0.32%, 0.98%  0.78%, 0.50%  0.22%, and
+0.31%  0.27% in the trachea at 26 weeks after administration.
+TiO2 burdens in the thoracic lymph nodes are shown in Fig. 5.
+The TiO2 burdens in most of the thoracic lymph nodes were
+significantly higher in the groups dosed with TiO2 nanoparticles,
+compared with the control group, and increased over time. The
+total thoracic lymph node burden (right and left posterior
+mediastinal lymph nodes, and parathymic lymph nodes) ranged
+from 0.0089-0.040% of the dose administered 1 day after
+intratracheal administration. The TiO2 burden in thoracic lymph
+nodes showed dose-dependency 26 weeks after administration,
+8 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+Table 1
+Pulmonary clearance rate constants, translocation rate constants, and initial fraction of the administered TiO2 that reached the alveolar region estimated using the lung and
+BALF burden data (A) using 1-compartment model, (B) using 2-compartment model A, and (C) using 2-compartment model B.
+(A)
+Dose (mg/kg) k (/day) Initial fraction of the administered TiO2 that reached the alveolar region (%) Sum of square difference
+0.375 0.013 65 0.21
+0.75 0.013 69 0.13
+1.5 0.012 69 0.23
+3.0 0.010 69 0.075
+6.0 0.0055 73 0.13
+(B)
+Dose (mg/kg) k1 (/day) k12 (/day) k2 (/day) Initial fraction of the administered TiO2 that reached the alveolar region (%) Sum of square difference
+0.375 0.030 0.015 0.0086 76 0.069
+0.75 0.030 0.018 0.0093 80 0.0057
+1.5 0.022 0.0025 0.0000 79 0.015
+3.0 0.014 0.0027 0.00082 74 0.025
+6.0 0.016 0.0092 0.0000 82 0.011
+(C)
+Dose (mg/kg) k1 (/day) k12 (/day) k21 (/day) Initial fraction of the administered TiO2 that reached the alveolar region (%) Sum of square difference
+0.375 0.030 0.011 0.013 76 0.069
+0.75 0.030 0.012 0.015 80 0.0057
+1.5 0.022 0.0025 0.0000 79 0.015
+3.0 0.014 0.0025 0.00098 74 0.025
+6.0 0.016 0.0092 0.0000 82 0.011
+with 0.18%  0.13%, 0.10%  0.055%, 0.37%  0.22%,1.3%  0.45%, and
+3.4%  1.2% for the doses of 0.375, 0.75, 1.5, 3.0, and 6.0 mg/kg,
+respectively.
+TiO2 burdens in liver are shown in Fig. 6. The liver TiO2 burden
+was significantly elevated above control levels only in the animals
+administered 6.0 mg/kg at 3 days to 26 weeks after the
+administration (P < 0.01). In these groups, the liver TiO2 burden
+was 0.0023%  0.0013%, 0.0094%  0.0073%, 0.0028%  0.00056%,
+0.012%  0.0053%, and 0.0087%  0.0025% of the dose 
+administered at 3 days, 7 days, 4 weeks, 13 weeks, and 26 weeks after
+administration, respectively. No significant differences were
+observed in kidney and spleen TiO2 levels in animals treated
+with the higher dose of nanoparticles and in control animals.
+3.4. TiO2 clearance analysis using compartment models
+The 2-compartment models were found to provide a better
+description of the pulmonary TiO2 burden decay curves than the
+1-compartment model, as shown in Fig. 7. The sum of square
+difference was 0.006-0.07 for the 2-compartment models A and B
+and 0.07-0.2 for the 1-compartment model. Since fitting results
+did not differ significantly between the 2-compartment models A
+and B, we have mainly shown the results of 2-compartment model
+A below. The estimated fraction of the administered TiO2 that
+reached the alveolar region and clearance/translocation rate
+constants based on the 1- compartment model and
+2-compartment model A are shown in Table 1. The clearance rate
+N. Shinohara et al. / Toxicology 325 (2014) 1-11 9
+Table 2
+Translocation rate constant from lung to thoracic lymph nodes, kLung!Lym. (A)
+Assuming translocation from compartment 1 to thoracic lymph nodes and (B)
+assuming translocation from compartment 2 to thoracic lymph nodes.
+(A)
+Dose (mg/kg) kLung!Lym (/day) Sum of square difference
+0.375 0.00012 2.8
+0.75 0.000037 2.1
+1.5 0.00014 1.6
+3.0 0.00035 0.88
+6.0 0.00081 0.92
+(B)
+Dose (mg/kg) kLung!Lym (/day) Sum of square difference
+0.375 0.0010 33
+0.75 0.00028 23
+1.5 0.0066 35
+3.0 0.016 26
+6.0 0.010 21
+constants estimated by the 1-compartment model were stable
+(0.012-0.013/day) between the doses of 0.375 and 1.5 mg/kg, and
+decreased to 0.0097 and 0.0055/day at doses of 3.0 and 6.0 mg/kg,
+respectively. In the 2-compartment model, the clearance rate
+constants from compartment 1, k1, estimated using model A
+decreased from 0.030 (0.375 and 0.75 mg/kg) to 0.014 and
+0.016/day (3.0 and 6.0 mg/kg) with increasing TiO2 dose. The
+translocation rate constants from compartment 1 to 2, k12,
+estimated for doses of 0.375 and 0.75 mg/kg, 0.015 and
+0.018/day, were higher than those for doses of 1.5-6.0 mg/kg,
+0.0025-0.0092/day. The clearance rate constants from 
+compartment 2, k2, were also higher for doses of 0.375 and 0.75 mg/kg,
+0.0086 and 0.0093/day, than those for doses of 1.5-6.0 mg/kg,
+0-0.00082/day.
+3.5. TiO2 translocation rate coefficients to thoracic lymph nodes
+Measured and estimatedTiO2burden in thoracic lymph nodesare
+shown in Fig. 8. The sum of square differences indicated that the
+estimated thoracic lymph node burdens were a much better fit to the
+measured burdens when TiO2 translocation from compartment 1 to
+the thoracic lymph nodes was assumed, rather than those where
+TiO2 translocation from compartment 2 to the thoracic lymph nodes
+was assumed (Table 2). The sum of square difference was 0.9-3 for
+the former assumption, and 20-40 for the latter assumption. The
+translocation rate coefficients from the lungs to the thoracic lymph
+nodes (kLung!Lym) estimated under the former assumption,
+increased depending on the TiO2 dose, with kLung!Lym of
+0.000037-0.00012/day for doses of 0.375-1.5 mg/kg to
+0.00035 and 0.00081/day for doses of 3.0 and 6.0 mg/kg,
+respectively.
+
+>>>section: introduction
+Toxicology 325 (2014) 1-11
+Contents lists available at ScienceDirect
+Toxicology
+journa l homepage : www.e l s evier .com/ loca te / toxicol
+Dose-dependent clearance kinetics of intratracheally administered
+titanium dioxide nanoparticles in rat lung
+Naohide Shinohara a,*, Yutaka Oshima b, Toshio Kobayashi b, Nobuya Imatanaka c,
+Makoto Nakai b, Takayuki Ichinose d, Takeshi Sasaki e, Guihua Zhang a, Hiroko Fukui a,
+Masashi Gamo a
+aNational Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8569, Japan
+bChemicals Evaluation and Research Institute (CERI), Hita, Oita 877-0061, Japan
+cChemicals Evaluation and Research Institute (CERI), Bunkyo, Tokyo 112-0004, Japan
+d Toray Research Center, Inc., Otsu, Shiga 520-8567, Japan
+eNational Institute of Advanced Industrial Science and Technology (AIST), Tsukuba, Ibaraki 305-8565, Japan
+A R T I C L E I N F O
+Article history:
+Received 17 June 2014
+Received in revised form 8 August 2014
+Accepted 8 August 2014
+Available online 13 August 2014
+Keywords:
+Nanomaterial
+Overload
+Distribution
+Clearance
+Toxicokinetics
+Compartment model
+1. Introduction
+The safety of nanomaterials has been the focus of worldwide
+concern because of the lack of information available regarding
+their potential risks for workers and the general population.
+Therefore, the toxicity of nanomaterials has been tested
+* Corresponding author. Tel.: +81 29 861 8415; fax: +81 29 861 8030.
+E-mail address: n-shinohara@aist.go.jp (N. Shinohara).
+http://dx.doi.org/10.1016/j.tox.2014.08.003
+0300-483X/ã  2014  The  Author.  Published  by  Elsevier  Ireland  Ltd.  This  is  an  open  access  article  under  the  CC  BY-NC-ND  license  (http://creativecommons.org/licenses/by-nc-
+nd/3.0/).
+internationally. Nano-sized titanium dioxide (TiO2) particles
+(primary particle size <100 nm), one of the most typical industrial
+nanomaterials, have been utilized in sunscreen, cosmetics, and
+photo catalysis since the 1980s. Global demand for TiO2 
+nanomaterials was estimated at 2100-2500 tons per year in 2008
+(Fuji Chimera Research Institute, Inc., 2009). Since TiO2 is 
+water-insoluble and inert, it is generally regarded as having low toxicity
+in humans and is even used as an additive in food products.
+However, nano-sized particles may be more toxic or show a more
+widespread organ distribution than micron-sized particles
+2 N. Shinohara et al. / Toxicology 325 (2014) 1-11
+(Donaldson et al., 2001, 2004; Oberdörster et al., 2005; De Jong
+et al., 2008).
+In order to evaluate the toxicity of TiO2 nanoparticles,
+toxicokinetic data are beneficial. Since it is well established that
+pulmonary clearance of particles is inhibited following the
+administration of higher doses, a phenomenon known as overload
+(Morrow,1992), it is important to evaluate the dose-dependency of
+pulmonary clearance when considering inhalation toxicity. In
+addition, after inhalation or intratracheal administration of TiO2
+nanoparticles, Ti have been detected in the lungs and 
+lung-associated lymph nodes, while Ti levels in other organs such as the
+liver, spleen, kidneys, and brain were below the detection limit
+(Bermudez et al., 2004; Ma-Hock et al., 2009; van Ravenzwaay
+et al., 2009; Oyabu et al., 2013; Sager et al., 2008).
+One-compartment models have been often used for the
+evaluation of pulmonary clearance (Bermudez et al., 2004; Oyabu
+et al., 2013). First order clearance rate constants for highly
+persistent substances often decrease as the observation period
+increases. Therefore, first order clearance rate constants estimated
+by using a 1-compatment model over different observation periods
+cannot be compared with each other. In addition, a 1-compartment
+model does not fit the measured burden closely. A 
+two-compartment model was reported to provide a better fit to the
+measured burden and can be applied to evaluate both faster and
+slower clearances (Shinohara et al., 2010). However, there are no
+studies evaluating the clearance of TiO2 nanoparticles from the
+lung using a 2-compartment model.
+The present study aimed to elucidate dose-dependent 
+pulmonary clearance kinetics and dose-dependent translocation kinetics
+to extrapulmonary organs of TiO2 nanoparticle. In this study, we
+administered TiO2 nanoparticles intratracheally to rats at 5 doses
+and investigated their pulmonary clearance and translocation from
+the lung to extrapulmonary organs over 26 weeks. We determined
+the TiO2 burden in the lungs after sampling of bronchoalveolar
+lavage fluid (BALF), BALF, and trachea, as well as the thoracic lymph
+nodes (right and left posterior mediastinal lymph nodes, 
+parathymic lymph nodes), liver, spleen, and kidneys using a highly
+sensitive inductively coupled plasma sector field mass 
+spectroscopy (ICP-SFMS; double-focusing ICP-MS). The pulmonary 
+clearance rate constants estimated using a classical 2-compartment
+model were compared over a range of doses. AEROSIL1 P25 TiO2
+nanoparticles, which have often been employed for toxicity testing
+of TiO2 nanoparticles and have been shown to induce lung
+inflammation (Rehn et al., 2003; Sager et al., 2008; Warheit et al.,
+2007) were used in the present study.
+
+>>>section: figure_1
+(A) 
+    (B) 
+Lung 
+Lung 
+Clearance 
+Cleara nce  rat e 
+Compartm ent  1 rate constant  k1 [/day] 
+Compartme nt 1 constant  k1 [/day] 
+Burden B1 [mg] 
+Burden B1 [mg] 
+Translo catio nrate constant  k12 
+Tran  
+[/day] 
+constant  k12 
+slocation  rat e Translo cation  rat e 
+[/day] constant k21 [/day] 
+Compartment  2 
+Compartment  2 
+Burden B2 [mg] 
+Burden B2 [mg] 
+Clearancerate constant  k2 
+[/day] 
+dB1 
+dB1 
+dt 
+dt 
+dB 
+dB 
+dt 
+dt 
+B2: Bur den in compartment 2 [mg]B1: Bur den in compartment 1 [mg]k1:  Clearance  rate  con stant  fr om compartm 
+k2:  Clearance  rate  consta nt fr om compartmk12: Translocation rate  constant from  comp ent 2 [/da y]ent 1 [/day ] 
+k21: Translocation rate  constant from  compartment  1 to  2 [/day]A: Administered  amount  [mg] 
+artment  2 to  1 [/day] 
+r:   Fracti on of the  administ ered  TiO2 that reac hed  the alve olar  region  [- ] 
+Fig. 2. (A) 2-compartment model A in which TiO2 nanoparticles are cleared from compartments 1 and 2 and (B) 2-compartment model B in which TiO2 nanoparticles are 
+cleared from compartment 1 and translocate from compartments 2 to 1. The models A and  B are expressed in a first-order decay equation with rate constants k1,k12, and k2, and 
+with rate constants k1, k12, and k21, respectively. 
+
+>>>section: figure_2
+Fig. 3. (A) Size distribution and (B) scanning electron micrograph of the  TiO2 nanoparticle suspension used for intratracheal administration. 
+
+>>>section: figure_3
+Fig. 4. TiO2 burden  per  initial  body  weight  in  (A)  lung,  (B)  BALF,  and  (C)  trachea  after  intratracheal  administration  of  nanoparticles.  The  columns  and  error  bars  indicate  the 
+mean  and  standard  deviation,  respectively.  Asterisks  indicate  statistically  signiﬁcant  differences,  compared  with  the  control  group  (**  P  <  0.01,  *  P  <  0.05).  Samples  with  TiO2 
+levels below the quantification limit were assigned values corresponding to half the quantification limit. 
+
+>>>section: figure_4
+Fig. 5. TiO2 burden  per  initial  body  weight  in  (A)  right  posterior  mediastinal  lymph  nodes,  (B)  left  posterior  mediastinal  lymph  nodes,  and  (C)  parathymic  lymph  nodes, 
+following  intratracheal  nanoparticle  administration.  The  columns  and  error  bars  indicate  the  mean  and  standard  deviation,  respectively.  Asterisks  indicate  statistically 
+significant differences, compared with the control group (** P < 0.01, * P < 0.05). Samples with TiO2 levels below the quantification limit were assigned values corresponding 
+to half the quantification limit. 
+
+>>>section: figure_5
+Fig. 6. TiO2 burden  per  initial  body  weight  in  liver.  The  columns  and  error  bars  indicate  the  mean  and  standard  deviation,  respectively.  Asterisks  indicate  statistically 
+significant differences, compared with the control group (** P < 0.01, * P < 0.05). Samples  with TiO2 levels below the quantification limit were assigned values corresponding 
+to half the quantification limit. 
+
+>>>section: figure_6
+Fig. 7. Model fitting to the experimental data relating to lung and BALF TiO2 burdens per  initial body weight. The solid line shows the 2-compartment model fitting and the 
+broken line shows the 1-compartment model fitting. 
+
+>>>section: figure_7
+Fig. 8. Model fitting to the experimental data relating to total thoracic lymph nodes TiO2 burden per initial body weight. The solid line shows the fitting curve for translocation 
+from compartment 1 to thoracic lymph nodes and the broken line shows the fitting curve for translocation from compartment 2 to thoracic lymph nodes. 
+
+**References**
+
+References
+Bermudez E Mangum JB Wong BA Asgharian B Hext PM Warheit DB Everitt JI 2004 Pulmonary responses of mice rats and hamsters to subchronic inhalation of ultrafine titanium dioxide particles Toxicol Sci 77 347-357
+De Jong WH Hagens WI Krystek P Burger MC Sips AJAM Geertsma RE 2008 Particle size-dependent organ distribution of gold nanoparticles after intravenous administration Biomaterials 29 1912-1919
+Donaldson K Stone V Clouter A Renwick L MacNee W 2001 Ultrafine particles Occup Environ Med 58 211-216
+Donaldson K Stone V Tran CL Kreyling W Borm PJ 2004 Nanotoxicology Occup Environ Med 61 727-728
+Fuji Chimera Research Institute Inc  2009 Metallic Oxide 10 Ultrafine Particle Titanium Dioxide Metallic Oxide 12 Titanium Dioxide for Photocatalyst III Market Compilation by Commodity Item Current State and Future Outlook of the Ultrafine Particle Market in 2009 (Japanese)
+Kuempel ED O'Flaherty EJ Stayner LT Smith RJ Green FHY Vallyathan V 2001 A biomathematical model of particle clearance and retention in the lungs of coal miners - I Model development Regul Toxicol Pharmacol 34 69-87
+Lightowler NM Williams JR 1969 Tracheal mucus flow rates in experimental bronchitis in rats Br J Exp Pathol 50 139-149
+Ma-Hock L Burkhardt S Strauss V Gamer A Wiench K van Ravenzwaay B Landsiedel R 2009 Development of a short-term inhalation test in the rat using nano-titanium dioxide as a model substance Inhal Toxicol 21 102-118
+Morrow PE 1992 Dust overloading of the lungs - update and appraisal Toxicol Appl Pharmacol 113 1-12
+Oberdörster G Ferin J Gelein R Soderholm SC Finkelstein J 1992 Role of the alveolar macrophage in lung injury - studies with ultrafine particles Environ Health Perspect 97 193-199
+Oberdörster G Oberdörster E Oberdörster J 2005 Nanotoxicology an emerging discipline evolving from studies of ultrafine particles Environ Health Perspect 113 823-839
+Oyabu T Morimoto Y Hirohashi M Horie M Kambara T Lee BW Hashiba M Mizuguchi Y Myojo T Kuroda E 2013 Dose-dependent pulmonary response of well-dispersed titanium dioxide nanoparticles following intratracheal instillation J Nanopart Res 15 1600
+Rehn B Seiler F Rehn S Bruch J Maier M 2003 Investigation on the inflammatory and genotoxic lung effects of two types of titanium dioxide untreated and surface treated Toxicol Appl Pharmacol 189 84-95
+Sager TM Kommineni C Castranova V 2008 Pulmonary response to intra- tracheal instillation of ultrafine versus fine titanium dioxide role of particle surface area Part Fibre Toxicol 5 17
+Shinohara N Nakazato T Tamura M Endoh S Fukui H Morimoto Y Myojo T Shimada M Yamamoto K Tao H Yoshida Y Nakanishi J 2010 Clearance kinetics of fullerene C60 nanoparticles from rat lungs after intratracheal C60 instillation and inhalation C60 exposure Toxicol Sci 118 564-573
+Shinohara N Danno N Ichinose T Sasaki T Fukui H Honda K Gamo M 2014 Tissue distribution and clearance of intravenously administered titanium dioxide (TiO2) nanoparticles Nanotoxicology 8 132-141
+Stöber W 1999 POCK model simulations of pulmonary quartz dust retention data in extended inhalation exposures of rats Inhal Toxicol 11 269-292
+van Ravenzwaay B Landsiedel R Fabian E Burkhardt S Strauss V Ma-Hock L 2009 Comparing fate and effects of three particles of different surface properties Nano-TiO2 pigmentary TiO2 and quartz Toxicol Lett 186 152-159
+Warheit DB Webb TR Reed KL Frerichs S Sayes CM 2007 Pulmonary toxicity study in rats with three forms of ultrafine-TiO2 particles Differential responses to surface properties Toxicology 230 90-104
+Yeh HC Schum GM Duggan MT 1979 Anatomic models of the tracheobron- chial and pulmonary regions of the rat Anat Rec 195 483 492

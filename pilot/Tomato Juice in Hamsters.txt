@@ -1,0 +1,853 @@
+Article
+Hypolipidemic Effect of Tomato Juice in Hamsters in
+High Cholesterol Diet-Induced Hyperlipidemia
+Li-Chen Lee 1, Li Wei 2, Wen-Ching Huang 3, Yi-Ju Hsu 4, Yi-Ming Chen 4,* and
+Chi-Chang Huang 4,*
+Received: 15 October 2015; Accepted: 11 December 2015; Published: 17 December 2015
+1
+Department of Physical Education, Shih Hsin University, Taipei 11604, Taiwan; lilychen@cc.shu.edu.tw
+2
+Department of Neurosurgery, Taipei Medical University-WanFang Hospital, Taipei 11696, Taiwan;
+nsweili@gmail.com
+3
+Graduate Institute of Athletics and Coaching Science, National Taiwan Sport University,
+Taoyuan 33301, Taiwan; 1010503@ntsu.edu.tw
+4
+Graduate Institute of Sports Science, National Taiwan Sport University, Taoyuan 33301, Taiwan;
+1041302@ntsu.edu.tw
+*
+Correspondence: 1021302@ntsu.edu.tw (Y.-M.C.); john5523@ntsu.edu.tw or d301090007@gmail.com (C.-C.H.);
+Tel.: +886-3-328-3201 (ext. 2619) (Y.-M.C.); +886-3-328-3201 (ext. 2409) (C.-C.H.)
+Abstract: Tomato is a globally famous food and contains several phytonutrients including lycopene,
+β-carotene, anthocyanin, and flavonoids. The increased temperature used to produce tomato juice,
+ketchup, tomato paste and canned tomato enhances the bioactive composition. We aimed to verify
+the beneficial effects of processed tomato juice from Kagome Ltd. (KOT) on hypolipidemic action in
+hamsters with hyperlipidemia induced by a 0.2% cholesterol and 10% lard diet (i.e., high-cholesterol
+diet (HCD)). Male Golden Syrian hamsters were randomly divided into two groups for treatment:
+normal (n = 8), standard diet (control); and experimental (n = 32), HCD. The 32 hamsters were further
+divided into four groups (n = 8 per group) to receive vehicle or KOT by oral gavage at 2787, 5573,
+or 13,934 mg/kg/day for six weeks, designated the HCD-1X, -2X and -5X groups, respectively. The
+efficacy and safety of KOT supplementation was evaluated by lipid profiles of serum, liver and feces
+and by clinical biochemistry and histopathology. HCD significantly increased serum levels of total
+cholesterol (TC), triacylglycerol (TG), high-density lipoprotein cholesterol (HDL-C), and low-density
+lipoprotein cholesterol (LDL-C), LDL-C/HDL-C ratio, hepatic and fetal TC and TG levels, and degree
+of fatty liver as compared with controls. KOT supplementation dose-dependently decreased serum
+TC, TG, LDL-C levels, LDL-C/HDL-C ratio, hepatic TC and TG levels, and fecal TG level. Our study
+provides experiment-based evidence to support that KOT may be useful in treating or preventing the
+onset of hyperlipidemia.
+Keywords: tomato juice; hypolipidemic; cholesterol; triglyceride; high-cholesterol diet; lipid-lowering
+1. Introduction
+Tomato is low in fat and calories, cholesterol free, and a good source of fiber and protein. It is
+also rich in vitamins A and C, β-carotene, potassium, and lycopene [1]. Tomato is now used in
+enormous quantities in the fresh state and heads the list of all vegetables as a canned product. Most
+tomato is consumed as a processed product, such as pastes, concentrates, ketchup, salsa and juice.
+Processed tomato products are important sources of minerals and vitamins in diets [2]. Tomato and
+processed tomato contain many health-benefit components, such as lycopene, anthocyanin, ascorbic
+acid, total phenolics, glycoalkaloids, and tomatine and low levels of carotenoids [3-8]. Lycopene
+bioavailability can be affected by food processing. The bioavailability in food is higher for cis-isomers
+Nutrients 2015, 7, 10525-10537; doi:10.3390/nu7125552
+www.mdpi.com/journal/nutrients
+Nutrients 2015, 7, 10525-10537
+than all-trans-isomers. Lycopene bioavailability is higher in processed tomato products than in
+unprocessed fresh tomatoes [9-11].
+tomatoes are usually boiled first to inactivate enzymes that decrease vitamin C and other nutrients
+when tomatoes are crushed. Some foods lose their nutrient content when they are cooked or juiced,
+but the heating process actually boosts certain of tomatoes’ properties. Lycopene is more available in
+tomato juice than in fresh tomatoes because of the heat and oil used to produce juice. Canned and
+bottled tomato juice is often fortified, thereby increasing the levels of vitamins [12,13]. In a previous
+study, the US Department of Agriculture recorded that 1/2 cup of tomato juice provides 10% and 35%
+of the recommended daily amount of vitamins C and A, respectively [14].
+Tomato juice is known to have lipid-lowering effects and antioxidant activities [11]. In previous
+study, a tomato processed product improved blood lipid profiles in postmenopausal hyperlipidemic
+rats [10]. A high dietary intake of tomato products has atheroprotective effects by significantly reducing
+liver and serum cholesterol levels [15,16]. Tomato from the processing of tomato products contains
+many bioactive components, including those that act as antioxidants, such as the vitamins C and E and
+carotenoids. Lycopene is one of the main carotenoids in tomatoes. Previous study demonstrated that
+lycopene shows greater stability at low than high temperature and benefits from the processed tomato
+products. The lycopene bioactivity can be more accurately predicted in processed tomato than fresh
+tomato because lycopene is more soluble in lipids than water and has greater interaction with cellulose.
+Therefore, grinding tomato and cooking with oil could increase the bioavailability [17-19]. Another
+study showed that a higher lycopene concentration could protect against cardiovascular disease [20];
+tomato-processed foods contain lycopene that can help reduce serum triglyceride (TG) levels with
+human high fat-induced [21-23]. One recent study reported that 13-oxo-9,11-octadecadienoic acid in
+tomato extract acts as a peroxisome proliferator-activated receptor α (PPARα) agonist and ameliorates
+obesity-induced dyslipidemia and hepatic steatosis [24].
+Many studies used the hamster model to evaluate the hypolipidemic effect because it has
+many similarities with human fat-induced atherosclerotic disease. Similar to humans, hamsters
+are endowed with cholesterol ester transfer protein and all of the enzymatic pathways in lipoproteins
+and bile metabolism; atherosclerotic plaques develop in response to a fat diet in lesion-prone areas
+similar to humans [25-27]. Therefore, we used hamsters to evaluate the preventive effectiveness
+of supplementation with tomato juice from Kagome Ltd. (KOT) that is produced by a process for
+increasing lycopene and dietary fiber on hyperlipidemia regulation. We also examined the biochemical
+parameters and liver tissues by histopathology.
+2. Experimental Section
+2.1. Materials, Animals, and Experiment Design
+KOT was obtained from Taiwan Kagome Co. (Tainan, Taiwan). In this study, the dose of KOT
+designed for humans was 22.595 g per day (lyophilized powder), which would be equivalent to a daily
+recommended dose of KOT at 280 mL/serving/day. To ensure precise and accurate dosing of test
+animals, KOT was lyophilized by freeze-drying to obtain powder extract. The nutrition facts, dietary
+fiber and lycopene of KOT were provided by Kagome Co. and are shown in Table 1. The hamster dose
+(2787 mg/kg) we used was converted from a human-equivalent dose (HED) based on body surface
+area by the following formula from the US Food and Drug Administration: assuming a human weight
+of 60 kg, the HED for 22.595 (g)/60 (kg) = 377 ˆ 7.4 = 2787 mg/kg; the conversion coefficient 7.4 was
+used to account for differences in body surface area between hamsters and human as we recently
+described [28].
+Tomato juice is made by heating, crushing and simmering tomatoes. To maintain nutrition,
+10526
+Nutrients 2015, 7, 10525-10537
+Table 1. Nutrition facts of tomato juice from Kagome Ltd. (KOT) (per g lyophilized powder).
+Content
+Nutrients 2015, 7, page-page  Nutrition Facts /g KOT (Lyophilized Powder)
+Table 1. Nutrition facts of tomato juice from Kagome Ltd. (KOT) (per g lyophilized powder).  Protein
+Saturated fat
+TransNutrition Facts
+Fat
+fat
+/g KOT (Lyophilized Powder)0Carbohydrate
+Protein
+Sugar
+SodiumFat
+TotalSaturated fat  calories
+DietaryTrans fat  fiber
+LycopeneCarbohydrate
+FromSugar  Taiwan Kagome Co. (Tainan,0.53 g  Taiwan).
+Sodium
+0.12 g
+0
+0
+Content
+0.810.12 g  g
+0.53 g
+1.190  mg
+3.470  Kcal
+0.120  g
+1.440.81 g  mg
+1.19 mg
+1.44 mg  City, Taiwan. Animals were housed in the
+Specific pathogen-free (SPF)Total calories  male Golden Syrian hamsters3.47 Kcal  (12 weeks old) were purchased from
+the National Laboratory AnimalDietary fiber  Center (NLAC), Taipei0.12 g  Lycopene
+animal facility at National Taiwan SportFrom Taiwan Kagome Co. (Tainan, Taiwan).  University at temperature (22 ˘ 1 ˝C) and 50% to 60% relative
+humidity, withSpecific pathogen-free (SPF) male Golden Syrian hamsters (12 weeks old) were purchased from  a 12 h light-dark cycle (light on 7:00 a.m.). Distilled water and standard laboratory
+chow diet the National Laboratory Animal Center (NLAC), Taipei City, Taiwan. Animals were housed in the  (No. 5001; PMI Nutrition International, Brentwood, MO, USA) were provided ad libitum.
+Before theanimal facility at National Taiwan Sport University at temperature (22 ± 1 °C) and 50% to 60% relative  experiments, the hamsters were acclimatized for 1 week to the environment and diet.
+The Institutionalhumidity, with a 12 h light-dark cycle (light on 7:00 a.m.). Distilled water and standard laboratory  chow diet (No. 5001; PMI Nutrition International, Brentwood, MO, USA) were provided ad libitum.  Animal Care and Use Committee (IACUC) of National Taiwan Sport University
+(NTSU) approvedBefore the experiments, the hamsters were acclimatized for 1 week to the environment and diet. The  all animal experimental protocols, and the study conformed to the guidelines of the
+protocol IACUC-10306Institutional Animal Care and Use Committee (IACUC) of National Taiwan Sport University (NTSU)  approved by the IACUC ethics committee.
+The experimentalapproved  all  animal  designexperimental  is in Figureprotocols,  1. A totaland  the  ofstudy  40 hamstersconformed  wereto  the  randomlyguidelines  dividedof  the  into 5
+groups for protocol IACUC-10306 approved by the IACUC ethics committee.  treatmentThe experimental design  (n = 8/each group):is  (1) control, standard chow diet with vehicle (water); (2) HCD,
+standard chow (No. 5001) with 0.2% cholesterolin Figure 1. A  andtotal of 40 hamsters were  10% lard diet with vehiclerandomly divided  treatment;into 5  groups for treatment (n = 8/each group): (1) control, standard chow diet with vehicle (water); (2) HCD,  (3) KOT-1X,
+HCD withstandard chow (No. 5001) with 0.2% cholesterol and 10% lard diet with vehicle treatment; (3) KOT-1X,  KOT supplementation at 2787 mg/kg; (4) KOT-2X, HCD with KOT supplementation at
+5573 mg/kg;HCD with KOT supplementation at 2787 mg/kg; (4) KOT-2X, HCD with KOT supplementation at 5573  (5) KOT-5X, HCD with KOT supplementation at 13,934 mg/kg. The vehicle treatment
+was the volumemg/kg; (5) KOT-5X, HCD with KOT supplementation at 13,934 mg/kg. The vehicle treatment was the  volume of solution to body weight (BW). The food intake and water consumption were monitored  of solution to body weight (BW). The food intake and water consumption were
+monitoreddaily, and BW was recorded weekly.  daily, and BW was recorded weekly.
+solution equivalentof solution equivalent to body weight (BW). HCD (high-cholesterol diet), HCD and the same volume  of  solution  toequivalent  body weightto BW; KOT-1X, HCD  (BW). HCD (high-cholesteroland  2787 mg/kg/day KOT; KOT-2X, HCD  diet), HCD and theand  same5573  volume of
+solution equivalentmg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT: tomato juice from Kagome Ltd.  to BW; KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-2X, HCD and 5573 mg/kg/day
+KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT: tomato juice from Kagome Ltd.
+2.2. HCD Composition
+Hamsters were fed a standard chow diet or an HCD adapted from our previous study [29]. The
+standard chow (No. 5001) contained 3.35 kcal/g with 28.5% as protein, 13.5% as fat and 58.0% as
+3
+10527
+Nutrients 2015, 7, 10525-10537
+carbohydrates. The HCD contained 0.2% (wt/wt) cholesterol (Sigma-Aldrich, St. Louis, MO, USA),
+10% (wt/wt) lard (Sigma-Aldrich) and 89.8% (wt/wt) standard chow, for 3.92 kcal/g with 21.96% as
+protein, 33.37% as fat and 44.67% as carbohydrates.
+2.3. Clinical Biochemical Profiles
+At the end of the experiment, after 12 h of food deprivation all hamsters were anaesthetized with
+5% isoflurane at the rate of 0.5 L/min and euthanized by exsanguination after 12 h of food deprivation.
+Blood samples were collected from abdominal aortas. Serum was collected by centrifugation at 1500ˆ g
+for 15 min and the clinical biochemical variables including aspartate aminotransferase (AST), alanine
+aminotransferase (ALT), lactate dehydrogenase (LDH), total protein (TP), blood urea nitrogen (BUN),
+creatinine, and glucose were measured by using the Beckman DxC 800 analyzer (Beckman Coulter,
+Brea, CA, USA). Hamsters were sacrificed after 6 weeks of KOT supplementation; liver, kidney, heart
+and epididymal fat pad (EFP) were removed and tissue weight was recorded for evaluating body
+composition. All tissue samples were snap-frozen and stored at ´80 ˝C until further analysis.
+2.4. Liver and Fecal Lipid Analysis
+We used a metabolic cage (Muromachi Kikai, Tokyo) to collect hamster feces for analysis of
+fecal TG and total cholesterol (TC) levels. Fecal lipids were extracted by using chloroform-methanol
+(2:1, v/v) with a Bullet Blender (Next Advance, Cambridge, MA, USA). The suspension was filtered
+through Whatman No. 5 filter paper (Whatman, Maidstone, UK), and the solvent was aspirated,
+and evaporated. The residue was resuspended in 1 mL of DMSO solution. Fecal TG and TC levels
+were measured colorimetrically as described previously. Hepatic TG and TC were extracted by
+chloroform-isopropanol-NP40 (7:11:0.1, v/v) with a Bullet Blender. After centrifugation (12,000ˆ g;
+10 min), TG and TC levels were quantified by using a commercial enzymatic kit for TG (No. 10010303)
+and a kit for TC (No. 10007640) from Cayman Chemical (Ann Arbor, MI, USA).
+2.5. Histological Staining of Tissues
+Liver tissues were carefully removed, minced and fixed in 10% formalin. All samples were
+embedded in paraffin and cut into 4-µm thick slices for morphological and pathological evaluations.
+Tissue was stained with hematoxylin and eosin (H&E) and examined under a light microscope
+equipped with a CCD camera (BX-51, Olympus, Tokyo, Japan) by a veterinary pathologist.
+2.6. Statistical Analysis
+All data are expressed as mean ˘ SD (standard deviation). Statistical differences were analyzed
+by one-way analysis of variance (ANOVA) and the Cochran-Armitage test for trend analysis of
+dose-effect of KOT supplementation with use of SAS 9.0 (SAS Inst., Cary, NC, USA). p < 0.05 was
+considered statistically significant.
+3. Results and Discussion
+3.1. Hamster BW and Daily Intake
+The growth curves for hamsters are in Figure 2. At the start of the experiment, the BW of the
+five groups did not significantly differ (Table 2). During the experimental period, BW was stable and
+steadily increased in each group. At the end of the experiment, the BW did not differ among the
+groups. Therefore, the HCD did not affect BW. With KOT supplementation, the BW curve was still
+stable and steadily increased, with no significant differences among groups. The daily intake is shown
+in Table 2. The diet intake did not differ among the groups, but water intake significantly decreased in
+HCD-induced hyperlipidemia groups (HCD, KOT-1X, -2X and -5X) as compared with controls. This
+result was same as for our previous study; hamsters fed an HCD to induce hyperlipidemia showed
+decreased daily water intake [30].
+10528
+Nutrients 2015, 7, page-page
+in HCD-induced hyperlipidemia groups (HCD, KOT-1X,  -2X and -5X) as compared with controls.
+showed decreased daily water intake [30].
+controls. TG level was lower, by 27% (p = 0.0354), 30.6% (p = 0.0179) and 36.7% (p = 0.0053) for 
+KOT-dose-dependently decreased with KOT treatment under HCD-induced hyperlipidemia (p = 0.0009).
+Nutrients 2015, 7,This  10525-10537result was  same as  for our previous  study; hamsters  fed an HCD  to  induce hyperlipidemia
+3.2. Effect of Six-Week1X, -2X and -5X groups, respectively, than with HCD alone. On trend analysis, serum TG level was  KOT Supplementation on Serum Lipid Levels and LDL-C/HDL-C Ratio in Hamsters
+At six weeks after KOT supplementation, TG level was 69 ˘ 46, 315 ˘ 128, 230 ˘ 82, 218 ˘ 64 and
+199 ˘ 30 (mg/dL) in control, HCD, KOT-1X, -2X and5  -5X groups, respectively (Figure 3A). Hamsters
+fed an HCD diet showed significantly increased TG level, by 4.59-fold (p < 0.0001), as compared with
+controls. TG level was lower, by 27% (p = 0.0354), 30.6% (p = 0.0179) and 36.7% (p = 0.0053) for KOT-1X,
+-2X and -5X groups, respectively, than with HCD alone. On trend analysis, serum TG level was
+dose-dependently decreased with KOT treatment under HCD-induced hyperlipidemia (p = 0.0009).
+TC level was 113 ˘ 6, 324 ˘ 59, 285 ˘ 29 and 255 ˘ 40 (mg/dL) for control, HCD, KOT-1X, -2X and
+-5X groups, respectively (Figure 3B), and was higher, by 2.88-fold, with HCD alone than for controls
+(p < 0.0001). TC level was lower, by 12.1% (p = 0.0462), 15.6% (p = 0.0115) and 21.5% (p = 0.0008) for
+KOT-1X, -2X and -5X groups, respectively, than with HCD alone. On trend analysis, TG level was
+dose-dependently decreased with the KOT treatment (p = 0.0011). Therefore, our HCD diet model
+could induce hyperlipidemia in healthy hamsters. Furthermore, KOT could reduce serum TC and TG
+levels under HCD-induced hyperlipidemia.
+After six-week KOT supplementation, HDL-C level was 70 ˘ 3.4, 88.8 ˘ 3.1, 87.5 ˘ 9.5, 87.2 ˘ 12.0
+and 88.2 ˘ 8.6 (mg/dL) for control, HCD, KOT-1X, -2X and -5X groups, respectively (Figure 3C), and
+10529
+Nutrients 2015, 7, page-page
+TC level was 113 ± 6, 324 ± 59, 285 ± 29 and 255 ± 40 (mg/dL) for control, HCD, KOT-1X, -2X and -5X
+0.0001). TC level was lower, by 12.1% (p = 0.0462), 15.6% (p = 0.0115) and 21.5% (p = 0.0008) for 
+KOT-1X, -2X and -5X groups, respectively, than with HCD alone. On trend analysis, TG level was 
+dose-dependently decreased with the KOT treatment (p = 0.0011). Therefore, our HCD diet model could
+Nutrients 2015, 7, 10525-10537groups, respectively (Figure 3B), and was higher, by 2.88-fold, with HCD alone than for controls (p <
+was significantlyinduce hyperlipidemia in healthy hamsters. Furthermore, KOT could reduce serum TC and TG levels  higher, by 1.25-fold (p < 0.0001), 1.23-fold (p = 0.0002), 1.23-fold (p = 0.0003) and
+1.24-fold (p = 0.0001)under HCD-induced hyperlipidemia.  After six-week KOT supplementation, HDL-C level was 70 ± 3.4, 88.8 ± 3.1, 87.5 ± 9.5, 87.2 ± 12.0  for HCD, KOT-1X, -2X and -5X groups, respectively, than controls but did not
+differ among HCD,and 88.2 ± 8.6 (mg/dL) for control, HCD, KOT-1X, -2X and -5X groups, respectively (Figure 3C), and  KOT-1X, -2X and -5X groups. Thus, HCD diet could significantly increase HDL-C
+level in healthywas significantly higher, by 1.25-fold (p < 0.0001), 1.23-fold (p = 0.0002), 1.23-fold (p = 0.0003) and 1.24-hamsters. LDL-C level was 14.4 ˘ 1.8, 74.7 ˘ 16.3, 62.8 ˘ 8.9 and 57.3 ˘ 11.9 and
+52.8 ˘ 14.4 (mg/dL)fold (p = 0.0001) for HCD, KOT-1X, -2X and -5X groups, respectively, than controls but did not differ  among HCD, KOT-1X, -2X and -5X groups. Thus, HCD diet could significantly increase HDL-C level  for control, HCD, KOT-1X, -2X and -5X groups, respectively (Figure 3D), and
+was higher, by in healthy hamsters. LDL-C level was 14.4 ± 1.8, 74.7 ± 16.3, 62.8 ± 8.9 and 57.3 ± 11.9 and 52.8 ± 14.4  5.19-fold (p < 0.0001), with HCD alone than for controls. In addition, LDL-C level was
+lower, by 15.9%(mg/dL) for control, HCD, KOT-1X, -2X and -5X groups, respectively (Figure 3D), and was higher, by  5.19-fold (p < 0.0001), with HCD alone than for controls. In addition, LDL-C level was lower, by 15.9%  (p = 0.0517), 23.4% (p = 0.0055) and 29.4% (p = 0.0007) for KOT-1X, -2X and -5X groups,
+respectively, than(p = 0.0517), 23.4% (p = 0.0055) and 29.4% (p = 0.0007) for KOT-1X, -2X and -5X groups, respectively,  with HCD alone. On trend analysis, KOT supplementation dose-dependently
+decreased LDL-Cthan with HCD alone. On trend analysis, KOT supplementation dose-dependently decreased LDL-C  level under HCD-induced hyperlipidemia  level under HCD-induced hyperlipidemia(p = 0.0011). Thus, KOT  (p =supplementation could  0.0011). Thus, KOTinhibit  supplementation
+could inhibit increasedincreased HDL-C level under HCD-induced hyperlipidemia.  HDL-C level under HCD-induced hyperlipidemia.
+LDL-C is generated by lipolysis of VLDL-C. The function of LDL-C is to deliver cholesterol to
+cells, where it is used in membranes or for the synthesis of steroid hormones [31-33]. Additionally,
+increased concentrations of LDL-C are strongly associated with increased atherosclerosis, because LDL
+becoming oxidized LDL inhibits macrophage migration and promotes lipid uptake by macrophages,
+which become foam cells that accumulate in atherosclerotic plaques [34,35]. Thus, the level of LDL-C
+is linked to atherosclerosis-related cardiovascular consequences [36,37]. In our study, KOT could have
+modulatory effects on LDL-C levels and show health benefits with specific ingredients that have a
+pharmacological effect on hyperlipidemia. A previous study demonstrated that tomatine, a major
+10530
+Nutrients 2015, 7, 10525-10537
+component of tomato, decreased serum LDL-C level but had no effect on HDL-C level in hamsters fed
+an HCD [38]. This result was similar to our data.
+capacity. If the ratio is low, atherosclerotic risk factors are decreased [39,40]. The ratio of LDL-C/HDL-C
+was 0.20 ˘ 0.02, 0.84 ˘ 0.21, 0.72 ˘ 0.08, 0.67 ˘ 0.15 and 0.60 ˘ 0.13 for control, HCD, KOT-1X, -2X
+and -5X groups, respectively (Figure 3E), and was higher, by 3.54-fold (p < 0.001), with HCD alone
+than for controls. Moreover, LDL-C/HDL-C ratio was lower, by 14.9% (p = 0.0727), 21.2% (p = 0.0113),
+29.5% (p = 0.0007), for KOT-1X, -2X and -5X groups, respectively, than with HCD alone. On trend
+analysis, the ratio of LDL-C/HDL-C was dose-dependently decreased with KOT supplementation
+under HCD-induced hyperlipidemia (p = 0.0001).
+3.3. Effect of Six-Week KOT Supplementation on Hepatic TG and TC Levels in Hyperlipidemic Hamsters
+At the end of the experiment, liver TG content was 80.6 ˘ 6, 112 ˘ 10, 96 ˘ 7, 78 ˘ 7 and
+74 ˘ 13 (mg/g liver) for control, HCD, KOT-1X, -2X and -5X groups, respectively (Figure 4A), and
+was higher, by 1.40-fold (p < 0.001), with HCD alone than for controls. Liver TG content was lower,
+by 14.8% (p = 0.0007), 30.2% (p < 0.0001) and 33.8% (p < 0.0001) for KOT-1X, -2X and -5X groups,
+respectively, than with HCD alone. On trend analysis, liver TG content was dose-dependently
+decreased with KOT supplementation under HCD-induced hyperlipidemia (p < 0.0001). Furthermore,
+liver TC content was 3.51 ˘ 0.49, 11.46 ˘ 0.41, 9.22 ˘ 1.15, 6.64 ˘ 0.96 and 7.78 ˘ 1.07 (mg/g
+liver) for control, HCD, KOT-1X, -2X and -5X groups, respectively (Figure 4B), and was higher, by
+3.27-fold (p < 0.001), with HCD alone than for controls. Liver TC content was lower, by 19.6%
+(p < 0.0001), 42.0% (p < 0.0001) and 32.1% (p < 0.0001) for KOT-1X, -2X and -5X groups, respectively,
+than with HCD alone. On trend analysis, liver TC content was dose-dependently decreased with KOT
+supplementation (p = 0.0001). Accumulation of liver fat is often associated with abnormal accumulation
+of TGs in liver [41]. Therefore, KOT supplementation could significantly mitigate the increased liver
+TC and TG content induced by the HCD hyperlipidemia model. One recent study demonstrated that
+9-oxo-10(E),12(Z),15(Z)-octadecatrienoic acid in tomato extract promotes fatty acid metabolism via
+PPARα activation in liver cells and has potential for use in the management of dyslipidemia [42].
+In addition, 13-oxo-9(Z),11(E),15(Z)-octadecatrienoic acid in the extract of tomato induced PPARγ
+expression in adipose tissue and resulted in the regulation of adipogenesis [43]. From these previous
+studies, we suggest that KOT may activate PPARα and PPARγ by two different pathways to reduce TG
+level and increase insulin sensitization; there were activation of PPARα reduces triglyceride level and
+is involved in regulation of energy homeostasis and activation of PPARγ causes insulin sensitization
+and enhancesNutrients 2015, 7, page-page  glucose and enhances fatty acids metabolism.
+
+The ratio of LDL-C/HDL-C is a criterion for evaluating the efficiency of cholesterol-lowering
+8
+Nutrients 2015, 7, 10525-10537
+3.4. Effect of Six-Week Supplementation with KOT on Fecal TG and TC Levels in Hyperlipidemic Hamsters
+and TC levels. At the end of the experiment, the fecal TG content was 17.7 ˘ 3.4, 22.5 ˘ 6.2, 20.0 ˘ 4.2,
+19.2 ˘ 5.0 and 17.8 ˘ 3.2 (mg/g feces) in control, HCD, KOT-1X, KOT-2X and KOT-5X, respectively
+(Figure 5A). The fecal TG content of the HCD group was significantly higher, by 1.27-fold (p = 0.0415),
+as compared with the control. The fecal TG content was decreased by 20.9% (p = 0.044) with KOT-5X
+than with HCD alone. On trend analysis, KOT supplementation dose-dependently decreased fecal TG
+content under HCD-induced hyperlipidemia (p = 0.0406). Fecal TC content was 2.28 ˘ 0.51, 2.92 ˘ 0.46,
+4.12 ˘ 0.69, 3.70 ˘ 0.49 and 3.58 ˘ 0.59 (mg/g feces) for control, HCD, KOT-1X, -2X and -5X groups,
+respectively (Figure 5B), and was higher, by 1.28-fold (p = 0.0273), with HCD alone than for controls.
+Furthermore, fecal TC content was higher, by 1.41-fold (p = 0.0001), 1.27-fold (p = 0.0078) and 1.23-fold
+(p = 0.0224), for KOT-1X, -2X and -5X groups, respectively, than with HCD alone. Therefore, our
+HCD could increase both fecal TG and TC content. KOT treatment could reduce excessive fecal TG
+levels and increase fecal TC level excretion. A previous study demonstrated that tomatine decreased
+serum LDL-C level via formation of a tomatine-cholesterol complex, which was subsequently excreted
+in feces. Alternatively, the TG and TC content may be reduced by a diet rich in fiber, which may
+reduce the risk of cardiovascular disease by several mechanisms. Many studies showed significantly
+reduced cholesterol level associated with dietary fiber intake and cholesterol exerted by feces [44]. We
+previously showed that viscous flaxseed dietary fibers may be useful for lowering blood cholesterol
+level than fibers in the solid state [45]. KOT, in accordance with the intervention, allows for decreasing
+intestinal absorption of dietary lipids and also affects cholesterol homeostasis and lipid transport in
+Weight of extracted kidney and hearts and relative kidney and heart weight (%) did not differ
+3.5. Effect ofamong groups (Table 3). The liver weight was 2.92 ± 0.21, 4.52 ± 0.62, 4.22 ± 0.36, 4.09 ± 0.32, 3.89 ±  KOT Supplementation on Tissue Weight at the End of the Experiment
+0.26 (g) for control, HCD, KOT-1X,  -2X,  -5X groups, respectively. The  liver weight was higher, by
+Weight1.55-fold (p < 0.0001), with HCD than for controls. Additionally, liver weight was lower, by 9.5% (p =  of extracted kidney and hearts and relative kidney and heart weight (%) did not differ
+among groups0.0295) and 13.9% (p = 0.0022), for KOT-2X and -5X groups, respectively, than with HCD alone. On  (Table 3). The liver weight was 2.92 ˘ 0.21, 4.52 ˘ 0.62, 4.22 ˘ 0.36, 4.09 ˘ 0.32,
+3.89 ˘ 0.26trend  (g) foranalysis,  control,liver weight was  HCD, KOT-1X,dose-dependently  -2X, -5X groups,decreased with KOT  respectively.supplementation  The liver weightunder  was higher,
+by 1.55-foldHCD-induced hyperlipidemia (p = 0.0064). In contrast, epididymal fat pad (EFP) weight was 1.75 ±  0.23, 2.42 ± 0.55, 2.04 ± 0.23, 1.94 ± 0.20 and 1.78 ± 0.17 (g) for control, HCD, KOT-1X, -2X, -5X groups,  (p < 0.0001), with HCD than for controls. Additionally, liver weight was lower, by
+9.5% (p = respectively, and was higher, by 1.38-fold (p = 0.0001), with HCD than for controls. The EFP weight  0.0295) and 13.9% (p = 0.0022), for KOT-2X and -5X groups, respectively, than with HCD
+alone. Onwas lower, by 15.6% (p = 0.0202), 19.8% (p = 0.0040) and 26.4% (p = 0.0002), for KOT-1X, -2X and -5X  trend analysis, liver weight was dose-dependently decreased with KOT supplementation
+under HCD-inducedgroup, respectively, than with HCD alone and did not differ among control, KOT-1X, -2X and -5X  hyperlipidemia (p = 0.0064). In contrast, epididymal fat pad (EFP) weight was
+1.75 ˘ 0.23,groups. Thus, KOT supplementation could decrease  2.42 ˘ 0.55, 2.04 ˘ 0.23, 1.94 ˘ 0.20 and 1.78the body  ˘ 0.17fat content of hamsters. In addition,  relative EFP weight was 1.71% ± 0.27%, 2.26% ± 0.48%, 1.88% ± 0.29%, 1.77% ± 0.14% and 1.71% ± 0.01%  (g) for control, HCD, KOT-1X, -2X,
+-5X groups,for control, HCD, KOT-1X, -2X and -5X groups, respectively, and was higher (p = 0.0005), by 1.32-fold,  respectively, and was higher, by 1.38-fold (p = 0.0001), with HCD than for controls. The
+EFP weightwith HCD alone than for controls. The relative EFP weight was lower, by 17.0% (p = 0.0117), 22.0% (p =  was lower, by 15.6% (p = 0.0202), 19.8% (p = 0.0040) and 26.4% (p = 0.0002), for KOT-1X,
+0.0015) and 24.4% (p = 0.0005), for KOT-1X, -2X and -5X groups, respectively, than with HCD alone. On
+trend analysis, KOT supplementation dose-dependently decreased EFP weight and relative EFP under
+HCD-induced  hyperlipidemia  (p  <  0.0001  and  10532p  =  0.0004,  respectively).  Above  all,  HCD-induced
+hyperlipidemia  could  increase  liver  and  EFP  weight  and  relative  weight.  Furthermore,  KOT
+supplementation could prevent the adipose tissue accumulation induced by an HCD in hyperlipidemic
+hamsters.
+Organ Weight
+Control
+HCD
+KOT-1X
+KOT-2X  KOT-5X  Trend Analysis
+Liver (g)
+2.92 ± 0.21 a  4.52 ± 0.62 c 4.22 ± 0.36 b,c 4.09 ± 0.32 b 3.89 ± 0.26 b  0.0004
+Kidney (g)
+1.00 ± 0.06  1.01 ± 0.06  1.04 ± 0.07  1.01 ± 0.05  0.99 ± 0.04  0.3862
+Heart (g)
+0.48 ± 0.05  0.50 ± 0.04  0.47 ± 0.04  0.46 ± 0.03  0.49 ± 0.05  0.1733
+EFP (g)
+1.75 ± 0.23 a  2.42 ± 0.55 b 2.04 ± 0.23 a 1.94 ± 0.20 a 1.78 ± 0.17 a  <0.0001
+Relative liver (%)  2.85 ± 0.32 a  4.25 ± 0.52 c 3.89 ± 0.49 b,c 3.74 ± 0.32 b 3.76 ± 0.24 b  0.0172
+Relative kidney (%)  0.98 ± 0.12  0.95 ± 0.08  0.96 ± 0.08  0.92 ± 0.08  0.95 ± 0.03  0.8067
+Relative heart (%)  0.47 ± 0.06  0.47 ± 0.05  0.44 ± 0.05  0.43 ± 0.05  0.47 ± 0.03  0.9285
+Relative EFP (%)  1.71 ± 0.27 a  2.26 ± 0.48 b 1.88 ± 0.29 a 1.77 ± 0.14 a 1.71 ± 0.09 a  0.0004
+9
+After the six-week KOT supplementation, we collected all hamsters’ feces for analysis of fecal TG
+Table 3. Tissue weights at the end of the experiment.
+Nutrients 2015, 7, 10525-10537
+-2X and -5X group, respectively, than with HCD alone and did not differ among control, KOT-1X,
+-2X and -5X groups. Thus, KOT supplementation could decrease the body fat content of hamsters.
+In addition, relative EFP weight was 1.71% ˘ 0.27%, 2.26% ˘ 0.48%, 1.88% ˘ 0.29%, 1.77% ˘ 0.14%
+and 1.71% ˘ 0.01% for control, HCD, KOT-1X, -2X and -5X groups, respectively, and was higher
+(p = 0.0005), by 1.32-fold, with HCD alone than for controls. The relative EFP weight was lower,
+by 17.0% (p = 0.0117), 22.0% (p = 0.0015) and 24.4% (p = 0.0005), for KOT-1X, -2X and -5X groups,
+respectively, than with HCD alone. On trend analysis, KOT supplementation dose-dependently
+decreased EFP weight and relative EFP under HCD-induced hyperlipidemia (p < 0.0001 and p = 0.0004,
+respectively). Above all, HCD-induced hyperlipidemia could increase liver and EFP weight and
+relative weight. Furthermore, KOT supplementation could prevent the adipose tissue accumulation
+induced by an HCD in hyperlipidemic hamsters.
+Data are mean ˘ SD (standard deviation), n = 8 hamsters per group. Values in the same row with different
+superscripts letters (a´´c) significantly differ at p < 0.05 by one-way analysis of variance (ANOVA); EFP:
+Epididymal fat pad. HCD (high-cholesterol diet), HCD and the same volume of solution equivalent to BW;
+KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-2X, HCD and 5573 mg/kg/day KOT; KOT-5X, HCD and 13,934
+mg/kg/day KOT. KOT: tomato juice from Kagome Ltd.
+3.6. Effect of KOT Supplementation on Biochemical Analyses at the End of the Experiment
+In our study, we observed the beneficial effects of KOT on indicators of lipid-lowering capacity.
+We further investigated whether six-week KOT treatment had any adverse effect on other biochemical
+markers in hamsters. We examined the tissue- and health status-related biochemical parameters
+and liver tissues by histopathology (Table 4 and Figure 6). KOT supplementation for six weeks had
+no adverse effects. Levels of biochemical indices, including albumin, total protein (TP), blood urea
+nitrogen (BUN), creatinine and glucose, did not differ among groups (p > 0.05, Table 4). Serum
+aspartate aminotransferase (AST) and alanine aminotransferase (ALT) activity was higher, by 1.29-fold
+(p = 0.0183) and 1.15-fold (p = 0.0224), respectively, with HCD alone than for controls. In addition,
+KOT supplementation under HCD-induced hyperlipidemia could significantly decrease the serum
+AST, ALT and LDH activity, respectively, as compared with HCD alone. On trend analysis, serum
+AST and ALT levels were dose-dependently decreased (p = 0.0031, p = 0.0006) under HCD-induced
+hyperlipidemia with KOT supplementation. Therefore, the effect of KOT on decreasing AST and ALT
+activity was associated with decreased adipose tissue accumulation. The most important adverse
+side effects of statins (cholesterol-lowering drugs) are increased concentration of liver enzymes and
+muscle problems [46]. As compared to statins, KOT did not cause liver damage. Therefore, KOT
+supplementation could provide alternative nutrient supplementation to ameliorate the side effects of
+statins and has a potential effect on lowering hyperlipidemia.
+10533
+Nutrients 2015, 7, 10525-10537
+Data are mean ˘ SD for n = 8 hamsters per group. Values in the same row with different superscripts letters
+(a´´c) significantly differ at p < 0.05 by one-way analysis of variance (ANOVA). AST, aspartate aminotransferase;
+ALT, alanine aminotransferase; LDH, lactate dehydrogenase; TP, total protein; BUN, blood urea nitrogen.
+HCD (high-cholesterol diet), HCD and the same volume of solution equivalent to BW; KOT-1X, HCD and
+2787 mg/kg/day KOT; KOT-2X, HCD and 5573 mg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT.
+4. Conclusions
+10534
+In our study, KOT had lipid-lowering actions by decreasing serum TG and TC levels, liver TG
+and  TC  levels,  fecal  TG  levels  and  serum  LDL-C  and  LDL-C/HDL-C  levels  in  hyperlipidemic
+hamsters. Six-week KOT supplementation significantly improved the hyperlipidemia syndrome in
+hamsters. Hamsters showed decreased cholesterol levels in serum, and the KOT effect was exerted
+via increased fecal lipid excretion. In biochemical study, we found no gross abnormalities attributed
+11
+Nutrients 2015, 7, 10525-10537
+hepatic cord and sinusoid (Figure 6). Significant fatty steatosis was detected in all animals of the
+HCD, KOT-1X, -2X and -5X groups, with hepatocytes comprising microvesicles filled with small lipid
+droplets, which is similar to the previous pathological observation. The degree of fatty steatosis was
+significantly lower in the KOT-5X than other HCD-induced hyperlipidemic groups.
+4. Conclusions
+TG and TC levels, fecal TG levels and serum LDL-C and LDL-C/HDL-C levels in hyperlipidemic
+hamsters. Six-week KOT supplementation significantly improved the hyperlipidemia syndrome in
+hamsters. Hamsters showed decreased cholesterol levels in serum, and the KOT effect was exerted
+via increased fecal lipid excretion. In biochemical study, we found no gross abnormalities attributed
+to KOT treatment. Thus KOT may be beneficial to human health by reducing the risk of developing
+cardiovascular disease. Previous studies have demonstrated that the tomato glycoalkaloid tomatine
+lowered serum LDL-C and cholesterol levels in hamsters and mice [38,48]. The possible mechanism
+for reducing serum cholesterol level by KOT is inhibition of acyl-CoA:cholesterol acyl-transferase
+(ACAT)-1 and (ACAT)-2; ACAT-1 is located in the Kupffer cells of the liver, kidneys, and adrenal cortical
+cells, an important component of cellular cholesterol homeostasis [49]. We provide experiment-based
+evidence to support that KOT may have potential as a therapy for reducing blood lipid levels and
+lowering hyperlipidemic effects.
+Acknowledgments: This study was supported by a grant from the Taiwan Kagome Co., Tainan County, Taiwan.
+Kagome had no role in the design, analysis or writing of this article. The authors are grateful to Chien-Chao Chiu
+for technical assistance in pathological examination. We also thank Laura Smales (BioMedEditing, Toronto, ON,
+Canada) for her careful reading of the manuscript and revision.
+Author Contributions: Yi-Ming Chen and Chi-Chang Huang designed the experiments. Wen-Ching Huang, Yi-Ju
+Hsu, Yi-Ming Chen and Chi-Chang Huang carried out the laboratory experiments. Li-Chen Lee, Yi-Ming Chen
+and Chi-Chang Huang analyzed the data, interpreted the results, prepared figures, and wrote the manuscript.
+Li-Chen Lee, Li Wei, Wen-Ching Huang, Yi-Ming Chen and Chi-Chang Huang revised the manuscript. Li-Chen
+Lee, Li Wei and Chi-Chang Huang contributed reagents, materials and analysis platforms.
+Conflicts of Interest: The authors declare no conflict of interest.
+References
+1.
+Beecher, G.R. Nutrient content of tomatoes and tomato products. Exp. Biol. Med. 1998, 218, 98-100. [CrossRef]
+2.
+Rickman, J.C.; Bruhn, C.M.; Barrett, D.M. Nutritional comparison of fresh, frozen, and canned fruits and
+vegetables II. Vitamin A and carotenoids, vitamin E, minerals and fiber. J. Sci. Food Agric. 2007, 87, 1185-1196.
+[CrossRef]
+3.
+Friedman, M. Tomato glycoalkaloids: Role in the plant and in the diet. J. Agric. Food Chem. 2002, 50,
+5751-5780. [CrossRef] [PubMed]
+4.
+George, B.; Kaur, C.; Khurdiya, D.S.; Kapoor, H.C. Antioxidants in tomato (Lycopersium esculentum) as a
+function of genotype. Food Chem. 2004, 84, 45-51. [CrossRef]
+5.
+Giovanelli, G.; Paradiso, A. Stability of dried and intermediate moisture tomato pulp during storage. J. Agric.
+Food Chem. 2002, 50, 7277-7281. [CrossRef] [PubMed]
+6.
+Leonardi, C.; Ambrosino, P.; Esposito, F.; Fogliano, V. Antioxidative activity and carotenoid and tomatine
+contents in different typologies of fresh consumption tomatoes. J. Agric. Food Chem. 2000, 48, 4723-4727.
+[CrossRef] [PubMed]
+7.
+Slimestad, R.; Verheul, M. Review of flavonoids and other phenolics from fruits of different tomato
+(Lycopersicon esculentum Mill.) cultivars. J. Sci. Food Agric. 2009, 89, 1255-1270. [CrossRef]
+8.
+Takagi, K.; Toyoda, M.; Shimizu, M.; Satoh, T.; Saito, Y. Determination of tomatine in foods by liquid
+chromatography after derivatization. J. Chromatogr. A 1994, 659, 127-131. [CrossRef]
+9.
+Friedman, M. Anticarcinogenic, cardioprotective, and other health benefits of tomato compounds lycopene,
+α-tomatine, and tomatidine in pure form and in fresh and processed tomatoes. J. Agric. Food Chem. 2013, 61,
+9534-9550. [CrossRef] [PubMed]
+In our study, KOT had lipid-lowering actions by decreasing serum TG and TC levels, liver
+10535
+Nutrients 2015, 7, 10525-10537
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+Chang, K.J.; Cheong, S.H. The effect of fermented milk supplement with tomato (Lycopersion esculentum) on
+blood lipid profiles in ovariectomy-induced hyperlipidemic female rats. FASEB J. 2007, 21, 1086.
+Hsu, Y.M.; Lai, C.H.; Chang, C.Y.; Fan, C.T.; Chen, C.T.; Wu, C.H. Characterizing the lipid- lowering effects
+and antioxidant mechanisms of tomato paste. Biosci. Biotechnol. Biochem. 2008, 72, 677-685. [CrossRef]
+[PubMed]
+Jacob, K.; Periago, M.J.; Böhm, V.; Berruezo, G.R. Influence of lycopene and vitamin C from tomato juice on
+biomarkers of oxidative stress and inflammation. Br. J. Nutr. 2008, 99, 137-146. [CrossRef] [PubMed]
+Page, D.; van Stratum, E.; Degrou, A.; Renard, C.M.G.C. Kinetics of temperature increase during tomato
+processing modulate the bioaccessibility of lycopene. Food Chem. 2012, 135, 2462-2469. [CrossRef] [PubMed]
+United States Department of Agriculture (USDA). USDA National Nutrient Database for Standard Reference,
+Release 25, 2012. Available online: http://ndb.nal.usda.gov/ndb/search/list (accessed on 23 May 2015).
+Bernal, C.; Martín-Pozuelo, G.; Lozano, A.B.; Sevilla, Á.; García-Alonso, J.; Canovas, M.; Periago, M.J. Lipid
+biomarkers and metabolic effects of lycopene from tomato juice on liver of rats with induced hepatic steatosis.
+J. Nutr. Biochem. 2013, 24, 1870-1881. [CrossRef] [PubMed]
+Navarro-González, I.; Pérez-Sánchez, H.; Martín-Pozuelo, G.; García-Alonso, J.; Periago, M.J. The inhibitory
+effects of bioactive compounds of tomato juice binding to hepatic HMGCR: In vivo study and molecular
+modelling. PLoS ONE 2014, 9, e83968.[CrossRef] [PubMed]
+Arranz, S.; Martínez-Huélamo, M.; Vallverdu-Queralt, A.; Valderas-Martinez, P.; Illán, M.; Sacanella, E.;
+Escribano, E.; Estruch, R.; Lamuela-Raventos, R.M. Influence of olive oil on carotenoid absorption from
+tomato juice and effects on postprandial lipemia. Food Chem. 2015, 168, 203-210. [CrossRef] [PubMed]
+Colle, I.J.; Lemmens, L.; van Buggenhout, S.; Met, K.; van Loey, A.M.; Hendrickx, M.E. Processing tomato
+pulp in the presence of lipids: The impact on lycopene bioaccessibility. Food Res. Int. 2013, 51, 32-38.
+[CrossRef]
+Cooperstone, J.L.; Ralston, R.A.; Riedl, K.M.; Haufe, T.C.; Schweiggert, R.M.; King, S.A.; Schwartz, S.J.
+Enhanced bioavailability of lycopene when consumed as cis-isomers from tangerine compared to red tomato
+juice, a randomized, cross-over clinical trial. Mol. Nutr. Food Res. 2015, 59, 658-669. [CrossRef] [PubMed]
+Canene-Adams, K.; Campbell, J.K.; Zaripheh, S.; Jeffery, E.H.; Erdman, J.W. The tomato as a functional food.
+J. Nutr. 2005, 135, 1226-1230. [PubMed]
+Ahuja, K.D.; Pittaway, J.K.; Ball, M.J. Effects of olive oil and tomato lycopene combination on serum lycopene,
+lipid profile, and lipid oxidation. Nutrition 2006, 22, 259-265. [CrossRef] [PubMed]
+Alshatwi, A.A.; Obaaid, M.A.; Sedairy, S.A.; Assaf, A.H.; Zhang, J.J.; Lei, K.Y. Tomato powder is more
+protective than lycopene supplement against lipid peroxidation in rats. Nutr. Res. 2010, 30, 66-73. [CrossRef]
+[PubMed]
+Kim, A.Y.; Jeong, Y.J.; Park, Y.B.; Lee, M.K.; Jeon, S.M.; McGregor, R.A.; Choi, M.S. Dose dependent effects of
+lycopene enriched tomato-wine on liver and adipose tissue in high-fat diet fed rats. Food Chem. 2012, 130,
+42-48. [CrossRef]
+Kim, Y.I.; Hirai, S.; Goto, T.; Ohyane, C.; Takahashi, H.; Tsugane, T.; Kawada, T. Potent PPARα activator
+derived from tomato juice, 13-oxo-9, 11-octadecadienoic acid, decreases plasma and hepatic triglyceride in
+obese diabetic mice. PLoS ONE 2012, 7, e31317. [CrossRef] [PubMed]
+Sima, A.; Bulla, A.; Simionescu, N. Experimental obstructive coronary atherosclerosis in the hyperlipidemic
+hamster. J. Submicrosc. Cytol. Pathol. 1990, 22, 1-16. [PubMed]
+Sullivan, M.P.; Cerda, J.J.; Robbins, F.L.; Burgin, C.W. The gerbil, hamster, and guinea pig as rodent models
+for hyperlipidemia. Lab. Anim. Sci. 1993, 43, 575-578. [PubMed]
+Stancu, C.S.; Sanda, G.M.; Deleanu, M.; Sima, A.V. Probiotics determine hypolipidemic and antioxidant
+effects in hyperlipidemic hamsters. Mol. Nutr. Food Res. 2014, 58, 559-568. [CrossRef] [PubMed]
+Chen, W.C.; Huang, W.C.; Chiu, C.C.; Chang, Y.K.; Huang, C.C. Whey protein improves exercise performance
+and biochemical profiles in trained mice. Med. Sci. Sports Exerc. 2014, 46, 1517-1524. [CrossRef] [PubMed]
+Huang, W.C.; Chen, Y.M.; Kan, N.W.; Ho, C.S.; Wei, L.; Chan, C.H.; Huang, C.C. Hypolipidemic effects
+and safety of Lactobacillus reuteri 263 in a hamster model of hyperlipidemia. Nutrients 2015, 7, 3767-3782.
+[CrossRef] [PubMed]
+Chang, C.W.; Hsu, Y.J.; Chen, Y.M.; Huang, W.C.; Huang, C.C.; Hsu, M.C. Effects of combined extract of
+cocoa, coffee, green tea and garcinia on lipid profiles, glycaemic markers and inflammatory responses in
+hamsters. BMC Complement. Altern. Med. 2015, 15. [CrossRef] [PubMed]
+10536
+Nutrients 2015, 7, 10525-10537
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+Gylling, H.; Simonen, P. Phytosterols, phytostanols, and lipoprotein metabolism. Nutrients 2015, 7, 7965-7977.
+[CrossRef] [PubMed]
+Go, G.-W. Low-Density Lipoprotein Receptor-Related Protein 6 (LRP6) is a novel nutritional therapeutic
+target for hyperlipidemia, non-alcoholic fatty liver disease, and atherosclerosis. Nutrients 2015, 7, 4453-4464.
+[CrossRef] [PubMed]
+Ooi, E.M.; Watts, G.F.; Ng, T.W.; Barrett, P.H.R. Effect of dietary fatty acids on human lipoprotein metabolism:
+A comprehensive update. Nutrients 2015, 7, 4416-4425. [CrossRef] [PubMed]
+Boekholdt, S.M.; Arsenault, B.J.; Mora, S.; Pedersen, T.R.; LaRosa, J.C.; Nestel, P.J.; Kastelein, J.J. Association
+of LDL cholesterol, non-HDL cholesterol, and apolipoprotein B levels with risk of cardiovascular events
+among patients treated with statins: A meta-analysis. JAMA 2012, 307, 1302-1309. [CrossRef] [PubMed]
+Chen, Y.; Kennedy, D.J.; Ramakrishnan, D.P.; Yang, M.; Huang, W.; Li, Z.; Silverstein, R.L. Oxidized
+LDL-bound CD36 recruits an Na+/K+-ATPase-Lyn complex in macrophages that promotes atherosclerosis.
+Sci. Signal. 2015, 8. [CrossRef] [PubMed]
+Tamada, M.; Makita, S.; Abiko, A.; Naganuma, Y.; Nagai, M.; Nakamura, M. Low-density lipoprotein
+cholesterol to high-density lipoprotein cholesterol ratio as a useful marker for early-stage carotid
+atherosclerosis. Metabolism 2010, 59, 653-657. [CrossRef] [PubMed]
+Gu, H.M.; Zhang, D.W. Hypercholesterolemia, low density lipoprotein receptor and proprotein convertase
+subtilisin/kexin-type 9. J. Biomed. Res. 2015, 29, 356-361. [PubMed]
+Friedman, M.; Fitch, T.E.; Yokoyama, W.E. Lowering of plasma LDL cholesterol in hamsters by the tomato
+glycoalkaloid tomatine. Food Chem. Toxicol. 2000, 38, 549-553. [CrossRef]
+Enomoto, M.; Adachi, H.; Hirai, Y.; Fukami, A.; Satoh, A.; Otsuka, M.; Imaizumi, T. LDL-C/HDL-C ratio
+predicts carotid intima-media thickness progression better than HDL-C or LDL-C alone. J. Lipids 2011, 2011.
+[CrossRef] [PubMed]
+Yang, C.; Sun, Z.; Li, Y.; Ai, J.; Sun, Q.; Tian, Y. The correlation between serum lipid profile with carotid
+intima-media thickness and plaque. BMC Cardiovasc. Disord. 2014, 14. [CrossRef] [PubMed]
+Kawano, Y.; Cohen, D.E. Mechanisms of hepatic triglyceride accumulation in non-alcoholic fatty liver disease.
+J. Gastroenterol. 2013, 48, 434-441. [CrossRef] [PubMed]
+Takahashi, H.; Kamakari, K.; Goto, T.; Hara, H.; Mohri, S.; Suzuki, H.; Shibata, D.; Nakata, R.; Inoue, H.;
+Takahashi, N.; et al. 9-Oxo-10(E),12(Z),15(Z)-octadecatrienoic acid activates peroxisome proliferator-activated
+receptor α in Hepatocytes. Lipids 2015, 50, 1083-1091. [CrossRef] [PubMed]
+Takahashi, H.; Hara, H.; Goto, T.; Kamakari, K.; Wataru, N.; Mohri, S.; Takahashi, N.; Suzuki, H.; Shibata, D.;
+Kawada, T. 13-Oxo-9(Z),11(E),15(Z)-octadecatrienoic acid activates peroxisome proliferator-activated
+receptor γ in adipocytes. Lipids 2015, 50, 3-12. [CrossRef] [PubMed]
+Dvir, I.; Stark, A.H.; Chayoth, R.; Madar, Z.; Arad, S.M. Hypocholesterolemic effects of nutraceuticals
+produced from the red microalga Porphyridium sp in rats. Nutrients 2009, 1, 156-167. [CrossRef] [PubMed]
+Kristensen, M.; Jensen, M.G.; Aarestrup, J.; Petersen, K.E.; Søndergaard, L.; Mikkelsen, M.S.; Astrup, A.
+Flaxseed dietary fibers lower cholesterol and increase fecal fat excretion, but magnitude of effect depend on
+food type. Nutr. Metab. 2012, 9. [CrossRef] [PubMed]
+Mizranita, V.; Pratisto, E.H. Statin-associated ocular disorders: The FDA and ADRAC data. Int. J. Clin. Pharm.
+2015, 37, 844-850. [CrossRef] [PubMed]
+Gilat, T.; Leikin-Frenkel, A.; Goldiner, I.; Juhel, C.; Lafont, H.; Gobbi, D.; Konikoff, F.M. Prevention of
+diet-induced fatty liver in experimental animals by the oral administration of a fatty acid bile acid conjugate
+(FABAC). Hepatology 2003, 38, 436-442. [CrossRef] [PubMed]
+Fujiwara, Y.; Kiyota, N.; Tsurushima, K.; Yoshitomi, M.; Horlad, H.; Ikeda, T.; Nagai, R. Tomatidine, a tomato
+sapogenol, ameliorates hyperlipidemia and atherosclerosis in apoE-deficient mice by inhibiting acyl-CoA:
+Cholesterol acyl-transferase (ACAT). J. Agric. Food Chem. 2012, 60, 2472-2479. [CrossRef] [PubMed]
+Rudel, L.L.; Lee, R.G.; Cockman, T.L. Acyl coenzyme A: Cholesterol acyltransferase types 1 and 2: Structure
+and function in atherosclerosis. Curr. Opin. Lipidol. 2001, 12, 121-127. [CrossRef] [PubMed]
+© 2015 by the authors; licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons by Attribution
+(CC-BY) license (http://creativecommons.org/licenses/by/4.0/).
+10537
+
+Table 3. Tissue weights at the end of the experiment. 
+Organ Weight 
+Control 
+HCD 
+KOT-1X 
+KOT-2X 
+KOT-5X 
+TrendAnalysis 
+Liver (g) 
+2.92 ˘ 0.21 a 
+4.52 ˘ 0.62 c 
+4.22 ˘ 0.36 b,c 
+4.09 ˘ 0.32 b 
+3.89 ˘ 0.26 b 
+0.0004 
+Kidney (g) 
+1.00 ˘ 0.06 
+1.01 ˘ 0.06 
+1.04 ˘ 0.07 
+1.01 ˘ 0.05 
+0.99 ˘ 0.04 
+0.3862 
+Heart (g) 
+0.48 ˘ 0.05 
+0.50 ˘ 0.04 
+0.47 ˘ 0.04 
+0.46 ˘ 0.03 
+0.49 ˘ 0.05 
+0.1733 
+EFP (g) 
+1.75 ˘ 0.23 a 
+2.42 ˘ 0.55 b 
+2.04 ˘ 0.23 a 
+1.94 ˘ 0.20 a 
+1.78 ˘ 0.17 a 
+<0.0001 
+Relative liver (%) 
+2.85 ˘ 0.32 a 
+4.25 ˘ 0.52 c 
+3.89 ˘ 0.49 b,c 
+3.74 ˘ 0.32 b 
+3.76 ˘ 0.24 b 
+0.0172 
+Relative kidney (%) 
+0.98 ˘ 0.12 
+0.95 ˘ 0.08 
+0.96 ˘ 0.08 
+0.92 ˘ 0.08 
+0.95 ˘ 0.03 
+0.8067 
+Relative heart (%) 
+0.47 ˘ 0.06 
+0.47 ˘ 0.05 
+0.44 ˘ 0.05 
+0.43 ˘ 0.05 
+0.47 ˘ 0.03 
+0.9285 
+Relative EFP (%) 
+1.71 ˘ 0.27 a 
+2.26 ˘ 0.48 b 
+1.88 ˘ 0.29 a 
+1.77 ˘ 0.14 a 
+1.71 ˘ 0.09 a 
+0.0004 
+
+Table 4. Biochemical analysis of KOT treatment groups at the end of experiment. 
+Parameters 
+Control 
+HCD 
+KOT-1X 
+KOT-2X 
+KOT-5X 
+TrendAnalysis 
+AST (U/L) 
+48 ˘ 7 a 
+62 ˘ 23 b 
+37 ˘ 4 a 
+38 ˘ 4 a 
+37 ˘ 6 a 
+0.0031 
+ALT (U/L) 
+69 ˘ 9 a 
+80 ˘ 13 b 
+63 ˘ 4 a 
+61 ˘ 7 a 
+61 ˘ 7 a 
+0.0006 
+LDH (U/L) 
+151 ˘ 22 a,b 
+155 ˘ 38 b 
+151 ˘ 31 a,b 
+145 ˘ 21 a,b 
+127 ˘ 15 a 
+0.0689 
+Albumin (g/dL) 
+3.2 ˘ 0.1 
+3.3 ˘ 0.1 
+3.3 ˘ 0.1 
+3.2 ˘ 0.1 
+3.2 ˘ 0.1 
+0.2660 
+TP (g/dL) 
+5.3 ˘ 0.1 
+5.4 ˘ 0.2 
+5.5 ˘ 0.2 
+5.4 ˘ 0.1 
+5.4 ˘ 0.1 
+0.7738 
+BUN (mg/dL) 
+18.3 ˘ 1.2 
+17.9 ˘ 1.5 
+17.5 ˘ 1.4 
+17.3 ˘ 1.4 
+17.4 ˘ 2.1 
+0.4757 
+Creatinine (mg/dL) 
+0.16 ˘ 0.03 
+0.17 ˘ 0.05 
+0.18 ˘ 0.01 
+0.16 ˘ 0.03 
+0.18 ˘ 0.02 
+0.9734 
+Glucose (mg/dL) 
+157 ˘ 28 
+157 ˘ 28 
+162 ˘ 39 
+158 ˘ 41 
+168 ˘ 28 
+0.4517 
+
+  
+Figure 1. ExperimentalFigure 1. Experimental design for hamsters. Control: standard laboratory diet and the same volume  design for hamsters. Control: standard laboratory diet and the same volume of 
+
+  
+Figure 2. ChangeFigure  in2.  bodyChange  weightin  body  (BW)weight  during(BW)  during  the experiment.the  experiment.  GoldenGolden  SyrianSyrian  hamstershamsters  were  were separated 
+into controlsseparated into controls and fed a standard laboratory diet (n = 8) or experimental diet (n = 32) and  and fed a standard laboratory diet (n = 8) or experimental diet (n = 32) and treated as in 
+treated as in Figure 1. The BW of hamsters was measured once a week in each group. Data are mean ±  
+Figure 1. TheSD (standard deviation) for n = 8 hamster per group. HCD (high-cholesterol diet), HCD and the same  BW of hamsters was measured once a week in each group. Data are mean ˘ SD (standard 
+deviation) forvolume of solution equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-2X, HCD and  n = 8 hamster per group. HCD (high-cholesterol diet), HCD and the same volume of solution 
+equivalent to5573 mg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT: tomato juice from Kagome  BW; KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-2X, HCD and 5573 mg/kg/day KOT; 
+KOT-5X, HCDLtd.  and 13,934 mg/kg/day KOT. KOT: tomato juice from Kagome Ltd. 
+Table 2. Body weight (BW) and daily food intake for the experimental groups.  
+TableCharacteristics  2. Body weightControl  (BW)HCDand dailyKOT-1Xfood intakeKOT-2Xfor the experimentalKOT-5X  Trend Analysisgroups. 
+Initial BW (g)  84.1 ± 5.5  84.2 ± 6.3  84.4 ± 6.0  84.9 ± 7.8  84.1 ± 3.1  
+0.8023  
+Final BW (g)  103.0 ± 7.6  106.5 ± 6.2  109.2 ± 9.5  109.6 ± 6.4  103.6 ± 5.9  
+0.6573  
+Characteristics Diet intake  Control 
+HCD 
+KOT-1X 
+KOT-2X 
+KOT-5X Trend Analysis 
+Initial BW (g) (g/hamster/day)  8.59 ± 0.57  8.40 ± 0.79  8.31 ± 0.70  8.29 ± 0.73  8.21 ± 0.65  
+0.2794  
+84.1 ˘ 5.5 
+84.2 ˘ 6.3 
+84.4 ˘ 6.0 
+84.9 ˘ 7.8 
+84.1 ˘ 3.1 
+0.8023 
+Water intake  
+Final BW (g) (g/hamster/day)  103.0 ˘ 7.69.35 ± 1.25 c  106.58.20 ± 0.80 b  ˘ 6.2 
+109.28.13 ± 0.83 a,b˘ 9.5 7.67 ± 0.66 a,b109.6 ˘7.25 ± 0.80 a  6.4 
+103.6 ˘0.9522  5.9 
+0.6573 
+Diet intake Data are mean ± SD (standard deviation), n = 8 hamsters in each group. Control, a standard laboratory  
+diet and orally received the same volume of solution equivalent to BW; HCD (high-cholesterol diet),  8.59 ˘ 0.57 
+8.40 ˘ 0.79 
+8.31 ˘ 0.70 
+8.29 ˘ 0.73 
+8.21 ˘ 0.65 
+0.2794 
+(g/hamster/day) 
+HCD and the same volume of solution equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day KOT.  
+Water intake KOT-2X, HCD and 5573 mg/kg/day KOT. KOT-5X, HCD and 13,934 mg/kg/day KOT. Values in the  9.35 ˘ 1.25 c 
+(g/hamster/day) 
+8.20 ˘ 0.80 b 8.13 ˘ 0.83 a,b 7.67 ˘ 0.66 a,b 7.25 ˘ 0.80 a 
+0.9522 
+same row with different superscripts letters (a-c) significantly differ at p < 0.05 by one-way analysis of  
+Data are meanvariance (ANOVA). HCD (high-cholesterol diet), HCD and the same volume of solution equivalent  ˘ SD (standard deviation), n = 8 hamsters in each group. Control, a standard laboratory 
+diet and orallyto BW; KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-2X, HCD and 5573 mg/kg/day KOT; KOT-5X,  received the same volume of solution equivalent to BW; HCD (high-cholesterol diet), HCD 
+and the sameHCD and 13,934 mg/kg/day KOT. KOT: tomato juice from Kagome Ltd.  volume of solution equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day KOT. KOT-2X, 
+HCD and 5573 mg/kg/day KOT. KOT-5X, HCD and 13,934 mg/kg/day KOT. Values in the same row with 
+different3.2. Effect of Six-Week KOT Supplementation on Serum Lipid Levels and LDL-C/HDL-C Ratio in Hamsters  superscripts letters (a´´c) significantly differ at p < 0.05 by one-way analysis of variance (ANOVA). 
+HCD (high-cholesterolAt six weeks after KOT supplementation, TG level was 69 ± 46, 315 ± 128, 230 ± 82, 218 ± 64 and  diet), HCD and the same volume of solution equivalent to BW; KOT-1X, HCD and 
+2787 mg/kg/day199 ± 30 (mg/dL) in control, HCD, KOT-1X, -2X and -5X groups, respectively (Figure 3A). Hamsters  KOT; KOT-2X, HCD and 5573 mg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. 
+KOT: tomatofed an HCD diet showed significantly increased TG level, by 4.59-fold (p < 0.0001), as compared with  juice from Kagome Ltd. 
+
+  
+Figure 3. Effect of six-week supplementation with6  KOT on serum levels of triglycerides (TG) (A); 
+total cholesterol (TC) (B); high-density lipoprotein cholesterol (HDL-C) (C); low-density lipoprotein 
+cholesterol (LDL-C) (D); and LDL-C/HDL-C ratio (E) in hamsters. Data are mean ˘ SD (standard 
+deviation), n = 8 hamsters in each group. Columns with different letters (a-c) differ significantly at 
+p < 0.05 by a one-way ANOVA. HCD (high-cholesterol diet), HCD and the same volume of solution 
+equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-2X, HCD and 5573 mg/kg/day 
+KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT: tomato juice from Kagome Ltd. 
+
+  
+Figure 4. Effect of a six-week supplementation with KOT on hepatic triglycerides (TG) (A) and total  
+Figure 4. Effectcholesterol (TC) (B) levels in hyperlipidemic hamsters. Data are the mean ± SD, n = 8 hamsters in each  of a six-week supplementation with KOT on hepatic triglycerides (TG) (A) and total 
+cholesterolgroup. Columns with different letters (a, b, c, and d) significantly differ at p < 0.05 by a one-way ANOVA.  (TC) (B) levels in hyperlipidemic hamsters. Data are the mean ˘ SD, n = 8 hamsters 
+in each group.HCD (high-cholesterol diet), HCD and the same volume of solution equivalent to BW; KOT-1X, HCD  Columns with different letters (a, b, c, and d) significantly differ at p < 0.05 by a 
+one-way ANOVA.and  2787 mg/kg/day KOT; KOT-2X, HCD  HCD (high-cholesterol diet),and  HCD5573 mg/kg/day KOT; KOT-5X, HCD  and the same volume of solutionand  13,934  equivalent to 
+BW; KOT-1X,mg/kg/day KOT. KOT: tomato juice from Kagome Ltd.  HCD and 2787 mg/kg/day KOT; KOT-2X, HCD and 5573 mg/kg/day KOT; KOT-5X, 
+HCD 3.5. Effect of Six-Week Supplementation with KOT on Fecal TG and TC Levels in Hyperlipidemic Hamsters  and 13,934 mg/kg/day KOT. KOT: tomato juice from Kagome Ltd. 
+After the six-week KOT supplementation, we collected all hamsters’ feces for analysis of fecal  
+TG and TC levels. At the end of the experiment, the fecal TG content was 17.7 ± 3.4, 22.5 ± 6.2, 20.0 ±  
+4.2, 19.2 ± 5.0 and 17.8 ± 3.2 (mg/g feces) in control, HCD, KOT-1X, KOT-2X and KOT-5X, respectively  10531 
+(Figure 5A). The fecal TG content of the HCD group was significantly higher, by 1.27-fold (p = 0.0415),  
+as compared with the control. The fecal TG content was decreased by 20.9% (p = 0.044) with KOT-5X  
+than with HCD alone. On trend analysis, KOT supplementation dose-dependently decreased fecal  
+TG content under HCD-induced hyperlipidemia (p = 0.0406). Fecal TC content was 2.28 ± 0.51, 2.92 ±  
+0.46, 4.12 ± 0.69, 3.70 ± 0.49 and 3.58 ± 0.59 (mg/g feces) for control, HCD, KOT-1X, -2X and -5X groups,  
+respectively (Figure 5B), and was higher, by 1.28-fold (p = 0.0273), with HCD alone than for controls.  
+Furthermore, fecal TC content was higher, by 1.41-fold (p = 0.0001), 1.27-fold (p = 0.0078) and 1.23- 
+fold (p = 0.0224), for KOT-1X, -2X and -5X groups, respectively, than with HCD alone. Therefore, our  
+HCD could increase both fecal TG and TC content. KOT treatment could reduce excessive fecal TG  
+levels and increase fecal TC level excretion. A previous study demonstrated that tomatine decreased  
+serum  LDL-C  level  via  formation  of  a  tomatine-cholesterol  complex,  which  was  subsequently  
+excreted in feces. Alternatively, the TG and TC content may be reduced by a diet rich in fiber, which  
+may  reduce  the  risk  of  cardiovascular  disease  by  several  mechanisms.  Many  studies  showed  
+significantly reduced cholesterol level associated with dietary fiber intake and cholesterol exerted by  
+feces  [44]. We previously showed  that viscous  flaxseed dietary  fibers may be useful  for  lowering  
+blood cholesterol level than fibers in the solid state [45]. KOT, in accordance with the intervention,  
+allows for decreasing intestinal absorption of dietary lipids and also affects cholesterol homeostasis  
+and lipid transport in the gut, which could explain the decreased hepatic and fecal TG levels with  
+KOT supplementation.  
+
+the gut, which could explain the decreased hepatic and fecal TG levels with KOT supplementation.Nutrients 2015, 7, page-page  
+  
+Figure 5. EffectFigure 5. Effect of six-week KOT supplementation on fecal triglycerides (TG) (A) and total cholesterol  (TC) (B) levels in hyperlipidemic hamsters. Data are mean ± SD, n = 8 hamsters in each group. Columns  of six-week KOT supplementation on fecal triglycerides (TG) (A) and total cholesterol 
+(TC) (B) levelswith different letters (a-c) significantly differ at p < 0.05 by a one-way ANOVA. HCD (high-cholesterol  in hyperlipidemic hamsters. Data are mean˘ SD, n = 8 hamsters in each group. Columns 
+with differentdiet), HCD and the same volume of solution equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day  letters (a-c) significantly differ at p < 0.05 by a one-way ANOVA. HCD (high-cholesterol 
+diet), HCDKOT; KOT-2X, HCD and 5573 mg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT:  and the same volume of solution equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day 
+KOT; KOT-2X,tomato juice from Kagome Ltd.  HCD and 5573 mg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT: 
+tomato3.6. Effect of KOT Supplementation on Tissue Weight at the End of the Experiment  juice from Kagome Ltd. 
+
+KOT: tomatoNutrients 2015, 7, page-page  juice from Kagome Ltd. 
+  
+Figure 6. Effect of six-week KOT supplementation on morphology of liver tissues in hyperlipidemic  
+Figure 6. Effecthamsters. Arrows  of six-weekindicate  KOT fat  supplementationdroplets.  Specimens were  on morphologyphotographed  ofby  liverlight microscopy. CV,  tissues in hyperlipidemic 
+hamsters. Arrowscentral vein. (H & E stain, magnification: ×200, Scale bar, 40 μm). HCD (high-cholesterol diet), HCD  indicate fat droplets. Specimens were photographed by light microscopy. CV, central 
+vein. (H &and the same volume of solution equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-E stain, magnification: ˆ200, Scale bar, 40 µm). HCD (high-cholesterol diet), HCD and 
+the same volume2X, HCD and 5573 mg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT: tomato juice  from Kagome Ltd.  of solution equivalent to BW; KOT-1X, HCD and 2787 mg/kg/day KOT; KOT-2X, 
+HCD and 5573 mg/kg/day KOT; KOT-5X, HCD and 13,934 mg/kg/day KOT. KOT: tomato juice from 
+Kagome3.8. Effect of KOT Supplementation on Histology at the End of the Experiment  Ltd. 
+In a previous study, the high-fat diet-induced pathological morphology of livers significantly  
+3.7. Effect ofdiffered  KOT Supplementationamong  rodent  species;  on Histologythe  fat  was  at microvesicular  the End of thein  Experimenthamsters  and  mixed  (macro-  and  
+microvesicular) in mice [47]. Liver slices from our hamsters fed a normal chow diet showed a clear  
+In a previoushepatic cord and sinusoid (Figure 6). Significant fatty steatosis was detected in all animals of the HCD,  study, the high-fat diet-induced pathological morphology of livers significantly 
+differed amongKOT-1X,  rodent-2X  and  species;-5X  groups, with  the fathepatocytes  was microvesicularcomprising microvesicles  in hamstersfilled with  and mixedsmall  lipid  
+droplets, which is similar to the previous pathological observation. The degree of fatty steatosis was  (macro- and 
+microvesicular)significantly lower in the KOT-5X than other HCD-induced hyperlipidemic groups.  in mice [47]. Liver slices from our hamsters fed a normal chow diet showed a clear 
+

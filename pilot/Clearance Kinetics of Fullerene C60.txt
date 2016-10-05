@@ -1,0 +1,980 @@
+TOXICOLOGICAL SCIENCES 118(2), 564-573 (2010)
+doi:10.1093/toxsci/kfq288
+Advance Access publication September 23, 2010
+Clearance Kinetics of Fullerene C60 Nanoparticles from Rat Lungs after
+Intratracheal C60 Instillation and Inhalation C60 Exposure
+Naohide Shinohara,* Tetsuya Nakazato,†,1 Moritaka Tamura,† Shigehisa Endoh,† Hiroko Fukui,‡ Yasuo Morimoto,{
+Toshihiko Myojo,{ Manabu Shimada,k Kazuhiro Yamamoto,§ Hiroaki Tao,† Yasukazu Yoshida,‡ and Junko Nakanishi*
+*Research Institute of Science for Safety and Sustainability (RISS), National Institute of Advanced Industrial Science and Technology, Onogawa 16-1, Tsukuba,
+Ibaraki 305-8569; †The Research Institute for Environmental Management Technology (EMTECH), National Institute of Advanced Industrial Science and
+Technology, Onogawa 16-1, Tsukuba, Ibaraki 305-8569; ‡The Health Technology Research Center (HTRC), National Institute of Advanced Industrial Science
+and Technology, Midorioka 1-8-31, Ikeda, Osaka 563-8577; §Research Institute of Instrumentation Frontier (RIIF), National Institute of Advanced Industrial
+Science and Technology, Higashi 1-1-1, Tsukuba, Ibaraki 305-8561; {Institute of Industrial Ecological Sciences, University of Occupational and Environmental
+Health, Iseigaoka 1-1, Yahata-nishi-ku, Kitakyushu, Fukuoka 807-8555, Japan; and kGraduate School of Engineering, Hiroshima University, Kagamiyama
+1-4-1, Higashi Hiroshima, Hiroshima 739-8527, Japan
+1To whom correspondence should be addressed. Fax: þ81-29-861-8308. E-mail: tet.nakazato@aist.go.jp.
+Received April 30, 2010; accepted August 19, 2010
+Fullerene (carbon sixty [C60]) has potential industrial and medical
+applications. In the future, people working in or residing near
+manufacturing facilities may be exposed to C60. Therefore,
+quantitative data on long-term C60 clearance from the lungs are
+required. To estimate the clearance rate and deposition fraction of
+C60 from inhalation exposure, the C60 burden in the lungs, liver, and
+brain of rats was determined after intratracheal instillation and
+inhalation. Male Wistar rats were intratracheally instilled with
+different concentrations of a C60 suspension prepared with Tween
+80 (geometric mean [GM] of particle diameter based on number, 
+18-29 nm; geometric standard deviation [GSD] of particle diameter, 1.5;
+and doses, 100, 200, and 1000 micrograms per body) or exposed to
+a C60 aerosol prepared with nebulizer (GM of particle diameter
+based on number, 96 nm; GSD of particle diameter, 2.0; and
+exposure level, 120 mg/m3). C60 burden in the lungs, liver, and brain
+was determined at various time points (1 h to 6 months) by a newly
+developed sensitive high-performance liquid 
+chromatography-ultraviolet absorptiometry combined with extraction and 
+concentration of C60 from the organs. C60 clearance was evaluated using a
+2-compartment model: fast clearance after deposition on lung surface
+and slow clearance after retention in the epithelium. The detection
+limit of our analysis method was 8.9 ng/g tissue. Pulmonary C60
+burden decreased with time and depended on the C60 concentration
+administered. The concentration of C60 in the liver and brain was
+below the detection limit: 8.9 ng/g tissue. The half-life of 
+intratracheally instilled C60 was 15-28 days. The deposition mass fraction
+of inhaled C60 was 0.14. Mode evaluation revealed that most instilled
+particles could be eliminated by the fast clearance pathway. This
+finding is consistent with the transmission electron microscopy
+finding that many particles were present in alveolar macrophages.
+Key Words: nano material; nanoparticle; fullerene; C60;
+inhalation exposure; intratracheal instillation;
+clearance;
+2-compartment model.
+The Author 2010. Published by Oxford University Press on behalf of the Society of Toxicology. All rights reserved.
+For permissions, please email: journals.permissions@oxfordjournals.org
+Fullerene, carbon sixty (C60), possesses unique 
+physicochemical properties and is a candidate molecule for many
+industrial and medical nanotechnology applications, such as
+energy conversion and drug delivery. In the future, people
+working in or residing near manufacturing facilities may be
+exposed to airborne C60 particles.
+Upon inhalation, some of these particles are deposited in the
+alveoli, depending on the particle size/shape/density, animal
+species, and breathing pattern. Fluid-flow models such as the
+multiple-path particle dosimetry (MPPD) model have been
+developed to estimate the deposition fraction of spherical particles
+in rats and humans (RIVM, 2002). The deposition fractions for
+rats, calculated using the MPPD model, were 0.2-0.3 for 10- to
+100-nm particles and 0.05-0.2 for 100- to 1000-nm particles.
+In Fischer 344 rats, the deposition fraction was greater for C60
+nanoparticles (0.14 for 55-nm particles) than for C60
+microparticles (0.093 for 930-nm particles) (Baker et al., 2008).
+The rate clearance of carbon black particles from the lungs
+was increased with the primary particle size (14-70 nm) though
+the secondary particle size was similar (geometric mean [GM]:
+1.4-1.6 lm) (Elder et al., 2005). The main clearance pathway
+of particulate matter deposited on the alveolar surface is
+phagocytosis by the alveolar macrophages followed by 
+transport to the larynx (Lehnert and Morrow, 1985a,b; Naumann
+and Schlesinger, 1986). Some particles are transferred to the
+pulmonary interstitium and/or epithelial cells. Total pulmonary
+retention and translocation to the pulmonary interstitium are
+significantly greater for ultrafine titanium dioxide (TiO2)
+particles than for fine TiO2 particles in rats (Oberdo¨rster
+et al., 1994). The size of C60 nanoparticles in the test
+suspension is very important in toxicity evaluations; however,
+the size of the test samples used has not been described in
+sufficient detail in most studies on the disposition of C60. In the
+Japanese New Energy and Industrial Technology Development
+Organization project, stable dispersion and stable aerosol of
+C60 nanoparticles (Endoh et al., 2009; Shimada et al., 2009)
+were successfully prepared and were applied to the pulmonary
+toxicity tests (Morimoto et al., 2010).
+IP administered C60 particles are not detected in the brain,
+whereas ip or iv administered particles are detected in the liver
+and spleen (Bullard-Dillard et al., 1996; Gharbi et al., 2005;
+Moussa et al., 1996). In rats, iv administered C60 is rapidly
+cleared from the circulation (within 1 min), largely 
+accumulated in the liver (90-95%), and retained in the liver for more
+than 120 h (Bullard-Dillard et al., 1996). Naota et al. (2009)
+microscopically examined aggregated C60 particles in the
+lumina of pulmonary capillaries and in pulmonary lymph
+nodes 5 min after intratracheal C60 instillation. The 
+translocation of inhaled particles from the lung to the 
+extrapulmonary organs has been reported to be small (< 1%, Kreyling
+et al., 2002; < 0.5%, Mo¨ller et al., 2008). However,
+Oberdo¨rster et al. (2004) reported that inhaled ultrafine 13C
+particles may be translocated to the brain (cerebrum and
+cerebellum) via the olfactory bulb.
+Quantitative data on long-term C60 clearance have not yet
+been reported. Furthermore, although C60 has not been detected
+in brain tissue after exposure to these particles, the detection
+limit of the analytical methods used in previous studies was not
+sufficiently low. It is therefore difficult to conclude whether
+C60 nanoparticles are retained in the lung or translocated to the
+other organs and to determine the severity of the adverse
+effects of the retained particles on the basis of previous results.
+Highly sensitive analytical methods are required to detect the
+translocation of C60 to extrapulmonary organs, especially the
+brain, because unlike gaseous chemicals nanoparticles cannot
+be maintained at steadily high concentrations during inhalation
+experiments. Kubota et al. (2009) and Moussa et al. (1997)
+used liquid chromatography-mass spectrometry and liquid
+chromatography-tandem mass spectrometry, which are better
+than radioisotope analysis for the quantification of C60, to
+determine the concentration of intravital C60. The 
+determination limit of these methods is 1.1 lg/g tissue (Kubota et al.,
+2009). Considering the general weight of brain (approximately
+2 g), the transfer to brain cannot be detected unless more than
+a few percentage of the lung burden of C60 translocate to the
+brain even at high concentration such as 2 mg/m3. Therefore, to
+evaluate the possibility of translocation of nanoparticle to the
+brain reported by Oberdo¨rster et al. (2004), this limit is
+inadequate and more sensitive analytical methods are required.
+In addition, long-term clearance of C60 from the lung is
+difficult to measure because of the low C60 burden in the lungs
+in the inhalation exposure test. Therefore, in this study, we
+evaluated long-term C60 clearance by using intratracheal C60
+instillation because this method results in a considerably
+greater pulmonary C60 burden than C60 inhalation.
+In this study, we aimed to determine the deposition,
+clearance, and translocation of C60 nanoparticles by conducting
+CLEARANCE KINETICS OF FULLERENE C60 NANOPARTICLES
+565
+the following experiments: (1) development of a highly
+sensitive method involving sample concentration and 
+high-performance liquid chromatography (HPLC)-ultraviolet (UV)
+detection for the analysis of C60 in biological samples; (2)
+determination of C60 burden in the lung, liver, and brain until
+6 months after intratracheal C60 instillation and until 1 month
+after C60 inhalation; and (3) estimation of the clearance rate and
+deposition fraction of C60 nanoparticles based on the results of
+these determinations.
+MATERIALS AND METHODS
+Preparation of C60 suspension and aerosol. To prepare a stable C60
+nanoparticle suspension without using chemical modification or organic
+solvents, C60 (nanom purple, refined by sublimation, C60 purity > 99.5%,
+specific surface area 0.92 m2/g; Frontier Carbon Co. Ltd, Japan) in an aqueous
+solution of 0.1% Tween 80 (MP Biomedicals LLC) was pulverized and
+dispersed in an Ultra Apex Mill (UAM-015; Kotobuki Industries Co. Ltd,
+Japan) according to previously described methods (Endoh et al., 2009;
+Shinohara et al., 2009). The GMs of particle diameter were measured by using
+a dynamic light scattering (DLS) technique (UPA, NIKKISO Co. Ltd, Japan).
+Assuming a lognormal distribution of particle diameter and spherical form of
+particle, these values were calculated as 18-23, 29-35, and 24-30 nm based on
+number, volume (weight), and surface area, respectively. The geometric
+standard deviation (GSD) of the distribution of the diameter was 1.5. However,
+it must be noted that the distribution data obtained by DLS are less reliable. The
+particle sizes are shown in Table 1. The f potentials of the aqueous suspension
+measured by the same instrument were -28 to -30 mV. Transmission electron
+microscope (TEM) image of the suspension are shown in Figures 1a and 1b.
+C60 aerosol was prepared using a C60 suspension and a nebulizer by using
+a previously described procedure (Shimada et al., 2009). The size distribution
+and number (concentration) of aerosol particles in the exposure chamber were
+measured using a differential mobility analyzer (DMA) and a condensation
+particle counter (model 1000XP, WPS; MSP Corp.) and were found to be 96 nm
+(GM; GSD, 2.0 [GM and GSD of particle diameter based on number] Table 1)
+and 4.13 104 particles per cubic centimeter, respectively. The arithmetic mean ±
+SD in-chamber mass concentration was obtained by weighing the sampling filter
+and performing thermogravimetry and elemental carbon organic carbon analysis
+aMeasured data from DLS (suspension) and DMA (aerosol). Note that the
+GSD data from DLS have low reliability.
+bMeasured data from DLS (suspension) and calculated data from the
+number-based diameter assuming the lognormal distribution of diameter and
+spherical form of particle (aerosol). Note that the GSD data from DLS have low
+reliability.
+cCalculated data from the number-based diameter assuming the lognormal
+distribution of diameter and spherical form of particle.
+and was found to be 0.12 ± 0.03 mg/m3 (Morimoto et al., 2010). Because the
+aerosol particles are composed of 25% crystalline fullerene and 75% Tween 80
+(Shimada et al., 2009), the density of each aerosol particle was calculated as
+1.2 mg/cm3. A scanning electron microscope (SEM) image of the C60 aerosol
+particles electrostatically sampled on a silicon wafer is shown in Figure 1c.
+C60 instillation and inhalation. C60 particles (GM of diameter based on
+volume: 29-35 nm) suspended in 0.4 ml distilled water at the following doses
+were intratracheally instilled into male Wistar rats (age, 9 weeks): 100 lg
+(330 lg/kg body weight), 200 lg (660 lg/kg body weight), and 1000 lg
+(3300 lg/kg body weight). An aqueous solution of 0.1% Tween 80 was
+intratracheally instilled in 36 control rats. In each of the above four groups
+based on the concentration used, six rats each were dissected at 18 h (except for
+the 100-lg group), 3 days (only in the case of the 1000-lg group), 1 week,
+1 month, 3 months, and 6 months after the instillation.
+For inhalation exposure, six 9-week-old male Wistar rats were exposed to
+C60 particles (mean ± SD dose, 120 ± 30 lg/m3; concentration, 4.1 3 104
+particles per cubic centimeter; GM of diameter based on number, 96 nm) in
+whole-body exposure chamber (volume, 0.52 m3) for 6 h/day and 5 days/week
+for 4 weeks. The control rats were exposed to only clean air in a same-sized
+chamber located in the same air-conditioned room. The rats were dissected
+3 days and 1 month after the 4-week exposure period.
+All procedures were conducted and all animals were handled according to
+the guidelines in the Japanese Guide for the Care and Use of Laboratory
+Animals as approved by the Animal Care and Use Committee, University of
+Occupational and Environmental Health, Japan, or by the Institutional Animal
+Care and Use Committee, National Institute of Advanced Industrial Science
+and Technology.
+The preparation of the suspension, the exposure system, and the toxicity
+tests have been reported in detail in Endoh et al. (2009), Shimada et al. (2009),
+and Morimoto et al. (2010), respectively.
+Analysis. Six rats in each group were anesthetized with an ip injection of
+pentobarbital (50 mg/kg), weighed, and dissected. In the dissection, each organ
+was perfused with saline after the blood drawing from the abdominal aora. The
+left lung, liver, and brain of five rats in each group were dissected, weighed,
+and cut into small pieces with scissors. The pieces were homogenized with
+three times their weight of saline in an electric homogenizer (Polytron RT3100;
+Kinematica AG, Switzerland) at 10 krpm and stored at 80C until analysis.
+The determination of C60 in the organs of a rat was performed by LC-UV
+combined with a procedure of extraction from tissue sample and concentration
+of C60 in the extracted solution. The principle of the extraction procedure of C60
+from tissue sample is similar to those of previous study (Kubota et al., 2009;
+Moussa et al., 1997) but was optimized for our exposure sample, and
+a concentration procedure of the extracted C60 was added after the extraction.
+SDS (0.01M, 0.5 ml), acetic acid (0.1M, 0.5 ml), and toluene (HPLC grade,
+5 ml) (all from Wako Pure Chemicals Co. Ltd, Japan) were added to 200 mg of
+homogenized tissue samples. The resultant mixture was shaken for 5 h in
+a shaker (SA300; Yamato Scientific Co. Ltd, Japan) and sonicated for 15 min in
+an ultrasonic bath (model 1510; Branson Ultrasonics Co.). The mixture was
+then centrifuged (Kubota 6900; Kubota Co., Japan) at 2000 3 g for 10 min to
+separate the toluene solution, and the supernatant was collected in a test tube.
+The residue was shaken for 15 min with 5 ml toluene, sonicated for 15 min, and
+separated by centrifugation; the supernatant was collected in a test tube. The
+residue was shaken for 2 min with 2 ml toluene, sonicated for 15 min, and
+separated by centrifugation; the supernatant was collected in a test tube. Then
+1 ml of toluene was gently added to the residue, and the supernatant toluene
+was collected in a test tube twice. Approximately 14 ml of the extracted toluene
+solutions (supernatants) in the test tubes were filtered with 0.2-lm filter
+(polytetrafluoroethylene filter media with polypropylene housing, Whatman
+Ltd, U.K.) to prevent the HPLC column from clogging by pieces of rat tissue,
+which are present at the water-toluene interface and concentrated to 0.20 ml
+with 0.4 ml/min of
+N2 gas at 40C by using a nitrogen concentration system
+(EVAN-SPE; Moritex Co., Japan).
+The extracted and concentrated
+C60 and fullerene oxide (Carbon sixty oxide
+[C60O]) were analyzed using an HPLC system (Shimadzu LC-10A system;
+Shimadzu Co., Japan) equipped with a UV detector (wavelength, 333 nm). The
+mobile phase was 70% (vol/vol) toluene and 30% acetonitrile (vol/vol) (Wako
+Pure Chemicals Co. Ltd) with a flow rate of 0.425 ml/min. The analyte (9.0 ll)
+was injected into a reverse phase triacontylsilyl silica (C30) packed column
+(particle size, 5 lm; internal diameter, 3.0 3 150 mm; Develosil RP Fullerene;
+Nomura Chemical Co. Ltd, Japan), which was maintained at 30C.
+After
+C60 instillation, lung tissues of the rats were observed through an
+energy-filtering TEM (EM922; Carl Zeiss SMT, Germany) equipped with an
+OMEGA energy filter. The specimen for TEM was prepared as follows. Lung
+tissues were fixed in glutaraldehyde and osmium tetroxide solution, dehydrated
+in ethanol, and embedded in epoxy resin. Ultrathin sections were cut using
+a diamond knife microtome. Some of the specimens were stained with 2%
+uranyl acetate solution and 0.5% lead citrate solution at room temperature.
+Quality assurance. The detection and quantification of limits (QOL) were
+defined to be 3r and 10r of the noise level. The precision of analysis
+(repeatability) was checked using a standard solution of 0.024 lg/ml C60 in
+toluene (N ¼ 5) and using lung tissue sample of 17 lg/g tissue C60. To
+determine the efficiency of recovery, an aqueous suspension of C60
+nanoparticles was spiked onto 200 mg of the lung tissues at average levels in
+the real samples (12-44 lg of C60), the liver tissues at equal amount and
+10 times amount of QOL (0.032-0.35 lg of C60), and the brain tissues at equal
+amount and 10 times amount of QOL (0.038-0.41 lg of C60) of rats.
+To confirm whether the instilled suspension had evenly spread to both sides
+of the lung after intratracheal instillation, 10, 200, and 1000 lg of C60
+nanoparticles in 0.4 ml distilled water were intratracheally instilled into 
+9-week-old male Wistar rats. At 1 h after the instillation, six rats in each group
+were dissected, their right and left lungs were weighed, and the concentration of
+C60 in both lungs was measured.
+Deposition fraction and clearance rate constants of C60. The clearance
+of inhaled C60 particles from the lung was assumed to resemble
+CLEARANCE KINETICS OF FULLERENE C60 NANOPARTICLES
+567
+the alveolar surface are mainly phagocytized by macrophages, transferred to the
+tracheobronchial region, and cleared via the sputum (Lehnert and Morrow,
+1985a,b). Phagocytosis by alveolar macrophages is responsible for rapid
+clearance. Some of the deposited particles penetrate the epithelial cell barrier
+and enter the epithelial cells and some penetrate the pulmonary interstitium and
+are slowly cleared from the lung via the lymph nodes. These pathways are
+responsible for slow clearance via compartment 2. The above mechanisms can
+be represented by a 2-step decay rate as shown in Equations 1 and 2:
+dA ¼ CVf  k1A k12A;
+ð1Þ
+dt
+dI ¼ k12A k2I
+dt
+ð2Þ
+ðt ¼ 0 : A ¼ A0; I ¼ I0Þ;
+a 2-compartment model (Fig. 2) described in a previous study (Kuempel et al.,
+2001). Inhaled airborne particles are deposited on the alveolar surface,
+depending on their size. The amount of deposited particles is equivalent to the
+pulmonary burden in compartment 1. Two clearance pathways, namely, direct
+clearance from the lung (rapid clearance) and clearance via compartment 2
+(slow clearance), were assumed to operate in this model. Particles deposited on
+where A is the C60 burden in lung compartment 1 (micrograms), C is
+exposure concentration (micrograms per cubic meter), V is inhalation rate
+(cubic meter per day), f is the deposition fraction, I is the C60 burden in lung
+compartment 2 (micrograms), A0 is the initial C60 burden in lung compartment 1
+(micrograms), I0 is the initial C60 burden in lung compartment 2 (micrograms),
+and k1, k12, and k2 are the clearance rate constants for rapid clearance (per day),
+translocation from compartments 1-2, and slow clearance, respectively.
+In the case of C60 instillation, A0, C, V, and I0 were the instillation doses
+(100, 200, and 1000 lg), 0 lg/m3, 0.27 m3/day, and 0 lg, respectively. In the
+case of C60 inhalation, A0, C, V, and I0 for the nth exposure period were the
+burden in compartment 1 at the end of the (n  1)th nonexposure period an1,
+120 lg/m3 and 0.27 m3/day, and the burden in compartment 2 at the end of the
+(n  1)th nonexposure period in1, respectively, and those for the nth
+nonexposure period were the burden in compartment 1 at the end of nth
+exposure period a#n, 0 lg/m3 and 0.27 m3/day, and the burden in compartment
+2 at the end of nth exposure period i#n, respectively. The inhalation rate of
+Wistar rats (300 g), 0.27 m3/day, was calculated from an equation given in
+a previous study (Bide et al., 2000) for rats with an average body weight of
+300 g. The decay equations for A and I were derived from Equations 1 and 2 by
+using Laplace transformation.
+The pulmonary C60 burden was assumed to equal the sum of the C60 burden
+in compartments 1 and 2 (A þ I). The clearance rate constants k1, k12, and k2
+were estimated by fitting the decay curve of (A þ I) to the lung burden
+measured after C60 instillation by using the least squares method with the solver
+function in Microsoft Excel 2003. The deposited fraction f was estimated by
+fitting the decay curve of (A þ I) to the measured pulmonary burden after C60
+inhalation by using the least squares method with the solver function in
+Microsoft Excel 2003, assuming that the clearance behavior of the inhaled
+particles was the same as that of the injected particles because the replacement
+of Tween 80 by biosurfactant could deagglomerate the inhaled agglomerated
+particles into the primary particles in the rat lung.
+RESULTS
+Quality Assurance
+Chromatograms of toluene solution, 100 and 7.1 ng/ml of
+standard C60 solutions, and a standard C60O solution (100 ng/
+ml) are shown in Figure 3a. The detection limit and QOL were
+calculated to be 2.2 and 7.3 ng/ml for the standard solution,
+respectively. The relative standard deviation (RSD) of the results
+of repeated analyses of standard solution (N ¼ 5) was 1.8%.
+Chromatograms of the extract from the lung tissue of
+intratracheally instilled rat are shown in Figure 3b. The
+detection limit and QOL were calculated to be 8.9 and 29 ng/g
+568
+tissue for the sample tissue, respectively. The RSD of the
+results of repeated analysis of the tissue of C60 instilled rat
+(N ¼ 3) was 3.0%. The mean ± SD efficiencies of C60 recovery
+from the lung, liver, and brain tissues was 95 ± 5, 92 ± 10, and
+94 ± 6%, respectively (Table 2).
+The mean ± SD pulmonary C60 burdens (micrograms) 1 h
+after the instillation were 12.4 ± 0.40, 220 ± 2.3, and 1100 ± 82
+for the 10-, 200-, and 1000-lg doses, respectively. These show
+that 110-120% of instilled amounts were determined in the
+lungs. Thus, it was confirmed that most of the instilled C60
+immediately reached the lung.
+The ratio of the C60 burden in right or left lung to that in both
+lungs 1 h after the instillation (right lung, 0.311-0.396; left
+lung, 0.604-0.689) was almost identical to the ratio of the
+weight of the right or left lung to that of both lungs (right lung,
+0.343-0.357; left lung, 0.643-0.657), respectively (Table 3).
+From these results, we concluded that the C60 burden after
+intratracheal instillation did not differ between the right and left
+lungs.
+C60 Burden in the Lung, Liver, and Brain
+A chromatogram of a sample solution extracted from the
+lung tissue of a rat is shown in Figure 3b. The lung burdens
+after instillation are shown in Table 4. After the instillation of
+SHINOHARA ET AL.
+100 lg C60, the mean ± SD C60 burdens in the entire lung
+(micrograms per lung) at 1 week and 1, 3, and 6 months were
+70.8 ± 14, 26.5 ± 15, 5.22 ± 0.45, and 2.86 ± 2.0, respectively.
+In the case of the 200-lg dose, the pulmonary C60 burdens at
+18 h and 1, 3, and 6 months were 210 ± 9.0, 62.3 ± 30, 17.3 ±
+5.0, and 14.9 ± 3.1, respectively. In the case of the 1000-lg
+dose, the pulmonary C60 burden at 18 h, 3 days, 1 week, and 1,
+3, and 6 months were 1000 ± 170, 1000 ± 160, 1180 ± 180,
+481 ± 79, 91.4 ± 25, and 22.0 ± 6.3, respectively. C60 was not
+detected in the liver and brain after the instillation (detection
+limit, 0.0089 lg/g tissue). Thus, if C60 translocation to
+extrapulmonary organs does occur, the amount translocated
+to the liver (< 0.20 lg/liver) and brain (< 0.020 lg/brain) were
+confirmed to be < 0.2 and 0.02% of the instillation dose,
+respectively. TEM images of the alveolar macrophages in the
+lungs of rats at 1 week after the instillation of 0.2 milligrams
+per body are shown in Figure 4. Figure 4a is a 
+low-magnification image of alveolar macrophages. Indicated arrow
+shown in Figure 4a is phagosome in the alveolar macrophage.
+Magnified image of phagosome in alveolar macrophage was
+shown in Figure 4b. Many black particles resembling fullerene
+particles are seen in the phagosome. These particles were
+identified as C60 particles because high-resolution images
+(Fig. 4c) show (111) lattice plane of crystalline fullerene. TEM
+images of the alveolar macrophages in the lungs of rats at
+6 months after the instillation of 0.2 milligrams per body were
+shown in Figure 4d. It is difficult to see the fullerene particles
+in the alveolar macrophages at 6 months after the instillation.
+We think that most of fullerene particles are exhausted. C60
+nanoparticles were also observed in the cytoplasm of the
+epithelial cells of the lung. We could not, however, confirm
+their presence in the pulmonary interstitium.
+The lung burdens after inhalation exposure are shown in
+Table 5. The mean ± SD pulmonary
+C60 burdens (micrograms
+per lung) 3 days and 1 month after the inhalation experiment
+were 9.92 ± 2.2 and 5.36 ± 1.2, respectively. C60 was not
+detected in the liver and brain after inhalation exposure
+(detection limit, 0.0089 lg/g tissue). The TEM images of the
+alveolar macrophages in the lungs of rats at 3 days after
+inhalation exposure are shown in Figure 5. Phagosomes were
+CLEARANCE KINETICS OF FULLERENE C60 NANOPARTICLES
+569
+instillation. Few fullerene particles can be seen.
+The pulmonary C60 burden after the inhalation experiment
+was also estimated using the 2-step decay rate equation.
+Assuming that the clearance behavior of the inhaled particles
+was the same as that of the injected particles and by fitting the
+decay curves of the estimated pulmonary C60 burden using the
+clearance rate constants for the rats administered 100 lg C60 to
+the measured pulmonary C60 burden, the deposition fraction of
+C60 particles (GM and GSD of particle diameter based on
+number, 96 nm and 2.0, respectively) after inhalation was
+estimated to be 0.14. The measured data and fitting curve are
+shown in Figure 6b.
+Except C60, three compounds (C60O [retention time {RT} ¼
+7.6 min], peak A [RT ¼ 40.5 min], peak B [RT ¼ 49.6 min])
+were observed in the extract of the lung tissue of intratracheally
+instilled rat (Fig. 3b). Peak A and peak B could not be
+identified. The ratio of C60O/C60 concentration increased from
+2.2% at 3 days after the instillation to 5.0% at 3 months after
+the instillation; the ratio of C60O/C60 concentration in the C60
+suspension was 2.6% (Fig. 7a). The ratio of an unidentified
+compound (peak A in Fig. 3b) to the C60 area also increased
+during 3 months (Fig. 7b). However, the ratio of another
+unidentified compound (peak B in Fig. 3b) to the C60 area
+decreased during 6 months (Fig. 7c).
+observed in the alveolar macrophages and (111) lattice plane of
+crystalline fullerene.
+Clearance Rate Constant and Deposition Fraction of C60
+By fitting the decay curves of the pulmonary C60 burden
+estimated using a 2-step decay rate equation (Equations 1 and 2)
+until 6 months after instillation to the measured pulmonary C60
+burden, we obtained the clearance rate constants k1, k12, and k2
+to be 0.029-0.047, 0.00044-0.0034, and 0-0.0042 per day,
+respectively (Table 6). The measured data and fitting curve are
+shown in Figure 6a. On the basis of the decay rate equations, we
+calculated the half-life and 90% decay period as 15, 17, and
+28 days and 58, 77, and 87 days for 100, 200, and 1000 lg
+administration, respectively. The deposition fraction of C60
+particles in the intratracheal instillation was assumed to be
+100%; this was confirmed on the basis of the mean pulmonary
+C60 burden (micrograms) at 1 h after the instillation in the
+quality assurance tests.
+DISCUSSION
+In the present study, the extraction and concentration
+procedure of C60 from tissue improved the QOL to be
+considerably lower levels of intravital
+C60 (0.029 lg/g tissue)
+than those measured in a previous study (1.1 lg/g tissue;
+Kubota et al., 2009). The low QOL of our method enabled the
+evaluation of long-term
+C60 clearance (at 6 months and 1 year)
+when the amount of pulmonary
+C60 burden was small. The
+precision and recovery with this method were also adequate to
+determine the C60 mass burden.
+In terms of the deposition fraction of
+C60 particle, Baker
+et al. (2008) reported that the deposition fraction (count median
+diameter of
+C60 particles, 55 nm; GSD, 1.48) was 0.14. This
+value is possible to be an underestimation because their study
+did not take into account
+C60 clearance during exposure. The
+deposition fraction of
+C60 nanoparticle obtained in their
+inhalation test was reanalyzed using the clearance rate
+constants obtained in this study and the inhalation rate reported
+in the study of Baker et al. (2008), 140 ml/min, and found this
+fraction to be 0.18 (Fig. 6b). Therefore, the underestimation
+was considered to be negligible. In addition, the deposition
+fractions of particles with median diameters of 55 nm
+(GSD, 1.48; density, 1.7 g/cm3) and 96 nm (GSD, 2.0; density,
+1.2 g/cm3) were estimated using an MPPD model with the
+following parameters: model in MPPD, Asymn Multipath;
+breathing frequency of rat, 102 breaths per minute; tidal
+volume of rat, 1.37 ml (Fischer 344 rats) or 1.84 ml (Wistar
+rats); and breathing type, nasal. In the present study, the
+deposition fractions of the C60 nanoparticles (diameters, 55 and
+96 nm) were estimated to be 0.18 and 0.14, respectively, which
+were higher than those calculated using the MPPD model for
+spherical particles (0.12 and 0.078, respectively). In the present
+study, the clearance rates were assumed to be same as that
+during the instillation test (GM, 31 nm), regardless of the
+particle size. The clearance rates of smaller particles (GM,
+31 nm) are higher than those of larger particles (GM, 55 and
+96 nm); this difference can be explained. By using the
+deposition fraction calculated using the MPPD model, k1 for
+the 55- and 96-nm particles were approximately 1/10 of the k1
+for the 31-nm particle. According to previous studies (Madl
+et al., 1998; Oberdo¨rster et al., 1994), the clearance rate of
+smaller particles might be lower than that of larger particles,
+but it cannot be higher than that of larger particles. Thus, this
+difference might be because of a reason other than the
+assumption regarding different clearance rates among different
+particle size. It may be because a small number of large
+particles have a skewed lognormal distribution in the MPPD
+model; such particles were not present in the air used for
+experimental exposure because the deposition fraction of these
+large particles is small. Thus, of models such as MPPD may
+lead to the over- or underestimation of deposition fractions if
+the particle size distribution is not carefully selected.
+Xu et al. (2007) reported that nonaqueous C60(OH)x (x ¼ 22
+or 24) nanoparticles were not detected in the brains of rats that
+were intratracheally instilled with C60 particles-a finding
+similar to that of the present study. In contrast, Oberdo¨rster
+et al. (2004) concluded that in rats, inhaled nanoparticles
+deposited on the nasal mucosa are translocated to the brain via
+the olfactory bulb because they detected 13C in the olfactory
+bulb, cerebellum, and cerebrum until 7 days after inhalation
+exposure (for 6 h) to 13C-labeled carbon nanoparticles (count
+median diameter, 37 nm; GSD, 1.66; concentration, 170 lg/m3).
+In the present study, C60 was not detected in the brain (< 0.020
+micrograms per brain) even though rats were exposed to
+similar concentrations (count median diameter, 96 nm; GSD,
+2.0; C60 concentration 120 lg/m3) of C60 particles for longer
+durations (5 days/week for 4 weeks). Because the particles in
+the Oberdo¨ster’s test were generated from electric spark
+discharge generator, the particle in that study included much
+smaller particles than that in the present study. The discrepancy
+between the translocation results of the two studies may be
+because of the smaller particle size.
+The half-life of 55-nm-wide C60 particles calculated using
+the 1-compartment model reported by Baker et al. (2008) was
+similar to that calculated using the 2-compartment model and
+the data obtained in the present study. This suggests that the 
+1-and 2-compartment models yield similar short-term clearance
+estimates until 50% decrease, including exposure duration. In
+the present study, we first used a 1-compartment model to fit
+the experimental data because there were few data points and
+parameters. However, this model was found to be unsuitable
+for the estimation of lung burden between 90 and 180 days
+(Fig. 6a). Hence, a 2-compartment model and three clearance
+rate constants were used to fit the experimental data. On the
+basis of the 2-compartment model simulation, more than 90%
+of the instilled
+C60 particles were estimated to have been
+eliminated via the rapid clearance pathway. Thus, for the
+C60
+nanoparticles, we concluded that phagocytosis by 
+macrophages, migration of the macrophages to the trachea and
+bronchi, and subsequent tracheobronchial clearance was the
+major clearance pathway. The slow clearance rate constant k2
+was estimated to be quite low (0-0.0042). At 6 months after
+instillation, more than 99% of the lung burden was estimated to
+be in compartment 2. These results suggest that some of the
+instilled C60 nanoparticles (< 10%) are retained in the alveolar
+epithelial cells for prolonged periods because C60 nanoparticles
+were not observed in the pulmonary interstitium but in the
+cytoplasm of alveolar epithelial cells with the TEM 
+observation. Alveolar macrophages are not efficient in phagocytizing
+nanoparticles and may not be as involved in the pulmonary
+retention and clearance of nanoparticles as they are in those of
+larger particles (Kreyling et al., 2005; Oberdo¨rster, 1993).
+Naota et al. (2009) reported that intratracheally instilled C60
+CLEARANCE KINETICS OF FULLERENE C60 NANOPARTICLES
+nanoparticles were not observed in the alveolar macrophages
+but in the lymph nodes. In the present study, however, C60
+nanoparticles were observed in both alveolar macrophages and
+alveolar epithelial cells.
+Pulmonary particle overload has been observed in rats, with
+a particle burden of nearly 1000 lg/g tissue and delayed
+clearance from the lungs (Borm et al., 2000; Muhle et al.,
+571
+572
+1990). Because the lung weights of rats were approximately
+1.3 g in the present study, the highest dose (1000 lg)
+administered in this study can be considered equivalent to the
+overload dose in previous studies. Such an overload may
+explain why the clearance rate of these particles was lower in
+the case of the 1000-lg dose than in the case of the 100 and
+200-lg doses in this study. However, even if overload was
+induced in the rat lungs in the present study, the half-life of C60
+in the rat lungs in the present study was shorter than half-life of
+carbon black particles in rat lungs reported in Elder et al. (2005)
+(GM, 14-70 nm; 64 days). Thus, it can be concluded that early
+stage of C60 nanoparticle clearance, at least, is quite rapid.
+Bullard-Dillard et al. (1996) iv injected Sprague-Dawley rats
+with 14C-labeled C60 and found that C60 was rapidly cleared
+from the blood circulation (within 1 min), and more than 90%
+of the injected C60 was accumulated in the liver. Therefore, in
+the present study, we concluded that the translocation of C60
+from the lung to other organs via blood circulation was
+negligible because C60 was not detected in the liver (< 0.20
+micrograms per liver). Naota et al. (2009) observed C60
+particles in the lumina of the pulmonary alveoli of mice 5 min
+after intratracheal C60 instillation. Polystyrene latex particles
+(diameter, 240 nm) and TiO2 particles (diameter, 22 nm) have
+also been observed in the alveolar lumina of rats subjected to
+intratracheal instillation and inhalation of these particles
+(Geiser et al., 2005; Kato et al., 2003). In the above studies,
+only a small population of nanoparticles can be considered to
+have been microscopically observed because only very small
+particles penetrate the alveolar-capillary barrier (Xu et al.,
+2007).
+Three compounds (C60O, unidentified peak A, and 
+unidentified peak B) were detected in the extract from the lung
+tissue of intratracheally instilled rat. The ratio of C60O
+concentration to C60 concentration in the lung tissues increased
+until 1 month after instillation and then slightly decreased until
+6 months after instillation. Similar change in the ratio was also
+observed for the unidentified compound represented by peak A.
+The change in ratio may have been caused by two reasons:
+differences in the clearance rates of C60O and C60 or the
+possibility that C60O is a metabolic product of C60. The ratio of
+the concentrations of the unidentified compound represented by
+peak B to the C60 in the lung tissues decreased over 6 months.
+This suggests that this unidentified compound (peak B) was
+more rapidly cleared than C60. The clearance rates of C60O and
+the other unidentified compound (peak A) may be slower than
+those of C60, or C60 may be metabolized to C60O and/or to the
+unidentified compound represented by peak A. Hamano et al.
+(1995) reported that C60 was oxidized by the synthetic
+cytochrome P-450 chemical model system; however, 
+Bullard-Dillard et al. (1996) did not detect C60O in rat tissues. If C60 is
+metabolized to C60O and/or to the unidentified compound
+represented by peak A, the amount metabolized is quite small.
+In this study, a sensitive analytical method for C60 was
+developed. In addition, a stable suspension of C60 nanoparticles
+SHINOHARA ET AL.
+with a narrow particle size distribution (GSD, 1.5) was
+prepared by using a surfactant without organic solvents and
+then characterized in detail. The following conclusions related
+to C60 nanoparticles can be reliably reached on the basis of the
+results: (1) The experimentally obtained deposition fraction of
+C60 nanoparticles corresponds to that calculated by using
+previously published models such as the MPPD model (RIVM,
+2002). (2) The C60 nanoparticles deposited on the lung surface
+could be mainly cleared via phagocytosis by macrophages and
+tracheobronchial clearance. (3) A small percentage of the C60
+nanoparticles deposited on the lung surface could be retained in
+the epithelial cells for prolonged periods. (4) No translocation
+of inhaled C60 nanoparticles to extrapulmonary organs, e.g.,
+brain and liver, was recognized by the proposed sensitive
+analytical method.
+FUNDING
+Grant ‘‘Evaluating risks associated with manufactured
+nanomaterials’’ from the New Energy and Industrial 
+Technology Development Organization of Japan (no. P06041).
+ACKNOWLEDGMENTS
+Conflict of interest: This paper is not being considered for
+publication in any other journal. Further, it has not been
+published elsewhere in part or in entirety. All the authors of the
+manuscript have read it, attest the validity of its contents, and
+agree on its submission to Toxicological Sciences. It should be
+mentioned that none of the authors have any competing
+interests to declare.
+REFERENCES
+Baker, G. L., Gupta, A., Clark, M. L., Valenzuela, B. R., Staska, L. M.,
+Harbo, S. J., Pierce, J. T., and DillInhalation, J. A. (2008). Inhalation toxicity
+and lung toxicokinetics of C60 fullerene nanoparticles and microparticles.
+Toxicol. Sci. 101, 122-131.
+Borm, P. Y. A., Costa, D., Castranova, V., Donaldson, K., Driscoll, K.,
+Dungworth, D., Green, F., Greim, H., Harkema, J., Jarabek, A., et al. (2000).
+The relevance of the rat lung response to particle overload for human risk
+assessment: a workshop consensus report. Inhal. Toxicol. 12, 1-17.
+Bullard-Dillard, R., Creek, K. E., Scrivens, W. A., and Tour, J. M. (1996).
+Tissue sites of uptake of 14C-labeled C60. Bioorg. Chem. 24, 376-385.
+Bide, R. W., Armour, S. J., and Yee, R. (2000). Allometric respiration/body
+mass data for animals to be used for estimates of inhalation toxicity to young
+and adult humans. J. Appl. Toxicol. 20, 273-290.
+Elder, A., Gelein, R., Finkelstein, J. N., Driscoll, K. E., Harkema, J., and
+Oberdo¨rster, G. (2005). Effects of subchronically inhaled carbon black in
+three species. I. Retention kinetics, lung inflammation, and histopathology.
+Toxicol. Sci. 88, 614-629.
+Endoh, S., Maru, J., Uchida, K., Yamamoto, K., and Nakanishi, J. (2009).
+Preparing samples for fullerene C60 hazard tests: stable dispersion of
+fullerene crystals in water using a bead mill. Adv. Powder Technol. 20,
+567-575.
+Geiser, M., Rothen-Rutishauser, B., Kapp, N., Schu¨rch, S., Kreyling, W.,
+Schulz, H., Semmler, M., Hof, V. I., Heyder, J., and Gehr, P. (2005).
+Ultrafine particles cross cellular membranes by nonphagocytic mechanisms
+in lungs and in cultured cells. Environ. Health Perspect. 113, 1555-1560.
+Gharbi, N., Pressac, M., Hadchouel, M., Szwarc, H., Wilson, S. R., and
+Moussa, F. (2005). [60]Fullerene is a powerful antioxidant in vivo with no
+acute or subacute toxicity. Nano Lett. 5, 2578-2585.
+Hamano, T., Mashino, T., and Hirobe, M. (1995). Oxidation of [60]fullerene by
+cytochrome-P450 chemical-models. J. Chem. Soc. Chem. Commun. 15,
+1537-1538.
+Kato, T., Yashiro, T., Murata, Y., Herbert, D. C., Oshikawa, K., Bando, M.,
+Ohno, S., and Sugiyama, Y. (2003). Evidence that exogenous substances can
+be phagocytized by alveolar epithelial cells and transported into blood
+capillaries. Cell Tissue Res. 311, 47-51.
+Kreyling, W. G., Semmler, M., Erbe, F., Mayer, P., Takenaka, S., Schulz, H.,
+Oberdo¨rster, G., and Ziesenis, A. (2002). Translocation of ultrafine
+insoluble iridium particles from lung epithelium to extrapulmonary
+organs is size dependent but very low. J. Toxicol. Environ. Health A 65,
+1513-1530.
+Kreyling, W. G., Semmler-Behnke, M., and Moller, W. (2005). Ultrafine
+particle-lung interactions: does size matter? J. Aerosol. Med. 19, 74-83.
+Kubota, R., Tahara, M., Shimizu, K., Sugimoto, N., Hirose, A., and
+Nishimura, T. (2009). Development of a liquid chromatography-tandem
+mass spectrometry method for the determination of fullerene C60 and
+C70 in biological samples (in Japanese). Bull. Natl. Inst. Health Sci. 127,
+65-68.
+Kuempel, E. D., Tran, C. L., Bailer, A. J., Smith, R. J., Dankovic, D. A., and
+Stayner, L. T. (2001). Methodological issues of using observational human
+data in lung dosimetry models for particulates. Sci. Total Environ. 274,
+67-77.
+Lehnert, B. E., and Morrow, P. E. (1985a). Association of Fe-59 oxide with
+alveolar macrophages during alveolar clearance. Exp. Lung Res. 9, 1-16.
+Lehnert, B. E., and Morrow, P. E. (1985b). The initial lag in phagocytic rate by
+macrophages in monolayer is related to particle encounters and binding.
+Immunol. Invest. 14, 515-521.
+Madl, A. K., Wilson, D. W., Segall, H. I., and Pinkerton, K. E. (1998).
+Alteration in lung particle translocation, macrophage function, and
+microfilament arrangement in monocrotaline-treated rats. Toxicol. Appl.
+Pharmacol. 153, 28-38.
+Mo¨ller, W., Felten, K., Sommerer, K., Scheuch, G., Meyer, G., Meyer, P.,
+Ha¨ussinger, K., and Kreyling, W. G. (2008). Deposition, retention, and
+translocation of ultrafine particles from the central airways and lung
+periphery. Am. J. Respir. Crit. Care Med. 177, 426-432.
+Morimoto, Y., Hirohashi, M., Ogami, A., Oyabu, T., Myojo, T., Nishi, K.,
+Kadoya, C., Todoroki, M., Yamamoto, M., Murakami, M., et al. (2010).
+CLEARANCE KINETICS OF FULLERENE C60 NANOPARTICLES
+573
+Inflammogenic effect of well-characterized fullerenes in inhalation and
+intratracheal instillation studies. Part. Fibre Toxicol. 7, 4.
+Moussa, F., Pressac, M., Genin, E., Roux, S., Trivin, F., Rassat, A., Ceolin, R.,
+and Szwarc, H. (1997). Quantitative analysis of C60 fullerene in blood and
+tissues by high-performance liquid chromatography with photodiode-array
+and mass spectrometric detection. J. Chromatogr. B Biomed. Sci. Appl. 696,
+153-159.
+Moussa, F., Trivin, F., Ceolin, R., Hadchouel, M., Sizaret, P. Y., Greugny, V.,
+Fabre, C., Rassat, A., and Szwarc, H. (1996). Early effects of C60
+administration in Swiss mice: a preliminary account for in vivo C60 toxicity.
+Fullerene Sci. Technol. 4, 21-29.
+Muhle, H., Creutzenberg, O., Bellmann, B., Heinrich, U., and Mermelstein, R.
+(1990). Dust overloading of lungs: investigations of various materials,
+species differences, and irreversibility of effects. J. Aerosol Med. 3, 111-128.
+Naota, M., Shimada, A., Morita, T., Inoue, K., and Takano, H. (2009).
+Translocation pathway of the intratracheally instilled C60 fullerene from the
+lung into the blood circulation in the mouse: possible association of diffusion
+and caveolae-mediated pinocytosis. Toxicol. Pathol. 37, 456-462.
+National Institute for Public Health and the Environment (RIVM). (2002).
+Multiple Path Particle Dosimetry Model (MPPD v.1.0): A Model for Human
+and Rat Airway Particle Dosimetry. Bilthoven, The Netherlands: RIVA.
+Report 650010030.
+Naumann, B. D., and Schlesinger, R. B. (1986). Assessment of early alveolar
+particle clearance and macrophage function following an acute inhalation of
+sulfuric acid mist. Exp. Lung Res. 11, 13-33.
+Oberdo¨rster, G. (1993). Lung dosimetry: pulmonary clearance of inhaled
+particles. Aerosol Sci. Technol. 18, 279-289.
+Oberdo¨rster, G., Ferin, J., and Lehnert, B. E. (1994). Correlation between
+particle size, in vivo particle persistence, and lung injury. Environ. Health
+Perspect. 102, 173-179.
+Oberdo¨rster, G., Sharp, Z., Atudorei, V., Elder, A., Gelein, R., Kreyling, W.,
+and Cox, C. (2004). Translocation of inhaled ultrafine particles to the brain.
+Inhal. Toxicol. 16, 437-445.
+Shimada, M., Wang, W. N., Okuyama, K., Myojo, T., Oyabu, T.,
+Morimoto, Y., Tanaka, I., Endoh, S., Uchida, K., Ehara, K., et al. (2009).
+Development and evaluation of an aerosol generation and supplying system
+for inhalation experiments of manufactured nanoparticles. Environ. Sci.
+Technol. 43, 5529-5534.
+Shinohara, N., Matsumoto, T., Gamo, M., Miyauchi, A., Endo, S.,
+Yonezawa, Y., and Nakanishi, J. (2009). Is lipid peroxidation induced by
+the aqueous suspension of fullerene C60 nanoparticles in the brains of
+Cyprinus carpio? Environ. Sci. Technol. 43, 948-953.
+Xu, J. Y., Li, Q. N., Li, J. G., Ran, T. C., Wu, S. W., Song, W. M., Chen, S. L.,
+and Li, W. X. (2007). Biodistribution of 99mTc-C60(OH)x in 
+Sprague-Dawley rats after intratracheal instillation. Carbon 45, 1865-1870.
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+Downloadedfrom   http://toxsci.oxfordjournals.org/ byguestonOctober4,2016
+
+TABLE 1 
+GM and GSD of Particle Diameter of C60 
+Number 
+Volume 
+Surface 
+baseda 
+basedb 
+area basedc 
+Suspension 
+Low 
+GM (nm) 
+23 
+35 
+30 
+concentration 
+GSD (-) 
+1.5 
+1.5 
+1.5 
+High 
+GM (nm) 
+18 
+29 
+24 
+concentration 
+GSD (-) 
+1.5 
+1.5 
+1.5 
+Aerosol for 
+GM (nm) 
+96 
+410 
+250 
+exposure 
+GSD (-) 
+2.0 
+2.0 
+2.0 
+
+TABLE 2 
+TABLE 4 
+Efficiency of C60 Recovery from Lung, Liver, and Brain Tissue 
+Lung Burden of C60 after Intratracheal Instillation 
+Spiked amount 
+Recovery efficiency 
+Lung burden of C60 (lg) 
+Tissue sample 
+(lg/g tissue) 
+(%) 
+Time after 
+100 lg 
+200 lg 
+1000 lg 
+Lung 
+11.9 
+98.8 
+instillation (day) 
+Instillation 
+Instillation 
+Instillation 
+39.6 
+99.4 
+42.8 
+89.9 
+0.75 
+- 
+210 
+1000 
+44.1 
+92.8 
+3.0 
+- 
+- 
+1000 
+Liver 
+0.032 
+102 
+7.0 
+70.8 
+- 
+1180 
+0.354 
+90.3 
+30 
+26.5 
+62.1 
+481 
+Brain 
+0.038 
+88.8 
+90 
+5.22 
+17.3 
+91.4 
+0.408 
+100 
+180 
+2.86 
+14.9 
+22.0 
+
+TABLE 3 
+Mean ± SD of the Ratio of C60 Burden in Each Lung to Total 
+Lung and Each Lung Weight to Total Lung Weight at 1 h after 
+the Instillation 
+Ratio of C60 burden in 
+Ratio of weight of 
+each lung to total lung 
+each lung to total lung 
+C60 
+administration 
+amount (lg) 
+Left lung Right lung 
+Left lung 
+Right lung 
+10 
+0.396 ± 0.076 0.604 ± 0.076 
+0.351 ± 0.002 
+0.649 ± 0.002 
+200 
+0.311 ± 0.003 0.689 ± 0.003 
+0.343 ± 0.009 
+0.657 ± 0.009 
+1000 
+0.389 ± 0.041 0.611 ± 0.041 
+0.357 ± 0.015 
+0.643 ± 0.015 
+
+TABLE 5 
+Lung Burden of C60 after Inhalation Exposure 
+Lung burden of C60 
+(lg) 
+Time after last exposure (day) 
+120 lg/m3 exposure 
+3.0 
+10.1 
+30 
+5.08 
+
+TABLE 6 
+Clearance rate constants Estimated on the Basis of the Lung 
+Burden Measured in the Present Study 
+Dose of C60 administered 
+Clearance rate constant 
+100 lg 
+200 lg 
+1000 lg 
+K1 (/day) 
+0.047 
+0.043 
+0.029 
+K2 (/day) 
+0.0042 
+~0 
+~0 
+K12 (/day) 
+0.0028 
+0.0034 
+0.00044 
+
+566 
+SHINOHARA ET AL. 
+FIG. 1. TEM images of C60 nanoparticle suspension used for intratracheal instillation and SEM image of airborne C60 nanoparticles sampled using a filter and 
+used for the inhalation experiment. (a) Spherical nanoparticles. (b) Regular ordering of fullerene molecules. (c) Airborne C60 nanoparticles (white). 
+
+FIG. 2. Assumed compartment model for the clearance of inhaled C60 
+nanoparticles in the lung. Compartment 1 represents the alveolar surface and 
+compartment 2 the lung interstitium or alveolar epithelial cells. Rapid clearance 
+is attributable to phagocytosis by alveolar macrophages, transfer to the 
+tracheobronchial region, and elimination in the sputum. Slow clearance is 
+attributable to elimination through the lymph nodes. 
+
+FIG. 3. Chromatogram of C60. (a) Solvent (toluene), standard solution of 
+C60 (100 ng/ml), standard solution of C60 (7.1 ng/ml), standard solution of 
+C60O (100 ng/ml), and (b) sample solution extracted from the lungs of rats after 
+intratracheal C60 instillation. 
+
+FIG. 4. TEM images of alveolar macrophage instilled with C60 
+(0.2 milligrams per rat). (a) Low-magnification image of alveolar macrophage 
+after 1-week instillation exposure. (b) Magnified image of phagosome in 
+alveolar macrophage after 1-week instillation exposure. Many black particles 
+resembling fullerene particles are seen in the phagosome. (c) High-resolution 
+image of the black particles in (b). A crystal lattice order can be observed. 
+(d) Low-magnification image of alveolar macrophage after 6 months 
+
+570 
+SHINOHARA ET AL. 
+FIG. 5. TEM images of alveolar macrophage after the inhalation exposure to C60. (a) TEM image of alveolar macrophage after 3 days. (b) TEM image of 
+phagosome in alveolar macrophage after 3 days. (c) High-resolution TEM image of (b). Lattice of C60 particle was observed. 
+
+FIG. 6. Pulmonary C60 burden against time elapsed after (a) instillation and (b) inhalation. 
+
+FIG. 7. Changes in the ratio of C60 derivatives to C60 with time. (a) C60O. (b) Unidentified peak A. (c) Unidentified peak B. 
+

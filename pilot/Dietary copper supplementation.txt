@@ -1,0 +1,1296 @@
+Am J Physiol Endocrinol Metab 304: E1023-E1034, 2013.
+First published March 19, 2013; doi:10.1152/ajpendo.00036.2013.
+Dietary copper supplementation restores -cell function of Cohen diabetic
+rats: a link between mitochondrial function and glucose-stimulated insulin
+secretion
+Sarah Weksler-Zangen,1* Anne Jörns,2,3* Limor Tarsi-Chen,1 Fiona Vernea,4 Genya Aharon-Hananel,1
+Ann Saada,5 Sigurd Lenzen,2 and Itamar Raz1
+1Diabetes Unit, Department of Internal Medicine and Hadassah Diabetes Center, Hadassah-Hebrew University Medical
+Center, Jerusalem, Israel; 2Institute of Clinical Biochemistry and 3Centre of Anatomy, Hannover Medical School, Hannover,
+Germany; 4Department of Pathology, Hadassah-Hebrew University Medical Center, Jerusalem, Israel; and 5The Monique
+and Jaques Roboh Department of Genetic Research and Metabolic Diseases, Hadassah-Hebrew University Medical Center,
+Jerusalem, Israel
+Submitted 22 January 2013; accepted in final form 15 March 2013
+Weksler-Zangen S, Jörns A, Tarsi-Chen L, Vernea F, 
+Aharon-Hananel G, Saada A, Lenzen S, Raz I. Dietary copper 
+supplementation restores -cell function of Cohen diabetic rats: a link between
+mitochondrial function and glucose-stimulated insulin secretion. Am J
+Physiol Endocrinol Metab 304: E1023-E1034, 2013. First published
+March 19, 2013; doi:10.1152/ajpendo.00036.2013.--Cell 
+mitochondrial dysfunction
+as well as proinflammatory cytokines have been
+suggested to contribute to reduced glucose-stimulated insulin 
+secretion (GSIS) in type 2 diabetes. We recently demonstrated that Cohen
+diabetic sensitive (CDs) rats fed a high-sucrose, low-copper diet
+(HSD) developed hyperglycemia and reduced GSIS in association
+with peri-islet infiltration of fat and interleukin (IL)-1-expressing
+macrophages, whereas CD resistant (CDr) rats remained 
+normoglycemic on HSD. We examined: 1) the correlation between copper
+concentration in the HSD and progression, prevention, and reversion
+of hyperglycemia in CDs rats, 2) the relationship between activity of
+the copper-dependent, respiratory-chain enzyme cytochrome c 
+oxidase (COX), infiltration of fat, IL-1-expressing macrophages, and
+defective GSIS in hyperglycemic CDs rats. CDs and CDr rats
+were
+fed HSD or copper-supplemented HSD before and during 
+hyperglycemia development. Blood glucose and insulin concentrations were
+measured during glucose tolerance tests. Macrophage infiltration and
+IL-1 expression were evaluated in pancreatic sections by 
+electron-microscopy and immunostaining. COX activity was measured in
+pancreatic sections and isolated islets. In CDs rats fed HSD, GSIS and
+islet COX activity decreased, while blood glucose and infiltration of
+fat and IL-1-expressing macrophages increased with time on HSD
+(P
+0.01 vs. CDr-HSD rats, all parameters, respectively). CDs rats
+maintained on copper-supplemented HSD did not develop 
+hyperglycemia, and in hyperglycemic CDs
+rats, copper supplementation 
+restored GSIS and COX activity, reversed hyperglycemia and 
+infiltration of fat and IL-1-expressing macrophages (P  0.01 vs. 
+hyperglycemic CDs-HSD rats, all parameters, respectively). We provide
+novel evidence for a critical role of low dietary copper in diminished
+GSIS of susceptible CDs rats involving the combined consequence of
+reduced islet COX activity and pancreatic low-grade inflammation.
+diabetes; interleukin-1; pancreatic -cell; copper; cytochrome
+c oxidase
+NUTRIENTS, DIETARY PATTERNS, and chronic inflammation in 
+metabolically responsive organs such as the pancreas play a crucial
+* S. Weksler-Zangen and A. Jörns contributed equally.
+Address for reprint requests and other correspondence: S. Weksler-Zangen,
+Diabetes Unit, Hadassah-Hebrew Univ. Medical Center, Jerusalem 12000,
+Israel 91120 (e-mail: sarahz@hadassah.org.il).
+0193-1849/13 Copyright © 2013 the American Physiological Societyhttp://www.ajpendo.org
+role in the development of type 2 diabetes (11, 18). Copper is
+an essential trace element that serves as a cofactor for 
+met-alloenzymes, in particular the mitochondrial respiratory chain
+enzyme cytochrome c oxidase (COX) (17, 30, 36). Proper
+COX activity crucial for ATP generation couples respiratory
+chain flux to physiological insulin secretion by pancreatic
+-cells (17, 30, 36, 46). Copper deficiency has been shown to
+be associated with an increased frequency of glucose 
+intolerance, electrocardiographic abnormalities, hypertension, and
+disturbances in lipid metabolism (33, 39, 46). In rats, copper
+deficiency has been shown to induce increased lipid storage in
+liver and pancreas and to cause degeneration and apoptosis of
+pancreatic acinar cells (14, 24, 49), sparing the islets, ducts,
+and nerves (48, 49). Restricting dietary copper combined with a
+high concentration of dietary sucrose induced lipid peroxidation,
+atrophy of pancreatic acinar tissue, and compromised 
+mitochondrial function (14). Conversely, copper administration in mice
+prior to diabetes induction by streptozotocin reduced the incidence
+of diabetes, oxidative stress, lipid peroxidation, and expression of
+cytokines in mononuclear cells (43).
+The Cohen diabetic rat model (5, 50, 51) comprises two
+genetically derived contrasting strains. The sensitive (CDs)
+strain develops postprandial hyperglycemia when fed the 
+dia-betogenic low-copper high-sucrose diet (HSD) but maintains
+normoglycemia on regular diet (RD); and the resistant (CDr)
+strain that does not develop hyperglycemia when exposed to
+HSD. Hyperglycemic CDs rats have normal fasting glucose
+levels (50) without insulin resistance, but their pancreatic -cells
+exhibit markedly reduced capacity to secrete insulin in response to
+glucose (GSIS) (50). Furthermore, a pancreatic infiltration with
+macrophages expressing the proinflammatory cytokine IL-1 is
+present in histologic sections and is associated with reduced GSIS.
+Resistant CDr rats fed HSD remained normoglycemic and did not
+exhibit these deleterious effects (50).
+In this study, we studied the mechanism by which the
+diabetogenic low-copper diet (HSD) induces hyperglycemia in
+the genetically derived CDs rats. We examined 1) the 
+correlation between copper concentration in HSD and progression,
+prevention, and reversal of hyperglycemia in CDs rats and
+2) the relationship between the copper-dependent, 
+mitochondrial respiratory enzyme COX activity, infiltration of IL-1-
+expressing macrophages, and defective GSIS in hyperglycemic
+CDs rats fed HSD.
+E1023
+E1024
+MATERIALS AND METHODS
+Animals
+Studies were performed on male CDs and CDr rats of similar initial
+weight, aged 8 wk. Breeding and experimentation received approval of
+the Animal Care Committee of Hebrew University Hadassah Medical
+School.
+Diets
+A regular rat diet (RD; Teklad 2918; Harlan Laboratories, 
+Indianapolis, IN) contained 15-22% soy as protein and 16 ppm copper
+(50). In previous studies (5, 50), CDs rats were fed RD obtained from
+Koffolk, Petach-Tikva, Israel, that contained as protein 21% skimmed
+milk powder. Comparing the two different RDs, we found that CDs
+rats fed either RD exhibited normoglycemia regardless of the protein
+origin in the diet. The HSD (low-copper high-sucrose diet; MP
+Biomedicals, Solon, OH) contained a low copper concentration (1.2
+ppm), 72% sucrose, 18% vitamin-free casein, 5% salt mixture no. II
+USP butter (4.5%), corn oil (0.5%), and vitamins (5, 50, 51). The
+copper-supplemented HSD (HSDCu) contained HSD supplemented
+with 16 ppm copper. This copper concentration is similar to that
+measured in the regular rat diet.
+Study Design
+Three study protocols
+were designed (Fig. 1).
+Study protocol 1: diabetes progression. CDs and CDr
+rats were fed
+RD for 8 wk and switched
+to HSD for periods of 10, 20, or 30 days. Of
+note, this protocol is not a copper-deficient protocol, as the HSD is only
+copper poor and the body copper stores were not eliminated using a
+copper chelator. As previously shown, this protocol initiated 
+hyperglycemia within a period of 1 mo only in CDs but not in CDr rats (5, 50, 51).
+Study protocol 2: diabetes prevention. CDs- and CDr-rats were fed
+RD for 8 wk and switched to HSDCu for a period of 30 days.
+Study protocol 3: diabetes reversal. Hyperglycemic CDs rats were
+fed HSD for 30 days and switched to HSDCu for periods of 10, 20, or
+40 days. The hyperglycemia of CDs rats fed HSD for 30 days was
+COPPER RESTORES -CELL AND COX FUNCTION
+confirmed by a 2-h postprandial blood glucose test of200 mg/dl (5, 50,
+51) before the onset of HSDCu feeding. The 40-day HSDCu group
+was designed to confirm the persistence of reversal to normoglycemia.
+OGTT and IVGTT
+Blood glucose and insulin concentrations were measured during
+oral (OGTT) and intravenous (IVGTT) glucose tolerance tests. Blood
+glucose was measured using a glucometer (Elite, Bayer, Leverkusen,
+Germany) and serum-insulin with an ELISA assay (Mercodia, 
+Upp-sala, Sweden). At the different time points in the different study
+protocols, the rats were killed, and the organs were removed and
+processed. Pancreases were fixed, and pancreatic morphology, fat, and
+macrophage infiltration as well as -cell function were evaluated.
+COX activity was evaluated during diabetes progression (study 
+protocol 1) and diabetes reversal (study protocol 3).
+In the OGTT, glucose and insulin concentrations were measured in
+overnight-fasted rats in tail vein blood obtained before and after an
+oral bolus administration of glucose (3.5 g/kg) (5, 50, 51). In the
+IVGTT, glucose and insulin concentrations were measured in 
+over-night-fasted rats in blood drawn from the carotid artery before and
+after intravenous glucose bolus (0.75 g/kg) administration into the
+jugular vein (50). IVGTT required complicated surgery to insert
+catheters into the right jugular vein and left carotid artery of 
+anesthetized rats. Therefore, in study protocol 3, using a large number of
+hyperglycemic CDs rats, we performed an OGTT. This was based on
+our previous study (50) showing that IVGTT and OGTT exhibited
+comparable phenotypes. Nevertheless, in the current study, the OGTT
+phenotype was confirmed in 40-day CDs-HSDCu by IVGTT.
+Collection of Tissues
+Liver, spleen, kidney, heart, and pancreas were removed and weighed.
+The entire pancreas was flash-frozen in liquid nitrogen and kept at80°C
+for insulin and TG measurement or for cryostat sections. Alternatively,
+the pancreas was fixed by immersion either in buffered 4% 
+paraformal-dehyde for light microscopy or in a mixture of 2% paraformaldehyde and
+2% glutaraldehyde for ultrastructural analysis.
+Rats fed RD
+Study-protocol 1
+CDs and CDr rats
+Study-protocol 2
+8 weeks old  CDs and CDr rats
+Study-protocol 3
+Hyperglycemic-CDs rats
+(CDs rats fed 30 days
+HSD)
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+10-days low copper (1.2ppm)-HSD
+20-days low copper (1.2ppm)-HSD
+30-days low copper (1.2ppm)-HSD
+30-days copper supplemented (16ppm)-
+HSD (HSD+Cu)
+10-days copper supplemented
+(16ppm)-HSD (HSD+Cu)
+20-days copper supplemented
+(16ppm)-HSD (HSD+Cu)
+40-days copper supplemented
+(16ppm)-HSD (HSD+Cu)
+Triglyceride and Fatty Acid Measurements
+Triglycerides (TGs)
+determined using a GPO-Trinder kit (Sigma, St. Louis, MO). 
+Nonesteri-fied fatty acids were measured in serum of overnight fasted rats using a
+NEFA kit (Randox Laboratories, Crumlin, County Antrim, UK).
+Immunohistochemistry and Morphological Evaluation
+Immunohistochemistry used the avidin-biotin complex (ABC) or a
+double immunofluorescence method to identify -cells, CD68 
+macrophages, and IL-1 expression (20, 50) with the following primary
+antibodies: insulin (A565; DAKO, Hamburg, Germany), CD68 
+macrophages (clone ED1), and IL-1 (clone silk6; both from Serotec, Düssel-
+dorf, Germany) (21, 50). Sections were examined using bright-field
+illumination or fluorescence illumination with a Bx61 Olympus 
+microscope. Areas of acinar cells and adipocytes were morphometrically
+determined, and the proportion of adipose tissue was expressed as a
+percentage of the total pancreas tissue
+on the section. Macrophages and
+their IL-1 expression
+were quantified in eight consecutive sections of
+four different areas in each animal for the different experimental groups.
+Results are expressed per square millimeter of pancreatic parenchyma.
+COX Activity in Freshly Isolated Islets and Pancreas Sections
+COX activity
+was determined spectrophotometrically (40) in 
+ho-mogenates of 200-300 islets freshly isolated from CDs or CDr rats
+fed for 30 days on HSD (study protocol 1) or from hyperglycemic
+CDs rats fed for 20 days on HSDCu (study protocol 3). COX
+activity was expressed per milligram of protein or per activity of the
+mitochondrial matrix enzyme citrate synthase (CS). Histochemical
+COX activity staining was performed in cryostat pancreatic sections
+(11 m). COX activity was depicted by oxidative polymerization of
+3,3=-diaminobenzidine (DAB)
+in response to an osmiophilic reaction
+product allowing the localization of COX in the mitochondria of
+different organs (41). Briefly, pancreatic sections were incubated in
+fresh incubation solution containing DAB and cytochrome C (type II)
+in phosphate buffer (41, 42). Sections from the different groups were
+stained in parallel to avoid variations in the intensity of the brown
+staining. COX activity in islets was determined densitometrically and
+calculated
+as a percentage of COX activity in CDr rats fed 30-day
+HSD, which
+was taken as 100%. We analyzed 20-40 islets 
+densito-metrically in each experimental group.
+Transmission Electron Microscopy
+Ultrathin sections
+were contrast-stained with saturated solutions of
+lead citrate and uranyl acetate and evaluated by electron microscopy
+(EM 9 S2; Zeiss, Oberkochen, Germany) (21). Twenty islets were
+analyzed in each experimental group.
+Data Analysis
+Data
+are means  SE. Statistical significance of differences 
+between groups was determined by one-way ANOVA followed by the
+Tukey test using the Sigmastat program (Jandel, San Rafael, CA). A
+two-tailed paired t-test was used to compare data from tests performed
+on the same animal or in isolated-islets.
+RESULTS
+Glucose Tolerance Tests
+HSD gradually induced hyperglycemia in CDs rats. In study
+protocol 1 (Fig. 1), the glucoseAUC of CDs rats fed 10 days
+HSD was not significantly different from the glucose area
+under IVGTT curve (glucoseAUC) of CDr rats fed 10-day HSD
+(Fig. 2C) or CDs rats fed RD (Fig. 2E), but maximal insulin
+secretion was already reduced in CDs rats compared with CDr
+were extracted from the whole pancreas (15) and
+RESTORES -CELL AND COX FUNCTION
+E1025COPPER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+rats (Fig. 2, B and D), indicating that the impairment in GSIS
+in the CDs rats preceded the development of hyperglycemia.
+The insulin area under the IVGTT curve (insulinAUC) markedly
+decreased, whereas the glucoseAUC markedly increased in
+relation to the duration on HSD (insulinAUC 19,134  1,352,
+12,669  2,242, and 4,350  1,218 pmol·l1·120 min; 
+gluco-seAUC 935  105, 1,400  144, and 1,500  160 mmol·l1·120
+min for 10, 20, and 30 days on HSD, respectively; Fig. 2, A and
+B). CDr rats fed HSD exhibited a small reduction (25%) in
+insulinAUC only after 30 days on HSD (Fig. 2D), whereas 
+gluco-seAUC did not significantly change with time on HSD (Fig. 2C).
+Copper supplementation to the HSD (HSDCu; study 
+protocol 2; Fig. 1) prevented the increase in glucoseAUC and the
+decrease in insulinAUC (Fig. 2, E and F), thus eliminating the
+difference in glucose and insulin tolerance curves exhibited by
+CDs-HSD and CDr-HSD rats. In fact, blood glucose of CDs
+rats fed HSDCu rose less than in normoglycemic CDs-RD
+rats (Fig. 2E), while insulin secretion was comparable (Fig.
+2F). Moreover the IVGTT curve of CDs rats fed HSDCu was
+characterized by a large insulin-secretory response to glucose
+followed by a prompt reduction in blood glucose concentration
+(Fig. 2, E and F). HSDCu also reversed the diabetic OGTT
+exhibited by hyperglycemic CDs rats (study protocol 3; Fig. 1).
+After 10 days on HSDCu, hyperglycemic CDs rats exhibited
+a 50% recovery of the glucoseAUC and insulinAUC (not shown).
+Full reversal, i.e glucose levels and insulinAUC as found in
+normoglycemic CDs rats (Fig. 2, G and H), was achieved after
+20 days on HSDCu and maintained for a total of 40 days as
+demonstrated by OGTT (Fig. 2, G and H) and IVGTT (Fig. 2I).
+Pancreas Weight
+Based on the fact that CDs rats fed 30-day HSD exhibited a
+marked reduction in pancreatic weight and enhanced 
+pancreatic lesions in our previous studies (50), we studied the relation
+between the time of exposure to HSD and pancreatic weight
+(study protocol 1; Fig. 1). A significant decrease in pancreatic
+weight of CDs rats was initiated only after 20 days on HSD.
+Pancreas weight was further reduced after 30 days on HSD
+(Fig. 3A, P  0.05 vs. CDr-HSD Fig. 3B). After 10 days of
+HSD, the pancreas weight of CDs was not significantly 
+different from that of CDr-HSD (Fig. 3B) or CDs-RD (not shown).
+The reduction in pancreatic weight was prevented (study 
+protocol 2; Fig. 1) when the CDs rats were fed HSDCu (Fig.
+3C). Thus, pancreas weight of CDs rats fed HSDCu was
+comparable to that of CDr rats fed HSDCu (Fig. 3D). The
+pancreas weight of hyperglycemic CDs rats fed 20-day
+HSDCu (study protocol 3; Fig. 1) increased by 40% (Fig.
+3E). The increased weight was maintained for 20 additional
+days (hyperglycemic CDs rats fed 40-day HSDCu; Fig. 3E).
+No differences were detected in the weight of liver, spleen,
+heart, or kidney of rats in the different studies (not shown).
+Pancreas weight of CDr rats did not change with time on HSD
+or HSDCu (Fig. 3, B and D).
+Immunostaining of Insulin in -Cells and IL-1 in
+Macrophages
+HSD gradually increased the number of macrophages infiltrating
+the exocrine pancreas and the intraislet capillary system as well as the
+extent of their activation (study protocol 1; Figs. 1 and 4, A and B).
+After 10 days on HSD, the pancreas of CDs rats was infiltrated
+E1026
+with a small number of macrophages (0.6  0.2 macrophages/ macrophages/mm2, respectively (Fig. 4A), and 85% expressed
+mm2), most of which (0.5  0.0 macrophages/mm2) expressed IL-1 (1.2  0.1 and 2.4  0.3, respectively; Fig. 4B). In the
+IL-1. After 20 and 30 days on HSD, the number of infiltrating pancreas of CDr rats fed 30-day HSD, only a negligible
+macrophages increased gradually to 1.4  0.3 and 2.8  0.3 number of macrophages (0.3  0.1 macrophages/mm2) was
+Study protocol 1
+A
+25
+20
+15
+CDs
+rats
+10
+5
+0
+C
+CDr
+rats
+COPPER RESTORES -CELL AND COX FUNCTION
+10 days 30 days 20 days
+B
+*  *  *
+*
+*  * *
+
+#
+Study protocol 2
+E
+25
+20
+15
+10
+5
+0
+Study protocol 3
+G
+24
+*
+20
+*
+16
+12
+8
+4
+0
+0 30 60 120
+-10 1 5 10 30 60 120
+Time (min)
+25
+
+20
+15
+10
+5
+0
+-10 1 5 10 30 60 120
+Time (min)
+*
+
+*   *  *  *  *
+*   *   *  *  *  *
+* P< 0.01 vs. CDs-RD
+*
+*  *
+*   *
+0 1 3 5 7 10 15 30 45 60 90
+Time (min)
+30-days HSD  20-days HSD-Cu 40-days HSD-Cu RD
+** P<0.001, * P< 0.01 vs RD or 20 and 40 days HSD+Cu
+Time (min) Time  (min)
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+# P<0.05 vs CDr 10d HSD * P<0.05 vs CDr 20 & 30d HSD
+CDs and CDr rats fed 30 days HSD+Cu or RD
+CDs-HSD+Cu CDr-HSD+Cu CDs-RD
+F
+0.4
+0.2
+0
+0 30 60 120
+0.6
+Hyperglycemic-CDs rats fed HSD+Cu
+H
+**  *
+2.0
+1.6
+1.2
+0.8
+0.4
+0
+-10 1 5 15 30 90 120
+Time (min)
+D
+2.0
+
+1.6
+1.2
+0.8
+0.4
+0
+-10 1 5 15 30 90 120
+Time (min)
+
+1.2
+0.8
+0.4
+0
+0 1 3 5 7 10 15 30 45 60 90
+Time (min)
+I
+1.2
+1.0
+0.8
+0.6
+0.4
+*
+0.2
+0
+-10
+1 7 15 45 60
+Time (min)
+*  *  *
+12 Insulin
+Glucose
+8
+4
+0
+E1027COPPER
+Body weight Pancreas weight
+* = P < 0.050 vs CDs 10 days and CDr 20 days HSD   # = P < 0.045 vs CDs 10 days and CDr 30 days  HSD
+A
+B
+200
+0.80
+200
+0.80
+150
+0.60
+150
+0.60
+*
+100
+#
+0.40
+100
+0.40
+50
+0.20
+50
+0.20
+0
+0.00
+0
+0.00
+10 days
+20 days
+30 days
+10 days
+20 days
+30 days
+C
+250
+200
+150
+100
+50
+0
+E
+300
+250
+200
+150
+100
+50
+0
+CDs-HSD CDs-HSD CDs-HSD
+HSD
+* = P < 0.001 vs CDs-HSD 30 days
+D
+0.80
+250
+*
+200
+0.60
+150
+0.40
+100
+0.20
+50
+0.00
+0
+HSD+Cu
+HSD
+* = P < 0.001 vs CDs-HSD 30 days
+F
+CDs-HSD
+0.40
+CDr-HSD
+1.5
+CDs-HSD+Cu
+*
+0.30
+*
+0.20
+*
+0.10
+0.00
+*
++20 days +40 days
+0.0
+HSD+Cu HSD+Cu
+1.0
+0.5
+HSD+Cu
+G
+CDs-HSD
+CDr-HSD
+6
+CDs-HSD+Cu
+4
+2
+0
+0.80
+0.60
+0.40
+0.20
+0.00
+*
+*
+observed, and none of them expressed IL-1. CDs rats fed
+HSDCu (study protocol 2; Fig. 1) exhibited only a small
+number of macrophages (0.8  0.2 macrophages/mm2) (Fig.
+4C), of which 50% (0.4  0.1 macrophages/mm2) expressed
+IL-1 (Fig. 4D). The pancreas of CDs-RD (not shown) and
+CDr-HSDCu rats (study protocol 2; Fig. 1) exhibited only a
+negligible number of macrophages (Fig. 4, E and F). The
+intensity of insulin immunostaining was not different in islets
+of the CDs rats fed 30-day HSD (Fig. 4, A and B, study
+protocol 1), CDs or CDr rats fed 30-day HSDCu (Fig. 4,
+C-F, study protocol 2). Feeding hyperglycemic CDs rats
+HSDCu (study protocol 3, Fig. 1) reduced pancreatic lesions
+and the infiltration of fat and macrophages, as documented
+Fig. 2. Glucose tolerance tests. Effect of the different dietary protocols on glucose-stimulated insulin secretion (GSIS). Blood glucose and serum insulin
+concentrations were measured in overnight-fasted rats before (10 and/or 0 min) glucose administration and several times during 120 min of IVGTT (A-F and
+I) or OGTT (G and H). Study protocol 1: IVGTT of CDs (A and B) and CDr rats (C and D) fed 10- (Œ, n  6), 20- (, n  6), and 30- (, n  6) day HSD,
+Blood glucose (mmol/l, A and C) and serum insulin (B and D, pmol/l) concentrations during 120 min of OGTT. Study protocol 2: E and F: IVGTT of CDs (),
+n  6) and CDr (, n  6) rats fed 30-day HSDCu and CDs fed 30-day RD (Œ, n  6) Blood glucose (mmol/l) and serum insulin (pmol/l) were measured
+during 60 min of IVGTT until metabolic parameters returned to baseline levels. Study protocol 3: OGTT of normoglycemic CDs rats fed 30-day RD (o, n
+6), hyperglycemic CDs rats fed 30-day HSD (Œ, n  19), and hyperglycemic CDs rats fed 20 (, n  9) and 40-day HSDCu (, n  12). blood glucose (G;
+mmol/l) and serum insulin (H; pmol/l) were measured during 120 min of OGTT. I: IVGTT of hyperglycemic CDs rats fed 40-day HSDCu (n  5). Blood
+glucose () and serum insulin (Œ) levels were measured during 60 min of IVGTT until blood glucose concentration was reduced to 6 mmol/l (normoglycemic
+levels).
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+through quantitative analyses. After only 10 days on HSDCu,
+the number of macrophages decreased by 46% (1.8  0.3
+macrophages/mm2), and the degree of activation (IL-1 
+ex-pression) was reduced to 44% (1.2  0.2 macrophages/mm2,
+P  0.05 vs. CDs rats fed 30-day HSD). Following 20 days on
+HSDCu, the number of macrophages decreased to 50%
+(1.4  0.2 macrophages/mm2), and only 35% expressed IL-1
+(0.5  0.1 macrophages/mm2).
+Ultrastructural Analysis of the Exocrine Pancreas and -Cells
+HSD gradually increased pancreatic damage (study protocol 1,
+Fig. 1). CDs rats fed 10-day HSD exhibited minor changes in the
+COPPER RESTORES -CELL AND COX FUNCTION
+A
+B
+25 µm
+C
+D
+25 µm
+E
+F
+25 µm
+25 µm
+pancreatic exocrine parenchyma (not different compared with
+CDs-RD; data not shown), preserving the structure of the cellular
+organelles including the mitochondria in exocrine pancreas and
+islets (not shown). After 20 days on HSD, the exocrine 
+parenchyma of the CDs rats showed an advanced process of acinar
+degeneration and fat infiltration (not shown). After 30 days on
+HSD, macrophages showing ultrastructural signs of activation
+(i.e., increased cytoplasmic volume; Fig. 5C) and fat (Fig. 6C)
+were seen in the transition zone between exocrine and 
+endocrine parenchyma. -Cells in the islet periphery exhibited
+swollen mitochondria as a sign of cellular damage (Fig. 5D and
+25 µm
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+25 µm
+Ref. 50). The pancreas of CDr rats fed 30-day HSD did not
+show any signs of lesions in either exocrine parenchyma or in
+the islets (50). Feeding CDs rats 30-day HSDCu (study
+protocol 2) prevented these pancreatic lesions, preserving a
+normally appearing parenchyma (Fig. 5A) and intact cellular
+organelles including the mitochondria in the exocrine pancreas
+and in the -cells (Fig. 5B). Copper supplementation (study
+protocol 3) reversed the deleterious effect seen in 
+hyperglycemic CDs rats in a gradual manner depending on the time on
+HSDCu. After 10 days on HSDCu, the recovery of the
+exocrine parenchyma was underway, with complete restoration
+*
+A B1 µm  500 nm
+*
+*
+
+1 µm
+C  D
+RESTORES -CELL AND COX FUNCTION
+E1029COPPER
+500 nm
+
+in a few of the acinar lobules (Fig. 6, A and B). The full
+recovery of both the exocrine parenchyma and -cells was
+apparent after 20 days on HSDCu and persisted also after 40
+days of HSDCu (Fig. 6, D, G, and H). Some cells in the
+restored areas of the exocrine parenchyma were still smaller
+compared with the controls, whereas all -cells showed 
+well-preserved cellular organelles, particularly the mitochondria
+(Fig. 6, E and F).
+Blood NEFA Concentration and Infiltration of Adipose
+Tissue in the Exocrine Pancreas
+The previously reported increase in blood NEFA 
+concentration and in infiltration of adipose tissue in the exocrine 
+pancreas of CDs rats fed 30-day HSD (50) was also demonstrated
+in the current study as a gradual increase. In CDs fed HSD
+(study protocol 1, Fig. 1), the proportion of pancreatic lesions
+and infiltration of adipose tissue increased in relation to time on
+HSD. Pancreatic TGs increased by 11  4, 23  5, and 36
+3% after 10, 20, and 30 days on HSD, respectively (P  0.05
+vs. CDs-RD). Copper supplementation (study protocol 2, Fig.
+2) prevented the increase in blood NEFA and pancreatic TG
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+(Fig. 3, F and G) to levels that were comparable to those
+observed in CDs-RD pancreas (not shown). The proportion of
+adipose tissue observed in the exocrine parenchyma of 
+hyperglycemic CDs rats decreased in relation to time on HSDCu
+(24  3, 18  4, and 5  1% for 10, 20, and 40 days on
+HSDCu, respectively, P  0.05 vs. 30 days on HSD, study
+protocol 3; Fig. 1). The pancreas of CDs-RD and 
+CDr-HSDCu rats exhibited tiny amounts of TGs.
+COX Activity
+As copper intake seemed to be highly associated with GSIS
+capacity and with the pancreatic histopathology changes 
+exhibited by CDs hyperglycemic rats, we chose to study whether
+there is a correlation between the diabetic phenotype in these
+rats and the activity of the copper-dependent, mitochondrial
+respiratory enzyme COX in -cells. Islets isolated from 
+hyperglycemic CDs-HSD rats (study protocol 1), exhibiting a markedly
+reduced GSIS during IVGTT (reduced insulinAUC in Fig. 7A)
+demonstrated a 60% reduction in COX activity (COX 
+measured in islet homogenates; Fig. 7, B and C), suggesting that
+low copper induced the reduction in COX activity. Likewise,
+E1030
+the histochemical enzyme staining of pancreatic sections of
+CDs rats fed HSD (study protocol 1) showed light-brown
+staining, indicating low COX activity (Fig. 7D) compared with
+dense-brown staining, indicative of high COX activity in islets
+of CDr-HSD-rats (Fig. 7E). The densitometric analysis of the
+histochemical enzyme staining confirmed the significantly
+A
+COPPER RESTORES -CELL AND COX FUNCTION
+B
+*
+C
+1 µm 1 µm
+D
+E
+50 µm 50 µm
+F
+500 nm  *
+G
+H
+500 nm
+*
+*
+2 µm
+2 µm
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+lower COX activity in the islets of CDs rats fed 30-day HSD
+compared with the islets of CDr rats fed 30-day HSD (61.8
+1.8 vs. 100.0  2.7, respectively, n  9 islets in each study
+group, P 0.05; Fig. 7, E and D). Hyperglycemic CDs rats fed
+20-day HSDCu (study protocol 3) shown in previous 
+sections of this study to exhibit a substantial recovery of their
+GSIS capacity and pancreatic exocrine damage also exhibited
+a substantial recovery of their islet COX activity (Fig. 7, A-C).
+Likewise, the histochemical enzyme staining of pancreatic
+sections of hyperglycemic CDs rats fed 20-day HSDCu
+(study protocol 3) exhibited dense-brown staining, indicative
+of high COX activity (Fig. 7F), suggesting that dietary copper
+supplementation may restore islet COX activity. The 
+densito-metric analysis of the histochemical enzyme staining 
+confirmed the significant recovery of COX activity in islets of
+hyperglycemic CDs rats fed 20-day HSDCu (120.4 2.5 vs.
+61.8 1.8 units in islets of hyperglycemic CDs rats, P 0.01,
+n  20-40 islets per group; Fig. 7, D and F).
+DISCUSSION
+In the present study, we analyzed the mechanisms 
+underlying -cell dysfunction in genetically susceptible 
+hyperglycemic CDs rats and the specific role of copper intake in this
+process. We demonstrated that exposure of CDs rats to a
+low-copper HSD induced a sequence of deleterious events
+resulting in inhibition of GSIS. Exposure to HSD markedly
+reduced the activity of the mitochondrial copper-dependent-
+enzyme COX, increased lipolysis, and the peri-islet infiltration
+of lipids and macrophages secreting IL-1. On the other hand,
+we showed that feeding CDs rats a copper-supplemented HSD
+prevented and reversed -cell dysfunction and the vicious
+cycle of deleterious events.
+As these deleterious events occurred exclusively in 
+susceptible CDs rats and not in CDr rats fed the same diet (HSD), and
+considering that GSIS is dependent on mitochondrial ATP
+generation via COX (3, 29, 35), we hypothesize that 1) a latent
+inherited aberration in -cell function, probably in COX 
+activity, is stimulated in CDs rats following a short exposure to
+low-copper HSD; 2) longer exposure to the copper-deficient
+HSD leads to further reduction in COX activity, inducing the
+deterioration of GSIS and causing the concurrent exocrine
+pancreatic damage, increased lipolysis, pancreatic fat 
+deposi-Fig. 6. Structure of exocrine parenchyma and islets of hyperglycemic rats fed
+HSD  Cu. A and B: ultrastructure of islets including -cells and structural
+changes in exocrine parenchyma of hyperglycemic CDs rats fed 10-day
+HSDCu. C: CDs rats fed 30-day HSD. D and E-H: hyperglycemic CDs rats
+fed 20-day HSDCu. In hyperglycemic CDs rats fed 10-day HSDCu,
+recovery of the exocrine parenchyma was in process; macrophages (asterisks
+in A) were still present in the transition zone of the islets but were absent in
+areas (B) in which the exocrine pancreatic parenchyma was fully recovered.
+D: after 20 days of HSDCu, the exocrine pancreas of these rats exhibited full
+recovery of the exocrine parenchyma with only a small reminiscence of
+adipocyte tissue shown on a semithin section in the vicinity of the islets (dotted
+line). In these rats, -cells in the periphery (E) and in the center (F) of the islets
+were ultrastructurally well preserved. Cellular organelles, especially 
+mitochondria (arrows), had a normal shape. Single macrophages (asterisk in F) still
+remained, mostly in the interlobular region (G) of the exocrine parenchyma
+(asterisks in G). H: in these rats, some exocrine parenchymal cells were still
+decreased in size. C: in CDs rats fed 30-day HSD, a high degree of exocrine
+pancreatic atrophy was demonstrated as well as a large amount of adipose
+tissue in close vicinity to islets, as shown on this semithin section (dotted line).
+RESTORES -CELL AND COX FUNCTION
+E1031COPPER
+D
+* P<0.01 COX activity in isolated islets of CDs-HSD
+30 days vs. CDs-HSD fed 20-days HSD+Cu and  vs.
+CDr-HSD 30-days
+# P<0.01 COX activity in isolated islets of CDs-HSD
+fed 20-days HSD+Cu vs. CDs-HSD and  CDr-HSD
+A
+40
+30
+20
+10
+0
+#
+61.8 + 1.8 %
+E
+*
+B
+250
+200
+150
+100
+50
+0
+#
+100.0+ 2.7 %
+50 µm
+CDr-HSD   CDs-HSD  CDs-HSD+Cu
+C
+#
+2
+1
+*
+*
+0
+CDr CDs
+CDs
+CDr
+HSD HSD HSD+Cu
+HSD
+CDs CDs
+HSD HSD+Cu
+120.4+ 2.5 %
+F
+50 µm
+50 µm
+tion, and macrophage infiltration and activation; and 3) the
+combined effect of reduced COX activity and macrophage
+infiltration establishes a deleterious microenvironment for 
+pancreatic -cells.
+The first pathological event observed in CDs rats occurring
+after only 10 days on HSD was a reduction in GSIS that
+preceded hyperglycemia and all other deleterious events. The
+initial reduction in GSIS could therefore explain the particular
+sensitivity of CDs rats to developing hyperglycemia following
+longer exposure to low-copper HSD.
+How may copper deficiency alter -cell function? Copper is
+a necessary cofactor for several enzymes, including the 
+mitochondrial respiratory chain enzyme COX (2-4, 17, 30, 36). We
+therefore assumed that copper deficiency could impair islet
+COX activity, oxidative phosphorylation, and ATP generation,
+thereby diminishing GSIS. The data presented in the current
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+study demonstrating a parallel decrease in COX activity and
+GSIS in islets isolated from hyperglycemic CDs rats fed HSD
+that was reversed when the rats were fed a copper-supple-
+mented HSD support this assumption.
+Other investigators also demonstrated a beneficial effect of
+copper supplementation on streptozotocin-diabetic mice 
+preventing -cell death and diabetes development (43). Copper
+deficiency has been shown to reduce COX activity in cardiac
+mitochondria of nondiabetic rats, associating copper 
+insufficiency with disruption of mitochondrial architecture (8, 28, 32,
+33, 52), impaired mitochondrial oxidative phosphorylation,
+and reduced mitochondrial respiration (2, 4, 19). The finding
+that mitochondrial dysfunction is a factor in the development
+of diabetes has been assigned higher importance in the last
+decade, since mitochondrial DNA mutations in humans and
+-cell-specific deletions of mitochondrial genes in animal
+E1032
+models have been shown to cause diabetes (35, 42, 44). It is of
+interest to note that the relationship of diabetes and 
+mitochondrial dysfunction has recently also been reported in 
+lymphocytes of type 2 diabetic patients exhibiting reduced COX
+activity, and reduced copper was observed in diabetic patients
+(1, 22, 35, 46).
+Copper deficiency has also been implicated in lipolysis and
+fat accumulation in nonadipose tissues (7, 14, 25, 37, 45). A
+copper-deficient diet containing high concentrations of simple
+sugars such as sucrose and fructose has been reported to be
+associated with abnormal glucose tolerance, 
+hypertriglyceride-COPPER RESTORES -CELL AND COX FUNCTION
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+mia, and pancreatic atrophy (7, 13, 14). In previous studies
+performed in CDs rats, several lipogenic enzymes have been
+shown to be elevated in both liver and adipocytes (6). 
+Consequently, increased lipolysis could be partially due to the
+marked decrease in insulin secretion, which could lead to the
+high levels of NEFA in the serum and the ectopic accumulation
+of TGs in nonadipose tissues, as suggested by others (23, 38)
+and demonstrated in the current study.
+In close association with exocrine pancreatic damage and fat
+accumulation, we observed pancreatic local inflammation 
+characterized by the infiltration of macrophages expressing 
+exclusively IL-1 (50). During the past decade, it has become clear
+that inflammation is a key feature of diabetes (9-11, 18, 31,
+34). Cytokines released by both T-lymphocytes and activated
+macrophages, in particular IL-1, have been implicated as
+immunological effector molecules in the development of type
+2 diabetes, reducing insulin secretion and causing -cell 
+dysfunction (9, 10, 12, 18). In our study, swollen mitochondria
+within the -cells in the islet periphery and the infiltrating
+macrophages expressing exclusively IL-1 (50) were gradually
+observed during copper deprivation (HSD diet) and prevented
+or reversed to normal with copper supplementation. The extent
+of the change in islet COX activity and GSIS at each period of
+time during diabetes progression and reversal paralleled the
+extent of pancreatic lesions and peri-islet infiltration of 
+macrophages expressing IL-1. Similarly, copper supplementation
+has been shown to prevent the inhibitory effect of IL-1 on
+GSIS of isolated rat -cells (47). We assumed that exposure to
+IL-1 alone, demonstrated in our study, has a substantial effect
+on -cell function due to a particular vulnerability and 
+sensitivity of the -cells
+to oxidative stress (26, 27). Thus, our data
+in conjunction with observations from other studies support the
+assumption that the combination of reduced COX activity and
+the deleterious islet microenvironment caused by IL-1 results
+in the inhibition of GSIS and hyperglycemia. IL-1 can induce
+the production of the free radical nitric oxide (9, 16) that may
+cause endoplasmic reticulum stress and further inactivation of
+COX. The question of how IL-1 originating from 
+macrophages residing in the exocrine pancreas in the vicinity of the
+islets and in intraislet capillaries affects -cells in the islets can
+be explained based on the literature (9) and on our data (50) by
+the ability of activated macrophages to affect -cell function in
+a paracrine fashion (10, 12). The inflammatory element does
+suggest a close functional relationship between endocrine and
+exocrine pancreas, yet the exact nature of such interaction and
+the way in which it may affect -cell function are important
+questions to be further clarified in future studies. Overall, the
+above support
+a link among low-copper HSD, local 
+inflammation, mitochondrial dysfunction, and reduced GSIS.
+Finally, we propose that glucose intolerance in the CDs rat
+resulted from the combined effect of genetic predisposition
+exacerbated by low-copper HSD. The genetic profile protected
+the CDr rat, enabling the maintenance of adequate COX
+activity despite the low-copper HSD, whereas the genetic
+sensitivity of CDs rats initiated the following sequence of
+events (Fig. 8, A-C). After 10 days on low-copper HSD, islet
+COX activity and GSIS
+were reduced (Fig. 8A). Following 20
+days on HSD (Fig. 8B), COX was reduced in both islets and the
+exocrine tissue, inducing acinar apoptosis (50), additional 
+reduction in GSIS, lipolysis, fat accumulation in the exocrine
+pancreas, and peri-islet macrophage infiltration and activation.
+Thirty days on HSD (Fig. 8C), GSIS is nearly abolished and
+acinar apoptosis is aggravated, while peri-islet fat 
+accumulation and macrophage infiltration and activation are 
+substantially increased. This vicious sequence of events resulted in a
+marked reduction of COX activity and complete inhibition of
+GSIS and hyperglycemia.
+In conclusion, our new findings demonstrate the need for
+both genetic and environmental elements to cause marked
+-cell dysfunction and hyperglycemia. We demonstrated
+crucial-link among low dietary copper, reduced islet COX
+activity, pancreatic low-grade inflammation, and diminished
+RESTORES -CELL AND COX FUNCTION
+E1033COPPER
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+GSIS. We also demonstrated the beneficial effect of copper
+supplementation in preventing and restoring -cell function,
+suggesting that dietary copper supplementation could hold
+promising potential for a therapeutic approach.
+GRANTS
+This work was supported by grants from the Israel Science Foundation and
+a grant for a joint research project by the Ministry of Science and Culture of
+the State of Lower Saxony, Hannover, Germany.
+DISCLOSURES
+No conflicts of interest, financial or otherwise, are declared by the author(s).
+AUTHOR CONTRIBUTIONS
+Author contributions: S.W.-Z., L.T.-C., S.L., and I.R. conception and
+design of research; S.W.-Z., A.J., L.T.-C., F.V., G.A.-H., and A.S. performed
+experiments; S.W.-Z., A.J., L.T.-C., F.V., G.A.-H., and A.S. analyzed data;
+S.W.-Z., L.T.-C., F.V., G.A.-H., A.S., S.L., and I.R. interpreted results of
+experiments; S.W.-Z. and A.J. prepared figures; S.W.-Z. and A.J. drafted
+manuscript; S.W.-Z., F.V., G.A.-H., A.S., S.L., and I.R. edited and revised
+manuscript; S.W.-Z., A.J., L.T.-C., F.V., G.A.-H., A.S., S.L., and I.R. 
+approved final version of manuscript.
+REFERENCES
+1. Basaki M, Saeb M, Nazifi S, Shamsaei HA. Zinc, copper, iron, and
+chromium concentrations in young patients with type 2 diabetes mellitus.
+Biol Trace Elem Res 148: 161-164, 2012.
+2. Chao JC, Medeiros DM, Altschuld RA, Hohl CM. Cardiac nucleotide
+levels and mitochondrial respiration in copper-deficient rats. Comp
+Biochem Physiol Comp Physiol 104: 163-168, 1993.
+3. Chen X, Jennings DB, Medeiros DM. Impaired cardiac mitochondrial
+membrane potential and respiration in copper-deficient rats. J Bioenerg
+Biomembr 34: 397-406, 2002.
+4. Chen X, Medeiros DM, Jennings D. Mitochondrial membrane potential
+is reduced in copper-deficient C2C12 cells in the absence of apoptosis.
+Biol Trace Elem Res 106: 51-64, 2005.
+5. Cohen A, Rosenmann E. The Cohen Diabetic rat. Basel: Karger, 1990.
+6. Cohen AM, Briller S, Shafrir E. Effect of longterm sucrose feeding on
+the activity of some enzymes regulating glycolysis, lipogenesis and
+gluconeogenesis in rat liver and adipose tissue. Biochim Biophys Acta 279:
+129-138, 1972.
+7. Cohen AM, Teitelbaum A, Miller E, Ben-Tor V, Hirt R, Fields M.
+Effect of copper on carbohydrate metabolism in rats. Isr J Med Sci 18:
+840-844, 1982.
+8. Dallman PR, Goodman JR. Enlargement of mitochondrial compartment
+in iron and copper deficiency. Blood 35: 496-505, 1970.
+9. Dinarello CA. Immunological and inflammatory functions of the 
+inter-leukin-1 family. Annu Rev Immunol 27: 519-550, 2009.
+10. Donath MY, Boni-Schnetzler M, Ellingsgaard H, Halban PA, Ehses
+JA. Cytokine production by islets in health and diabetes: cellular origin,
+regulation and function. Trends Endocrinol Metab, 2010.
+11. Donath MY, Schumann DM, Faulenbach M, Ellingsgaard H, Perren
+A, Ehses JA. Islet inflammation in type 2 diabetes: from metabolic stress
+to therapy. Diabetes Care 31, Suppl 2: S161-S164, 2008.
+12. Ehses JA, Boni-Schnetzler M, Faulenbach M, Donath MY. 
+Macrophages, cytokines and beta-cell death in Type 2 diabetes. Biochem Soc
+Trans 36: 340-342, 2008.
+13. Fields M, Ferretti RJ, Reiser S, Smith JC Jr. The severity of copper
+deficiency in rats is determined by the type of dietary carbohydrate. Proc
+Soc Exp Biol Med 175: 530-537, 1984.
+14. Fields M, Lewis CG. Dietary fructose but not starch is responsible for
+hyperlipidemia associated with copper deficiency in rats: effect of high-fat
+diet. J Am Coll Nutr 18: 83-87, 1999.
+15. Folch J, Lees M, Sloane Stanley GH. A simple method for the isolation
+and purification of total lipids from animal tissues. J Biol Chem 226:
+497-509, 1957.
+16. Gurgul-Convey E, Mehmeti I, Lortz S, Lenzen S. Cytokine toxicity in
+insulin-producing cells is mediated by nitro-oxidative stress-induced 
+hy-a
+droxyl radical formation in mitochondria. J Mol Med 89: 785-798, 2011.
+17. Horn D, Barrientos A. Mitochondrial copper metabolism and delivery to
+cytochrome c oxidase. IUBMB Life 60: 421-429, 2008.
+E1034
+18. Hotamisligil GS. Inflammation and metabolic disorders. Nature 444:
+860-867, 2006.
+19. Johnson WT, Johnson LK. Copper deficiency inhibits Ca2-induced
+swelling in rat cardiac mitochondria. J Nutr Biochem 20: 248-253, 2009.
+20. Jörns A, Rath KJ, Terbish T, Arndt T, Meyer Zu Vilsendorf A,
+Wedekind D, Hedrich HJ, Lenzen S. Diabetes prevention by 
+immuno-modulatory FTY720 treatment in the LEW1AR1-iddm rat despite immune
+cell activation. Endocrinology 151: 3555-3565, 2010.
+21. Jörns A, Tiedge M, Ziv E, Shafrir E, Lenzen S. Gradual loss of
+pancreatic beta-cell insulin, glucokinase and GLUT2 glucose transporter
+immunoreactivities during the time course of nutritionally induced type-2
+diabetes in Psammomys obesus (sand rat). Virchows Arch 440: 63-69,
+2002.
+22. Khan S, Raghuram GV, Bhargava A, Pathak N, Chandra DH, Jain
+SK, Mishra PK. Role and clinical significance of lymphocyte 
+mitochondrial dysfunction in type 2 diabetes mellitus. Transl Res 158: 344-359,
+2011.
+23. Kim JY, van de Wall E, Laplante M, Azzara A, Trujillo ME, 
+Hof-mann SM, Schraw T, Durand JL, Li H, Li G, Jelicks LA, Mehler MF,
+Hui DY, Deshaies Y, Shulman GI, Schwartz GJ, Scherer PE. 
+Obesity-associated improvements in metabolic profile through expansion of 
+adipose tissue. J Clin Invest 117: 2621-2637, 2007.
+24. Kishimoto S, Iwamoto S, Masutani S, Yamamoto R, Jo T, Saji F,
+Terada N, Sasaki Y, Imaoka S, Sugiyama T. Apoptosis of acinar cells
+in the pancreas of rats fed on a copper-depleted diet. Exp Toxicol Pathol
+45: 489-495, 1994.
+25. Klevay LM, Inman L, Johnson LK, Lawler M, Mahalko JR, Milne
+DB, Lukaski HC, Bolonchuk W, Sandstead HH. Increased cholesterol
+in plasma in a young man during experimental copper depletion. 
+Metabolism 33: 1112-1118, 1984.
+26. Lenzen S. Oxidative stress: the vulnerable beta-cell. Biochem Soc Trans
+36: 343-347, 2008.
+27. Lenzen S, Drinkgern J, Tiedge M. Low antioxidant enzyme gene
+expression in pancreatic islets compared with various other mouse tissues.
+Free Radic Biol Med 20: 463-466, 1996.
+28. Li Y, Wang L, Schuschke DA, Zhou Z, Saari JT, Kang YJ. Marginal
+dietary copper restriction induces cardiomyopathy in rats. J Nutr 135:
+2130-2136, 2005.
+29. Lu H, Koshkin V, Allister EM, Gyulkhandanyan AV, Wheeler MB.
+Molecular and metabolic evidence for mitochondrial defects associated
+with beta-cell dysfunction in a mouse model of type 2 diabetes. Diabetes
+59: 448-459, 2010.
+30. Madsen E, Gitlin JD. Copper deficiency. Curr Opin Gastroenterol 23:
+187-192, 2007.
+31. Maedler K, Sergeev P, Ris F, Oberholzer J, Joller-Jemelka HI, Spinas
+GA, Kaiser N, Halban PA, Donath MY. Glucose-induced beta cell
+production of IL-1beta contributes to glucotoxicity in human pancreatic
+islets. J Clin Invest 110: 851-860, 2002.
+32. Medeiros DM, Bagby D, Ovecka G, McCormick R. Myofibrillar,
+mitochondrial and valvular morphological alterations in cardiac 
+hypertrophy among copper-deficient rats. J Nutr 121: 815-824, 1991.
+33. Medeiros DM, Wildman RE. Newer findings on a unified perspective of
+copper restriction and cardiomyopathy. Proc Soc Exp Biol Med 215:
+299-313, 1997.
+34. Menge BA, Breuer TG, Ritter PR, Uhl W, Schmidt WE, Meier JJ.
+Long-term recovery of beta-cell function after partial pancreatectomy in
+humans. Metabolism 61: 620-624.
+COPPER RESTORES -CELL AND COX FUNCTION
+AJP-Endocrinol Metab • doi:10.1152/ajpendo.00036.2013 • www.ajpendo.org
+35. Mulder H, Ling C. Mitochondrial dysfunction in pancreatic beta-cells in
+type 2 diabetes. Mol Cell Endocrinol 297: 34-40, 2009.
+36. Prohaska JR. Changes in Cu,Zn-superoxide dismutase, cytochrome c
+oxidase, glutathione peroxidase and glutathione transferase activities in
+copper-deficient mice and rats. J Nutr 121: 355-363, 1991.
+37. Rayssiguier Y, Gueux E, Bussiere L, Mazur A. Copper deficiency
+increases the susceptibility of lipoproteins and tissues to peroxidation in
+rats. J Nutr 123: 1343-1348, 1993.
+38. Raz I, Eldor R, Cernea S, Shafrir E. Diabetes: insulin resistance and
+derangements in lipid metabolism. Cure through intervention in fat 
+transport and storage. Diabetes Metab Res Rev 21: 3-14, 2005.
+39. Reiser S, Smith JC Jr, Mertz W, Holbrook JT, Scholfield DJ, Powell
+AS, Canfield WK, Canary JJ. Indices of copper status in humans
+consuming a typical American diet containing either fructose or starch. Am
+J Clin Nutr 42: 242-251, 1985.
+40. Saada A, Bar-Meir M, Belaiche C, Miller C, Elpeleg O. Evaluation of
+enzymatic assays and compounds affecting ATP production in 
+mitochondrial respiratory chain complex I deficiency. Anal Biochem 335: 66-72,
+2004.
+41. Seligman AM, Karnovsky MJ, Wasserkrug HL, Hanker JS. 
+Nondro-plet ultrastructural demonstration of cytochrome oxidase activity with a
+polymerizing osmiophilic reagent, diaminobenzidine (DAB). J Cell Biol
+38: 1-14, 1968.
+42. Silva JP, Kohler M, Graff C, Oldfors A, Magnuson MA, Berggren PO,
+Larsson NG. Impaired insulin secretion and beta-cell loss in 
+tissue-specific knockout mice with mitochondrial diabetes. Nat Genet 26: 
+336-340, 2000.
+43. Sitasawad S, Deshpande M, Katdare M, Tirth S, Parab P. Beneficial
+effect of supplementation with copper sulfate on STZ-diabetic mice
+(IDDM). Diabetes Res Clin Pract 52: 77-84, 2001.
+44. Supale S, Li N, Brun T, Maechler P. Mitochondrial dysfunction in
+pancreatic beta cells. Trends Endocrinol Metab 23: 477-487, 2012.
+45. Tang Z, Gasperkova D, Xu J, Baillie R, Lee JH, Clarke SD. Copper
+deficiency induces hepatic fatty acid synthase gene transcription in rats by
+increasing the nuclear content of mature sterol regulatory element binding
+protein 1. J Nutr 130: 2915-2921, 2000.
+46. Uriu-Adams JY, Keen CL. Copper, oxidative stress, and human health.
+Mol Aspects Med 26: 268-298, 2005.
+47. Vinci C, Caltabiano V, Santoro AM, Rabuazzo AM, Buscema M,
+Purrello R, Rizzarelli E, Vigneri R, Purrello F. Copper addition
+prevents the inhibitory effects of interleukin 1-beta on rat pancreatic islets.
+Diabetologia 38: 39-45, 1995.
+48. Walters MN. Adipose atrophy of the exocrine pancreas. J Pathol 
+Bacte-riol 92: 547-557, 1966.
+49. Weaver C. Angioarchitecture of the atrophic pancreas. Microsc Res Tech
+37: 520-542, 1997.
+50. Weksler-Zangen S, Raz I, Lenzen S, Jörns A, Ehrenfeld S, Amir G,
+Oprescu A, Yagil Y, Yagil C, Zangen DH, Kaiser N. Impaired 
+glucose-stimulated insulin secretion is coupled with exocrine pancreatic lesions in
+the Cohen diabetic rat. Diabetes 57: 279-287, 2008.
+51. Weksler-Zangen S, Yagil C, Zangen DH, Ornoy A, Jacob HJ, Yagil Y.
+The newly inbred Cohen diabetic rat: a nonobese normolipidemic genetic
+model of diet-induced type 2 diabetes expressing sex differences. Diabetes
+50: 2521-2529, 2001.
+52. Zhou Z, Johnson WT, Kang YJ. Regression of copper-deficient heart
+hypertrophy: reduction in the size of hypertrophic cardiomyocytes. J Nutr
+Biochem 20: 621-628, 2009.
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Blood glucose (mmol/l)
+
+Insulin (nmol/l)
+Insulin (nmol/l)
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Glucose (mmol/l)
+Glucose (mmol/l)
+Insulin (nmol/l)
+Insulin (nmol/l)
+Glucose (mmol/l)
+Insulin(nmol/l)
+Glucose (mmol/l)
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Body  weight(g)
+Body  weight(g)
+Pancreas weight(g)
+Pancreas weight(g)
+Fatty acid  (mmo/l)
+Body  weight(g)
+Triglycerides
+(mg/g  tissue)
+Body  weight(g)
+Pancreas weight(g)
+Body  weight  (g)
+Pancreas weight(g)
+Pancreas weight(g)
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Islets COX activity
+(nmol/min/mg  protein)
+Insulin  AUC  (nmol/l/ 90 min)
+Islets COX activity (COX/CS)
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+Downloadedfrom   http://ajpendo.physiology.org/ by10.220.33.1onOctober4,2016
+
+Fig. 1. Study groups. Rats fed regular diet (RD) 
+were switched to one of the following feeding 
+protocols: 1) study protocol 1 (diabetes progres- 
+sion): Cohen diabetic sensitive (CDs) and resistant 
+(CDr) rats fed 10-, 20-, or 30-day low-copper 
+high-sucrose diet (HSD; copper content 1.2 ppm); 
+2) study protocol 2 (diabetes prevention): CDs and 
+CDr rats fed 30-day HSD or HSDCu (HSD 
+containing adequate 16 ppm copper concentration); 
+3) study protocol 3 (diabetes reversal): CDs rats fed 
+30-day HSD. Hyperglycemia (200 mg/dl) was 
+confirmed in these rats by 2-h postprandial glucose 
+test. Hyperglycemic CDs rats were fed HSDCu 
+for 10, 20, and 40 days. 
+
+RESTORES -CELL AND COX FUNCTION 
+Fig. 3. Effect of the different dietary protocols on pancreas 
+weight (A-E), blood NEFA (F), and pancreas TG concentra- 
+tions (G). Study protocol 1: body weight (open bars) and 
+pancreas weight (filled bars) of CDs (A), CDr rats (B) fed 10- 
+(n  6), 20- (n  6), and 30- (n  6) day HSD. Study 
+protocol 2: body weight (open bars) and pancreas weight 
+(filled bars) of CDs (C) and CDr rats (D) fed HSD 
+or 
+HSDCu (n  6). Study protocol 3: E: body weight (open 
+bars) and pancreas weight (filled bars) of CDs rats fed 30 
+days HSD and hyperglycemic CDs-HSD rats fed 20- (n 9), 
+and 40- (n  12) days HSDCu. Study protocol 2: serum 
+NEFA (mmol/l; F) and pancreatic TG content (mg/g tissue; G) of 
+CDs rats fed 30-day HSD (open bars, n 6), CDr rats fed 30-day 
+HSD (filled bars, n 6), and CDs rats fed 30-day HSDCu (gray 
+bar, n  6). Data are presented as means  SE. 
+
+E1028 
+Fig. 4. Effect of different dietary protocols on 
+immunostaining for insulin, macrophages, 
+and IL-1. A-F: immunostaining for insulin 
+(green), (A, C, and E) CD68 infiltrating mac- 
+rophages (red) and (B, D, and F) IL-1 in 
+macrophages (orange-yellow) in pancreases 
+of CDs rats fed 30-day HSD (A and B, study 
+protocol 1), CDs rats fed 30-day HSDCu 
+(C and D, study protocol 2), and CDr rats fed 
+30-day HSDCu (E and F, study protocol 
+2). A-F: counterstaining with DAPI (blue). 
+Dense green insulin immunostaining was ob- 
+served in the islets of rats in all groups. A: red 
+immunostaining for infiltrating CD68 macro- 
+phages; B: orange-yellow immunostaining 
+for IL-1 expression. Macrophages were 
+identified in the vicinity of the islets and in 
+the pancreatic capillary system (white ar- 
+rows) of CDs-HSD rats. A and B: macro- 
+phages expressing both CD68 and IL-1 are 
+marked in orange-yellow as an overlay of 
+CD68 macrophage and IL-1 staining in 
+consecutive sections. B and D: only a few 
+macrophages were observed in the pancreas of 
+CDs-HSDCu rats (red), and very few (or- 
+ange-yellow in D) expressed IL-1. E and F: 
+macrophages were not found in the pancreas of 
+CDr-HSDCu rats (study protocol 2). 
+
+Fig. 5. Effect of study protocols 1 and 2 on 
+ultrastructure of the exocrine pancreas and 
+-cells. Ultrastructure of the pancreas of CDs 
+rats fed 30-day HSDCu (A and B, study 
+protocol 2) or 30-day HSD (C and D, study 
+protocol 1). A: CDs rats fed HSDCu exhib- 
+ited well-preserved exocrine pancreatic pa- 
+renchyma (arrowheads). B: -cell mitochon- 
+dria showed normal structure (arrows in B and 
+inset). Macrophages were rarely seen in the 
+pancreas of these rats. Single macrophages 
+found (asterisk in A), showed only mild signs 
+of activation (cytoplasmic rim). C: exocrine 
+pancreas of CDs-HSD rats exhibited atrophic 
+parenchyma (arrowheads). Activated macro- 
+phages (large cytoplasmic volume, asterisks 
+in C) were observed in the transition zone 
+between the islets and exocrine pancreas. In 
+the islet periphery, some -cells exhibited 
+swollen mitochondria (arrows in D and inset). 
+
+Fig. 7. Effect of copper concentration in 
+HSD on cytochrome c oxidase (COX) activ- 
+ity in freshly isolated islets and in pancreas 
+sections. A: insulinAUC of the IVGTT curve 
+and COX activity normalized (B) per protein 
+and (C) per CS (citrate synthase, an ubiqui- 
+tous mitochondrial matrix enzyme) in freshly 
+isolated islets of CDr-HSD (open bars), 
+CDs-HSD (filled bars), and hyperglycemic 
+CDs rats fed 20-day HSDCu (gray bars). 
+Comparable data were observed for COX 
+activity calculated as activity per protein (B), 
+normalized per CS (C) or measured by im- 
+munohistochemistry. Data are presented as 
+means  SE. Brown enzyme histochemical 
+staining COX activity in pancreatic cryostat 
+sections of CDs-HSD (D), CDr-HSD (E), 
+and hyperglycemic CDs rats (F) fed 20-day 
+HSDCu. Islets are marked by dashed black 
+circles. Results of densitometric measure- 
+ments are expressed as gray values/m2 with 
+the highest gray value of 68.4  4.3/m2 in 
+CDr-HSD rats set as 100%. 
+
+Fig. 8. Working hypothesis. A vicious se- 
+quence is triggered when CDs rats are exposed 
+to low-copper HSD. A: after 10-days of HSD, 
+CDs rats (compared to CDr progression 10- 
+day rats) exhibited a 25% reduction in GSIS 
+(black arrow) resulting from COX malfunc- 
+tion. At that time, the exocrine parenchyma 
+was still unaffected (not shown). After 20 
+days of HSD, a larger reduction in GSIS 
+(larger black arrows) and acinar apoptosis 
+(dark gray arrow) were observed. Copper 
+also induced an excess of NEFA in the 
+blood, which probably results in accumula- 
+tion of peri-islet fat (light gray arrows) and 
+macrophages expressing IL-1. IL-1 (gray 
+flash arrow) caused the reduction in COX 
+activity resulting in substantial reduction of 
+GSIS and increased apoptosis of acinar cells. 
+Thirty days of HSD induced a major GSIS 
+reduction (larger black arrows), additional 
+acinar apoptosis (larger gray arrow), peri- 
+islet infiltration of adipose tissue, and further 
+activation of macrophages expressing larger 
+amounts of IL-1 (larger gray flash arrow). 
+Consequently, GSIS was completely inhib- 
+ited. M, mitochondria. 
+

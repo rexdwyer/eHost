@@ -1,0 +1,742 @@
+Submit a Manuscript: http://www.wjgnet.com/esps/
+Help Desk: http://www.wjgnet.com/esps/helpdesk.aspx
+DOI: 10.5312/wjo.v7.i8.467
+Basic Study
+Antibiotic-loaded phosphatidylcholine inhibits
+staphylococcal bone infection
+Jessica Amber Jennings, Karen E Beenken, Robert A Skinner, Daniel G Meeker, Mark S Smeltzer,
+Warren O Haggard, Karen S Troxel
+World J Orthop  2016 August 18; 7(8): 467-474
+ISSN 2218-5836 (online)
+© 2016 Baishideng Publishing Group Inc. All rights reserved.
+ORIGINAL ARTICLE
+Jessica Amber Jennings, Warren O Haggard, Department of
+Biomedical Engineering, University of Memphis, Memphis, TN
+38152, United States
+Karen E Beenken, Daniel G Meeker, Mark S Smeltzer,
+Department of Microbiology and Immunology, University of
+Arkansas Medical Sciences, Little Rock, AR 72205, United
+States
+Robert A Skinner, Jamesport, NY 11947, United States
+Karen S Troxel, Zimmer Biomet, Warsaw, IN 46581, United
+States
+Author contributions: Jennings JA planned and performed the
+majority of experiments and analyzed the data; Beenken KE and
+Smeltzer MS planned and assisted with animal experiments;
+Skinner RA and Meeker DG performed surgical procedures;
+Skinner RA assisted with histological analysis; Haggard WO
+and Troxel KS assisted with materials formulation and planning
+experiments.
+Supported by Institutional support from Biomet, LLC.
+Institutional animal care and use committee statement:
+Animal studies were approved by the Institutional Review Board
+at the University of Arkansas for Medical Sciences (IACUC
+protocol #3540) and followed the IACUC guidelines.
+Animal care and use statement: Study protocols were
+approved by the University of Arkansas for Medical Sciences
+IACUC and all appropriate measures were taken to minimize
+pain and discomfort.
+Conflict-of-interest statement: Studies were funded and by
+Biomet, LLC. Karen S Troxel, PhD, is an employee of Zimmer
+Biomet.
+Data sharing statement: Technical appendix, statistical
+analysis, and dataset available from the corresponding author at
+jjnnings@memphis.edu.
+Open-Access: This article is an open-access article which was
+selected by an in-house editor and fully peer-reviewed by external
+reviewers. It is distributed in accordance with the Creative Commons
+Attribution Non Commercial (CC BY-NC 4.0) license, which
+permits others to distribute, remix, adapt, build upon this work 
+noncommercially, and license their derivative works on different terms,
+provided the original work is properly cited and the use is 
+noncommercial. See: http://creativecommons.org/licenses/by-nc/4.0/
+Manuscript source: Invited manuscript
+Correspondence to: Jessica Amber Jennings, PhD,
+Assistant Professor, Department of Biomedical Engineering,
+University of Memphis, 330 Engineering Technology Building,
+Memphis, TN 38152, United States. jjnnings@memphis.edu
+Telephone: +1-901-6782283
+Fax: +1-901-6785281
+Received: March 26, 2016
+Peer-review started: March 27, 2016
+First decision: May 13, 2016
+Revised: May 23, 2016
+Accepted: June 27, 2016
+Article in press: June 29, 2016
+Published online: August 18, 2016
+Abstract
+AIM: To test antibiotic-loaded coating for efficacy
+in reducing bacterial biofilm and development of 
+osteomyelitis in an orthopaedic model of implant infection.
+METHODS: Phosphatidylcholine coatings loaded with
+25% vancomycin were applied to washed and sterilized
+titanium wires 20 mm in length. A 10 mm segment
+was removed from rabbit radius (total = 9; 5 coated, 4
+uncoated), and the segment was injected with 1 × 106
+colony forming units (CFUs) of Staphylococcus aureus
+(UAMS-1 strain). Titanium wires were inserted through
+467
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+Jennings JA et al . Implant coating prevents infection
+the intramedullary canal of the removed segment and
+into the proximal radial segment and the segment
+was placed back into the defect. After 7 d, limbs were
+removed, X-rayed, swabbed for tissue contamination.
+Wires were removed and processed to determine
+attached CFUs. Tissue was swabbed and streaked on
+agar plates to determine bacteriological score.
+RESULTS: Antibiotic-loaded coatings resulted in
+significantly reduced biofilm formation (4.7 fold reduction
+in CFUs; P  < 0.001) on titanium wires and reduced
+bacteriological score in surrounding tissue (4.0 ± 0 for
+uncoated, 1.25 ± 0.5 for coated; P = 0.01). Swelling and
+pus formation was evident in uncoated controls at the 7
+d time point both visually and radiographically, but not
+in antibiotic-loaded coatings.
+CONCLUSION: Active antibiotic was released from
+coated implants and significantly reduced signs of
+osteomyelitic symptoms. Implant coatings were well
+tolerated in bone. Further studies with additional
+control groups and longer time periods are warranted.
+Antibiotic-loaded phosphatidylcholine coatings applied
+at the point of care could prevent implant-associated
+infection in orthopaedic defects.
+Key words: Biofilm; Implant; Drug delivery coating;
+Antibiotic; Orthopaedic infection
+© The Author(s) 2016. Published by Baishideng Publishing
+Group Inc. All rights reserved.
+Core tip: We report infection preventative results of a
+novel antibiotic-loaded coating in a severe 
+contaminated model of orthopaedic infection. 
+Phosphatidylcholine coatings loaded with 25% vancomycin, which can
+be applied to implants immediately prior to implantation,
+significantly reduced staphylococcal adherence to
+intramedullary titanium wires in rabbits. Reduction in
+bacterial load on implants and in tissue for 
+antibiotic-loaded coatings accompanied reduction in swelling and
+pus formation. Mild inflammatory responses were noted
+with coated implants compared to uncoated infected
+controls. This preliminary short term study demonstrates
+the clinical potential of these broadly applicable
+coatings and the need for further characterization and
+development.
+Jennings JA, Beenken KE, Skinner RA, Meeker DG,
+Smeltzer MS, Haggard WO, Troxel KS. Antibiotic-loaded 
+phosphatidylcholine inhibits staphylococcal bone infection. World J
+Orthop 2016; 7(8): 467-474  Available from: URL: http://www.
+wjgnet.com/2218-5836/full/v7/i8/467.htm  DOI: http://dx.doi.
+org/10.5312/wjo.v7.i8.467
+INTRODUCTION
+Biofilm formation on implants continues to be a cause
+of orthopaedic infection[1,2]. While the rate of infection in
+some orthopaedic implants has been reported to range
+from 1%-10%, in some complex orthopaedic trauma
+requiring percutaneous devices the rate of infection
+may approach 30%[3-5]. Protection of orthopaedic
+implants from contamination may be more successful
+through prevention of biofilm formation. Because
+microbial cells within a biofilm are less metabolically
+active and shielded to some degree by exopolymeric
+substance, there is a high concentration of persister
+cells with resistance to commonly used antibiotics within
+biofilm[6-9]. Standard treatment practices of prophylactic
+systemic administration of antibiotics may not be
+sufficient to inhibit or treat biofilm-based infections
+partly due to poor vascularity in injured tissue and partly
+due to the increased concentrations of antimicrobials
+required for elimination of biofilm[7,10,11].
+Local delivery devices have been developed to 
+achieve high concentrations of antibiotic within the 
+potentially contaminated tissue to target biofilm[12-14]. However,
+some have limitations in degradability, implant coverage,
+and antibiotic loading, including non-degradable 
+polyme-thylmethacrylate bone cement beads[15], degradable
+calcium sulfate beads[16], sponge devices[17], and 
+injec-table hydrogels[18]. Local delivery coatings directly on
+the implant can protect the biomaterial from biofilm
+formation[19-21], but may require extensive prefabrication
+steps.
+We previously described the biofilm inhibitory
+nature of phosphatidylcholine coatings loaded with
+antibiotics, both in vitro and in vivo[22]. When loaded
+with antibiotics, this coating applied at the point-of-care
+just prior to implantation was shown to reduce biofilm
+formation of Staphylococcus aureus (S. aureus) and
+Pseudomonas aeruginosa, as well as prevent biofilm
+formation in a polymicrobial model of contamination
+with both microorganisms. While proof of principle was
+established in a soft-tissue dorsal model of implant
+infection, for this study our primary question was
+whether antibiotic-loaded coatings could successfully
+prevent infection in a contaminated orthopaedic model.
+MATERIALS AND METHODS
+Study design
+Coatings were fabricated by mixing 6 g of purified
+phosphatidylcholine (Phospholipon 90G, Lipoid GMB,
+Germany) with 2 g of vancomycin through a previously
+described process of warming and kneading powdered
+antibiotics until the mixture was uniform[22]. The mixture
+was loaded into open-ended syringes and sterilized by
+low dose (25 kGy) gamma irradiation.
+Titanium wire 0.81 mm in diameter (Mcmaster
+Carr) was trimmed to 15 cm in length. Titanium wire
+was cleaned by washing with dish detergent, after
+which it was soaked in 20% nitric acid for 1 h. Wire was
+rinsed thoroughly in ultrapure water, sonicated in soapy
+water, and rinsed again three times in ultrapure water.
+Implants were separately packaged and autoclaved at
+468
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+121 ℃ for 20 min for sterilization.
+Animal model
+Animal care and use statement: Study protocols were
+approved by the University of Arkansas for Medical
+Sciences Institutional Animal Care and Use Committee
+and all appropriate measures were taken to minimize
+pain and discomfort.
+Nine New Zealand white rabbits were anesthetized
+with 1-2 cc of a xyalzine/ketamine mixture 
+intramu-scularly for a dose range of 3-7 mg/kg xylazine and
+30-40 mg/kg ketamine. Rabbits were maintained
+on 0.5%-3% isoflurane administered by nose cone
+to produce surgical anesthesia and monitored by a
+veterinary technician. The right forelimb of each rabbit
+was shaved and prepped using a betadine scrub and
+rinsed with 70% ethanol. An incision was made on
+the anterior surface of the right forelimb through the
+epidermis, musculature, and fascia until the radius was
+exposed. A 1 cm mid-radial segment was be excised
+from the right forelimb using a miniature saw blade
+(Exakt, Oklahoma City, OK). The excised segment
+was then infected by inoculation of S. aureus [10 µL of
+107 colony forming units (CFUs)/mL; UAMS-1 strain]
+directly into the intramedullary canal.
+Animals were divided into two treatment groups:
+Wire with 25% vancomycin-loaded coating (n = 5) or
+non-coated controls (n = 4). During surgical procedures
+titanium wires in the coated group were coated by
+direct manual application of coating through the syringe
+applicator. Coated or control wires were inserted into the
+medullary canal of the infected segment immediately
+after inoculation. Approximately 5 mm of wire extended
+through the proximal end of the segment and was
+inserted into the medullary canal of the intact proximal
+bone. The segment was then replaced in the same
+orientation and the wound was closed with sutures.
+Rabbits were euthanized after 7 d. Forelimbs were
+removed and imaged by X-ray, noting signs of 
+inflammation and swelling. A swab of the soft tissue and bone
+exposed was taken to determine bacteriological score
+of surrounding tissue. The segment was removed for
+retrieval of the wire and placed in 10% neutral buffered
+formalin for further processing. The wire was rinsed in
+sterile phosphate buffered saline (PBS) and sonicated in
+5 mL of PBS for enumeration of viable CFUs attached as
+biofilm. The remaining forelimb was also trimmed and
+fixed in formalin for histological characterization. Fixed
+tissue was decalcified in ethylenediaminetetraacetic
+acid and stained with hematoxylin and eosin as well
+as a modified Gram stain[23]. Images taken at 4 ×
+magnification were scored by three independent blinded
+reviewers for severity of inflammatory response on a
+scale of 0-4.
+Statistical analysis
+Mann-Whitney nonparametric t tests in Sigma Plot
+were used to determine whether there were statistically
+Jennings JA et al . Implant coating prevents infection
+significant differences in colony counts in coated wires
+compared to uncoated control wires. Mann-Whitney
+tests were also used to determine statistical differences
+in bacteriological score and histological scores. Using
+results of previous studies determining log fold 
+reduction of CFUs in response to antimicrobials[24], an a
+priori power analysis was performed using Sigma Plot.
+Assuming a standard deviation of 1 unit in log-trans-
+formed CFU counts, 4 animals per group are required
+to have 80% power to detect a difference of 2.5 units
+between the control and each of the 4 experimental
+treatment groups at a significance level of 5%. The
+statistical methods of this study were reviewed by
+Jessica Amber Jennings of the University of Memphis.
+RESULTS
+After the 7 d implantation period, animals with 
+uncoated implants were noted to have characteristics
+indicative of inflammation such as swelling (Figure
+1), redness, and increased temperature, compared to
+those with implants coated with vancomycin-loaded
+phosphatidylcholine. Pus formation was evident in
+muscle tissue of several animals with uncoated wires.
+Bacteriological scores confirmed that there were
+statistically significant reductions in bacteria recovered
+from surrounding tissue (P = 0.01) (Figure 2). CFU
+counts of S. aureus remaining as biofilm on Ti implants
+revealed that there were statistically fewer colonies
+retrieved from coated implants, 20 ± 21 CFUs vs 6.0
+× 105 CFUs in the control group (P < 0.001) (Figure
+3). Complete clearance of attached S. aureus biofilm
+was achieved in 40% of the coated wires vs 0% in the
+control group.
+In histological specimens, evidence of inflammatory
+cell infiltration was evident in many of the control
+groups with confirmed bacterial presence, while 
+inflammatory cell presence was minimal in the groups with
+vancomycin coating (P < 0.001) (Figure 4). 
+Representative histological slides show severe infiltration of
+inflammatory cells in uncoated groups and evidence of
+Gram-positive staphylococci in the tissue surrounding
+the implant and in the cortical bone (Figure 5). Although
+some evidence of Gram-positive staphylococci was
+observed in the cortical bone of animals with antibiotic
+coated implants, the tissue surrounding the implant had
+minimal evidence of bacteria.
+DISCUSSION
+Successful function of orthopaedic implants can be
+threatened by infections, which are not always 
+prevented by systemic antibiotic treatment[25-27]. Implant
+coatings are among the local drug delivery strategies
+that aim to prevent or treat colonization of implants with
+biofilm bacteria[21,28,29]. The naturally-derived material
+phosphatidylcholine has not been approved by the Food
+and Drug Administration (FDA) as a carrier of antibiotics,
+469
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+Jennings JA et al . Implant coating prevents infection
+Bacteriological score
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+a
+2.0
+1.5
+1.0
+0.5
+0.0
+Uncoated                                  Coated
+Figure 2  Graphical representation of bacteriological scores from
+surrounding tissue on a 0-4 point scale. Data is represented as mean ± SD.
+Statistically significant difference between groups was  determined by 
+Mann-Whitney Rank Sum test (aP
+< 0.05).
+CFUs recovered from pins
+7
+6
+5
+4
+3
+a
+2
+1
+0
+Uncoated                                  Coated
+Figure 3  Graphical representation of log colony forming units retrieved
+from Ti wires. Data is represented as mean ± SD. Statistically significant
+difference between groups was determined by Mann-Whitney Rank Sum test (aP
+< 0.05). CFUs: Colony forming units.
+but is a component of FDA approved matrices for
+demineralized bone graft materials[30]. Confirming results
+of previous preliminary studies[22], this initial study of a
+novel antibiotic loaded coating further recommends the
+potential of the coating to prevent implant-associated
+osteomyelitis.
+5
+4
+3
+2
+1
+0
+Figure 4  Plot of histological scores for uncoated and coated groups.
+Statistically significant difference between groups was determined by 
+Mann-Whitney Rank Sum test (aP < 0.05).
+This study demonstrates significant reduction in
+contamination and progression of disease, though some
+bacteria were recovered from the cortical bone and
+observed in the Gram stains. Any remaining bacteria
+could potentially rebound and lead to osteomyelitis.
+We chose vancomycin as the first antibiotic to evaluate
+in this coated implant model due to the known 
+susceptibility of this strain of bacteria[24]. We have 
+demonstrated previously that the coating can be loaded with
+different antibiotics or combinations of antibiotics such
+as amikacin, although the release profile may vary
+based on solubility or other chemical properties of the
+antimicrobial[22]. In the context of preventing biofilm,
+vancomycin has lower efficacy than antibiotics such
+as daptomycin[24] though it is commonly used as an
+adjunctive therapy in local drug delivery devices or
+even sprinkled into a surgical site after implantation of
+Histological score
+a
+Uncoated                                  Coated
+Group
+470
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+Jennings JA et al . Implant coating prevents infection
+orthopaedic devices[31-34]. An advantage of this coating is
+that it may provide clinicians with a choice of 
+antibiotic-or antimicrobial-loaded coating based on patient 
+assessment and risk evaluation. Recently, investigations
+into biofilm inhibitors such as cis 2-decenoic acid,
+D-amino acids, and farnesol have offered potential
+therapeutic options to specifically target biofilm[35-37].
+The phosphatidylcholine coating could serve as delivery
+system for combined therapy with antibiotics and biofilm
+inhibitors, since additive and synergistic prevention of
+biofilm and bacterial growth have been demonstrated in
+vitro[38-42].
+The results of this study confirm that the results of
+our previous in vitro and soft-tissue in vivo studies of
+this coating are applicable within an orthopaedic implant
+context. Inflammatory response was typical of normal
+infiltration of inflammatory cells during the healing
+process[43] and was reduced compared to when active
+infection was present. During implantation procedures
+used in this study, the manual application of coating
+was sufficient to retain antibiotic for local release. In
+vitro simulations of implant scenarios or alternative
+orthopaedic models[44-46] may be useful in determining
+coating retention during intra-cortical implantation
+procedures such as fixation nails or bone screws. The
+lipid-based coating can be applied to different surfaces,
+though differences in adhesion to the surface and
+elution from different surfaces have not been fully
+characterized. Future studies will evaluate the properties
+of the coatings on different surfaces other than metal
+commonly used in orthopaedic applications, such as
+polyether ether ketone polymer or hydroxyapatite
+ceramic biomaterials.
+Our results should be interpreted in light of the
+limitations of this preliminary study. A short duration with
+a small number of samples in each group was selected
+for this initial evaluation of only 7 d. For this pilot study,
+we powered the study to detect large differences in
+remaining bacteria, but this study should be repeated
+for robust results. While this model has been used
+previously and confirmed to lead to osteomyelitic 
+infection without an implant[47,48], previous studies have
+monitored disease progression and treatment of existing
+infection after 3 or more weeks post-inoculation. Since
+the ulnar bone is still intact, the implant does not
+provide stability to the defect but provides a surface
+on which biofilm can form, so that animals return to
+normal activity hours after recovery without the need
+for fixation devices. Since the focus of this study was
+prevention of osteomyelitis in an implant-associated
+infection model, we selected an early time point at
+which histological and microbiological differences could
+still be observed[49]. Further studies expanding on these
+preliminary results should include increased animal
+numbers and longer durations of implantation, as well
+as non-contaminated control groups for comparison.
+471
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+Jennings JA et al . Implant coating prevents infection
+The development of this model has been refined
+so the strain of S. aureus and the amount of CFUs in
+the inoculum results in significant evidence of infection
+in more than 75% of rabbits[49]. Although this 
+provides consistent results for evaluation of anti-infection
+therapy, it may not be representative of the clinical
+scenario where infection occurs at much lower rates
+and presumably with fewer contaminating bacteria. The
+evidence in this study demonstrating that the antibiotic
+coating does prevent bacterial growth even in this model
+of high levels of contamination indicates the clinical
+potential of this coating. Further, while we did observe
+histology for uncoated and coated groups to note any
+potential inflammatory responses, there were no 
+non-antibiotic loaded coatings used as controls or defects
+without contamination to monitor inflammatory response
+in this preliminary study. Since this material has been
+used as a component of bone graft substitutes without
+issues of severe inflammation[30], it is expected that a
+degradable thin coating on the implant surface would not
+lead to negative tissue response and may even stimulate
+bone growth and healing around the implant. Further
+studies expanding on these preliminary results should
+include longer durations of implantation as well as 
+non-contaminated control groups for comparison.
+In conclusion, vancomycin-loaded 
+phosphatidylcholine coatings effectively reduced bacterial biofilm
+formation in an orthopaedic implant-associated model
+of infection. Local release of antibiotic inhibits bacterial
+growth and inhibits biofilm formation on the implant.
+These easily-applied coatings can be used at the time
+of surgery to prevent orthopaedic infection and improve
+patient outcomes.
+ACKNOWLEDGMENTS
+The authors wish to thank Michael Harris, Elysia Masters,
+Allen Mamaril, and Jonathan Tapp for assistance with
+histological imaging and scoring.
+COMMENTS  COMMENTS
+Background
+Infections associated with medical implants can pose severe threats to patient
+health. Methods to prevent attachment of bacteria and the formation of
+biofilm on implants could prevent life-threatening musculoskeletal infections.
+Phosphatidylcholine coatings can be loaded with antibiotics to protect the implant
+and surrounding tissue from pathogenic microorganisms.
+Research frontiers
+Phosphatidylcholine is a naturally-derived lipophilic material that forms a thin
+layer when manually applied to an implant surface. The point-of-care application
+provides versatility for use on various implant types and with many different
+types of antimicrobial molecules.
+Innovations and breakthroughs
+Compared to systemic administration of antibiotics, local delivery provides
+high concentrations of therapeutic molecules at the site of injury and potential
+contamination. Phosphatidylcholine provides a short-term degradable drug
+carrier matrix that can be directly coated on implants. Complete degradability,
+as well as implant coverage and biocompatibility, are advantages over other
+common local drug delivery devices such as polymethylmethacrylate beads or
+calcium sulfate.
+Applications
+Results suggest that vancomycin-loaded coatings significantly inhibited
+staphylococcal growth in a model of implant-associated osteomyelitis, providing
+prophylactic drug release to prevent infection.
+Terminology
+Phosphatidylcholine is an amphiphilic molecule consisting of a polar head group
+and fatty acid tails that when purified can be fabricated into a coating material
+that leaves a waxy residue on the surface of a biomaterial. Biofilm forms when
+bacteria or other microorganisms attach to a surface, such as a metal implant
+or damaged tissue, and causes infection that is highly resistant to antibiotics
+or immune system clearance. Staphylococcus aureus is among the common
+pathogens that cause infections in the musculoskeletal system and can lead to
+osteomyelitis, which is infection of bone.
+Peer-review
+Interesting paper. This is a basic science study with a useful clinical application.
+REFERENCES
+1 Stewart PS, Costerton JW. Antibiotic resistance of bacteria in
+biofilms. Lancet 2001; 358: 135-138 [PMID: 11463434]
+2 Brady RA, Leid JG, Calhoun JH, Costerton JW, Shirtliff ME.
+Osteomyelitis and the role of biofilms in chronic infection. FEMS
+Immunol Med Microbiol 2008; 52: 13-22 [PMID: 18081847 DOI:
+10.1111/j.1574-695X.2007.00357.x]
+3 Trampuz A, Widmer AF. Infections associated with orthopedic
+implants. Curr Opin Infect Dis 2006; 19: 349-356 [PMID: 16804382
+DOI: 10.1097/01.qco.0000235161.85925.e8]
+4 Zimmerli W. Clinical presentation and treatment of orthopaedic
+implant-associated infection. J Intern Med 2014; 276: 111-119
+[PMID: 24605880 DOI: 10.1111/joim.12233]
+5 Shirwaiker RA, Springer BD, Spangehl MJ, Garrigues GE,
+Lowenberg DW, Garras DN, Yoo JU, Pottinger PS. A clinical
+perspective on musculoskeletal infection treatment strategies and
+challenges. J Am Acad Orthop Surg 2015; 23 Suppl: S44-S54
+[PMID: 25808969 DOI: 10.5435/JAAOS-D-14-00379]
+6 Percival SL, Hill KE, Malic S, Thomas DW, Williams DW.
+Antimicrobial tolerance and the significance of persister cells in
+recalcitrant chronic wound biofilms. Wound Repair Regen 2011; 19:
+1-9 [PMID: 21235682 DOI: 10.1111/j.1524-475X.2010.00651.x]
+7 Olson ME, Ceri H, Morck DW, Buret AG, Read RR. Biofilm
+bacteria: formation and comparative susceptibility to antibiotics.
+Can J Vet Res 2002; 66: 86-92 [PMID: 11989739]
+8 Costerton JW. Introduction to biofilm. Int J Antimicrob Agents
+1999; 11: 217-221; discussion 237-239 [PMID: 10394973 DOI:
+10.1016/S0924-8579(99)00018-7]
+9 Ranall MV, Butler MS, Blaskovich MA, Cooper MA. Resolving
+biofilm infections: current therapy and drug discovery strategies.
+Curr Drug Targets 2012; 13: 1375-1385 [PMID: 22664091 DOI:
+10.2174/138945012803530251]
+10 Tabbaa SM, Horton CO, Jeray KJ, Burg KJ. Role of vascularity
+for successful bone formation and repair. Crit Rev Biomed Eng
+2014; 42: 319-348 [PMID: 25597242 DOI: 10.1615/CritRevBiom-
+edEng.2014011662]
+11 Donlan RM. Role of biofilms in antimicrobial resistance. ASAIO J
+2000; 46: S47-S52 [PMID: 11110294 DOI: 10.1097/00002480-200
+011000-00037]
+12 McConoughey SJ, Howlin RP, Wiseman J, Stoodley P, Calhoun
+JH. Comparing PMMA and calcium sulfate as carriers for the local
+delivery of antibiotics to infected surgical sites. J Biomed Mater
+Res B Appl Biomater 2015; 103: 870-877 [PMID: 25142105 DOI:
+10.1002/jbm.b.33247]
+13 Gogia JS, Meehan JP, Di Cesare PE, Jamali AA. Local antibiotic
+472
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+therapy in osteomyelitis. Semin Plast Surg 2009; 23: 100-107
+[PMID: 20567732 DOI: 10.1055/s-0029-1214162]
+14 Hanssen AD. Local antibiotic delivery vehicles in the treatment
+of musculoskeletal infection. Clin Orthop Relat Res 2005; (437):
+91-96 [PMID: 16056032]
+15 McLaren AC, McLaren SG, Hickmon MK. Sucrose, xylitol,
+and erythritol increase PMMA permeability for depot antibiotics.
+Clin Orthop Relat Res 2007; 461: 60-63 [PMID: 17549030 DOI:
+10.1097/BLO.0b013e3181123e90]
+16 Orellana BR, Hilt JZ, Puleo DA. Drug release from calcium
+sulfate-based composites. J Biomed Mater Res B Appl Biomater
+2015; 103: 135-142 [PMID: 24788686 DOI: 10.1002/jbm.b.33181]
+17 Smith JK, Moshref AR, Jennings JA, Courtney HS, Haggard
+WO. Chitosan sponges for local synergistic infection therapy: a
+pilot study. Clin Orthop Relat Res 2013; 471: 3158-3164 [PMID:
+23604649 DOI: 10.1007/s11999-013-2988-5]
+18 Overstreet D, McLaren A, Calara F, Vernon B, McLemore R.
+Local gentamicin delivery from resorbable viscous hydrogels is
+therapeutically effective. Clin Orthop Relat Res 2015; 473: 337-347
+[PMID: 25227556 DOI: 10.1007/s11999-014-3935-9]
+19 Greene AH, Bumgardner JD, Yang Y, Moseley J, Haggard WO.
+Chitosan-coated stainless steel screws for fixation in contaminated
+fractures. Clin Orthop Relat Res 2008; 466: 1699-1704 [PMID:
+18443893 DOI: 10.1007/s11999-008-0269-5]
+20 Ketonis C, Parvizi J, Jones LC. Evolving strategies to prevent
+implant-associated infections. J Am Acad Orthop Surg 2012; 20:
+478-480 [PMID: 22751167 DOI: 10.5435/JAAOS-20-07-478]
+21 Norowski PA, Courtney HS, Babu J, Haggard WO, Bumgardner JD.
+Chitosan coatings deliver antimicrobials from titanium implants: a
+preliminary study. Implant Dent 2011; 20: 56-67 [PMID: 21278528]
+22 Jennings JA, Carpenter DP, Troxel KS, Beenken KE, Smeltzer MS,
+Courtney HS, Haggard WO. Novel Antibiotic-loaded Point-of-care
+Implant Coating Inhibits Biofilm. Clin Orthop Relat Res 2015; 473:
+2270-2282 [PMID: 25604874 DOI: 10.1007/s11999-014-4130-8]
+23 Skinner RA, Hickmon SG, Nelson CL, Germer RA. Modified
+stain for identification of staphylococcus-aureus in osteomyelitis. J
+Histotechnol 1992; 15: 303-306
+24 Weiss EC, Spencer HJ, Daily SJ, Weiss BD, Smeltzer MS. Impact
+of sarA on antibiotic susceptibility of Staphylococcus aureus in a
+catheter-associated in vitro model of biofilm formation. Antimicrob
+Agents Chemother 2009; 53: 2475-2482 [PMID: 19289527]
+25 Sabath LD, Garner C, Wilcox C, Finland M. Susceptibility of
+Staphylococcus aureus and Staphylococcus epidermidis to 65
+antibiotics. Antimicrob Agents Chemother 1976; 9: 962-969 [PMID:
+938025]
+26 Campoccia D, Montanaro L, Arciola CR. The significance of
+infection related to orthopedic devices and issues of antibiotic
+resistance. Biomaterials 2006; 27: 2331-2339 [PMID: 16364434
+DOI: 10.1016/j.biomaterials.2005.11.044]
+27 McConoughey SJ, Howlin R, Granger JF, Manring MM, Calhoun
+JH, Shirtliff M, Kathju S, Stoodley P. Biofilms in periprosthetic
+orthopedic infections. Future Microbiol 2014; 9: 987-1007 [PMID:
+25302955 DOI: 10.2217/fmb.14.64]
+28 Ketonis C, Barr S, Adams CS, Shapiro IM, Parvizi J, Hickok NJ.
+Vancomycin bonded to bone grafts prevents bacterial colonization.
+Antimicrob Agents Chemother 2011; 55: 487-494 [PMID: 21098245
+DOI: 10.1128/AAC.00741-10]
+29 Adams CS, Antoci V, Harrison G, Patal P, Freeman TA, Shapiro
+IM, Parvizi J, Hickok NJ, Radin S, Ducheyne P. Controlled
+release of vancomycin from thin sol-gel films on implant surfaces
+successfully controls osteomyelitis. J Orthop Res 2009; 27: 701-709
+[PMID: 19051247 DOI: 10.1002/jor.20815]
+30 Han B, Tang B, Nimni ME. Combined effects of phosphatidylcholine
+and demineralized bone matrix on bone induction. Connect Tissue
+Res 2003; 44: 160-166 [PMID: 14504036]
+31 Molinari RW, Khera OA, Molinari WJ. Prophylactic intraoperative
+powdered vancomycin and postoperative deep spinal wound
+infection: 1,512 consecutive surgical cases over a 6-year period.
+Eur Spine J 2012; 21 Suppl 4: S476-S482 [PMID: 22160172 DOI:
+10.1007/s00586-011-2104-z]
+Jennings JA et al . Implant coating prevents infection
+32 Giavaresi G, Bertazzoni Minelli E, Sartori M, Benini A, Della Bora
+T, Sambri V, Gaibani P, Borsari V, Salamanna F, Martini L, Nicoli
+Aldini N, Fini M. Microbiological and pharmacological tests on
+new antibiotic-loaded PMMA-based composites for the treatment of
+osteomyelitis. J Orthop Res 2012; 30: 348-355 [PMID: 21882237
+DOI: 10.1002/jor.21531]
+33 Penn-Barwell JG, Murray CK, Wenke JC. Local antibiotic delivery
+by a bioabsorbable gel is superior to PMMA bead depot in reducing
+infection in an open fracture model. J Orthop Trauma 2014; 28:
+370-375 [PMID: 23948961 DOI: 10.1097/BOT.0b013e3182a7739e]
+34 Gitelis S, Brebach GT. The treatment of chronic osteomyelitis with
+a biodegradable antibiotic-impregnated implant. J Orthop Surg
+(Hong Kong) 2002; 10: 53-60 [PMID: 12401922]
+35 Davies DG, Marques CN. A fatty acid messenger is responsible for
+inducing dispersion in microbial biofilms. J Bacteriol 2009; 191:
+1393-1403 [PMID: 19074399 DOI: 10.1128/JB.01214-08]
+36 Hochbaum AI, Kolodkin-Gal I, Foulston L, Kolter R, Aizenberg
+J, Losick R. Inhibitory effects of D-amino acids on Staphylococcus
+aureus biofilm development. J Bacteriol 2011; 193: 5616-5622
+[PMID: 21856845 DOI: 10.1128/jb.05534-11]
+37 Koo H, Hayacibara MF, Schobel BD, Cury JA, Rosalen PL, Park YK,
+Vacca-Smith AM, Bowen WH. Inhibition of Streptococcus mutans
+biofilm accumulation and polysaccharide production by apigenin
+and tt-farnesol. J Antimicrob Chemother 2003; 52: 782-789 [PMID:
+14563892 DOI: 10.1093/jac/dkg449]
+38 Jennings JA, Courtney HS, Haggard WO. Cis-2-decenoic acid
+inhibits S. aureus growth and biofilm in vitro: a pilot study. Clin
+Orthop Relat Res 2012; 470: 2663-2670 [PMID: 22585351 DOI:
+10.1007/s11999-012-2388-2]
+39 Rahmani-Badi A, Sepehr S, Mohammadi P, Soudi MR, Babaie-Naiej
+H, Fallahi H. A combination of cis-2-decenoic acid and antibiotics
+eradicates pre-established catheter-associated biofilms. J Med
+Microbiol 2014; 63: 1509-1516 [PMID: 25082943 DOI: 10.1099/
+jmm.0.075374-0]
+40 Sanchez CJ, Akers KS, Romano DR, Woodbury RL, Hardy
+SK, Murray CK, Wenke JC. D-amino acids enhance the activity
+of antimicrobials against biofilms of clinical wound isolates of
+Staphylococcus aureus and Pseudomonas aeruginosa. Antimicrob
+Agents Chemother 2014; 58: 4353-4361 [PMID: 24841260 DOI:
+10.1128/AAC.02468-14]
+41 Jabra-Rizk MA, Meiller TF, James CE, Shirtliff ME. Effect of
+farnesol on Staphylococcus aureus biofilm formation and antimicrobial
+susceptibility. Antimicrob Agents Chemother 2006; 50: 1463-1469
+[PMID: 16569866 DOI: 10.1128/AAC.50.4.1463-1469.2006]
+42 Estrela AB, Abraham WR. Combining biofilm-controlling compounds
+and antibiotics as a promising new way to control biofilm infections.
+Pharmaceuticals 2010; 3: 1374-1393 [DOI: 10.3390/ph3051374]
+43 Anderson JM, Rodriguez A, Chang DT. Foreign body reaction to
+biomaterials. Semin Immunol 2008; 20: 86-100 [PMID: 18162407
+DOI: 10.1016/j.smim.2007.11.004]
+44 Bernthal NM, Stavrakis AI, Billi F, Cho JS, Kremen TJ, Simon SI,
+Cheung AL, Finerman GA, Lieberman JR, Adams JS, Miller LS.
+A mouse model of post-arthroplasty Staphylococcus aureus joint
+infection to evaluate in vivo the efficacy of antimicrobial implant
+coatings. PLoS One 2010; 5: e12580 [PMID: 20830204 DOI:
+10.1371/journal.pone.0012580]
+45 Prabhakara R, Harro JM, Leid JG, Harris M, Shirtliff ME. Murine
+immune response to a chronic Staphylococcus aureus biofilm
+infection. Infect Immun 2011; 79: 1789-1796 [PMID: 21282411
+DOI: 10.1128/IAI.01386-10]
+46 Lazzarini L, Overgaard KA, Conti E, Shirtliff ME. Experimental
+osteomyelitis: what have we learned from animal studies about
+the systemic treatment of osteomyelitis? J Chemother 2006; 18:
+451-460 [PMID: 17127219 DOI: 10.1179/joc.2006.18.5.451]
+47 Blevins JS, Elasri MO, Allmendinger SD, Beenken KE, Skinner
+RA, Thomas JR, Smeltzer MS. Role of sarA in the pathogenesis
+of Staphylococcus aureus musculoskeletal infection. Infect Immun
+2003; 71: 516-523 [PMID: 12496203]
+48 Beenken KE, Smith JK, Skinner RA, Mclaren SG, Bellamy
+W, Gruenwald MJ, Spencer HJ, Jennings JA, Haggard WO,
+473
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+Jennings JA et al . Implant coating prevents infection
+Smeltzer MS. Chitosan coating to enhance the therapeutic efficacy
+of calcium sulfate-based antibiotic therapy in the treatment of
+chronic osteomyelitis. J Biomater Appl 2014; 29: 514-523 [PMID:
+24854984 DOI: 10.1177/0885328214535452]
+49 Smeltzer MS, Thomas JR, Hickmon SG, Skinner RA, Nelson CL,
+Griffith D, Parr TR, Evans RP. Characterization of a rabbit model
+of staphylococcal osteomyelitis. J Orthop Res 1997; 15: 414-421
+[PMID: 9246088 DOI: 10.1002/jor.1100150314]
+P- Reviewer: Elgafy H, Papachristou GC, Vulcano E
+S- Editor: Gong XM    L- Editor: A    E- Editor: Wu HL
+474
+August 18, 2016|Volume 7|Issue 8|WJO|www.wjgnet.com
+Published by Baishideng Publishing Group Inc
+8226 Regency Drive, Pleasanton, CA 94588, USA
+Telephone: +1-925-223-8242
+Fax: +1-925-223-8243
+E-mail: bpgoffice@wjgnet.com
+Help Desk: http://www.wjgnet.com/esps/helpdesk.aspx
+http://www.wjgnet.com
+© 2016 Baishideng Publishing Group Inc. All rights reserved.
+Log  colony forming  units
+(Log CFUs)
+Bacteriologicalscore
+Rank on  0-5  scale
+
+Coated 
+Coated 
+Ti wire 
+Swelling 
+Ti wire 
+Uncoated 
+Uncoated 
+Figure  1    Representative  radiographs  from  implant-associated  osteomyelitis  model  after  7  d  in  antibiotic-coated  group  (top)  and  uncoated  control  group  
+(bottom). Location of Ti wires and swelling in tissue surrounding implants are noted by arrows. 
+
+Coated 
+Site of 
+Ti pin 
+Gram positive stained 
+Uncoated 
+bacteria (purple) 
+Figure  5    Photomicrographs  of  sections  of  decalcified  bone  stained  with  hematoxylin  and  eosin  and  the  modified  Gram  stain  at  4  ×  and  10  ×.  Approximate  
+areas  of  higher  magnification  are  denoted  by  blue  boxes.  Areas  where  pin  was  removed  and  areas  of  visible  staphylococci  are  marked  with  arrows. 
+

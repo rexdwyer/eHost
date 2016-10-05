@@ -1,0 +1,1810 @@
+>>>section: conclusion
+
+>>>section: references
+References
+Aleksunes LM, Campion SN, Goedken MJ, Manautou JE. Acquired resistance to acetaminophen
+hepatotoxicity is associated with induction of multidrug resistance-associated protein 4 (Mrp4) in
+proliferating hepatocytes. Toxicological Sciences : An Official Journal of the Society of
+Toxicology. 2008; 104(2):261-273. [PubMed: 18468992]
+Aleksunes LM, Manautou JE. Emerging role of Nrf2 in protecting against hepatic and gastrointestinal
+disease. Toxicologic Pathology. 2007; 35(4):459-473. [PubMed: 17562481]
+Aleksunes LM, Scheffer GL, Jakowski AB, Pruimboom-Brees IM, Manautou JE. Coordinated
+expression of multidrug resistance-associated proteins (mrps) in mouse liver during 
+toxicant-induced injury. Toxicological Sciences : An Official Journal of the Society of Toxicology. 2006;
+89(2):370-379. [PubMed: 16177239]
+Aleksunes LM, Slitt AL, Maher JM, Dieter MZ, Knight TR, Goedken M, et al. Nuclear factor-E2-
+related factor 2 expression in liver is critical for induction of NAD(P)H:Quinoneoxidoreductase 1
+during cholestasis. Cell Stress & Chaperones. 2006; 11(4):356-363. [PubMed: 17278884]
+Aleksunes LM, Slitt AM, Cherrington NJ, Thibodeau MS, Klaassen CD, Manautou JE. Differential
+expression of mouse hepatic transporter genes in response to acetaminophen and carbon
+tetrachloride. Toxicological Sciences : An Official Journal of the Society of Toxicology. 2005;
+83(1):44-52. [PubMed: 15496496]
+Bauer I, Vollmar B, Jaeschke H, Rensing H, Kraemer T, Larsen R, et al. Transcriptional activation of
+heme oxygenase-1 and its functional significance in acetaminophen-induced hepatitis and
+hepatocellular injury in the rat. Journal of Hepatology. 2000; 33(3):395-406. [PubMed: 11019995]
+Bennett BJ, de AguiarVallim TQ, Wang Z, Shih DM, Meng Y, Gregory J, et al. Trimethylamine-N-
+oxide, a metabolite associated with atherosclerosis, exhibits complex genetic and dietary regulation.
+Cell Metabolism. 2013; 17(1):49-60. [PubMed: 23312283]
+Burcham PC, Fontaine F. Extensive protein carbonylation precedes acrolein-mediated cell death in
+mouse hepatocytes. Journal of Biochemical and Molecular Toxicology. 2001; 15(6):309-316.
+[PubMed: 11835630]
+Campion SN, Tatis-Rios C, Augustine LM, Goedken MJ, van Rooijen N, Cherrington NJ, et al. Effect
+of allyl alcohol on hepatic transporter expression: Zonal patterns of expression and role of kupffer
+cell function. Toxicology and Applied Pharmacology. 2009; 236(1):49-58. [PubMed: 19371622]
+Cashman JR, Hanzlik RP. Microsomal oxidation of thiobenzamide.A photometric assay for the 
+flavin-containing monooxygenase. Biochemical and Biophysical Research Communications. 1981;
+98(1):147-153. [PubMed: 7213381]
+Cashman JR, Zhang J. Interindividual differences of human flavin-containing monooxygenase 3:
+Genetic polymorphisms and functional variation. Drug Metabolism and Disposition: The
+Biological Fate of Chemicals. 2002; 30(10):1043-1052. [PubMed: 12228178]
+Celius T, Pansoy A, Matthews J, Okey AB, Henderson MC, Krueger SK, et al. Flavin-containing
+monooxygenase-3: Induction by 3-methylcholanthrene and complex regulation by xenobiotic
+chemicals in hepatoma cells and mouse liver. Toxicology and Applied Pharmacology. 2010;
+247(1):60-69. [PubMed: 20570689]
+Celius T, Roblin S, Harper PA, Matthews J, Boutros PC, Pohjanvirta R, et al. Aryl hydrocarbon
+receptor-dependent induction of flavin-containing monooxygenase mRNAs in mouse liver. Drug
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Metabolism and Disposition: The Biological Fate of Chemicals. 2008; 36(12):2499-2505.
+[PubMed: 18765683]
+Chan K, Han XD, Kan YW. An important function of Nrf2 in combating oxidative stress:
+Detoxification of acetaminophen. Proceedings of the National Academy of Sciences of the United
+States of America. 2001; 98(8):4611-4616. [PubMed: 11287661]
+Cheng J, Ma X, Krausz KW, Idle JR, Gonzalez FJ. Rifampicin-activated human pregnane X receptor
+and CYP3A4 induction enhance acetaminophen-induced toxicity. Drug Metabolism and
+Disposition: The Biological Fate of Chemicals. 2009; 37(8):1611-1621. [PubMed: 19460945]
+Chiang JY. Bile acid regulation of gene expression: Roles of nuclear hormone receptors. Endocrine
+Reviews. 2002; 23(4):443-463. [PubMed: 12202460]
+Chiu H, Brittingham JA, Laskin DL. Differential induction of heme oxygenase-1 in macrophages and
+hepatocytes during acetaminophen-induced hepatotoxicity in the rat: Effects of hemin and
+biliverdin. Toxicology and Applied Pharmacology. 2002; 181(2):106-115. [PubMed: 12051994]
+Cohen SD, Pumford NR, Khairallah EA, Boekelheide K, Pohl LR, Amouzadeh HR, et al. Selective
+protein covalent binding and target organ toxicity. Toxicology and Applied Pharmacology. 1997;
+143(1):1-12. [PubMed: 9073586]
+Donepudi AC, Aleksunes LM, Driscoll MV, Seeram NP, Slitt AL. The traditional ayurvedic medicine,
+eugeniajambolana (jamun fruit), decreases liver inflammation, injury and fibrosis during
+cholestasis. Liver International : Official Journal of the International Association for the Study of
+the Liver. 2012; 32(4):560-573. [PubMed: 22212619]
+Enomoto A, Itoh K, Nagayoshi E, Haruta J, Kimura T, O'Connor T, et al. High sensitivity of Nrf2
+knockout mice to acetaminophen hepatotoxicity associated with decreased expression of 
+ARE-regulated drug metabolizing enzymes and antioxidant genes. Toxicological Sciences : An Official
+Journal of the Society of Toxicology. 2001; 59(1):169-177. [PubMed: 11134556]
+Goldring CE, Kitteringham NR, Elsby R, Randle LE, Clement YN, Williams DP, et al. Activation of
+hepatic Nrf2 in vivo by acetaminophen in CD-1 mice. Hepatology (Baltimore, Md.). 2004; 39(5):
+1267-1276.
+Guo GL, Moffit JS, Nicol CJ, Ward JM, Aleksunes LA, Slitt AL, et al. Enhanced acetaminophen
+toxicity by activation of the pregnane X receptor. Toxicological Sciences : An Official Journal of
+the Society of Toxicology. 2004; 82(2):374-380. [PubMed: 15456926]
+Hohenester S, Oude-Elferink RP, Beuers U. Primary biliary cirrhosis. Seminars in Immunopathology.
+2009; 31(3):283-307. [PubMed: 19603170]
+Jaeschke H, McGill MR, Ramachandran A. Oxidant stress, mitochondria, and cell death mechanisms
+in drug-induced liver injury: Lessons learned from acetaminophen hepatotoxicity. Drug
+Metabolism Reviews. 2012; 44(1):88-106. [PubMed: 22229890]
+Janmohamed A, Hernandez D, Phillips IR, Shephard EA. Cell-, tissue-, sex- and developmental 
+stage-specific expression of mouse flavin-containing monooxygenases (fmos). Biochemical
+Pharmacology. 2004; 68(1):73-83. [PubMed: 15183119]
+Kallai L, Hahn A, Roeder V, Zupanic V. Correlation between histological findings and serum
+transaminase values in chronic diseases of the liver. ActaMedicaScandinavica. 1964; 175:49-56.
+Kaspar JW, Niture SK, Jaiswal AK. Nrf2:INrf2 (Keap1) signaling in oxidative stress. Free Radical
+Biology & Medicine. 2009; 47(9):1304-1309. [PubMed: 19666107]
+Kensler TW, Wakabayashi N, Biswal S. Cell survival responses to environmental stresses via the
+Keap1-Nrf2-ARE pathway. Annual Review of Pharmacology and Toxicology. 2007; 47:89-116.
+Klick DE, Hines RN. Mechanisms regulating human FMO3 transcription. Drug Metabolism Reviews.
+2007; 39(2-3):419-442. [PubMed: 17786630]
+Klick DE, Shadley JD, Hines RN. Differential regulation of human hepatic flavin containing
+monooxygenase 3 (FMO3) by CCAAT/enhancer-binding protein beta (C/EBPbeta) liver inhibitory
+and liver activating proteins. Biochemical Pharmacology. 2008; 76(2):268-278. [PubMed:
+18555208]
+Krueger SK, Williams DE. Mammalian flavin-containing monooxygenases: Structure/function,
+genetic polymorphisms and role in drug metabolism. Pharmacology & Therapeutics. 2005; 106(3):
+357-387. [PubMed: 15922018]
+Page 14
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 15
+Larson AM, Polson J, Fontana RJ, Davern TJ, Lalani E, Hynan LS, et al. Acetaminophen-induced
+acute liver failure: Results of a united states multicenter, prospective study. Hepatology
+(Baltimore, Md.). 2005; 42(6):1364-1372.
+Lee FY, de AguiarVallim TQ, Chong HK, Zhang Y, Liu Y, Jones SA, et al. Activation of the farnesoid
+X receptor provides protection against acetaminophen-induced hepatic toxicity. Molecular
+Endocrinology (Baltimore, Md.). 2010; 24(8):1626-1636.
+Lee WM. The case for limiting acetaminophen-related deaths: Smaller doses and unbundling the
+opioid-acetaminophen compounds. Clinical Pharmacology and Therapeutics. 2010; 88(3):289-
+292. [PubMed: 20725075]
+Liu J, Wu KC, Lu YF, Ekuase E, Klaassen CD. Nrf2 protection against liver injury produced by
+various hepatotoxicants. Oxidative Medicine and Cellular Longevity. 2013; 2013:305861.
+[PubMed: 23766851]
+Manautou JE, Hoivik DJ, Tveit A, Hart SG, Khairallah EA, Cohen SD. Clofibrate pretreatment
+diminishes acetaminophen's selective covalent binding and hepatotoxicity. Toxicology and
+Applied Pharmacology. 1994; 129(2):252-263. [PubMed: 7992315]
+Miller JA, Cramer JW, Miller EC. The N- and ringhydroxylation of 2-acetylaminofluorene during
+carcinogenesis in the rat. Cancer Research. 1960; 20:950-962. [PubMed: 13853964]
+O'Connor MA, Koza-Taylor P, Campion SN, Aleksunes LM, Gu X, Enayetallah AE, et al. Analysis of
+changes in hepatic gene expression in a murine model of tolerance to acetaminophen
+hepatotoxicity (autoprotection). Toxicology and Applied Pharmacology. 2014; 274(1):156-167.
+[PubMed: 24126418]
+Ohno Y, Ormstad K, Ross D, Orrenius S. Mechanism of allyl alcohol toxicity and protective effects of
+low-molecular-weight thiols studied with isolated rat hepatocytes. Toxicology and Applied
+Pharmacology. 1985; 78(2):169-179. [PubMed: 2930914]
+Randle LE, Goldring CE, Benson CA, Metcalfe PN, Kitteringham NR, Park BK, et al. Investigation of
+the effect of a panel of model hepatotoxins on the Nrf2-Keap1 defence response pathway in CD-1
+mice. Toxicology. 2008; 243(3):249-260. [PubMed: 18078705]
+Rudraiah S, Rohrer P, Gurevich I, Goedken MJ, Rasmussen T, Hines RN, et al. Tolerance to
+acetaminophen hepatotoxicity in the mouse model of autoprotection is associated with induction of
+flavin-containing monooxygenase-3 (FMO3) in hepatocytes. Toxicological Sciences: An Official
+Journal of the Society of Toxicology. 2014
+Rushmore TH, Morton MR, Pickett CB. The antioxidant responsive element.activation by oxidative
+stress and identification of the DNA consensus sequence required for functional activity. The
+Journal of Biological Chemistry. 1991; 266(18):11632-11639. [PubMed: 1646813]
+Shenton D, Smirnova JB, Selley JN, Carroll K, Hubbard SJ, Pavitt GD, et al. Global translational
+responses to oxidative stress impact upon multiple levels of protein synthesis. The Journal of
+Biological Chemistry. 2006; 281(39):29011-29021. [PubMed: 16849329]
+Shimizu M, Murayama N, Nagashima S, Fujieda M, Yamazaki H. Complex mechanism underlying
+transcriptional control of the haplotypedflavin-containing monooxygenase 3 (FMO3) gene in
+japanese: Different regulation between mutations in 5′-upstream distal region and common
+element in proximal region. Drug Metabolism and Pharmacokinetics. 2008; 23(1):54-58.
+[PubMed: 18305374]
+Sokol RJ, Winklhofer-Roob BM, Devereaux MW, McKim JM Jr. Generation of hydroperoxides in
+isolated rat hepatocytes and hepatic mitochondria exposed to hydrophobic bile acids.
+Gastroenterology. 1995; 109(4):1249-1256. [PubMed: 7557092]
+Tanaka Y, Aleksunes LM, Cui YJ, Klaassen CD. ANIT-induced intrahepatic cholestasis alters
+hepatobiliary transporter expression via Nrf2-dependent and independent signaling. Toxicological
+Sciences : An Official Journal of the Society of Toxicology. 2009; 108(2):247-257. [PubMed:
+19181614]
+Tom WM, Fong LY, Woo DY, Prasongwatana V, Boyde TR. Microsomal lipid peroxidation and
+oxidative metabolism in rat liver: Influence of vitamin A intake. Chemico-Biological Interactions.
+1984; 50(3):361-366. [PubMed: 6744472]
+Trauner M, Meier PJ, Boyer JL. Molecular pathogenesis of cholestasis.The New England Journal of
+Medicine. 1998; 339(17):1217-1227.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 16
+Weerachayaphorn J, Mennone A, Soroka CJ, Harry K, Hagey LR, Kensler TW, et al. Nuclear 
+factor-E2-related factor 2 is a major determinant of bile acid homeostasis in the liver and
+intestine.American Journal of Physiology. Gastrointestinal and Liver Physiology. 2012;
+302(9):G925-36. [PubMed: 22345550]
+Yamazaki M, Miyake M, Sato H, Masutomi N, Tsutsui N, Adam KP, et al. Perturbation of bile acid
+homeostasis is an early pathogenesis event of drug induced liver injury in rats. Toxicology and
+Applied Pharmacology. 2013; 268(1):79-89. [PubMed: 23360887]
+Zhang J, Cerny MA, Lawson M, Mosadeghi R, Cashman JR. Functional activity of the mouse 
+flavin-containing monooxygenase forms 1, 3, and 5. Journal of Biochemical and Molecular Toxicology.
+2007; 21(4):206-215. [PubMed: 17721934]
+Ziegler DM, Mitchell CH. Microsomal oxidase. IV. properties of a mixed-function amine oxidase
+isolated from pig liver microsomes. Archives of Biochemistry and Biophysics. 1972; 150(1):116-
+125. [PubMed: 5028071]
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Page 20
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Page 21
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+
+>>>section: methods
+2. Materials and Methods
+2.1. Chemicals
+glycol and corn oil were purchased from Sigma-Aldrich (St Louis, MO). All other reagents
+were of reagent grade or better and commercially available.
+2.2. Animals
+libitum.
+Acetaminophen, alpha-naphthylisothiocyanate, carbon tetrachloride, allyl alcohol, propylene
+Male C57BL/6J mice (9- to10-week old)were purchased from Jackson Laboratories (Bar
+Harbor, ME) for this study. Upon arrival, mice were acclimated for one week prior to
+experimentation. Mice were housed in a temperature-, light- and humidity-controlled
+environment. Mice were fed laboratory rodent diet (Harlan Teklad 2018, Madison, WI) ad
+2.2.1 Experimental Design 1-The primary objective of experimental design 1 was to
+evaluate liver Fmo3 gene expression under oxidative stress conditions involving activation
+of the Nrf2-Keap1 regulatory pathway. All hepatotoxicant treatments were performed after
+an overnight fast, and mice were re-fed 8 h after treatment. Each treatment group consisted
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 5
+of six mice. For APAP treatment, mice were treated with APAP (400 mg/kg, ip) in 50%
+propylene glycol or vehicle only (dosing volume: 5 mL/kg). Animals were sacrificed by
+decapitation at 24, 48 and 72 h after treatment and blood and livers were collected for
+analysis. For ANIT treatment, mice were administered ANIT (50 mg/kg, po) in corn oil or
+vehicle only (dosing volume: 10 mL/kg). At 2, 4, 8, 12, 24 and 48 h after treatment, mice
+were sacrificed by decapitation for collecting samples. For CCl4 treatment, groups of mice
+were injected CCl4 (10 or 30 μL/kg, ip) in corn oil or vehicle only (dosing volume: 6
+mL/kg) and 24 and 48 h after treatment, mice were sacrificed by decapitation to collect
+blood and livers for analysis. For AlOH treatment, mice were administered AlOH (30 or 60
+mg/kg, ip) in saline or vehicle only (dosing volume: 10 mL/kg). Animals were sacrificed by
+decapitation at 6 and 24 h after treatment for sample collection and analysis. BDL liver
+samples were obtained from a previously described cohort (Donepudi et al., 2012). Briefly,
+sham or BDL surgery was performed under phenobarbital-induced anesthesia (65 mg/kg,
+ip). The surgeries were performed at the University of Rhode Island, College of Pharmacy
+animal facility with IACUC approval. Serum and liver were collected 10 d after surgery for
+analysis.
+2.2.2 Experimental Design 2-The goal of experimental design 2 was to investigate
+whether Nrf2 mediateschanges in liverFmo3 gene expression. APAP was used as a model
+toxicant for Nrf2 activation.Nrf2 KO mice with a C57BL/6J background werekindly
+provided by Dr. Angela Slitt from the University of Rhode Island.Following overnight
+fasting, male Nrf2KO mice (n=6) and their wild-type counterparts (C57BL/6J) (n=6) were
+treated with APAP (400 mg/kg, ip) in 50% PG or vehicle (dosing volume: 5 mL/kg). Plasma
+and livers were collected 72h after APAP treatment for analysis.
+All animal studies were performed in accordance with National Institute of Health standards
+and the Guide for the Care and Use of Laboratory Animals. This work was approved by the
+University of Connecticut's Institutional Animal Care and Use Committee.
+2.3 Alanine Aminotransferase (ALT) Assay
+Plasma or serum ALT activity was determined as a biochemical indicator of hepatocellular
+injury. Infinity ALT Liquid Stable Reagent (Thermo Fisher Scientific Inc., Waltham, MA)
+was used to determine ALT activity. Briefly, 100 μL of reagent was added to 10 μL serum or
+plasma samples, and absorbance was measured spectrophotometrically at 340 nmusing a
+Bio-Tek Power Wave X Spectrophotometer. ALT activity (IU/L) was determined using the
+molar extinction coefficient of NADH (6.3 mM−1cm−1).
+2.4 Total Bile acid Assay
+Total bile acids were extracted from whole liver homogenates using a t-butanol extraction
+method. Briefly, livers were homogenized in extraction solution (1:1, water: tbutanol) and
+bile acids extracted overnight at room temperature in the dark. Blood levels of total bile acid
+and hepatic bile acid levels were measured using a spectrophotometric bile acid assay kit
+(Bioquant, San Diego, CA) according to manufacturer's protocol.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+2.5 RNA Isolation and Quantitative Real-Time Polymerase Chain Reaction (qRT-PCR)
+Total RNA was extracted from mouse liver samples using TRIzol reagent (Life
+Technologies, Carlsbad, CA) according to the manufacturer's instructions. Total RNAwas
+then reverse-transcribed into cDNA using an M-MLV RT kit (Invitrogen, Carlsbad, CA).
+Fmo3 mRNA expression was quantified by the ΔΔCT method and normalized to two
+housekeeping genes, β-actin and ribosomal protein S18. Data presented were normalized to
+β-actin. Primer pairs were synthesized by Integrated DNA Technologies (Coralville, IA) and
+are as follow: Fmo3 forward: 5′-GGA AGA GTT GGT GAA GAC CG-3′, reverse: 5′-CCC
+ACA TGC TTT GAG AGG AG-3′. Amplification was performed using an Applied
+Biosystems 7500 Fast Real-Time PCR System. Amplification was carried out in a 20μL
+reaction volume containing 8 μL diluted cDNA, Fast SYBR Green PCR Master Mix
+(Applied Biosystems, Foster City, CA) and 1μM of each primer.
+2.6 Preparation of Microsomal Fraction and Western Blot Analysis
+Microsomes were isolated from livers as described previously (Cashman &Hanzlik, 1981;
+Rudraiah et al., 2014) and stored at −80°C until use. Protein concentration was determined
+by the method of Lowry using Bio-Rad protein assay reagents (Bio-Rad Laboratories,
+Hercules, CA). For western blot analysis, microsomal proteins (10 μg) were
+electrophoretically resolved using 10% polyacrylamide gels and transferred onto PVDF-Plus
+membrane (Micron Separations, Westboro, MA). Membranes were blocked with 5 % 
+nonfat powdered milk in tris buffered saline containing 0.05% tween-20(TBS-T) for 8 h. A
+rabbit anti-mouse Fmo3 primary antibody (GenScript USA Inc., NJ) (1:5000) was used to
+detect Fmo3 with β-actin as a loading control. Blots were then incubated with HRP
+conjugated secondary antibodies against rabbit IgG (1:2000) (Sigma-Aldrich, St Louis,
+MO). Protein-antibody complexes were detected using a chemiluminescent kit (Thermo
+Scientific, IL) with visualization using GeneMate blue autoradiography film (Bioexpress,
+Kaysville, UT). Precision plus protein dual color standards molecular weight marker (Bio-
+radLaboratories, Hercules, CA) was used to identify Fmo3 protein on the blot and
+microsomal protein isolated from naïve female mouse liver was used as a positive control.
+2.7 Enzyme Assay
+Methimazole (MMI) metabolism was determined spectrophotometrically by measuring the
+rate of MMI S-oxygenation via the reaction of the oxidized product with nitro-5-
+thiobenzoate (TNB) to generate 5,5’-dithiobis(2-nitrobenzoate) (DTNB). The incubation
+mixture consisted of 50 mM sodium phosphate buffer (pH 9.0), 0.5 mM NADP+, 0.5 mM
+glucose-6-phosphate, 1.5 IU/mL glucose-6-phosphate dehydrogenase, 0.06 mM DTNB, 0.04
+mMdithiothreitol and 100 to 150 μg/mL liver microsomes isolated from mice. Reactions
+were initiated by the addition of different amounts of MMI (substrate), with a concentration
+range from 1.25 to 800 μM. Incubations were done in duplicates. The disappearance of the
+yellow color was measured spectrophotometrically at 412 nm and specific activity
+(μM/min/mg) was determined using the molar extinction coefficient of NADPH (28.2
+mM−1cm−1).
+Page 6
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+2.8 Statistical Analysis
+Page 7
+The statistical significance between groups was determined using the Student's t-test, 
+one-way ANOVA with Dunnett's post-hoc test or two-way ANOVA followed by the
+Bonferroni'spost-hoc test. While Student's t-test was used to compare means of two different
+treatment groups, ANOVA was used to compare the means of more than two treatment
+groups that are normally distributed with a common variance. All statistical analysis was
+performed using GraphPad Prism version 4.00 for Macintosh (GraphPad Software, Inc., San
+Diego, CA). Data are presented as mean ± standard error (SE), with p<0.05 considered
+statistically significant.
+
+>>>section: fulltext
+HHS Public Access
+Author manuscript
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Published in final edited form as:
+Toxicology. 2014 November 5; 325: 85-95. doi:10.1016/j.tox.2014.08.013.
+Differential Fmo3 Gene Expression in Various Liver Injury
+Models Involving Hepatic Oxidative Stress in Mice
+Swetha Rudraiaha, Jamie E. Moscovitzb, Ajay C. Donepudid, Sarah N. Campionc, Angela L.
+Slittd, Lauren M. Aleksunesb, and José E. Manautoua
+aDepartment of Pharmaceutical Sciences, University of Connecticut, Storrs, CT, USA
+bDepartment of Pharmacology and Toxicology, Rutgers UniversityErnest Mario School of
+Pharmacy, Piscataway NJ, USA
+cDrug Safety Research and Development, Pfizer, Inc., Groton, USA
+dDepartment of Biomedical and Pharmaceutical Sciences, University of Rhode Island, Kingston,
+RI, USA
+Abstract
+Flavin-containing monooxygenase-3 (FMO3) catalyzes metabolic reactions similar to cytochrome
+P450 monooxygenase however, most metabolites of FMO3 are considered non-toxic. Recent
+findings in our laboratory demonstrated Fmo3gene induction following toxic acetaminophen
+(APAP) treatment in mice.The goal of this study was to evaluate Fmo3gene expression in
+diverseother mouse models of hepatic oxidative stress and injury. Fmo3 gene regulation by Nrf2
+was also investigated using Nrf2 knockout (Nrf2 KO) mice. In our studies, male C57BL/6J mice
+were treated with toxic dosesof hepatotoxicants or underwent bile duct ligation (BDL, 10d).
+Hepatotoxicants included APAP (400 mg/kg, 24 to 72h), alpha-naphthylisothiocyanate (ANIT; 50
+mg/kg, 2 to 48h), carbontetrachloride (CCl4;10 or 30 μL/kg, 24 and 48h) and allyl alcohol (AlOH;
+30 or 60 mg/kg, 6 and 24h). Because oxidative stress activates nuclear factor (erythroid-derived
+2)-like 2 (Nrf2), additional studies investigated Fmo3 gene regulation by Nrf2 using Nrf2
+knockout (Nrf2 KO) mice. At appropriate time-points, blood and liver samples were collected for
+assessment of plasma alanine aminotransferase (ALT) activity, plasma and hepatic bile acid
+levels, as well as liver Fmo3 mRNA and protein expression. Fmo3 mRNA expression increased
+© 2014 Elsevier Ireland Ltd. All rights reserved.
+Corresponding  Author:  Dr.  José  E.  Manautou  Toxicology  Program,  Department  of  Pharmaceutical  Sciences,  School  of  Pharmacy,
+University  of  Connecticut,  69  North  Eagleville  Road,  Unit  3092,  Storrs,  CT  06269-3092  Phone:  (860)  486-3852  Fax:  (860)  486-5792
+jose.manautou@uconn.edu.
+swetha.rudraiah@uconn.edu
+jamie.moscovitz@rutgers.edu
+ajaydonepudi@gmail.com
+sarah.campion@pfizer.com
+angela_slitt@ds.uri.edu
+aleksunes@eohsi.rutgers.edu
+Publisher's  Disclaimer:  This  is  a  PDF  file  of  an  unedited  manuscript  that  has  been  accepted  for  publication.  As  a  service  to  our
+customers  we  are  providing  this  early  version  of  the  manuscript.  The  manuscript  will  undergo  copyediting,  typesetting,  and  review  of
+the  resulting  proof  before  it  is  published  in  its  final  citable  form.  Please  note  that  during  the  production  process  errors  may  be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Conflict of interest
+The authors declare that there are no conflicts of interest.
+Rudraiah et al.
+Page 2
+significantly by 43-fold at 12h after ANIT treatment,and this increase translates to a 4-fold change
+in protein levels. BDL also increased Fmo3 mRNA expression by 1899-fold, but with no change
+in protein levels. Treatment of mice with CCl4decreased liver Fmo3gene expression, whileno
+change in expression was detected with AlOH treatment. Nrf2 KO mice are more susceptible to
+APAP (400 mg/kg, 72h) treatment compared to their wild-type (WT) counterparts, which is
+evidenced by greater plasma ALT activity. Fmo3 mRNA and protein expression increased in Nrf2
+KO mice after APAP treatment. Collectively, not all hepatotoxicantsthat produce oxidative stress
+alter Fmo3gene expression. Along with APAP, toxic ANIT treatment in mice markedly
+increasedFmo3 gene expression. While BDL increased Fmo3 mRNA expression, protein level did
+not change. The discrepancy with Fmo3 induction in cholestatic models, ANIT and BDL, is not
+entirely clear. Results from Nrf2 KO mice with APAP suggest that the transcriptional regulation
+of Fmo3 during liver injury may not involve Nrf2.
+Keywords
+Flavin-containing monoxygenase-3; Hepatotoxicants; Acetaminophen; 
+Alpha-naphthylisothiocyanate; Bile duct ligation; Carbon tetrachloride; Allyl alcohol; Oxidative stress;
+Nrf2
+1. Introduction
+Drug-induced liver injury (DILI) is a significant challenge for both drug development and
+clinical care. It accounts for more than 50% of all acute liver failure cases in the U.S.
+(Larson et al., 2005; W. M. Lee, 2010). Many chemicals, such as acetaminophen (APAP),
+carbontetrachloride (CCl4) and allyl alcohol (AlOH) have been used to model hepatotoxicity
+relevant to human exposure. Alpha-naphthylisothiocyanate (ANIT) and bile duct ligation
+(BDL) on the other hand are used to model cholestasis, a pathological condition caused by
+impairment of hepatic bile flow. While ANIT produces intrahepatic cholestasis, BDL
+produces extrahepatic cholestasis. With APAP and CCl4, the parent compound is
+metabolized by cytochrome P450 (CYP) to generate reactive metabolites, N-acetyl-p-
+benzoquinone imine (NAPQI) and tricholoromethyl radical (·CCl3), respectively.AlOHin
+turn is metabolized in the liver by alcohol dehydrogenase to its reactive metabolite, acrolein.
+The glutathione adductof acrolein is converted by CYPs to glycidaldehyde. Toxicity
+resulting from these reactive metabolites is multifactorial and includes lipid peroxidation,
+generation of oxidative stress, altered cellular redox status and protein adduct
+formation(Burcham & Fontaine, 2001; Cohen et al., 1997; Jaeschke et al., 2012; Ohno et al.,
+1985; Tom et al., 1984). During cholestasis resulting from either BDL or ANIT treatment,
+increase in bile acid concentration stimulates production of reactive oxygen species
+eventually leading to hepatocellular necrosis and apoptosis (Sokol et al., 1995; Trauner et
+al., 1998).
+The role of nuclear factor (erythroid-derived 2)-like 2 (Nrf2) role as a master defense against
+hepatotoxicity produced by various chemicals has been investigated in several studies. Nrf2
+belongs to the cap ‘n’ collar family of transcription factors that promotes transcription of a
+battery of cytoprotective genes(Aleksunes & Manautou, 2007; Kensler et al., 2007). Under
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 3
+basal conditions, Nrf2 is largely bound to the cytoskeletal anchoring protein Kelch-like
+ECH-associated protein 1 (Keap1) also known as cytosolic Nrf2 inhibitor in the
+cytoplasm.In response to oxidative stress, Nrf2 is released from Keap1 andtranslocatesto the
+nucleus. In the nucleus, Nrf2 binds to the GTGACA***GC core sequence of the antioxidant
+response element (ARE) (Rushmore et al., 1991) and promotes ARE-mediated antioxidant
+gene expression.
+A low toxic APAP dose causes nuclear accumulation of Nrf2 in mouse liver, which is
+accompanied by increased expression of Nrf2 dependent cytoprotectivegenes such as heme
+oxygenase-1 (Hmox1), NAD(P)H:quinone oxidoreductase-1 (Nqo1) and glutamate cysteine
+ligase catalytic subunit (Gclc) (Aleksunes et al., 2005; Aleksunes et al., 2006; Bauer et al.,
+2000; Chiu et al., 2002; Goldring et al., 2004). Similar results have been reported with
+ANIT, BDL, CCl4 and AlOH, other models of hepatic oxidative stress used in the present
+study(Aleksunes et al., 2005; Aleksunes et al., 2006; Liu et al., 2013; Randle et al., 2008;
+Tanaka et al., 2009). On the other hand, Nrf2 KO mice are more susceptible to 
+APAP-induced liver injury compared to their wild-type counterparts (Chan et al., 2001; Enomoto et
+al., 2001). Likewise, Nrf2 KO mice arealso more susceptible to CCl4- andAlOH-induced
+hepatoxicity compared towild-type mice (Liu et al., 2013). However, Nrf2 KO mice do not
+exhibit any difference in susceptibility to either BDL or ANIT treatment(Tanaka et al., 2009;
+Weerachayaphorn et al., 2012). This response is attributed to the adaptive compensatory
+changesinvolving nuclear transcription factors, including Fxr, Shp, Pxr andHnf1α, efflux
+bile acid transporters, altered GSH levels and bile flow rates in Nrf2 KO mice (Tanaka et al.,
+2009; Weerachayaphorn et al., 2012). Collectively, the models of hepatic injury selected for
+the current study not only result in hepatic oxidative stress but also activate the Nrf2-Keap1
+regulatory pathway.
+Despite Fmo3 being considered non-inducible, studies with aryl hydrocarbon receptor
+(AhR) agonists in mice revealed liver Fmo3 gene induction (Celius et al., 2008; Celius et al.,
+2010). A recent gene array analysis performed in our laboratory also demonstrated Fmo3
+gene induction in the APAP autoprotection mouse model (mice receiving a low hepatotoxic
+APAP dose that become resistant to a subsequent higher APAP dose)(O'Connor et al.,
+2014).Unlike with AhR agonists that result in marginal increases in Fmo3 protein expression
+in mouse liver, we showed significant increases in Fmo3 protein levels by 15-fold in APAP
+autoprotectedmice(Rudraiah et al., 2014). Fmo3 induction by other hepatotoxicants that
+produce oxidative stress is not currently known.
+In human liver, transcription factors regulating constitutive FMO3expression as well as
+those involved in developmental expression pattern have been extensively studied (Klick &
+Hines, 2007; Klick et al., 2008; Shimizu et al., 2008). Because the mammalian FMOs were
+considered non-inducible by xenobiotics (Cashman & Zhang, 2002; Krueger & Williams,
+2005), the transcriptional regulation of FMO involving stress-activated transcription
+factorsor receptors that bind ligands andinteract with DNAwas not studied as other forms of
+regulation. Thus, little is known about the transcriptional regulation of Fmo3 in response to
+toxicant exposure. Recently, Celius et al. (2010) showed that the Fmo3 mRNA up-regulation
+by 3-methylcholanthrene (3MC) and benzo(a)pyrene (BaP) but not TCDD in Hepa-1 cells is
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 4
+mediated by p53 and its binding to a p53-response element in the promoter region of
+Fmo3(Celius et al., 2010).
+Differentially expressed genes in the APAP autoprotection model were further analyzed
+usingCausal Reasoning Engine (CRE), a recently developed computational platform
+(O'Connor et al., 2014). CRE analysis provides hypotheses on the upstream molecular
+events that best explain gene expression profiles based on prior biological knowledge. CRE
+analysis of differentially expressed genes in APAP autoprotection study supportsan
+induction of the Nrf2 pathway (O'Connor et al., 2014). Additionally, the 5'-flanking region
+of the mouse Fmo3 contains multiple copies of the ARE (Celius et al., 2008). Therefore, the
+purpose of the present study was to investigate liver Fmo3gene expression under oxidative
+stress conditions involving activation of the Nrf2-Keap1 regulatory pathway. Mice were
+dosed with hepatotoxicants APAP(400 mg/kg, 24 to 48h), ANIT (50 mg/kg, 2 to 48h),
+CCl4(10 or 30 μL/kg, 24 and 48h) or AlOH (30 or 60 mg/kg, 6 and 24h)orunderwent sham
+surgery or bile duct ligation (10d). Doses selected for hepatotoxicants are based upon
+previous studies conducted in our laboratory resulting in oxidative stress and tissue injury.
+The inclusion of multiple time-points followinghepatotoxicantsexposure enabled
+comprehensive characterization of temporal changes in Fmo3 in relation to injury and
+recovery. Further, in order to investigate whether Nrf2 mediatesFmo3 gene expression, Nrf2
+KO mice were employed. APAP was used as a model toxicant in the Nrf2 KO mice study.
+From these experiments,it is concluded that not all hepatotoxicantsthat produce oxidative
+stress in mice induce liver Fmo3 gene expression. Toxic ANIT treatment, along with the
+previously demonstrated APAP treatment, markedly increases Fmo3 gene expression. While
+BDL increases Fmo3 mRNA expression, protein levels do not change.APAP treatment
+induces Fmo3 gene expression in Nrf2 KO mice liver suggesting that the transcriptional
+regulation of Fmo3 might not involve Nrf2.
+2. Materials and Methods
+2.1. Chemicals
+glycol and corn oil were purchased from Sigma-Aldrich (St Louis, MO). All other reagents
+were of reagent grade or better and commercially available.
+2.2. Animals
+libitum.
+Acetaminophen, alpha-naphthylisothiocyanate, carbon tetrachloride, allyl alcohol, propylene
+Male C57BL/6J mice (9- to10-week old)were purchased from Jackson Laboratories (Bar
+Harbor, ME) for this study. Upon arrival, mice were acclimated for one week prior to
+experimentation. Mice were housed in a temperature-, light- and humidity-controlled
+environment. Mice were fed laboratory rodent diet (Harlan Teklad 2018, Madison, WI) ad
+2.2.1 Experimental Design 1-The primary objective of experimental design 1 was to
+evaluate liver Fmo3 gene expression under oxidative stress conditions involving activation
+of the Nrf2-Keap1 regulatory pathway. All hepatotoxicant treatments were performed after
+an overnight fast, and mice were re-fed 8 h after treatment. Each treatment group consisted
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 5
+of six mice. For APAP treatment, mice were treated with APAP (400 mg/kg, ip) in 50%
+propylene glycol or vehicle only (dosing volume: 5 mL/kg). Animals were sacrificed by
+decapitation at 24, 48 and 72 h after treatment and blood and livers were collected for
+analysis. For ANIT treatment, mice were administered ANIT (50 mg/kg, po) in corn oil or
+vehicle only (dosing volume: 10 mL/kg). At 2, 4, 8, 12, 24 and 48 h after treatment, mice
+were sacrificed by decapitation for collecting samples. For CCl4 treatment, groups of mice
+were injected CCl4 (10 or 30 μL/kg, ip) in corn oil or vehicle only (dosing volume: 6
+mL/kg) and 24 and 48 h after treatment, mice were sacrificed by decapitation to collect
+blood and livers for analysis. For AlOH treatment, mice were administered AlOH (30 or 60
+mg/kg, ip) in saline or vehicle only (dosing volume: 10 mL/kg). Animals were sacrificed by
+decapitation at 6 and 24 h after treatment for sample collection and analysis. BDL liver
+samples were obtained from a previously described cohort (Donepudi et al., 2012). Briefly,
+sham or BDL surgery was performed under phenobarbital-induced anesthesia (65 mg/kg,
+ip). The surgeries were performed at the University of Rhode Island, College of Pharmacy
+animal facility with IACUC approval. Serum and liver were collected 10 d after surgery for
+analysis.
+2.2.2 Experimental Design 2-The goal of experimental design 2 was to investigate
+whether Nrf2 mediateschanges in liverFmo3 gene expression. APAP was used as a model
+toxicant for Nrf2 activation.Nrf2 KO mice with a C57BL/6J background werekindly
+provided by Dr. Angela Slitt from the University of Rhode Island.Following overnight
+fasting, male Nrf2KO mice (n=6) and their wild-type counterparts (C57BL/6J) (n=6) were
+treated with APAP (400 mg/kg, ip) in 50% PG or vehicle (dosing volume: 5 mL/kg). Plasma
+and livers were collected 72h after APAP treatment for analysis.
+All animal studies were performed in accordance with National Institute of Health standards
+and the Guide for the Care and Use of Laboratory Animals. This work was approved by the
+University of Connecticut's Institutional Animal Care and Use Committee.
+2.3 Alanine Aminotransferase (ALT) Assay
+Plasma or serum ALT activity was determined as a biochemical indicator of hepatocellular
+injury. Infinity ALT Liquid Stable Reagent (Thermo Fisher Scientific Inc., Waltham, MA)
+was used to determine ALT activity. Briefly, 100 μL of reagent was added to 10 μL serum or
+plasma samples, and absorbance was measured spectrophotometrically at 340 nmusing a
+Bio-Tek Power Wave X Spectrophotometer. ALT activity (IU/L) was determined using the
+molar extinction coefficient of NADH (6.3 mM−1cm−1).
+2.4 Total Bile acid Assay
+Total bile acids were extracted from whole liver homogenates using a t-butanol extraction
+method. Briefly, livers were homogenized in extraction solution (1:1, water: tbutanol) and
+bile acids extracted overnight at room temperature in the dark. Blood levels of total bile acid
+and hepatic bile acid levels were measured using a spectrophotometric bile acid assay kit
+(Bioquant, San Diego, CA) according to manufacturer's protocol.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+2.5 RNA Isolation and Quantitative Real-Time Polymerase Chain Reaction (qRT-PCR)
+Total RNA was extracted from mouse liver samples using TRIzol reagent (Life
+Technologies, Carlsbad, CA) according to the manufacturer's instructions. Total RNAwas
+then reverse-transcribed into cDNA using an M-MLV RT kit (Invitrogen, Carlsbad, CA).
+Fmo3 mRNA expression was quantified by the ΔΔCT method and normalized to two
+housekeeping genes, β-actin and ribosomal protein S18. Data presented were normalized to
+β-actin. Primer pairs were synthesized by Integrated DNA Technologies (Coralville, IA) and
+are as follow: Fmo3 forward: 5′-GGA AGA GTT GGT GAA GAC CG-3′, reverse: 5′-CCC
+ACA TGC TTT GAG AGG AG-3′. Amplification was performed using an Applied
+Biosystems 7500 Fast Real-Time PCR System. Amplification was carried out in a 20μL
+reaction volume containing 8 μL diluted cDNA, Fast SYBR Green PCR Master Mix
+(Applied Biosystems, Foster City, CA) and 1μM of each primer.
+2.6 Preparation of Microsomal Fraction and Western Blot Analysis
+Microsomes were isolated from livers as described previously (Cashman &Hanzlik, 1981;
+Rudraiah et al., 2014) and stored at −80°C until use. Protein concentration was determined
+by the method of Lowry using Bio-Rad protein assay reagents (Bio-Rad Laboratories,
+Hercules, CA). For western blot analysis, microsomal proteins (10 μg) were
+electrophoretically resolved using 10% polyacrylamide gels and transferred onto PVDF-Plus
+membrane (Micron Separations, Westboro, MA). Membranes were blocked with 5 % 
+nonfat powdered milk in tris buffered saline containing 0.05% tween-20(TBS-T) for 8 h. A
+rabbit anti-mouse Fmo3 primary antibody (GenScript USA Inc., NJ) (1:5000) was used to
+detect Fmo3 with β-actin as a loading control. Blots were then incubated with HRP
+conjugated secondary antibodies against rabbit IgG (1:2000) (Sigma-Aldrich, St Louis,
+MO). Protein-antibody complexes were detected using a chemiluminescent kit (Thermo
+Scientific, IL) with visualization using GeneMate blue autoradiography film (Bioexpress,
+Kaysville, UT). Precision plus protein dual color standards molecular weight marker (Bio-
+radLaboratories, Hercules, CA) was used to identify Fmo3 protein on the blot and
+microsomal protein isolated from naïve female mouse liver was used as a positive control.
+2.7 Enzyme Assay
+Methimazole (MMI) metabolism was determined spectrophotometrically by measuring the
+rate of MMI S-oxygenation via the reaction of the oxidized product with nitro-5-
+thiobenzoate (TNB) to generate 5,5’-dithiobis(2-nitrobenzoate) (DTNB). The incubation
+mixture consisted of 50 mM sodium phosphate buffer (pH 9.0), 0.5 mM NADP+, 0.5 mM
+glucose-6-phosphate, 1.5 IU/mL glucose-6-phosphate dehydrogenase, 0.06 mM DTNB, 0.04
+mMdithiothreitol and 100 to 150 μg/mL liver microsomes isolated from mice. Reactions
+were initiated by the addition of different amounts of MMI (substrate), with a concentration
+range from 1.25 to 800 μM. Incubations were done in duplicates. The disappearance of the
+yellow color was measured spectrophotometrically at 412 nm and specific activity
+(μM/min/mg) was determined using the molar extinction coefficient of NADPH (28.2
+mM−1cm−1).
+Page 6
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+2.8 Statistical Analysis
+Page 7
+The statistical significance between groups was determined using the Student's t-test, 
+one-way ANOVA with Dunnett's post-hoc test or two-way ANOVA followed by the
+Bonferroni'spost-hoc test. While Student's t-test was used to compare means of two different
+treatment groups, ANOVA was used to compare the means of more than two treatment
+groups that are normally distributed with a common variance. All statistical analysis was
+performed using GraphPad Prism version 4.00 for Macintosh (GraphPad Software, Inc., San
+Diego, CA). Data are presented as mean ± standard error (SE), with p<0.05 considered
+statistically significant.
+3. Results
+3.1 Plasma ALT Activity in the Mouse Liver Injury Models
+The time-points selected for the single dose APAP (400 mg/kg)treatment studyin mice were
+based on the previous studies that demonstrated Fmo3 mRNA and protein peaks at 48 h and
+72 h, respectively(O'Connor et al., 2014; Rudraiah et al., 2014). The hepatotoxicity of a
+single dose APAP (400 mg/kg) at 24, 48 and 72 h as assessed by plasma ALT activity has
+been reported previously (Rudraiah et al., 2014). Briefly, APAP increased plasma ALT
+activity to 191±18 and 219±47IU/L at 24 and 48 h, respectively (mean plasma ALT activity
+in control mice was 25±5IU/L). Plasma ALT activity was not statistically different from
+vehicle controlsby 72 h, indicating recovery from APAP-induced liver injury.Plasma ALT
+activity in all mouse models of liver injury is shown in Figure 1. ANIT increased ALT
+activity at 12 h (182±9 IU/L), which continued to increase at 24 and 48 h (715±126 IU/L
+and 781±45 IU/L, respectively) compared to vehicle control group (9±1 IU/L). BDL for 10
+d results in an elevation of ALT activity to 185±10 IU/L. A high CCl4 dose (30 μL/kg)
+increased plasma ALT at 24 and 48 h to 6367±1135 and 397±111 IU/L, respectively. A low
+CCl4 dose (10 μL/kg) also increased plasma ALT activity at 24 and 48 h to 757±106 and
+416±68 IU/L, respectively. The greatest increase in plasma ALT with both doses of CCl4 is
+observed at 24 h. While AlOHtreatment (low dose, 30 mg/kg) did not result in significant
+increases in ALT levels at 6 h and 24 h (36±4 and 73±24 IU/L, respectively),a high
+AlOHdose (60 mg/kg) results in significantly higher ALT levels at both 6 h and 24 h
+(153±50 and 4440±2428 IU/L, respectively). The associated histopathological damage with
+all hepatotoxicants has been reported previously(Aleksunes et al., 2005; Aleksunes et al.,
+2006; Campion et al., 2009; Donepudi et al., 2012; Rudraiah et al., 2014). With acute
+toxicity models, plasma ALT activity lesser than 1000 IU/L is usually associated with a
+minimal to mild hepatocellular damage (histological grade of 2 or less than 2), and an ALT
+activity higher than 1000 IU/L is associated with moderate, marked or severe hepatocellular
+damage (histological grade of 3, 4, or 5) (Aleksunes et al., 2008; Manautou et al., 1994).
+Alternatively, a 10 d BDL with an associated ALT activityof less than 200 IU/L, exhibit a
+chronic hepatocellular damage involving fibrosis (Donepudi et al., 2012).
+3.2 Hepatic Bile Acid Concentrations in the Mouse Liver Injury Models
+To determine the extent of cholestasis induced by different hepatotoxicants used in the
+current study, total hepatic bile acid levels were measured (Figure 2). As expected ANIT
+increased hepatic bile acid levels to 1.7±0.2 and 1.6±0.4 μmol/g at 24 and 48 h, respectively,
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 8
+compared to 0 h vehicle control group (0.2±0.02 μmol/g). BDL also increased hepatic bile
+acid concentrations to 19.49±0.85 μmol/100 mg compared to sham operated group
+(10.61±1.65 μmol/g). No significant changes were observed in mice treated with APAP,
+CCl4 and AlOH.
+3.3 Total bile Acid Concentrations in the Blood in the Mouse Liver Injury Models
+Bile acid concentration in plasma is also a biomarker of cholestasis. In order to determine
+the extent of cholestasis,plasma bile acid levels were also quantified in all mouse models of
+liver injury (Figure 3). Plasma bile acid concentration increased in ANIT treated mice at 24
+and 48 h to 210±20 and 330±128 μmol/L, respectively, compared with vehicle treated mice
+(2±0.2 μmol/L). Bile duct ligation significantly increased serum bile acid levels to 1359±142
+μmol/L compared to sham operated mice (86±11 μmol/L). Significant increases in plasma
+bile acid concentrationsare seen in high dose CCl4 treated mice at both 24 and 48 h (112±15
+μmol/Land 29±2 μmol/L, respectively). Exposure to APAP and AlOH did not result in any
+significant change in plasma bile acid levels.
+3.4 Hepatic Fmo3 mRNA Expression in the Mouse Liver Injury Models
+Fmo3 mRNA levels were quantified by qRT-PCR and the results are presented in Figure 4.
+Fmo3 mRNA expression following a single dose APAP 400 mg/kg treatment has been
+previously reported (Rudraiah et al., 2014). Briefly, Fmo3 mRNA levelsincreased by 5±2.6-
+and 23±5.6-fold, at 24 and 48 h after APAP, respectively, compared to the 0 h control group.
+ANIT increased Fmo3 mRNA levels as early as 2 h after treatment. This increase peaked
+and is statistically significant only at 12 h (43±10-fold increase), compared to 0 h vehicle
+control group. BDL also increased Fmo3 mRNA expression by 1899±625-fold, compared to
+sham operated mice. Both the low and high dose of CCl4decreased Fmo3 mRNA levels at
+both time-points examined, and this decrease is statistically significant only at 48 h (10
+μL/kg: 0.2±0.06-fold and 30 μL/kg: 0.2±0.08-fold). No change in liver Fmo3 mRNA levels
+was observed with AlOH treatment.
+3.5 Fmo3 Protein Expression in the Mouse Liver Injury Models
+Temporal expression of the Fmo3 protein following exposure to hepatotoxicants and BDL
+were quantified by western blotting. Representative blots and associated densitometric
+analyses are shown in Figure 5. Fmo3 protein increase following APAP treatment has been
+previously reported (Rudraiah et al., 2014). Although the expression of Fmo3 protein tended
+to increase by 1.1±0.3-to 1.6±0.2-fold between 24 and 72 h after APAP, the increase is
+statistically significant only at 72h. Consistent with Fmo3 mRNA changes evidenced with
+ANIT treatment, Fmo3 protein levels also tend to increase as early as 2 h. However, this
+increase is significant only at 12 h (3.5±0.9-fold) compared to 0 h vehicle treated group.
+Fmo3 protein levels decreased to 0.7±0.08- and 0.3±0.1-fold at 24 and 48h, respectively,
+after exposure to ANIT. Conversely, in spite of the dramatic increase in Fmo3 mRNA levels
+after BDL, Fmo3 protein levels did notchange. No significant changes in Fmo3 protein
+expression are observed with CCl4 orAlOH treatment.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+3.6 Plasma ALT Activity and Fmo3 mRNA Levels after APAP Treatment in Wild-Type and
+Nrf2 Knockout Mice
+All models of hepatic injury used in the current study activate the Nrf2-Keap1 regulatory
+pathway. Furthermore, CRE analysis of differentially expressed genes in our APAP
+autoprotection study supportedan induction of the Nrf2 pathway (O'Connor et al., 2014). To
+investigate whether Nrf2 mediatesFmo3 gene expression, APAP was used as a model
+toxicant for Nrf2 activation in Nrf2 KO and WT mice. Mice were administered a single 400
+mg/kg APAP dose for 72 h. Dose and time-point selected were based on our single dose
+APAP study performed previously (Rudraiah et al., 2014), wherea 400 mg/kg APAP
+treatment increased Fmo3 protein levels at 72 h. Administration of 400 mg/kg APAP to
+male C57Bl/6J WT mice did not resultin significantlydifferent plasma ALT values at 72 h
+from vehicle controls. This is consistent with the previously reported results, indicating
+recovery from APAP-induced liver injury and increased Fmo3 protein expression in WT
+mice (Rudraiah et al., 2014). In contrast, plasma ALT activity is elevated at 72 h in Nrf2 KO
+mice receiving the same dose of APAP (176±12 IU/L) compared to vehicle control group
+(23±5 IU/L) (Figure 6A). This is again consistent with the literature and confirms that Nrf2
+plays animportant role not only in the magnitude of toxicity, but also the degree and rate of
+recovery from APAP-induced liver injury. Fmo3 mRNA levels were quantified by 
+qRT-PCR. The results in Figure 6B show that there is no change in Fmo3 mRNA levels at 72 h in
+wild-type mice administered 400 mg/kg APAP. This is again consistent with previous
+reports, where maximal Fmo3 mRNA expression is seen at 48 h after APAP administration
+and returns to normal by 72 h (Rudraiah et al., 2014). Notably, Fmo3 mRNA expression is
+significantly higherin Nrf2 KO mice 72 h after APAP treatment by 140±43-fold change
+compared to vehicle control group.
+3.7 Fmo3 Protein Expression after APAP Treatment in Wild-Type and Nrf2 Knockout Mice
+To examine the temporal changes in Fmo3 gene expression following APAP treatment in
+WT and Nrf2 KO mice, Fmo3 protein levels were quantified by western blotting and by
+measuring catalytic activity using MMI as substrate. Representative blots and associated
+densitometric analysis are shown in Figure 7A. Consistent with increased Fmo3 mRNA
+expression in Nrf2 KO mice administered APAP (400 mg/kg) at 72 h, Fmo3 protein levels
+are also significantly higher (5.1±1.3-fold) compared to vehicle control group. Measuring
+FMO catalytic activity using MMI can also quantitate Fmo3 protein induction(Zhang et al.,
+2007). FMO specific activity increased significantly in Nrf2 KO livers (48±6±M/min/mg) at
+72 h after APAP compared to vehicle controls of either genotype (Figure 7B).
+Page 9
+4. Discussion
+FMO3 is a microsomal enzyme involved in the oxygenation of lipophilic substrates to more
+polar metabolites. Substrates include nitrogen-, sulfur- and phosphorous-containing drugs
+and xenobiotics, and most metabolic products of Fmo3 are considered to be 
+non-toxic(Krueger & Williams, 2005). Although FMOs were discovered in the 1960s (Miller et
+al., 1960) and further purified in 1972 (Ziegler & Mitchell, 1972), it was not until 2008 that
+Fmo3 induction by xenobiotics was demonstrated (Celius et al., 2008; Celius et al., 2010). In
+these studies, in spite ofa very large increase in Fmo3 mRNA level by AhR agonist
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 10
+treatment, only a modest increase in protein level and function was reported. A gene array
+analysis performed in our laboratory also demonstrated Fmo3gene induction in the mouse
+model of APAP autoprotection(O'Connor et al., 2014). In this APAP autoprotection mouse
+model, we showed a significant increase in Fmo3 protein expression and function (Rudraiah
+et al., 2014). Constitutive Fmo3 expression in a female mouse liver is localized in the areas
+surrounding the periportal region (Janmohamed et al., 2004; Rudraiah et al., 2014).
+Following APAP exposure, the Fmo3 protein expression in APAP autoprotected livers was
+observed in the centrilobular regions where APAP-induced damage and/or hepatocellular
+compensatory proliferation is detected. Furthermore, we show that the enhanced expression
+of Fmo3 confers resistance against APAP-induced hepatotoxicity in mice (Rudraiah et al.,
+2014).
+In the present study, the effect of various other hepatotoxicants on Fmo3 gene expression in
+male C57BL/6J mouse liver was examined. A unifying theme for all hepatotoxicants used in
+our study is the oxidative stress. These models of oxidative stress used are very well studied
+with respect to activation of Nrf2-Keap1 regulatory pathway. This has been
+repeatedlydemonstrated in our laboratory and in the literature (Aleksunes et al., 2005;
+Aleksunes et al., 2006; Aleksunes et al., 2006; Bauer et al., 2000; Chiu et al., 2002; Goldring
+et al., 2004; Liu et al., 2013; Randle et al., 2008; Tanaka et al., 2009). Thus, we were
+confident that the treatments selected result in oxidative stress and therefore the need for
+measuring markers of oxidative stress for each experimentalgroup of hepatotoxicity was not
+deemed necessary.
+Coincidentally, all of the hepatotoxicants selected produce cholestasis, with the exception of
+AlOH(Donepudi et al., 2012; Tanaka et al., 2009; Weerachayaphorn et al., 2012; Yamazaki
+et al., 2013). Furthermore, perturbation of bile acid homeostasis has been demonstrated to be
+an early event in the pathogenesis of drug induced liver injury(Yamazaki et al., 2013). To
+determine whether accumulation of bile acids is a signaling event regulating Fmo3, we
+measured total hepatic and plasma bile acid levels. Consistent with the literature, ANIT and
+BDL increased plasma and hepatic bile acid concentrations. A high CCl4dose did not
+significantly alter liver bile acid levels, but significantly increased plasma bile acid
+concentration. APAP tended to increase both hepatic and plasma bile acid concentrations,
+but this is not statistically significant.
+In general, ANIT and BDL-mediated damage significantly increased liver Fmo3 mRNA
+expression. While CCl4-mediated liver injury significantly decreased Fmo3 mRNA
+expression, no change in expression is evidenced with AlOH. Fmo3 mRNA expressionin
+response to ANIT treatment precedes serum and hepatic bile acid accumulation and the
+maximal Fmo3 expression (both mRNA and protein) parallels the mild hepatocellular
+damage observed. This observation argues against the concept that hepatic bile acid
+accumulation is a pre-requisite for Fmo3 gene expression changes in the ANIT model. With
+BDL, unlike ANIT, Fmo3 mRNA induction is associated with higher serum and hepatic bile
+acid levels, but protein level does not change. Since tissues were analyzed 10 days after
+BDL, we do not have a sense of what the temporal relationship is between hepatic bile acid
+accumulation and elevated Fmo3 mRNA induction. This relationship deserves further
+attention based on the discussion of FXR signaling that can be found below.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 11
+Overt ANIT-induced hepatocellular damage at 24 and 48 h decreased Fmo3 gene expression
+and the decease is statistically significant at 48 h compared to the 12 h ANIT-treated group.
+This observation with respect to the relationship between plasma ALT level and Fmo3 gene
+expression is consistent with our results with APAP hepatotoxicity. We have demonstrated
+in our APAP autoprotection mouse model that the APAP (400 mg/kg) pretreated group as
+well as the autoprotected group (APAP pretreatment: 400 mg/kg, APAP challenge: 600
+mg/kg) exhibit average plasma ALT values of about 250 IU/L and Fmo3 protein induction.
+The group that receives a toxic APAP dose of 600 mg/kg exhibits much greater average
+plasma ALT activity of about 1600 IU/L, but no Fmo3 gene induction (Rudraiah et al.,
+2014).
+One key feature that is consistent with APAP-, BDL- and ANIT-induced liver injury and
+enhanced Fmo3 gene expression is the magnitude in plasma ALT elevations. Mild ALT
+elevation is the common feature for all three models where Fmo3 mRNA induction is
+observed. Although BDL is a chronic injury model, it well known that the ALT values do
+not correlate well with the severity of liver damage particularly during fibrotic
+hepatocellular necrosis (Kallai et al., 1964). A similar clinical feature is also seen in cases of
+primary biliary cirrhosis (BDL models primary biliary cirrhosis in humans) (Hohenester et
+al., 2009). The lack of Fmo3 protein detection during BDL may be due to signal dilution by
+fibrotic liver tissue. It is also possible that under oxidative stress conditions some proteins
+involved in translation are oxidized in vivo inhibiting translation (Shenton et al., 2006). To
+add to this complexity, in spite of lower plasma ALT activity at 24 h (low dose CCl4), and
+48 h (both high and low dose CCl4) with CCl4, there is down-regulation of Fmo3 gene
+expression. In AlOH-treated livers, lower plasma ALT activity did not show any change in
+Fmo3 gene expression. This is suggestive of an unknown underlying mechanism unique to
+APAP, ANIT and BDL, which is contributing to Fmo3 mRNA induction. Studies are
+necessary to investigate the regional distribution of Fmo3 protein expression during 
+ANIT-and BDL-induced liver injury to determine whether the protein expression in these models is
+localized to the portal vein, where ANIT- and BDL-induced hepatotoxicity is confined.
+Collectively, these data suggest that there is a threshold for degree of hepatic injury that
+results in increased Fmo3 gene and protein expression.More specifically,these data suggest
+that acute moderate or mild hepatotoxicity is optional for Fmo3 induction, while chronic,
+severe hepatotoxicity is not.
+As discussed before, all models of hepatic injury used in the current study result in hepatic
+oxidative stress and activate the Nrf2-Keap1 regulatory pathway. Importantly, CRE analysis
+of differentially expressed genes in our APAP autoprotection study supportedan induction of
+the Nrf2 pathway (O'Connor et al., 2014). Additionally, Celius et al. (2008) showed that the
+5'-flanking region of the mouse Fmo3 contains multiple copies of the ARE (Celius et al.,
+2008). Promoter analysis of mouse Fmo3 promoter (7 kb length)using MatInspector
+software (Genomatix, Munich, Germany), also showed an ARE at about 3 kb from the
+transcription start site (data not shown). We also found two other binding sites for Bach1, at
+600 bp and 2 kb from the Fmo3 transcription start site (data not shown). Bach1 is a
+regulatory mediator of Nrf2, in that it is a transcription repressor. Bach1 heterodimerizes
+with small Maf proteins in the absence of cellular stress and represses gene expression. In
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 12
+the presence of oxidative stress, Bach1 is released from the Maf proteins and is replaced by
+Nrf2(Kaspar et al., 2009). Thus, using APAP as a model toxicant for Nrf2 activation, Fmo3
+gene expression was evaluated inNrf2 KO mice. Compared to APAP-treated wild-type mice,
+Nrf2 KO mice exhibit persistent and significant hepatocellular damage 72 h after APAP
+administration. Nrf2 KO mice are not only more susceptible to APAP-induced
+hepatocellular necrosis, but also fail to recover from injury as rapidly as the WT mice. This
+is consistent with the literature that describes Nrf2 as a master regulator of many
+cytoprotective genes involved in APAP-induced hepatotoxicity (Aleksunes et al., 2005;
+Aleksunes et al., 2006; Bauer et al., 2000; Chiu et al., 2002; Goldring et al., 2004). Finally,
+Fmo3 gene induction by APAP treatment in Nrf2 null mice suggests that the transcriptional
+regulation of Fmo3does not involve this transcription factor. The persistent mild
+hepatocellular injury and oxidative stress in Nrf2 KO mice most likely activates other
+signaling mechanisms involved in Fmo3 gene induction.
+Future studies will investigate the role of other nuclear receptors in Fmo3 gene induction.
+Particularly, farnesoid X receptor (FXR) role in Fmo3 gene induction during APAP
+hepatotoxicity is worth investigating. FXR is one of the major bile acid sensors in the liver
+(Chiang, 2002) and plays a protective role during cholestasis development. Recently, it is
+shown that activation of FXR induces Fmo3 protein function (Bennett et al., 2013).
+Activation of FXR also provides protection against APAP-induced hepatotoxicity(F. Y. Lee
+et al., 2010). In addition, we discovered three binding sites for farnesoid X receptor-response
+element (FXRE) at about 1.6, 2.1 and 3.3 kb from the transcription start site on the mouse
+Fmo3 promoter (data not shown). Although, Pregnane X receptor (PXR) is also a bile acid
+sensor, no binding sites for PXR were found on promoter analysis and furthermore, PXR
+activation sensitizes APAP-induced hepatotoxicity (Cheng et al., 2009; Guo et al., 2004).
+In conclusion, this study comprehensively characterizes for the first time temporal changes
+in Fmo3 gene expression during different conditions known to impart hepatic oxidative
+stress. In particular, we show that toxic ANIT and BDL significantly alter Fmo3 mRNA
+expression, but only Fmo3 protein with ANIT. The reason for this discrepancy is not yet
+clear or easy to rationalize. It is possible that Fmo3 is also protective during other 
+chemical-induced liver injury including ANIT. Even though the exact mechanism of Fmo3 gene
+expression or its role in protecting against toxicant-induced liver injury is not yet clear, the
+observed toxicity threshold for Fmo3 gene expression is intriguing. This work advances the
+lack of knowledge with regard to the inducibility of Fmo3 and its potential protective role in
+drug-induced liver injury.
+Acknowledgements
+This work is supported by the National Institutes of Health Grant (DK069557).
+Abbreviations
+Fmo3
+APAP
+Flavin-containing monoxygenase-3
+Acetaminophen
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+ANIT
+BDL
+CCl4
+AlOH
+Nrf2
+Alpha-naphthylisothiocyanate
+Bile duct ligation
+Carbon tetrachloride
+Allyl alcohol
+Nuclear factor (erythroid-derived 2)-like 2
+Page 13
+References
+Aleksunes LM, Campion SN, Goedken MJ, Manautou JE. Acquired resistance to acetaminophen
+hepatotoxicity is associated with induction of multidrug resistance-associated protein 4 (Mrp4) in
+proliferating hepatocytes. Toxicological Sciences : An Official Journal of the Society of
+Toxicology. 2008; 104(2):261-273. [PubMed: 18468992]
+Aleksunes LM, Manautou JE. Emerging role of Nrf2 in protecting against hepatic and gastrointestinal
+disease. Toxicologic Pathology. 2007; 35(4):459-473. [PubMed: 17562481]
+Aleksunes LM, Scheffer GL, Jakowski AB, Pruimboom-Brees IM, Manautou JE. Coordinated
+expression of multidrug resistance-associated proteins (mrps) in mouse liver during 
+toxicant-induced injury. Toxicological Sciences : An Official Journal of the Society of Toxicology. 2006;
+89(2):370-379. [PubMed: 16177239]
+Aleksunes LM, Slitt AL, Maher JM, Dieter MZ, Knight TR, Goedken M, et al. Nuclear factor-E2-
+related factor 2 expression in liver is critical for induction of NAD(P)H:Quinoneoxidoreductase 1
+during cholestasis. Cell Stress & Chaperones. 2006; 11(4):356-363. [PubMed: 17278884]
+Aleksunes LM, Slitt AM, Cherrington NJ, Thibodeau MS, Klaassen CD, Manautou JE. Differential
+expression of mouse hepatic transporter genes in response to acetaminophen and carbon
+tetrachloride. Toxicological Sciences : An Official Journal of the Society of Toxicology. 2005;
+83(1):44-52. [PubMed: 15496496]
+Bauer I, Vollmar B, Jaeschke H, Rensing H, Kraemer T, Larsen R, et al. Transcriptional activation of
+heme oxygenase-1 and its functional significance in acetaminophen-induced hepatitis and
+hepatocellular injury in the rat. Journal of Hepatology. 2000; 33(3):395-406. [PubMed: 11019995]
+Bennett BJ, de AguiarVallim TQ, Wang Z, Shih DM, Meng Y, Gregory J, et al. Trimethylamine-N-
+oxide, a metabolite associated with atherosclerosis, exhibits complex genetic and dietary regulation.
+Cell Metabolism. 2013; 17(1):49-60. [PubMed: 23312283]
+Burcham PC, Fontaine F. Extensive protein carbonylation precedes acrolein-mediated cell death in
+mouse hepatocytes. Journal of Biochemical and Molecular Toxicology. 2001; 15(6):309-316.
+[PubMed: 11835630]
+Campion SN, Tatis-Rios C, Augustine LM, Goedken MJ, van Rooijen N, Cherrington NJ, et al. Effect
+of allyl alcohol on hepatic transporter expression: Zonal patterns of expression and role of kupffer
+cell function. Toxicology and Applied Pharmacology. 2009; 236(1):49-58. [PubMed: 19371622]
+Cashman JR, Hanzlik RP. Microsomal oxidation of thiobenzamide.A photometric assay for the 
+flavin-containing monooxygenase. Biochemical and Biophysical Research Communications. 1981;
+98(1):147-153. [PubMed: 7213381]
+Cashman JR, Zhang J. Interindividual differences of human flavin-containing monooxygenase 3:
+Genetic polymorphisms and functional variation. Drug Metabolism and Disposition: The
+Biological Fate of Chemicals. 2002; 30(10):1043-1052. [PubMed: 12228178]
+Celius T, Pansoy A, Matthews J, Okey AB, Henderson MC, Krueger SK, et al. Flavin-containing
+monooxygenase-3: Induction by 3-methylcholanthrene and complex regulation by xenobiotic
+chemicals in hepatoma cells and mouse liver. Toxicology and Applied Pharmacology. 2010;
+247(1):60-69. [PubMed: 20570689]
+Celius T, Roblin S, Harper PA, Matthews J, Boutros PC, Pohjanvirta R, et al. Aryl hydrocarbon
+receptor-dependent induction of flavin-containing monooxygenase mRNAs in mouse liver. Drug
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Metabolism and Disposition: The Biological Fate of Chemicals. 2008; 36(12):2499-2505.
+[PubMed: 18765683]
+Chan K, Han XD, Kan YW. An important function of Nrf2 in combating oxidative stress:
+Detoxification of acetaminophen. Proceedings of the National Academy of Sciences of the United
+States of America. 2001; 98(8):4611-4616. [PubMed: 11287661]
+Cheng J, Ma X, Krausz KW, Idle JR, Gonzalez FJ. Rifampicin-activated human pregnane X receptor
+and CYP3A4 induction enhance acetaminophen-induced toxicity. Drug Metabolism and
+Disposition: The Biological Fate of Chemicals. 2009; 37(8):1611-1621. [PubMed: 19460945]
+Chiang JY. Bile acid regulation of gene expression: Roles of nuclear hormone receptors. Endocrine
+Reviews. 2002; 23(4):443-463. [PubMed: 12202460]
+Chiu H, Brittingham JA, Laskin DL. Differential induction of heme oxygenase-1 in macrophages and
+hepatocytes during acetaminophen-induced hepatotoxicity in the rat: Effects of hemin and
+biliverdin. Toxicology and Applied Pharmacology. 2002; 181(2):106-115. [PubMed: 12051994]
+Cohen SD, Pumford NR, Khairallah EA, Boekelheide K, Pohl LR, Amouzadeh HR, et al. Selective
+protein covalent binding and target organ toxicity. Toxicology and Applied Pharmacology. 1997;
+143(1):1-12. [PubMed: 9073586]
+Donepudi AC, Aleksunes LM, Driscoll MV, Seeram NP, Slitt AL. The traditional ayurvedic medicine,
+eugeniajambolana (jamun fruit), decreases liver inflammation, injury and fibrosis during
+cholestasis. Liver International : Official Journal of the International Association for the Study of
+the Liver. 2012; 32(4):560-573. [PubMed: 22212619]
+Enomoto A, Itoh K, Nagayoshi E, Haruta J, Kimura T, O'Connor T, et al. High sensitivity of Nrf2
+knockout mice to acetaminophen hepatotoxicity associated with decreased expression of 
+ARE-regulated drug metabolizing enzymes and antioxidant genes. Toxicological Sciences : An Official
+Journal of the Society of Toxicology. 2001; 59(1):169-177. [PubMed: 11134556]
+Goldring CE, Kitteringham NR, Elsby R, Randle LE, Clement YN, Williams DP, et al. Activation of
+hepatic Nrf2 in vivo by acetaminophen in CD-1 mice. Hepatology (Baltimore, Md.). 2004; 39(5):
+1267-1276.
+Guo GL, Moffit JS, Nicol CJ, Ward JM, Aleksunes LA, Slitt AL, et al. Enhanced acetaminophen
+toxicity by activation of the pregnane X receptor. Toxicological Sciences : An Official Journal of
+the Society of Toxicology. 2004; 82(2):374-380. [PubMed: 15456926]
+Hohenester S, Oude-Elferink RP, Beuers U. Primary biliary cirrhosis. Seminars in Immunopathology.
+2009; 31(3):283-307. [PubMed: 19603170]
+Jaeschke H, McGill MR, Ramachandran A. Oxidant stress, mitochondria, and cell death mechanisms
+in drug-induced liver injury: Lessons learned from acetaminophen hepatotoxicity. Drug
+Metabolism Reviews. 2012; 44(1):88-106. [PubMed: 22229890]
+Janmohamed A, Hernandez D, Phillips IR, Shephard EA. Cell-, tissue-, sex- and developmental 
+stage-specific expression of mouse flavin-containing monooxygenases (fmos). Biochemical
+Pharmacology. 2004; 68(1):73-83. [PubMed: 15183119]
+Kallai L, Hahn A, Roeder V, Zupanic V. Correlation between histological findings and serum
+transaminase values in chronic diseases of the liver. ActaMedicaScandinavica. 1964; 175:49-56.
+Kaspar JW, Niture SK, Jaiswal AK. Nrf2:INrf2 (Keap1) signaling in oxidative stress. Free Radical
+Biology & Medicine. 2009; 47(9):1304-1309. [PubMed: 19666107]
+Kensler TW, Wakabayashi N, Biswal S. Cell survival responses to environmental stresses via the
+Keap1-Nrf2-ARE pathway. Annual Review of Pharmacology and Toxicology. 2007; 47:89-116.
+Klick DE, Hines RN. Mechanisms regulating human FMO3 transcription. Drug Metabolism Reviews.
+2007; 39(2-3):419-442. [PubMed: 17786630]
+Klick DE, Shadley JD, Hines RN. Differential regulation of human hepatic flavin containing
+monooxygenase 3 (FMO3) by CCAAT/enhancer-binding protein beta (C/EBPbeta) liver inhibitory
+and liver activating proteins. Biochemical Pharmacology. 2008; 76(2):268-278. [PubMed:
+18555208]
+Krueger SK, Williams DE. Mammalian flavin-containing monooxygenases: Structure/function,
+genetic polymorphisms and role in drug metabolism. Pharmacology & Therapeutics. 2005; 106(3):
+357-387. [PubMed: 15922018]
+Page 14
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 15
+Larson AM, Polson J, Fontana RJ, Davern TJ, Lalani E, Hynan LS, et al. Acetaminophen-induced
+acute liver failure: Results of a united states multicenter, prospective study. Hepatology
+(Baltimore, Md.). 2005; 42(6):1364-1372.
+Lee FY, de AguiarVallim TQ, Chong HK, Zhang Y, Liu Y, Jones SA, et al. Activation of the farnesoid
+X receptor provides protection against acetaminophen-induced hepatic toxicity. Molecular
+Endocrinology (Baltimore, Md.). 2010; 24(8):1626-1636.
+Lee WM. The case for limiting acetaminophen-related deaths: Smaller doses and unbundling the
+opioid-acetaminophen compounds. Clinical Pharmacology and Therapeutics. 2010; 88(3):289-
+292. [PubMed: 20725075]
+Liu J, Wu KC, Lu YF, Ekuase E, Klaassen CD. Nrf2 protection against liver injury produced by
+various hepatotoxicants. Oxidative Medicine and Cellular Longevity. 2013; 2013:305861.
+[PubMed: 23766851]
+Manautou JE, Hoivik DJ, Tveit A, Hart SG, Khairallah EA, Cohen SD. Clofibrate pretreatment
+diminishes acetaminophen's selective covalent binding and hepatotoxicity. Toxicology and
+Applied Pharmacology. 1994; 129(2):252-263. [PubMed: 7992315]
+Miller JA, Cramer JW, Miller EC. The N- and ringhydroxylation of 2-acetylaminofluorene during
+carcinogenesis in the rat. Cancer Research. 1960; 20:950-962. [PubMed: 13853964]
+O'Connor MA, Koza-Taylor P, Campion SN, Aleksunes LM, Gu X, Enayetallah AE, et al. Analysis of
+changes in hepatic gene expression in a murine model of tolerance to acetaminophen
+hepatotoxicity (autoprotection). Toxicology and Applied Pharmacology. 2014; 274(1):156-167.
+[PubMed: 24126418]
+Ohno Y, Ormstad K, Ross D, Orrenius S. Mechanism of allyl alcohol toxicity and protective effects of
+low-molecular-weight thiols studied with isolated rat hepatocytes. Toxicology and Applied
+Pharmacology. 1985; 78(2):169-179. [PubMed: 2930914]
+Randle LE, Goldring CE, Benson CA, Metcalfe PN, Kitteringham NR, Park BK, et al. Investigation of
+the effect of a panel of model hepatotoxins on the Nrf2-Keap1 defence response pathway in CD-1
+mice. Toxicology. 2008; 243(3):249-260. [PubMed: 18078705]
+Rudraiah S, Rohrer P, Gurevich I, Goedken MJ, Rasmussen T, Hines RN, et al. Tolerance to
+acetaminophen hepatotoxicity in the mouse model of autoprotection is associated with induction of
+flavin-containing monooxygenase-3 (FMO3) in hepatocytes. Toxicological Sciences: An Official
+Journal of the Society of Toxicology. 2014
+Rushmore TH, Morton MR, Pickett CB. The antioxidant responsive element.activation by oxidative
+stress and identification of the DNA consensus sequence required for functional activity. The
+Journal of Biological Chemistry. 1991; 266(18):11632-11639. [PubMed: 1646813]
+Shenton D, Smirnova JB, Selley JN, Carroll K, Hubbard SJ, Pavitt GD, et al. Global translational
+responses to oxidative stress impact upon multiple levels of protein synthesis. The Journal of
+Biological Chemistry. 2006; 281(39):29011-29021. [PubMed: 16849329]
+Shimizu M, Murayama N, Nagashima S, Fujieda M, Yamazaki H. Complex mechanism underlying
+transcriptional control of the haplotypedflavin-containing monooxygenase 3 (FMO3) gene in
+japanese: Different regulation between mutations in 5′-upstream distal region and common
+element in proximal region. Drug Metabolism and Pharmacokinetics. 2008; 23(1):54-58.
+[PubMed: 18305374]
+Sokol RJ, Winklhofer-Roob BM, Devereaux MW, McKim JM Jr. Generation of hydroperoxides in
+isolated rat hepatocytes and hepatic mitochondria exposed to hydrophobic bile acids.
+Gastroenterology. 1995; 109(4):1249-1256. [PubMed: 7557092]
+Tanaka Y, Aleksunes LM, Cui YJ, Klaassen CD. ANIT-induced intrahepatic cholestasis alters
+hepatobiliary transporter expression via Nrf2-dependent and independent signaling. Toxicological
+Sciences : An Official Journal of the Society of Toxicology. 2009; 108(2):247-257. [PubMed:
+19181614]
+Tom WM, Fong LY, Woo DY, Prasongwatana V, Boyde TR. Microsomal lipid peroxidation and
+oxidative metabolism in rat liver: Influence of vitamin A intake. Chemico-Biological Interactions.
+1984; 50(3):361-366. [PubMed: 6744472]
+Trauner M, Meier PJ, Boyer JL. Molecular pathogenesis of cholestasis.The New England Journal of
+Medicine. 1998; 339(17):1217-1227.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 16
+Weerachayaphorn J, Mennone A, Soroka CJ, Harry K, Hagey LR, Kensler TW, et al. Nuclear 
+factor-E2-related factor 2 is a major determinant of bile acid homeostasis in the liver and
+intestine.American Journal of Physiology. Gastrointestinal and Liver Physiology. 2012;
+302(9):G925-36. [PubMed: 22345550]
+Yamazaki M, Miyake M, Sato H, Masutomi N, Tsutsui N, Adam KP, et al. Perturbation of bile acid
+homeostasis is an early pathogenesis event of drug induced liver injury in rats. Toxicology and
+Applied Pharmacology. 2013; 268(1):79-89. [PubMed: 23360887]
+Zhang J, Cerny MA, Lawson M, Mosadeghi R, Cashman JR. Functional activity of the mouse 
+flavin-containing monooxygenase forms 1, 3, and 5. Journal of Biochemical and Molecular Toxicology.
+2007; 21(4):206-215. [PubMed: 17721934]
+Ziegler DM, Mitchell CH. Microsomal oxidase. IV. properties of a mixed-function amine oxidase
+isolated from pig liver microsomes. Archives of Biochemistry and Biophysics. 1972; 150(1):116-
+125. [PubMed: 5028071]
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Page 20
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Page 21
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+
+>>>section: acknowledgements
+Acknowledgements
+This work is supported by the National Institutes of Health Grant (DK069557).
+Abbreviations
+Fmo3
+APAP
+Flavin-containing monoxygenase-3
+Acetaminophen
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+ANIT
+BDL
+CCl4
+AlOH
+Nrf2
+Alpha-naphthylisothiocyanate
+Bile duct ligation
+Carbon tetrachloride
+Allyl alcohol
+Nuclear factor (erythroid-derived 2)-like 2
+Page 13
+
+>>>section: abstract
+Abstract
+Flavin-containing monooxygenase-3 (FMO3) catalyzes metabolic reactions similar to cytochrome
+P450 monooxygenase however, most metabolites of FMO3 are considered non-toxic. Recent
+findings in our laboratory demonstrated Fmo3gene induction following toxic acetaminophen
+(APAP) treatment in mice.The goal of this study was to evaluate Fmo3gene expression in
+diverseother mouse models of hepatic oxidative stress and injury. Fmo3 gene regulation by Nrf2
+was also investigated using Nrf2 knockout (Nrf2 KO) mice. In our studies, male C57BL/6J mice
+were treated with toxic dosesof hepatotoxicants or underwent bile duct ligation (BDL, 10d).
+Hepatotoxicants included APAP (400 mg/kg, 24 to 72h), alpha-naphthylisothiocyanate (ANIT; 50
+mg/kg, 2 to 48h), carbontetrachloride (CCl4;10 or 30 μL/kg, 24 and 48h) and allyl alcohol (AlOH;
+30 or 60 mg/kg, 6 and 24h). Because oxidative stress activates nuclear factor (erythroid-derived
+2)-like 2 (Nrf2), additional studies investigated Fmo3 gene regulation by Nrf2 using Nrf2
+knockout (Nrf2 KO) mice. At appropriate time-points, blood and liver samples were collected for
+assessment of plasma alanine aminotransferase (ALT) activity, plasma and hepatic bile acid
+levels, as well as liver Fmo3 mRNA and protein expression. Fmo3 mRNA expression increased
+© 2014 Elsevier Ireland Ltd. All rights reserved.
+Corresponding  Author:  Dr.  José  E.  Manautou  Toxicology  Program,  Department  of  Pharmaceutical  Sciences,  School  of  Pharmacy,
+University  of  Connecticut,  69  North  Eagleville  Road,  Unit  3092,  Storrs,  CT  06269-3092  Phone:  (860)  486-3852  Fax:  (860)  486-5792
+jose.manautou@uconn.edu.
+swetha.rudraiah@uconn.edu
+jamie.moscovitz@rutgers.edu
+ajaydonepudi@gmail.com
+sarah.campion@pfizer.com
+angela_slitt@ds.uri.edu
+aleksunes@eohsi.rutgers.edu
+Publisher's  Disclaimer:  This  is  a  PDF  file  of  an  unedited  manuscript  that  has  been  accepted  for  publication.  As  a  service  to  our
+customers  we  are  providing  this  early  version  of  the  manuscript.  The  manuscript  will  undergo  copyediting,  typesetting,  and  review  of
+the  resulting  proof  before  it  is  published  in  its  final  citable  form.  Please  note  that  during  the  production  process  errors  may  be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+Conflict of interest
+The authors declare that there are no conflicts of interest.
+Rudraiah et al.
+Page 2
+significantly by 43-fold at 12h after ANIT treatment,and this increase translates to a 4-fold change
+in protein levels. BDL also increased Fmo3 mRNA expression by 1899-fold, but with no change
+in protein levels. Treatment of mice with CCl4decreased liver Fmo3gene expression, whileno
+change in expression was detected with AlOH treatment. Nrf2 KO mice are more susceptible to
+APAP (400 mg/kg, 72h) treatment compared to their wild-type (WT) counterparts, which is
+evidenced by greater plasma ALT activity. Fmo3 mRNA and protein expression increased in Nrf2
+KO mice after APAP treatment. Collectively, not all hepatotoxicantsthat produce oxidative stress
+alter Fmo3gene expression. Along with APAP, toxic ANIT treatment in mice markedly
+increasedFmo3 gene expression. While BDL increased Fmo3 mRNA expression, protein level did
+not change. The discrepancy with Fmo3 induction in cholestatic models, ANIT and BDL, is not
+entirely clear. Results from Nrf2 KO mice with APAP suggest that the transcriptional regulation
+of Fmo3 during liver injury may not involve Nrf2.
+Keywords
+Flavin-containing monoxygenase-3; Hepatotoxicants; Acetaminophen; 
+Alpha-naphthylisothiocyanate; Bile duct ligation; Carbon tetrachloride; Allyl alcohol; Oxidative stress;
+Nrf2
+
+>>>section: discussion
+4. Discussion
+FMO3 is a microsomal enzyme involved in the oxygenation of lipophilic substrates to more
+polar metabolites. Substrates include nitrogen-, sulfur- and phosphorous-containing drugs
+and xenobiotics, and most metabolic products of Fmo3 are considered to be 
+non-toxic(Krueger & Williams, 2005). Although FMOs were discovered in the 1960s (Miller et
+al., 1960) and further purified in 1972 (Ziegler & Mitchell, 1972), it was not until 2008 that
+Fmo3 induction by xenobiotics was demonstrated (Celius et al., 2008; Celius et al., 2010). In
+these studies, in spite ofa very large increase in Fmo3 mRNA level by AhR agonist
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 10
+treatment, only a modest increase in protein level and function was reported. A gene array
+analysis performed in our laboratory also demonstrated Fmo3gene induction in the mouse
+model of APAP autoprotection(O'Connor et al., 2014). In this APAP autoprotection mouse
+model, we showed a significant increase in Fmo3 protein expression and function (Rudraiah
+et al., 2014). Constitutive Fmo3 expression in a female mouse liver is localized in the areas
+surrounding the periportal region (Janmohamed et al., 2004; Rudraiah et al., 2014).
+Following APAP exposure, the Fmo3 protein expression in APAP autoprotected livers was
+observed in the centrilobular regions where APAP-induced damage and/or hepatocellular
+compensatory proliferation is detected. Furthermore, we show that the enhanced expression
+of Fmo3 confers resistance against APAP-induced hepatotoxicity in mice (Rudraiah et al.,
+2014).
+In the present study, the effect of various other hepatotoxicants on Fmo3 gene expression in
+male C57BL/6J mouse liver was examined. A unifying theme for all hepatotoxicants used in
+our study is the oxidative stress. These models of oxidative stress used are very well studied
+with respect to activation of Nrf2-Keap1 regulatory pathway. This has been
+repeatedlydemonstrated in our laboratory and in the literature (Aleksunes et al., 2005;
+Aleksunes et al., 2006; Aleksunes et al., 2006; Bauer et al., 2000; Chiu et al., 2002; Goldring
+et al., 2004; Liu et al., 2013; Randle et al., 2008; Tanaka et al., 2009). Thus, we were
+confident that the treatments selected result in oxidative stress and therefore the need for
+measuring markers of oxidative stress for each experimentalgroup of hepatotoxicity was not
+deemed necessary.
+Coincidentally, all of the hepatotoxicants selected produce cholestasis, with the exception of
+AlOH(Donepudi et al., 2012; Tanaka et al., 2009; Weerachayaphorn et al., 2012; Yamazaki
+et al., 2013). Furthermore, perturbation of bile acid homeostasis has been demonstrated to be
+an early event in the pathogenesis of drug induced liver injury(Yamazaki et al., 2013). To
+determine whether accumulation of bile acids is a signaling event regulating Fmo3, we
+measured total hepatic and plasma bile acid levels. Consistent with the literature, ANIT and
+BDL increased plasma and hepatic bile acid concentrations. A high CCl4dose did not
+significantly alter liver bile acid levels, but significantly increased plasma bile acid
+concentration. APAP tended to increase both hepatic and plasma bile acid concentrations,
+but this is not statistically significant.
+In general, ANIT and BDL-mediated damage significantly increased liver Fmo3 mRNA
+expression. While CCl4-mediated liver injury significantly decreased Fmo3 mRNA
+expression, no change in expression is evidenced with AlOH. Fmo3 mRNA expressionin
+response to ANIT treatment precedes serum and hepatic bile acid accumulation and the
+maximal Fmo3 expression (both mRNA and protein) parallels the mild hepatocellular
+damage observed. This observation argues against the concept that hepatic bile acid
+accumulation is a pre-requisite for Fmo3 gene expression changes in the ANIT model. With
+BDL, unlike ANIT, Fmo3 mRNA induction is associated with higher serum and hepatic bile
+acid levels, but protein level does not change. Since tissues were analyzed 10 days after
+BDL, we do not have a sense of what the temporal relationship is between hepatic bile acid
+accumulation and elevated Fmo3 mRNA induction. This relationship deserves further
+attention based on the discussion of FXR signaling that can be found below.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 11
+Overt ANIT-induced hepatocellular damage at 24 and 48 h decreased Fmo3 gene expression
+and the decease is statistically significant at 48 h compared to the 12 h ANIT-treated group.
+This observation with respect to the relationship between plasma ALT level and Fmo3 gene
+expression is consistent with our results with APAP hepatotoxicity. We have demonstrated
+in our APAP autoprotection mouse model that the APAP (400 mg/kg) pretreated group as
+well as the autoprotected group (APAP pretreatment: 400 mg/kg, APAP challenge: 600
+mg/kg) exhibit average plasma ALT values of about 250 IU/L and Fmo3 protein induction.
+The group that receives a toxic APAP dose of 600 mg/kg exhibits much greater average
+plasma ALT activity of about 1600 IU/L, but no Fmo3 gene induction (Rudraiah et al.,
+2014).
+One key feature that is consistent with APAP-, BDL- and ANIT-induced liver injury and
+enhanced Fmo3 gene expression is the magnitude in plasma ALT elevations. Mild ALT
+elevation is the common feature for all three models where Fmo3 mRNA induction is
+observed. Although BDL is a chronic injury model, it well known that the ALT values do
+not correlate well with the severity of liver damage particularly during fibrotic
+hepatocellular necrosis (Kallai et al., 1964). A similar clinical feature is also seen in cases of
+primary biliary cirrhosis (BDL models primary biliary cirrhosis in humans) (Hohenester et
+al., 2009). The lack of Fmo3 protein detection during BDL may be due to signal dilution by
+fibrotic liver tissue. It is also possible that under oxidative stress conditions some proteins
+involved in translation are oxidized in vivo inhibiting translation (Shenton et al., 2006). To
+add to this complexity, in spite of lower plasma ALT activity at 24 h (low dose CCl4), and
+48 h (both high and low dose CCl4) with CCl4, there is down-regulation of Fmo3 gene
+expression. In AlOH-treated livers, lower plasma ALT activity did not show any change in
+Fmo3 gene expression. This is suggestive of an unknown underlying mechanism unique to
+APAP, ANIT and BDL, which is contributing to Fmo3 mRNA induction. Studies are
+necessary to investigate the regional distribution of Fmo3 protein expression during 
+ANIT-and BDL-induced liver injury to determine whether the protein expression in these models is
+localized to the portal vein, where ANIT- and BDL-induced hepatotoxicity is confined.
+Collectively, these data suggest that there is a threshold for degree of hepatic injury that
+results in increased Fmo3 gene and protein expression.More specifically,these data suggest
+that acute moderate or mild hepatotoxicity is optional for Fmo3 induction, while chronic,
+severe hepatotoxicity is not.
+As discussed before, all models of hepatic injury used in the current study result in hepatic
+oxidative stress and activate the Nrf2-Keap1 regulatory pathway. Importantly, CRE analysis
+of differentially expressed genes in our APAP autoprotection study supportedan induction of
+the Nrf2 pathway (O'Connor et al., 2014). Additionally, Celius et al. (2008) showed that the
+5'-flanking region of the mouse Fmo3 contains multiple copies of the ARE (Celius et al.,
+2008). Promoter analysis of mouse Fmo3 promoter (7 kb length)using MatInspector
+software (Genomatix, Munich, Germany), also showed an ARE at about 3 kb from the
+transcription start site (data not shown). We also found two other binding sites for Bach1, at
+600 bp and 2 kb from the Fmo3 transcription start site (data not shown). Bach1 is a
+regulatory mediator of Nrf2, in that it is a transcription repressor. Bach1 heterodimerizes
+with small Maf proteins in the absence of cellular stress and represses gene expression. In
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 12
+the presence of oxidative stress, Bach1 is released from the Maf proteins and is replaced by
+Nrf2(Kaspar et al., 2009). Thus, using APAP as a model toxicant for Nrf2 activation, Fmo3
+gene expression was evaluated inNrf2 KO mice. Compared to APAP-treated wild-type mice,
+Nrf2 KO mice exhibit persistent and significant hepatocellular damage 72 h after APAP
+administration. Nrf2 KO mice are not only more susceptible to APAP-induced
+hepatocellular necrosis, but also fail to recover from injury as rapidly as the WT mice. This
+is consistent with the literature that describes Nrf2 as a master regulator of many
+cytoprotective genes involved in APAP-induced hepatotoxicity (Aleksunes et al., 2005;
+Aleksunes et al., 2006; Bauer et al., 2000; Chiu et al., 2002; Goldring et al., 2004). Finally,
+Fmo3 gene induction by APAP treatment in Nrf2 null mice suggests that the transcriptional
+regulation of Fmo3does not involve this transcription factor. The persistent mild
+hepatocellular injury and oxidative stress in Nrf2 KO mice most likely activates other
+signaling mechanisms involved in Fmo3 gene induction.
+Future studies will investigate the role of other nuclear receptors in Fmo3 gene induction.
+Particularly, farnesoid X receptor (FXR) role in Fmo3 gene induction during APAP
+hepatotoxicity is worth investigating. FXR is one of the major bile acid sensors in the liver
+(Chiang, 2002) and plays a protective role during cholestasis development. Recently, it is
+shown that activation of FXR induces Fmo3 protein function (Bennett et al., 2013).
+Activation of FXR also provides protection against APAP-induced hepatotoxicity(F. Y. Lee
+et al., 2010). In addition, we discovered three binding sites for farnesoid X receptor-response
+element (FXRE) at about 1.6, 2.1 and 3.3 kb from the transcription start site on the mouse
+Fmo3 promoter (data not shown). Although, Pregnane X receptor (PXR) is also a bile acid
+sensor, no binding sites for PXR were found on promoter analysis and furthermore, PXR
+activation sensitizes APAP-induced hepatotoxicity (Cheng et al., 2009; Guo et al., 2004).
+In conclusion, this study comprehensively characterizes for the first time temporal changes
+in Fmo3 gene expression during different conditions known to impart hepatic oxidative
+stress. In particular, we show that toxic ANIT and BDL significantly alter Fmo3 mRNA
+expression, but only Fmo3 protein with ANIT. The reason for this discrepancy is not yet
+clear or easy to rationalize. It is possible that Fmo3 is also protective during other 
+chemical-induced liver injury including ANIT. Even though the exact mechanism of Fmo3 gene
+expression or its role in protecting against toxicant-induced liver injury is not yet clear, the
+observed toxicity threshold for Fmo3 gene expression is intriguing. This work advances the
+lack of knowledge with regard to the inducibility of Fmo3 and its potential protective role in
+drug-induced liver injury.
+
+>>>section: results
+3. Results
+3.1 Plasma ALT Activity in the Mouse Liver Injury Models
+The time-points selected for the single dose APAP (400 mg/kg)treatment studyin mice were
+based on the previous studies that demonstrated Fmo3 mRNA and protein peaks at 48 h and
+72 h, respectively(O'Connor et al., 2014; Rudraiah et al., 2014). The hepatotoxicity of a
+single dose APAP (400 mg/kg) at 24, 48 and 72 h as assessed by plasma ALT activity has
+been reported previously (Rudraiah et al., 2014). Briefly, APAP increased plasma ALT
+activity to 191±18 and 219±47IU/L at 24 and 48 h, respectively (mean plasma ALT activity
+in control mice was 25±5IU/L). Plasma ALT activity was not statistically different from
+vehicle controlsby 72 h, indicating recovery from APAP-induced liver injury.Plasma ALT
+activity in all mouse models of liver injury is shown in Figure 1. ANIT increased ALT
+activity at 12 h (182±9 IU/L), which continued to increase at 24 and 48 h (715±126 IU/L
+and 781±45 IU/L, respectively) compared to vehicle control group (9±1 IU/L). BDL for 10
+d results in an elevation of ALT activity to 185±10 IU/L. A high CCl4 dose (30 μL/kg)
+increased plasma ALT at 24 and 48 h to 6367±1135 and 397±111 IU/L, respectively. A low
+CCl4 dose (10 μL/kg) also increased plasma ALT activity at 24 and 48 h to 757±106 and
+416±68 IU/L, respectively. The greatest increase in plasma ALT with both doses of CCl4 is
+observed at 24 h. While AlOHtreatment (low dose, 30 mg/kg) did not result in significant
+increases in ALT levels at 6 h and 24 h (36±4 and 73±24 IU/L, respectively),a high
+AlOHdose (60 mg/kg) results in significantly higher ALT levels at both 6 h and 24 h
+(153±50 and 4440±2428 IU/L, respectively). The associated histopathological damage with
+all hepatotoxicants has been reported previously(Aleksunes et al., 2005; Aleksunes et al.,
+2006; Campion et al., 2009; Donepudi et al., 2012; Rudraiah et al., 2014). With acute
+toxicity models, plasma ALT activity lesser than 1000 IU/L is usually associated with a
+minimal to mild hepatocellular damage (histological grade of 2 or less than 2), and an ALT
+activity higher than 1000 IU/L is associated with moderate, marked or severe hepatocellular
+damage (histological grade of 3, 4, or 5) (Aleksunes et al., 2008; Manautou et al., 1994).
+Alternatively, a 10 d BDL with an associated ALT activityof less than 200 IU/L, exhibit a
+chronic hepatocellular damage involving fibrosis (Donepudi et al., 2012).
+3.2 Hepatic Bile Acid Concentrations in the Mouse Liver Injury Models
+To determine the extent of cholestasis induced by different hepatotoxicants used in the
+current study, total hepatic bile acid levels were measured (Figure 2). As expected ANIT
+increased hepatic bile acid levels to 1.7±0.2 and 1.6±0.4 μmol/g at 24 and 48 h, respectively,
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 8
+compared to 0 h vehicle control group (0.2±0.02 μmol/g). BDL also increased hepatic bile
+acid concentrations to 19.49±0.85 μmol/100 mg compared to sham operated group
+(10.61±1.65 μmol/g). No significant changes were observed in mice treated with APAP,
+CCl4 and AlOH.
+3.3 Total bile Acid Concentrations in the Blood in the Mouse Liver Injury Models
+Bile acid concentration in plasma is also a biomarker of cholestasis. In order to determine
+the extent of cholestasis,plasma bile acid levels were also quantified in all mouse models of
+liver injury (Figure 3). Plasma bile acid concentration increased in ANIT treated mice at 24
+and 48 h to 210±20 and 330±128 μmol/L, respectively, compared with vehicle treated mice
+(2±0.2 μmol/L). Bile duct ligation significantly increased serum bile acid levels to 1359±142
+μmol/L compared to sham operated mice (86±11 μmol/L). Significant increases in plasma
+bile acid concentrationsare seen in high dose CCl4 treated mice at both 24 and 48 h (112±15
+μmol/Land 29±2 μmol/L, respectively). Exposure to APAP and AlOH did not result in any
+significant change in plasma bile acid levels.
+3.4 Hepatic Fmo3 mRNA Expression in the Mouse Liver Injury Models
+Fmo3 mRNA levels were quantified by qRT-PCR and the results are presented in Figure 4.
+Fmo3 mRNA expression following a single dose APAP 400 mg/kg treatment has been
+previously reported (Rudraiah et al., 2014). Briefly, Fmo3 mRNA levelsincreased by 5±2.6-
+and 23±5.6-fold, at 24 and 48 h after APAP, respectively, compared to the 0 h control group.
+ANIT increased Fmo3 mRNA levels as early as 2 h after treatment. This increase peaked
+and is statistically significant only at 12 h (43±10-fold increase), compared to 0 h vehicle
+control group. BDL also increased Fmo3 mRNA expression by 1899±625-fold, compared to
+sham operated mice. Both the low and high dose of CCl4decreased Fmo3 mRNA levels at
+both time-points examined, and this decrease is statistically significant only at 48 h (10
+μL/kg: 0.2±0.06-fold and 30 μL/kg: 0.2±0.08-fold). No change in liver Fmo3 mRNA levels
+was observed with AlOH treatment.
+3.5 Fmo3 Protein Expression in the Mouse Liver Injury Models
+Temporal expression of the Fmo3 protein following exposure to hepatotoxicants and BDL
+were quantified by western blotting. Representative blots and associated densitometric
+analyses are shown in Figure 5. Fmo3 protein increase following APAP treatment has been
+previously reported (Rudraiah et al., 2014). Although the expression of Fmo3 protein tended
+to increase by 1.1±0.3-to 1.6±0.2-fold between 24 and 72 h after APAP, the increase is
+statistically significant only at 72h. Consistent with Fmo3 mRNA changes evidenced with
+ANIT treatment, Fmo3 protein levels also tend to increase as early as 2 h. However, this
+increase is significant only at 12 h (3.5±0.9-fold) compared to 0 h vehicle treated group.
+Fmo3 protein levels decreased to 0.7±0.08- and 0.3±0.1-fold at 24 and 48h, respectively,
+after exposure to ANIT. Conversely, in spite of the dramatic increase in Fmo3 mRNA levels
+after BDL, Fmo3 protein levels did notchange. No significant changes in Fmo3 protein
+expression are observed with CCl4 orAlOH treatment.
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+3.6 Plasma ALT Activity and Fmo3 mRNA Levels after APAP Treatment in Wild-Type and
+Nrf2 Knockout Mice
+All models of hepatic injury used in the current study activate the Nrf2-Keap1 regulatory
+pathway. Furthermore, CRE analysis of differentially expressed genes in our APAP
+autoprotection study supportedan induction of the Nrf2 pathway (O'Connor et al., 2014). To
+investigate whether Nrf2 mediatesFmo3 gene expression, APAP was used as a model
+toxicant for Nrf2 activation in Nrf2 KO and WT mice. Mice were administered a single 400
+mg/kg APAP dose for 72 h. Dose and time-point selected were based on our single dose
+APAP study performed previously (Rudraiah et al., 2014), wherea 400 mg/kg APAP
+treatment increased Fmo3 protein levels at 72 h. Administration of 400 mg/kg APAP to
+male C57Bl/6J WT mice did not resultin significantlydifferent plasma ALT values at 72 h
+from vehicle controls. This is consistent with the previously reported results, indicating
+recovery from APAP-induced liver injury and increased Fmo3 protein expression in WT
+mice (Rudraiah et al., 2014). In contrast, plasma ALT activity is elevated at 72 h in Nrf2 KO
+mice receiving the same dose of APAP (176±12 IU/L) compared to vehicle control group
+(23±5 IU/L) (Figure 6A). This is again consistent with the literature and confirms that Nrf2
+plays animportant role not only in the magnitude of toxicity, but also the degree and rate of
+recovery from APAP-induced liver injury. Fmo3 mRNA levels were quantified by 
+qRT-PCR. The results in Figure 6B show that there is no change in Fmo3 mRNA levels at 72 h in
+wild-type mice administered 400 mg/kg APAP. This is again consistent with previous
+reports, where maximal Fmo3 mRNA expression is seen at 48 h after APAP administration
+and returns to normal by 72 h (Rudraiah et al., 2014). Notably, Fmo3 mRNA expression is
+significantly higherin Nrf2 KO mice 72 h after APAP treatment by 140±43-fold change
+compared to vehicle control group.
+3.7 Fmo3 Protein Expression after APAP Treatment in Wild-Type and Nrf2 Knockout Mice
+To examine the temporal changes in Fmo3 gene expression following APAP treatment in
+WT and Nrf2 KO mice, Fmo3 protein levels were quantified by western blotting and by
+measuring catalytic activity using MMI as substrate. Representative blots and associated
+densitometric analysis are shown in Figure 7A. Consistent with increased Fmo3 mRNA
+expression in Nrf2 KO mice administered APAP (400 mg/kg) at 72 h, Fmo3 protein levels
+are also significantly higher (5.1±1.3-fold) compared to vehicle control group. Measuring
+FMO catalytic activity using MMI can also quantitate Fmo3 protein induction(Zhang et al.,
+2007). FMO specific activity increased significantly in Nrf2 KO livers (48±6±M/min/mg) at
+72 h after APAP compared to vehicle controls of either genotype (Figure 7B).
+Page 9
+
+>>>section: introduction
+HHS Public Access
+Author manuscript
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Published in final edited form as:
+Toxicology. 2014 November 5; 325: 85-95. doi:10.1016/j.tox.2014.08.013.
+Differential Fmo3 Gene Expression in Various Liver Injury
+Models Involving Hepatic Oxidative Stress in Mice
+Swetha Rudraiaha, Jamie E. Moscovitzb, Ajay C. Donepudid, Sarah N. Campionc, Angela L.
+Slittd, Lauren M. Aleksunesb, and José E. Manautoua
+aDepartment of Pharmaceutical Sciences, University of Connecticut, Storrs, CT, USA
+bDepartment of Pharmacology and Toxicology, Rutgers UniversityErnest Mario School of
+Pharmacy, Piscataway NJ, USA
+cDrug Safety Research and Development, Pfizer, Inc., Groton, USA
+dDepartment of Biomedical and Pharmaceutical Sciences, University of Rhode Island, Kingston,
+RI, USA
+1. Introduction
+Drug-induced liver injury (DILI) is a significant challenge for both drug development and
+clinical care. It accounts for more than 50% of all acute liver failure cases in the U.S.
+(Larson et al., 2005; W. M. Lee, 2010). Many chemicals, such as acetaminophen (APAP),
+carbontetrachloride (CCl4) and allyl alcohol (AlOH) have been used to model hepatotoxicity
+relevant to human exposure. Alpha-naphthylisothiocyanate (ANIT) and bile duct ligation
+(BDL) on the other hand are used to model cholestasis, a pathological condition caused by
+impairment of hepatic bile flow. While ANIT produces intrahepatic cholestasis, BDL
+produces extrahepatic cholestasis. With APAP and CCl4, the parent compound is
+metabolized by cytochrome P450 (CYP) to generate reactive metabolites, N-acetyl-p-
+benzoquinone imine (NAPQI) and tricholoromethyl radical (·CCl3), respectively.AlOHin
+turn is metabolized in the liver by alcohol dehydrogenase to its reactive metabolite, acrolein.
+The glutathione adductof acrolein is converted by CYPs to glycidaldehyde. Toxicity
+resulting from these reactive metabolites is multifactorial and includes lipid peroxidation,
+generation of oxidative stress, altered cellular redox status and protein adduct
+formation(Burcham & Fontaine, 2001; Cohen et al., 1997; Jaeschke et al., 2012; Ohno et al.,
+1985; Tom et al., 1984). During cholestasis resulting from either BDL or ANIT treatment,
+increase in bile acid concentration stimulates production of reactive oxygen species
+eventually leading to hepatocellular necrosis and apoptosis (Sokol et al., 1995; Trauner et
+al., 1998).
+The role of nuclear factor (erythroid-derived 2)-like 2 (Nrf2) role as a master defense against
+hepatotoxicity produced by various chemicals has been investigated in several studies. Nrf2
+belongs to the cap ‘n’ collar family of transcription factors that promotes transcription of a
+battery of cytoprotective genes(Aleksunes & Manautou, 2007; Kensler et al., 2007). Under
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 3
+basal conditions, Nrf2 is largely bound to the cytoskeletal anchoring protein Kelch-like
+ECH-associated protein 1 (Keap1) also known as cytosolic Nrf2 inhibitor in the
+cytoplasm.In response to oxidative stress, Nrf2 is released from Keap1 andtranslocatesto the
+nucleus. In the nucleus, Nrf2 binds to the GTGACA***GC core sequence of the antioxidant
+response element (ARE) (Rushmore et al., 1991) and promotes ARE-mediated antioxidant
+gene expression.
+A low toxic APAP dose causes nuclear accumulation of Nrf2 in mouse liver, which is
+accompanied by increased expression of Nrf2 dependent cytoprotectivegenes such as heme
+oxygenase-1 (Hmox1), NAD(P)H:quinone oxidoreductase-1 (Nqo1) and glutamate cysteine
+ligase catalytic subunit (Gclc) (Aleksunes et al., 2005; Aleksunes et al., 2006; Bauer et al.,
+2000; Chiu et al., 2002; Goldring et al., 2004). Similar results have been reported with
+ANIT, BDL, CCl4 and AlOH, other models of hepatic oxidative stress used in the present
+study(Aleksunes et al., 2005; Aleksunes et al., 2006; Liu et al., 2013; Randle et al., 2008;
+Tanaka et al., 2009). On the other hand, Nrf2 KO mice are more susceptible to 
+APAP-induced liver injury compared to their wild-type counterparts (Chan et al., 2001; Enomoto et
+al., 2001). Likewise, Nrf2 KO mice arealso more susceptible to CCl4- andAlOH-induced
+hepatoxicity compared towild-type mice (Liu et al., 2013). However, Nrf2 KO mice do not
+exhibit any difference in susceptibility to either BDL or ANIT treatment(Tanaka et al., 2009;
+Weerachayaphorn et al., 2012). This response is attributed to the adaptive compensatory
+changesinvolving nuclear transcription factors, including Fxr, Shp, Pxr andHnf1α, efflux
+bile acid transporters, altered GSH levels and bile flow rates in Nrf2 KO mice (Tanaka et al.,
+2009; Weerachayaphorn et al., 2012). Collectively, the models of hepatic injury selected for
+the current study not only result in hepatic oxidative stress but also activate the Nrf2-Keap1
+regulatory pathway.
+Despite Fmo3 being considered non-inducible, studies with aryl hydrocarbon receptor
+(AhR) agonists in mice revealed liver Fmo3 gene induction (Celius et al., 2008; Celius et al.,
+2010). A recent gene array analysis performed in our laboratory also demonstrated Fmo3
+gene induction in the APAP autoprotection mouse model (mice receiving a low hepatotoxic
+APAP dose that become resistant to a subsequent higher APAP dose)(O'Connor et al.,
+2014).Unlike with AhR agonists that result in marginal increases in Fmo3 protein expression
+in mouse liver, we showed significant increases in Fmo3 protein levels by 15-fold in APAP
+autoprotectedmice(Rudraiah et al., 2014). Fmo3 induction by other hepatotoxicants that
+produce oxidative stress is not currently known.
+In human liver, transcription factors regulating constitutive FMO3expression as well as
+those involved in developmental expression pattern have been extensively studied (Klick &
+Hines, 2007; Klick et al., 2008; Shimizu et al., 2008). Because the mammalian FMOs were
+considered non-inducible by xenobiotics (Cashman & Zhang, 2002; Krueger & Williams,
+2005), the transcriptional regulation of FMO involving stress-activated transcription
+factorsor receptors that bind ligands andinteract with DNAwas not studied as other forms of
+regulation. Thus, little is known about the transcriptional regulation of Fmo3 in response to
+toxicant exposure. Recently, Celius et al. (2010) showed that the Fmo3 mRNA up-regulation
+by 3-methylcholanthrene (3MC) and benzo(a)pyrene (BaP) but not TCDD in Hepa-1 cells is
+Toxicology. Author manuscript; available in PMC 2015 November 05.
+Rudraiah et al.
+Page 4
+mediated by p53 and its binding to a p53-response element in the promoter region of
+Fmo3(Celius et al., 2010).
+Differentially expressed genes in the APAP autoprotection model were further analyzed
+usingCausal Reasoning Engine (CRE), a recently developed computational platform
+(O'Connor et al., 2014). CRE analysis provides hypotheses on the upstream molecular
+events that best explain gene expression profiles based on prior biological knowledge. CRE
+analysis of differentially expressed genes in APAP autoprotection study supportsan
+induction of the Nrf2 pathway (O'Connor et al., 2014). Additionally, the 5'-flanking region
+of the mouse Fmo3 contains multiple copies of the ARE (Celius et al., 2008). Therefore, the
+purpose of the present study was to investigate liver Fmo3gene expression under oxidative
+stress conditions involving activation of the Nrf2-Keap1 regulatory pathway. Mice were
+dosed with hepatotoxicants APAP(400 mg/kg, 24 to 48h), ANIT (50 mg/kg, 2 to 48h),
+CCl4(10 or 30 μL/kg, 24 and 48h) or AlOH (30 or 60 mg/kg, 6 and 24h)orunderwent sham
+surgery or bile duct ligation (10d). Doses selected for hepatotoxicants are based upon
+previous studies conducted in our laboratory resulting in oxidative stress and tissue injury.
+The inclusion of multiple time-points followinghepatotoxicantsexposure enabled
+comprehensive characterization of temporal changes in Fmo3 in relation to injury and
+recovery. Further, in order to investigate whether Nrf2 mediatesFmo3 gene expression, Nrf2
+KO mice were employed. APAP was used as a model toxicant in the Nrf2 KO mice study.
+From these experiments,it is concluded that not all hepatotoxicantsthat produce oxidative
+stress in mice induce liver Fmo3 gene expression. Toxic ANIT treatment, along with the
+previously demonstrated APAP treatment, markedly increases Fmo3 gene expression. While
+BDL increases Fmo3 mRNA expression, protein levels do not change.APAP treatment
+induces Fmo3 gene expression in Nrf2 KO mice liver suggesting that the transcriptional
+regulation of Fmo3 might not involve Nrf2.
+
+>>>section: figure_1
+Page 17 
+Figure 1. Plasma ALT activity in mice treated with hepatotoxicants or BDL 
+Male C57BL/6J mice (n=6 per group) were treated with ANIT (50 mg/kg, po, 2,4,8,12,24 &  
+48 h), CCl4 (10 & 30 μL/kg, ip, 24 & 48h), AlOH (30 & 60 mg/kg,ip, 6 & 24 h) or BDL (10  
+d). Plasma was collected from mice at various time-points following hepatotoxicant  
+treatment or the appropriate vehicle. The data are presented as mean plasma ALT (IU/L) ±  
+SE. One-way ANOVA, t-test or two-way ANOVA was performed, appropriately, followed  
+by the Dunnett's posttest for One-way ANOVA and the Bonferroni posttest for two-way  
+ANOVA. Asterisks (*) represent a statistical difference (p < 0.05) between vehicle-treated  
+and hepatotoxicant-treated group. 
+
+>>>section: figure_2
+Page 18 
+Figure 2. Hepatic bile acid levels after hepatotoxicant administration or BDL 
+Livers were collected at the end of each study (24, 48 & 72h for APAP; 2,4,8,12,24 & 48h  
+for ANIT; 10d for BDL; 24 & 48h for CCl4; and 6 & 24h for AlOH). Liver total bile acids  
+were measured spectrophotometrically using a commercial bile acid assay kit. Hepatic total  
+bile acids are expressed as mean hepatic bile acids (μmol/g) ± SE. One-way ANOVA, t-test  
+or two-way ANOVA was performed, appropriately, followed by the Dunnett's posttest for  
+one-way ANOVA and the Bonferroni posttest for two-way ANOVA. Asterisks (*) represent  
+a statistical difference (p < 0.05) between vehicle-treated and hepatotoxicant-treated or BDL  
+group. 
+
+>>>section: figure_3
+Page 19 
+Figure 3. Blood levels of TotalBile acid in the mouse models of liver injury 
+Mice (n=6 per group) were administered APAP (400 mg/kg, ip, 24, 48 & 72h), ANIT (50  
+mg/kg, po, 2,4,8,12,24 & 48h), CCl4(10 & 30 μL/kg, ip, 24 & 48 h), AlOH (30 & 60 mg/kg,  
+ip, 6 & 24h) or BDL (10 d).Blood was collected and the plasma or serum (for BDL) was  
+isolated by centrifugation. Total bile acid levels were measured spectrophotometrically  
+using a commercial bile acid assay kit. Total bile acids are expressed as mean total bile acids  
+(μmol/L) ± SE. Student's t-test,one-way ANOVA,or two-way ANOVA was performed,  
+appropriately, followed by the Dunnett's posttest for one-way ANOVA and the Bonferroni  
+posttest for two-way ANOVA. Asterisks (*) represent a statistical difference (p < 0.05)  
+between vehicle-treated and hepatotoxicant-treated or BDL group. 
+
+>>>section: figure_4
+Figure 4. Quantitative RT-PCR analysis of liver Fmo3 transcripts after hepatotoxicant  
+treatment or BDL 
+Livers were collected from mice (n=6) sacrificed at respective time-points (2,4,8,12,24 &  
+48h for ANIT; 24 & 48h for CCl4; 6 & 24h for AlOH; and 10 d for BDL). RNA was  
+isolated and cDNA was made using a commercial MMLV-RT kit. The cDNA samples were  
+analyzed by quantitative RT-PCR using Fmo3 mouse-specific primers. Gene expression was  
+normalized to the housekeeping gene β-actin. Fmo3 mRNA expression is presented as mean  
+Fold Change ± SE. One-way ANOVA, t-test or two-way ANOVA was performed,  
+appropriately, followed by the Dunnett's posttest for One-way ANOVA and the Bonferroni  
+posttest for two-way ANOVA. Asterisks (*) represent a statistical difference (p < 0.05)  
+between vehicle-treated and hepatotoxicant-treated or BDL group. 
+
+>>>section: figure_5
+Figure 5. Analysis of liver Fmo3 protein expression in the mouse models of liver injury by  
+western blotting 
+Western immunoblots for Fmo3 were performed using liver microsomes from control and  
+hepatotoxicant-treated or BDL mice. A custom-made rabbit anti-mouse Fmo3 primary  
+antibody, described in Materials and Methods was used to detect Fmo3. Fmo3 protein levels  
+were normalized to β-actin loading control. Microsomal proteins isolated from naïve female  
+mouse liver were used as a positive control (indicated by “+” sign). The data are presented  
+as blots and as mean Fmo3 protein expression (Fold Change) ± SE. One-way ANOVA, t- 
+test or two-way ANOVA was performed, appropriately, followed by the Dunnett's posttest  
+for One-way ANOVA and the Bonferroni posttest for two-way ANOVA. Asterisks (*)  
+represent a statistical difference (p < 0.05) between vehicle-treated and hepatotoxicant- 
+treated or BDL group. 
+
+>>>section: figure_6
+Page 22 
+Figure 6. Plasma ALT activity and quantitative RT-PCR analysis of liver Fmo3 transcripts  
+following a single dose APAP treatment in wild-type and Nrf2knockout mice 
+Plasma and livers were collected from mice 72 h following APAP (400 mg/kg) or vehicle  
+treatment. (A) The data are presented as mean plasma ALT (IU/L) ± SE. (B) RNA was  
+isolated from livers andcDNA samples were analyzed by quantitative RT-PCR using Fmo3  
+mouse-specific primers. Gene expression was normalized to the housekeeping gene β-actin.  
+Fmo3 mRNA expression are presented as mean Fold Change ± SE. Oneway ANOVA was  
+performed followed by the Dunnett's post-test. Asterisks (*) represent a statistical difference  
+(p < 0.05) between vehicle-treated group and APAP-treated group and hash (#) represent a  
+statistical difference (p<0.05) compared with APAP-treated wild-type mice. 
+
+>>>section: figure_7
+Page 23 
+Figure 7. Analysis of liver Fmo3 protein expression following a single dose APAP treatment in  
+wild-type and Nrf2knockout mice by western blotting and enzyme activity assay 
+After overnight fasting, groups of wild-type and Nrf2 knockout mice received a single dose  
+of 400 mg/kg APAP or vehicle. Livers were collected 72 h following APAP or vehicle  
+treatments. Western blot for Fmo3 was performed using liver microsomes from control and  
+APAP-treated mice. Equal protein loading (10 μg protein/lane) was confirmed by detection  
+of β-actin. Microsomal proteins isolated from naïve female mouse liver were used as a  
+positive control indicated by “+” sign. The data are presented as blots and as mean Fmo3  
+protein expression (Fold Change) ± SE (A). FMO activity was measured in liver  
+microsomes from control and APAP-treated mice using methimazole as substrate. Data are  
+presented as mean Specific Activity (μM/min/mg) ± SE (B). Asterisks (*) represent a  
+statistical difference (p < 0.05) between vehicle-treated group and APAP-treated group and  
+hash (#) represent a statistical difference (p<0.05) compared with APAP-treated wild-type  
+mice. 
+
+**References**
+ References
+Aleksunes LM Campion SN Goedken MJ Manautou JE Acquired resistance to acetaminophen hepatotoxicity is associated with induction of multidrug resistance-associated protein 4 (Mrp4) in proliferating hepatocytes Toxicological Sciences  An Official Journal of the Society of Toxicology 2008 104(2)261-273 [PubMed 18468992]
+Aleksunes LM Manautou JE Emerging role of Nrf2 in protecting against hepatic and gastrointestinal disease Toxicologic Pathology 2007 35(4)459-473 [PubMed 17562481]
+Aleksunes LM Scheffer GL Jakowski AB Pruimboom-Brees IM Manautou JE Coordinated expression of multidrug resistance-associated proteins (mrps) in mouse liver during toxicant- induced injury Toxicological Sciences  An Official Journal of the Society of Toxicology 2006 89(2)370-379 [PubMed 16177239]
+Aleksunes LM Slitt AL Maher JM Dieter MZ Knight TR Goedken M et al Nuclear factor-E2- related factor 2 expression in liver is critical for induction of NAD(P)HQuinoneoxidoreductase 1 during cholestasis Cell Stress & Chaperones 2006 11(4)356-363 [PubMed 17278884]
+Aleksunes LM Slitt AM Cherrington NJ Thibodeau MS Klaassen CD Manautou JE Differential expression of mouse hepatic transporter genes in response to acetaminophen and carbon tetrachloride Toxicological Sciences  An Official Journal of the Society of Toxicology 2005 83(1)44-52 [PubMed 15496496]
+Bauer I Vollmar B Jaeschke H Rensing H Kraemer T Larsen R et al Transcriptional activation of heme oxygenase-1 and its functional significance in acetaminophen-induced hepatitis and hepatocellular injury in the rat Journal of Hepatology 2000 33(3)395-406 [PubMed 11019995]
+Bennett BJ de AguiarVallim TQ Wang Z Shih DM Meng Y Gregory J et al Trimethylamine-N- oxide a metabolite associated with atherosclerosis exhibits complex genetic and dietary regulation Cell Metabolism 2013 17(1)49-60 [PubMed 23312283]
+Burcham PC Fontaine F Extensive protein carbonylation precedes acrolein-mediated cell death in mouse hepatocytes Journal of Biochemical and Molecular Toxicology 2001 15(6)309-316 [PubMed 11835630]
+Campion SN Tatis-Rios C Augustine LM Goedken MJ van Rooijen N Cherrington NJ et al Effect of allyl alcohol on hepatic transporter expression Zonal patterns of expression and role of kupffer cell function Toxicology and Applied Pharmacology 2009 236(1)49-58 [PubMed 19371622]
+Cashman JR Hanzlik RP Microsomal oxidation of thiobenzamideA photometric assay for the flavin- containing monooxygenase Biochemical and Biophysical Research Communications 1981 98(1)147-153 [PubMed 7213381]
+Cashman JR Zhang J Interindividual differences of human flavin-containing monooxygenase 3 Genetic polymorphisms and functional variation Drug Metabolism and Disposition The Biological Fate of Chemicals 2002 30(10)1043-1052 [PubMed 12228178]
+Celius T Pansoy A Matthews J Okey AB Henderson MC Krueger SK et al Flavin-containing monooxygenase-3 Induction by 3-methylcholanthrene and complex regulation by xenobiotic chemicals in hepatoma cells and mouse liver Toxicology and Applied Pharmacology 2010 247(1)60-69 [PubMed 20570689]
+Celius T Roblin S Harper PA Matthews J Boutros PC Pohjanvirta R et al Aryl hydrocarbon receptor-dependent induction of flavin-containing monooxygenase mRNAs in mouse liver Drug Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Metabolism and Disposition The Biological Fate of Chemicals 2008 36(12)2499-2505 [PubMed 18765683]
+Chan K Han XD Kan YW An important function of Nrf2 in combating oxidative stress Detoxification of acetaminophen Proceedings of the National Academy of Sciences of the United States of America 2001 98(8)4611-4616 [PubMed 11287661]
+Cheng J Ma X Krausz KW Idle JR Gonzalez FJ Rifampicin-activated human pregnane X receptor and CYP3A4 induction enhance acetaminophen-induced toxicity Drug Metabolism and Disposition The Biological Fate of Chemicals 2009 37(8)1611-1621 [PubMed 19460945]
+Chiang JY Bile acid regulation of gene expression Roles of nuclear hormone receptors Endocrine Reviews 2002 23(4)443-463 [PubMed 12202460]
+Chiu H Brittingham JA Laskin DL Differential induction of heme oxygenase-1 in macrophages and hepatocytes during acetaminophen-induced hepatotoxicity in the rat Effects of hemin and biliverdin Toxicology and Applied Pharmacology 2002 181(2)106-115 [PubMed 12051994]
+Cohen SD Pumford NR Khairallah EA Boekelheide K Pohl LR Amouzadeh HR et al Selective protein covalent binding and target organ toxicity Toxicology and Applied Pharmacology 1997 143(1)1-12 [PubMed 9073586]
+Donepudi AC Aleksunes LM Driscoll MV Seeram NP Slitt AL The traditional ayurvedic medicine eugeniajambolana (jamun fruit) decreases liver inflammation injury and fibrosis during cholestasis Liver International  Official Journal of the International Association for the Study of the Liver 2012 32(4)560-573 [PubMed 22212619]
+Enomoto A Itoh K Nagayoshi E Haruta J Kimura T O'Connor T et al High sensitivity of Nrf2 knockout mice to acetaminophen hepatotoxicity associated with decreased expression of ARE- regulated drug metabolizing enzymes and antioxidant genes Toxicological Sciences  An Official Journal of the Society of Toxicology 2001 59(1)169-177 [PubMed 11134556]
+Goldring CE Kitteringham NR Elsby R Randle LE Clement YN Williams DP et al Activation of hepatic Nrf2 in vivo by acetaminophen in CD-1 mice Hepatology (Baltimore Md) 2004 39(5) 1267-1276
+Guo GL Moffit JS Nicol CJ Ward JM Aleksunes LA Slitt AL et al Enhanced acetaminophen toxicity by activation of the pregnane X receptor Toxicological Sciences  An Official Journal of the Society of Toxicology 2004 82(2)374-380 [PubMed 15456926]
+Hohenester S Oude-Elferink RP Beuers U Primary biliary cirrhosis Seminars in Immunopathology 2009 31(3)283-307 [PubMed 19603170]
+Jaeschke H McGill MR Ramachandran A Oxidant stress mitochondria and cell death mechanisms in drug-induced liver injury Lessons learned from acetaminophen hepatotoxicity Drug Metabolism Reviews 2012 44(1)88-106 [PubMed 22229890]
+Janmohamed A Hernandez D Phillips IR Shephard EA Cell- tissue- sex- and developmental stage- specific expression of mouse flavin-containing monooxygenases (fmos) Biochemical Pharmacology 2004 68(1)73-83 [PubMed 15183119]
+Kallai L Hahn A Roeder V Zupanic V Correlation between histological findings and serum transaminase values in chronic diseases of the liver ActaMedicaScandinavica 1964 17549-56
+Kaspar JW Niture SK Jaiswal AK Nrf2INrf2 (Keap1) signaling in oxidative stress Free Radical Biology & Medicine 2009 47(9)1304-1309 [PubMed 19666107]
+Kensler TW Wakabayashi N Biswal S Cell survival responses to environmental stresses via the Keap1-Nrf2-ARE pathway Annual Review of Pharmacology and Toxicology 2007 4789-116
+Klick DE Hines RN Mechanisms regulating human FMO3 transcription Drug Metabolism Reviews 2007 39(2-3)419-442 [PubMed 17786630]
+Klick DE Shadley JD Hines RN Differential regulation of human hepatic flavin containing monooxygenase 3 (FMO3) by CCAAT/enhancer-binding protein beta (C/EBPbeta) liver inhibitory and liver activating proteins Biochemical Pharmacology 2008 76(2)268-278 [PubMed 18555208]
+Krueger SK Williams DE Mammalian flavin-containing monooxygenases Structure/function genetic polymorphisms and role in drug metabolism Pharmacology & Therapeutics 2005 106(3) 357-387 [PubMed 15922018] Page 14 Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Page 15
+Larson AM Polson J Fontana RJ Davern TJ Lalani E Hynan LS et al Acetaminophen-induced acute liver failure Results of a united states multicenter prospective study Hepatology (Baltimore Md) 2005 42(6)1364-1372
+Lee FY de AguiarVallim TQ Chong HK Zhang Y Liu Y Jones SA et al Activation of the farnesoid X receptor provides protection against acetaminophen-induced hepatic toxicity Molecular Endocrinology (Baltimore Md) 2010 24(8)1626-1636
+Lee WM The case for limiting acetaminophen-related deaths Smaller doses and unbundling the opioid-acetaminophen compounds Clinical Pharmacology and Therapeutics 2010 88(3)289- 292 [PubMed 20725075]
+Liu J Wu KC Lu YF Ekuase E Klaassen CD Nrf2 protection against liver injury produced by various hepatotoxicants Oxidative Medicine and Cellular Longevity 2013 2013305861 [PubMed 23766851]
+Manautou JE Hoivik DJ Tveit A Hart SG Khairallah EA Cohen SD Clofibrate pretreatment diminishes acetaminophen's selective covalent binding and hepatotoxicity Toxicology and Applied Pharmacology 1994 129(2)252-263 [PubMed 7992315]
+Miller JA Cramer JW Miller EC The N- and ringhydroxylation of 2-acetylaminofluorene during carcinogenesis in the rat Cancer Research 1960 20950-962 [PubMed 13853964]
+O'Connor MA Koza-Taylor P Campion SN Aleksunes LM Gu X Enayetallah AE et al Analysis of changes in hepatic gene expression in a murine model of tolerance to acetaminophen hepatotoxicity (autoprotection) Toxicology and Applied Pharmacology 2014 274(1)156-167 [PubMed 24126418]
+Ohno Y Ormstad K Ross D Orrenius S Mechanism of allyl alcohol toxicity and protective effects of low-molecular-weight thiols studied with isolated rat hepatocytes Toxicology and Applied Pharmacology 1985 78(2)169-179 [PubMed 2930914]
+Randle LE Goldring CE Benson CA Metcalfe PN Kitteringham NR Park BK et al Investigation of the effect of a panel of model hepatotoxins on the Nrf2-Keap1 defence response pathway in CD-1 mice Toxicology 2008 243(3)249-260 [PubMed 18078705]
+Rudraiah S Rohrer P Gurevich I Goedken MJ Rasmussen T Hines RN et al Tolerance to acetaminophen hepatotoxicity in the mouse model of autoprotection is associated with induction of flavin-containing monooxygenase-3 (FMO3) in hepatocytes Toxicological Sciences An Official Journal of the Society of Toxicology 2014
+Rushmore TH Morton MR Pickett CB The antioxidant responsive elementactivation by oxidative stress and identification of the DNA consensus sequence required for functional activity The Journal of Biological Chemistry 1991 266(18)11632-11639 [PubMed 1646813]
+Shenton D Smirnova JB Selley JN Carroll K Hubbard SJ Pavitt GD et al Global translational responses to oxidative stress impact upon multiple levels of protein synthesis The Journal of Biological Chemistry 2006 281(39)29011-29021 [PubMed 16849329]
+Shimizu M Murayama N Nagashima S Fujieda M Yamazaki H Complex mechanism underlying transcriptional control of the haplotypedflavin-containing monooxygenase 3 (FMO3) gene in japanese Different regulation between mutations in 5′-upstream distal region and common element in proximal region Drug Metabolism and Pharmacokinetics 2008 23(1)54-58 [PubMed 18305374]
+Sokol RJ Winklhofer-Roob BM Devereaux MW McKim JM Jr Generation of hydroperoxides in isolated rat hepatocytes and hepatic mitochondria exposed to hydrophobic bile acids Gastroenterology 1995 109(4)1249-1256 [PubMed 7557092]
+Tanaka Y Aleksunes LM Cui YJ Klaassen CD ANIT-induced intrahepatic cholestasis alters hepatobiliary transporter expression via Nrf2-dependent and independent signaling Toxicological Sciences  An Official Journal of the Society of Toxicology 2009 108(2)247-257 [PubMed 19181614]
+Tom WM Fong LY Woo DY Prasongwatana V Boyde TR Microsomal lipid peroxidation and oxidative metabolism in rat liver Influence of vitamin A intake Chemico-Biological Interactions 1984 50(3)361-366 [PubMed 6744472]
+Trauner M Meier PJ Boyer JL Molecular pathogenesis of cholestasisThe New England Journal of Medicine 1998 339(17)1217-1227 Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Page 16
+Weerachayaphorn J Mennone A Soroka CJ Harry K Hagey LR Kensler TW et al Nuclear factor- E2-related factor 2 is a major determinant of bile acid homeostasis in the liver and intestineAmerican Journal of Physiology Gastrointestinal and Liver Physiology 2012 302(9)G925-36 [PubMed 22345550]
+Yamazaki M Miyake M Sato H Masutomi N Tsutsui N Adam KP et al Perturbation of bile acid homeostasis is an early pathogenesis event of drug induced liver injury in rats Toxicology and Applied Pharmacology 2013 268(1)79-89 [PubMed 23360887]
+Zhang J Cerny MA Lawson M Mosadeghi R Cashman JR Functional activity of the mouse flavin- containing monooxygenase forms 1 3 and 5 Journal of Biochemical and Molecular Toxicology 2007 21(4)206-215 [PubMed 17721934]
+Ziegler DM Mitchell CH Microsomal oxidase IV properties of a mixed-function amine oxidase isolated from pig liver microsomes Archives of Biochemistry and Biophysics 1972 150(1)116- 125 [PubMed 5028071] Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Toxicology Author manuscript available in PMC 2015 November 05 Page 20 Rudraiah et al Toxicology Author manuscript available in PMC 2015 November 05 Page 21 Rudraiah et al Toxicology Author manuscript available in PMC 2015 November 05 Rudraiah et al Toxicology Author manuscript available in PMC 2015 November 05

@@ -1,0 +1,717 @@
+HHS Public Access
+Author manuscript
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Published in final edited form as:
+Toxicology. 2015 March 2; 329: 80-87. doi:10.1016/j.tox.2015.01.011.
+Toxicoproteomic analysis of pulmonary carbon nanotube
+exposure using LC-MS/MS
+Gina M. Hiltona, Alexia J. Taylora, Christina D. McClureb, Gregory N. Parsonsb, James C.
+Bonnera, and Michael S. Beremana,*
+aDepartment of Biological Sciences, Environmental and Molecular Toxicology, North Carolina
+State University, Raleigh, NC, United States
+bDepartment of Chemical and Biomolecular Engineering, North Carolina State University,
+Raleigh, NC, United States
+Abstract
+Toxicoproteomics is a developing field that utilizes global proteomic methodologies to investigate
+the physiological response as a result of adverse toxicant exposure. The aim of this study was to
+compare the protein secretion profile in lung bronchoalveolar lavage fluid (BALF) from mice
+exposed to non-functionalized multi-walled carbon nanotubes (U-MWCNTs) or MWCNTs
+functionalized by nanoscale Al2O3 coatings (A-MWCNT) formed using atomic layer deposition
+(ALD). Proteins were identified using liquid chromatography tandem mass spectrometry (LC-MS/
+MS), and quantified using a combination of two label-free proteomic methods: spectral counting
+and MS1 peak area analysis. On average 465 protein groups were identified per sample and
+proteins were first screened using spectral counting and the Fisher’s exact test to determine
+differentially regulated species. Significant proteins by Fisher’s exact test (p<0.05) were then
+verified by integrating the intensity under the extracted ion chromatogram from a single unique
+peptide for each protein across all runs. A two sample t-test based on integrated peak intensities
+discovered differences in 27 proteins for control versus U-MWCNT, 13 proteins for control versus
+A-MWCNT, and 2 proteins for U-MWCNT versus A-MWCNT. Finally, an in-vitro binding
+experiment was performed yielding 4 common proteins statistically different (p<0.05) for both the
+in-vitro and in-vivo study. Several of the proteins found to be significantly different between
+exposed and control groups are known to play a key role in inflammatory and immune response. A
+comparison between the in-vitro and in-vivo CNT exposure emphasized a true biological response
+to CNT exposure.
+Keywords
+Carbon nanotube; Label-free proteomics; Pulmonary fibrosis; Toxicoproteomics
+© 2015 Elsevier Ireland Ltd. All rights reserved.
+*Corresponding  author  at:  Department  of  Biological  Sciences,  Center  for  Human  Health  and  the  Environment,  North  Carolina  State
+University, Raleigh, NC, United States. Tel.: +1 919 515 8520. michaelbereman@ncsu.edu (M.S. Bereman).
+Conflict of interest
+The authors declare that there are no conflicts of interest.
+Transparency document
+The Transparency document associated with this article can be found in the online version.
+Hilton et al.
+1. Introduction
+Page 2
+Carbon nanotubes (CNTs) have been increasingly investigated for a wide range of
+applications since their characterization in 1991 (Vairavapandian et al., 2008). Sumio Iijima
+first described CNTs as “needle-like tubes” that range from 4 to 30 nm in diameter and up to
+1µm in length (Iijima, 1991). These tubes are now more commonly described as rolled
+sheets of hexagonal graphite, being either single-walled carbon nanotubes (SWCNTs), one
+layer, or multi-walled carbon nanotubes (MWCNTs), greater than one layer. CNTs have
+been tested and reported to be stronger than steel and a fraction of the weight (Thostenson et
+al., 2001), thus making them ideal for material additives (Endo et al., 2008). They are also
+being investigated in the medical field to serve as a targeted drug delivery vehicle, offering a
+larger drug pay load and greater bioavailability (Bonner, 2011). CNTs unique physical
+properties make them ideal for various structural support and medical applications; however,
+the combination of increased use of CNTs, lack of knowledge of the risks from CNT
+exposure (Porter et al., 2010), and the absence of proper safety requirements have all led to a
+greater potential for adverse occupational or environmental exposure (Maynard et al., 2004).
+One of the greatest concerns over the mass production and use of CNTs is that they possess
+fiber-like characteristics similar to asbestos, thus creating the potential for induction of
+pulmonary fibrosis and lung cancer upon exposure. Several studies have shown that mice or
+rats exposed to CNTs by inhalation, oropharyngeal aspiration (OPA), or intratracheal
+instillation (IT) develop lung inflammation and pulmonary fibrosis (Bonner, 2010; 
+Ryman-Rasmussen et al., 2009a). CNTs delivered to the lungs of mice are avidly engulfed by
+macrophages within the alveolar region (Lam et al., 2004) which produce a variety of
+soluble proteins (e.g., cytokines, growth factors, proteinases, extracellular matrix) that play
+roles in lung homeostasis, tissue repair, or disease pathogenesis (Mitchell et al., 2007).
+Additionally, the lung epithelium produces critical proteins, such as pulmonary surfactant
+proteins (Salvador-Morales et al., 2007) and myeloperoxidase (Klebanoff, 2005), as an
+innate defense immune response to foreign bodies. Fibrotic response to CNTs in the alveolar
+interstitium is caused by the over-production of collagen and other extracellular matrix
+proteins by myofibroblasts that result in an increased thickness of the connective tissue
+(Mercer et al., 2011). Both the fibrotic and immune responses are likely due to the
+generation of reactive oxygen species from residual metal content from the CNTs and the
+persistence of CNTs endowed by their fiberlike shape (Bonner, 2011).
+A variety of post-synthesis chemical engineering modifications have been developed to
+enhance the unique mechanical and electronic properties of CNTs (Prato et al., 2008; Singh
+and Kruse 2008). Atomic layer deposition (ALD) is a novel process used to apply a highly
+conformal thin-film coating of oxides, metals, and hybrid metal/organic materials to CNTs
+to enhance conductivity, photovoltaic or catalytic applications, and attachment of
+biomolecules (Hyde et al., 2009; Parsons et al., 2011; Peng et al., 2007). For example,
+aluminum oxide (Al2O3) and titanium oxide change surface functionality of organic fibers,
+increase surface hydrophilic properties, and enhance biomolecule attachment (Parsons et al.,
+2011; Peng et al., 2009). Zinc oxide or titanium oxide coating imparts increased
+photosensitivity of CNTs for photovoltaic or catalytic applications (Peng et al., 2009). ALD
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Page 3
+was initially developed for use in the semiconductor industry and has become increasingly
+used for work at the nano-scale because of the highly uniform thin film coatings that are
+achieved via a sequence of selflimiting reactions (George, 2010; Marichy et al., 2012;
+Parsons et al., 2011). ALD modified CNTs are being explored in microelectronics for
+enhancing conductivity, and energy storage applications (Marichy et al., 2012). In assessing
+the potential hazards of CNTs on human health, it is therefore important to consider CNTs
+that are modified by ALD.
+Herein, we investigate the variations in protein secretion from mouse lungs following a 24 h
+acute exposure to non-functionalized or ALD-functionalized MWCNTs and control via
+liquid chromatography- tandem mass spectrometry (LC-MS/MS). LC-MS/MS provides a
+powerful platform to evaluate global changes in the proteome as a response to injury or
+disease. In this study, protein abundance was quantified by label-free proteomics using both
+spectral counts and peak intensities (Asara et al., 2008; Liao et al., 2009). Finally, we
+demonstrate the changes in protein expression are the result of specific biological processes
+through gene ontology enrichment analysis.
+2. Materials and methods
+Acetic acid, ammonium bicarbonate, sodium deoxycholate (SDC), dithiothreitol (DTT),
+iodoacetamide (IAM), formic acid (FA), ammonium hydroxide, hydrochloric acid (HCl),
+and bovine serum albumin (BSA) were obtained from Sigma-Aldrich (St. Louis, MO).
+Sequencing grade trypsin was purchased from Promega (Madison, WI). HPLC gradewater,
+methanol, and acetonitrile were purchased from VWR International (Morrisville, NC). The
+Pierce bicinchoninic acid (BCA) protein assay kit was purchased through ThermoFisher
+Scientific (Waltham, MA). Oasis MCX 30µm particle size solid phase extraction cartridges
+were obtained from Waters (Milford, MA).
+2.1. Nanomaterials
+MWCNT 0.5-40µm in length were synthesized by chemical vapor deposition and purchased
+from Helix Materials Solutions (Richardson, TX). Characterization of the MWCNTs was
+provided by the manufacturer and verified by Millennium Research Laboratories (Woburn,
+MA) (Ryman-Rasmussen et al., 2009b). MWCNTs were surface coated with Al2O3 via
+atomic layer deposition (ALD). The aluminum oxide layer is achieved using sequential
+saturation exposures of trimethylaluminum (Al(CH3)3) and water, then separated by inert
+gas purging steps. Based on the known growth rate for the Al2O3 ALD process on
+MWCNTs, the nanotubes used in this study had a coating estimated to be ~50 ALD layers
+(Fig. 1). The details of ALD coating of carbon nanotubes have been previously described
+(Devine et al., 2011).
+2.2. Preparation of MWCNTs
+Uncoated MWCNTs (U-MWCNT) and aluminum oxide coated (A-MWCNT) were weighed
+using a milligram scale (Mettler, Toledo, OH) suspended in a sterile, 0.1% pluronic F-68
+(Sigma-Aldrich, St. Louis, MO) in phosphate buffer solution to achieve the final
+concentration of 10 mg/mL. Vials containing the suspended nanomaterials were dispersed
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Page 4
+using a cuphorn sonicator (Qsonica, Newton CT) at room temperature for 1 min prior to
+dosing. A limulus amebocyte lysate (LAL) chromogenic assay (Lonza Inc., Walkersville,
+MD) was used to test the nanomaterials for endotoxin contamination. All MWCNTs, both
+U-MWCNT and A-MWCNT, tested negative (<0.3 EU/mL) for endotoxin.
+2.3. Exposure of mice to MWCNTs and processing of lung tissue
+Mice (C57BL6, Jackson Laboratories) approximately 6-8 weeks old were exposed to 
+U-MWCNT and A-MWCNT at 4 mg/kg in 0.1% pluronic surfactant solution or 0.1% pluronic
+alone for control, via oropharyngeal aspiration while under isoflurane anesthesia. Three
+mice per group were evaluated. Mice were euthanized via intraperitoneal injection of Fatal
+Plus (Vortech Pharmaceuticals, Dearborn, MI) on day 1 after MWCNT exposure (Bonner et
+al., 2013). At necropsy, the lungs were serially lavaged two times with 0.5 ml Dulbecco’s
+Phosphate Buffered Saline and bronchoalveolar lavage fluids (BALFs) were collected. Lung
+lavages were centrifuged at 14,000 rpm for 2 min, and isolated away from MWCNTs.
+2.4. In solution protein digestion
+Samples were quantified by a BCA protein assay, and a final concentration of 50mM total
+ammonium bicarbonate (pH 8.0) was achieved by adding the appropriate amount of
+ammonium bicarbonate solution to the BALFs. SDC was added to generate a final
+concentration of 1% detergent. Disulfides were reduced upon addition of 5mM DTT and
+incubated for 30min at 60 °C. Samples were then cooled to room temperature and IAM was
+added to make a final concentration of 15mM, and incubated in the dark for 20min at room
+temperature. Tryptic digestion was achieved by hydrating lyophilized trypsin to a stock
+solution of 1µg/µL with 0.01% acetic acid in water. The trypsin solution was added to the
+protein mixture (i.e. 20µg protein) in a 1:50 ratio (~0.4µg trypsin), and then incubated at 37
+°C for 4 h. Following the digestion, samples were acidified with 6M HCl to make a final
+concentration of 250mM (pH ≤ 3) (Bereman et al., 2012). Sample purification and
+concentration was achieved using MCX cartridges. Samples were added to the conditioned
+column after steps1-4(SupplementalTable1). After the sample was added to the column,
+salts were removed with water (0.1% formic acid), neutrals and negatively charged species
+were removedwith1mLofmethanol (0.1%formic acid), andthenpeptides were eluted in 10%
+NH4OH in methanol. Finally, samples were concentrated down in vacuo (10 Torr) at 45 °C
+for 2 h (speedvac concentrator, Thermo Fisher Scientific), and then reconstituted in mobile
+phase A (98% water, 2% acetonitrile, and 0.1% formic acid) to yield a final concentration
+100 ng/µL.
+2.5. In-vivo exposure of mouse lung lavage to MWCNTs
+Each of the 9 lung lavage samples (3 controls, 3 U-MWCNT exposures, and 3 A-MWCNT
+exposures) were isolated from mice as described in the ‘Exposure of mice to MWCNTs and
+processing of lung tissue’, and then diluted to 175µL with 50mM ammonium bicarbonate
+solution. Sample digestion and purification was achieved as described in the ‘In solution
+protein digestion’ section. A final sample concentrationwas 100 ng/µL peptide was prepared
+for LC-MS/MS.
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+2.6. In-vitro exposure of mouse lung lavage to MWCNTs
+2.7. LC-MS/MS
+2.8. Database search
+grouping (Zhang et al., 2007).
+A single lung lavage sample from a control mouse (C57BL6, Jackson Laboratories)was
+isolated, as described in the ‘Exposure of mice to MWCNTs and processing of lung tissue.’,
+and divided into 3 separate aliquots. The sample was quantified and recorded to be 0.2µg/µL
+protein concentration. Each aliquot contained 150µL of 0.1% pluronic solution to yield 30µg
+of protein. The designated U- and A-MWCNT samples received 4 mg/kg of respective
+MWCNTs in 0.1% pluronic surfactant solution, and the control received 0.1% pluronic
+alone to ensure equal concentrations. Samples were incubated and shaken for 24 h at 37 °C
+and 180 rpm (MaxQ 4000, Thermo Fisher Scientific). After incubation, samples were
+centrifuged at 14,000 rpm for 2 min, and isolated away from MWCNTs. Lung lavages were
+further diluted with 400mM ammonium bicarbonate to achieve a final concentration of
+50mM in 200µL total volume. Each sample pH was checked and recorded to be 8.0. Sample
+digestion was achieved as described in the ‘In solution protein digestion’ section. A final
+sample concentration of 0.5µg/µL peptide was prepared for LC-MS/MS.
+Nanoflow liquid chromatography (LC) was conducted using the Thermo Scientific 
+Easy-nLC 1000 Liquid Chromatography system. Pico-Frit columns were purchased from New
+Objective (Woburn, MA) and packed to a length of 20cm with reverse phase ReproSil-Pur
+120C-18-AQ 3µm particles (Dr. Maisch, Germany). The trap was packed in house to a final
+length of 3 cm. A 2µL injection (200 ng total protein) was washed onto the trap at a flow of
+2.0 µL/min for 4 min. Peptide separationwas achieved on the LC using a gradient of mobile
+phase A (98% water, 2% acetonitrile, and 0.1% formic acid) and mobile phase B (100%
+acetonitrile, 0.1% formic acid). The 90 min method consisted of an LC gradient with a linear
+ramp from 2% B to 40% B across 70 min (2-72 min), a ramp and wash at 80% B (72-78
+min), followed by equilibration of the column at 0% B (Supplemental Table 2). Tandem
+mass spectrometry was performed using a Thermo Scientific Q-Exactive Plus in a top 12
+mode where the 12 most abundant precursors were selected for fragmentation per full scan.
+MS1 and MS2 scans were performed at a resolving power of 70 k and 17.5 k at m/z 200,
+respectively. A dynamic exclusion window of 30 s was used to avoid repeated interrogation
+of abundant species. Automatic gain control was 1e6 and 5e4 for MS1 and MS2 scans,
+respectively. A quality control BSA digest was run every fifth injection to ensure proper 
+LC-MS/MS reproducibility. Metrics were monitored in using the Statistical Process Control in
+Proteomics algorithm (Bereman et al., 2014).
+Database searches were conducted using Proteome Discoverer 1.4 and the Sequest 
+hyper-threaded algorithm. Data were searched against the Mus musculus Swiss Prot protein
+database (number of sequences: 16,657, date accessed: 02/11/2014) (UniProt, 2008). Peptide
+spectrum matches were post processed using percolator to enforce a peptide spectral match
+threshold of q-value<0.01. The law of strict parsimony was used for protein inference and
+Page 5
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+2.9. Data analysis
+Page 6
+The experimental data were exported from Proteome Discoverer as an inclusive tab
+delimited file containing each protein group ID and spectral count. A protein’s spectral
+count is the total sum of the number of times peptides belonging to that protein were
+identified in the experiment. It is a fast method for relative quantification and identification
+of putative proteins of interest (Liu et al., 2004). Missing spectral count data for any protein
+group (i.e., not identified) was assigned a zero. Each experimental group’s spectral count
+data was summed by protein group ID to generate 3 groups of 3 samples each: control, 
+U-MWCNT, and A-MWCNT. We first screened the list of proteins identified using the
+Fisher’s exact test to calculate p-values based on the combined spectral count of each
+protein for each pairwise comparison: control versus U-MWCNT, control versus 
+A-MWCNT, and U-MWCNT versus A-MWCNT. Next, these results were further verified by
+integrating the summed area under the extracted ion chromatogram of the M, M+ 1, and M+
+2 signals of a single unique peptide from each putative protein of interest identified from the
+Fisher’s exact test using MS1 full scan filtering in Skyline (MacLean et al., 2010; Schilling
+et al., 2012). Spectral libraries were created directly in Skyline from the .msf files and used
+in combination with mass measurement accuracy, retention time reproducibility, and isotope
+dot products to integrate signals corresponding to peptides of interest. Unique peptides for
+each protein were determined using the background proteome database function in Skyline.
+The peak area data were log transformed, all zero values were imputed with a value of 10,
+and p-values were calculated by using a two-sample t-test for each group (Supplemental
+Table 3). Proteins that were identified as significant by both spectral count (p<0.05) and
+peak intensity integration (p<0.05) were further analyzed by gene ontology enrichment
+analysis using the DAVID Bioinformatics Resources 6.7 database (Huang da et al., 2009).
+In-vitro experimental data was processed similarly to the in-vivo experimental data, as
+described above. Analytical replicate spectral count datawas summed for each of the 3
+samples: control, U-MWCNT, and A-MWCNT. Fisher’s exact test was run for each
+pairwise comparison.
+3. Results
+3.1. In-vivo study
+The experimental design for in-vivo mouse exposure to A-MWCNT and U-MWCNT,
+followed by lung lavage isolation, protein digestion, LC-MS/MS, and data analysis is shown
+in Fig. 2. Fig. 3displays volcano plots in which the log2 fold change is plotted against -log10
+p-value generated from the Fisher’s exact test. Of the protein groups identified by
+SEQUEST across the sample set, 68 were significantly different by the Fisher’s exact test
+(p-value <0.05) in control versus U-MWCNT, 47 significant by control versus A-MWCNT,
+and 21 significant by U- versus A-MWCNT. Thus, a greater than 2 fold difference in
+number of protein groups significant by Fisher’s exact test were detected between the
+control and each MWCNT-exposed group versus the differences between the both of the
+exposed groups. Further examination of the significant proteins identified by spectral
+counting between the control and U-MWCNT groups were investigated by MS1 peak area
+analysis in Skyline. A total of 26 proteins found to be significant by the Fisher’s exact test
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+3.2. In-vitro study
+To confirm a true biological response, as opposed to a physical interaction, we conducted an
+in-vitro study to probe for potential protein binding with MWCNTs. Of the approximately
+500 proteins groups identified, 11 proteins were statistically significant by Fisher’s exact test
+(p-value<0.05) for control versus U-MWCNT, and 15 proteins for the control versus 
+A-MWCNT as illustrated in the volcano plot in Supplemental Fig. 1. However, only 4 proteins
+were identified as significant by the Fisher’s exact test in both the in-vitro and in-vivo study.
+These results indicate that the remaining proteins identified as being statistically significant
+in the in-vivo study are due to a true biological response and not physical binding of
+MWCNTs to proteins.
+3.3. Gene ontology analysis
+Gene ontology (GO) enrichment analysis was used to further classify the biological function
+of the significant proteins calculated by t-test for the control versus U-MWCNT, and the
+control versus A-MWCNT in the in-vivo study. Fig. 5illustrates the GO analysis results for
+both biological process and molecular function. Biological processes are (1) considered
+molecular events with a beginning and end, and (2) have a vital role in living units (i.e. cells,
+tissues, organs, and organisms). Molecular function GO term defines the functions of gene
+products in accordance with their abilities. Of the biological process GO terms identified in
+the comparison of control versus U-MWCNT, 58% were identified in the category of
+response to stimulus, and the remaining 42% were identified in the category of immune
+response (Supplemental Table 4). The significant biological process GO terms identified the
+control versus A-MWCNT comparison comprised 75% related to a response to stimulus,
+and 25% an immune response. The results of the GO analysis for the control versus
+MWCNT exposed groups show enrichment for proteins in both immune response, and
+response to stimuli.
+Page 7
+across all combinations of comparison did not have a unique peptide that could be
+confidently integrated using the rules outlined in the methods section due largely to low
+signal to noise, and thus were not included in the analysis of the comparisons. Fig.
+4illustrates an example of peak area analysis and subsequent t-test results for
+myeloperoxidase. Of the significant proteins found by Fisher’s exact test that were further
+analyzed by peak area analysis, 27 proteins were found to be significant (p-value<0.05)
+between control versus U-MWCNT, 13 proteins were significant between control versus 
+A-MWCNT, and 2 proteins were significant between U-MWCNT versus A-MWCNT
+(Supplemental Table 3). These results illustrate the more conservative p-value by peptide
+peak area analysis compared to spectral counting, which is attributed to a combination of
+accounting for the variance amongst the biological replicates inherent in the t-statistic, raw
+spectral counts include possible non-unique peptides, and not every protein had a unique
+peptide that could be confidently integrated. Fig. 4A illustrates peak area analysis of
+myeloperoxidase, a protein associated with innate immune response, where the protein was
+not detected in the control, but was detected in both of the exposed groups. Myeloperoxidase
+levels across control and exposed groups were not significant in the in-vitro study, and
+therefore, are more likely to be a true biological response versus a physical interaction of the
+MWCNTs adhering to the protein.
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+4. Discussion
+Page 8
+The aim of this study was to investigate proteomic changes upon acute pulmonary exposure
+to coated and uncoated MWCNTs. Of the proteins that were found to be statistically
+significant by comparing control versus MWCNT exposed groups, several were identified to
+be associated with an immune response and/or a response to stimuli, including:
+myeloperoxidase (MPO), lacto-transferrin (LTF), neutrophil gelatinase-associated lipocalin
+(NGAL), histone H4, pulmonary surfactant-associated protein B (SP-B), and complement
+(C3, C4b, and C9) proteins. It has been well established that neutrophils use MPO, a
+lysosomal enzyme, as an innate immune response to kill microbes by generating hydrogen
+peroxide (Gaut et al., 2001; Klebanoff, 2005). In this study we observed significantly
+increased levels of MPO expression in both of the exposed groups and no detectable
+expression in the control, thus indicating a pulmonary immune response to injury upon
+MWCNT exposure. Interestingly, MPO has recently been shown to degrade MWCNTs and
+therefore MPO represents a potentially important defense to break down otherwise persistent
+nanotubes (Kagan et al., 2010). Moreover, mice deficient in MPO had reduced clearance of
+CNTs and enhanced inflammation and fibrosis (Shvedova et al., 2012). Our data show that
+uncoated and Al2O3-coated MWCNT both induce MPO protein expression equally in the
+lungs of mice. However, it is possible that the Al2O3 coating might alter MPO-induced
+degradation of CNTs and this is an important issue to address in future studies.
+In addition to MPO, LTF, also known as lactoferrin, is present in neutrophil granules and
+plays an important role to bridge the innate and adaptive immune response by aiding cellular
+regulation of oxidative stress, as well as, control excess inflammatory response (Actor et al.,
+2009). Like MPO, LTF protein expression was also significantly increased upon both 
+U-MWCNT and A-MWCNT exposure which indicates an up regulated process to control for
+inflammatory response in the lung. Additional evidence of innate immune response and
+inflammatory induction by MWCNT exposure was found by the increased expression of
+NGAL in both U-MWCNT and A-MWCNT exposure compared to the control, and an
+increase in histone H4 in the U-MWCNT exposed groups compared to control. NGAL is
+known to be expressed by immune cells and serves to modulate oxidative stress, and when
+reactive oxygen species are generated upon exposure, DNA damage can occur and release
+histone H4 and serve as a marker for inflammatory response (Chakraborty et al., 2012;
+Tambor et al., 2013). Along with NGAL and histone H4, immune defense systems, such as
+the complement component system, have been detected for up regulation upon MWCNT
+exposure. The complement system, containing more than 30 proteins, is considered to play a
+vital role in innate immune response, and can be activated through three major pathways:
+classical, lectin, and alternative (Dunkelberger and Song, 2010). Initiation of the classical
+pathway occurs through antigen/antibody immune complexes, the lectin pathway occurs by
+lectins recognition of pathogen-associated molecular patterns (PAMPs), and the alternative
+pathway is activated by interaction with pathogenic surfaces. Our data analysis showed
+statistically significant differences in complement components C9, C3, and C4b in the 
+U-MWCNT exposed group compared to the control. C9 is a part of the terminal complement
+component system that serves to initiate membrane attack on certain pathogens and cells. C3
+protein acts through the alternative pathway and is broken down by C3 convertase to C3b, a
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+5. Conclusion
+This study examined changes in protein abundance associated with immune response and
+inflammation were detected in mice lung BALF after 24 h exposure to functionalized and
+non-functionalized MWCNTs. These experiments demonstrated the ability to use 
+LC-MS/MS to probe for global changes in lung lavage fluid upon pulmonary insult to carbon
+nanotubes. Differences in protein expression were screened by examining spectral count
+data and further verified by peak area analysis of a single unique peptide. Investigation of
+the potential protein interaction with CNTs was conducted as an in-vitro study to examine
+whether biological changes in protein expression occur upon toxicant exposure versus
+protein binding with the CNTs. Further protein binding studies are needed to examine
+potential protein interaction with various functionalized CNTs. Future studies will use
+protein cleavage isotope dilution mass spectrometry to validate the absolute changes in
+protein amounts and examine the differences in protein expression across multiple types of
+MWCNT functionalization. In addition, we will use global proteomic approaches to
+investigate perturbations of intracellular pathways in relation to carbon nanotube
+degree of toxicity of a variety of carbon nanotube coatings.
+Page 9
+protein that binds complement receptors on phagocytes, and C3a, a mediator of
+inflammation. Lastly, C4b acts as an opsonin on the surface of targeted cells. All three
+complement components were up regulated in U-MWCNT exposure compared to the
+control, thus indicating activation of the complement component system as an innate
+immune response.
+Another key protein group known to induce immune response are the pulmonary surfactant
+proteins (SP), including: SP-A, SP-B, and SP-D. Surfactant proteins compose a major
+component of pulmonary surfactant which is essential for maintaining lung homeostasis as it
+prevents alveolar collapse (Wright, 2005). Induction of immune response has been shown to
+be enhanced by SP-B containing antigen vesicles within the airways (van Iwaarden et al.,
+2001). Our proteomic analysis demonstrated that of the 3 common surfactant proteins, only
+SP-B was statistically significant in the comparison of U-MWCNT versus control.
+Interestingly, SP-B was detected in lower levels for both of the exposed groups compared to
+the control, thus following the trend previously observed with SP-A and SP-D where the
+proteins were bound to the CNTs (Salvador-Morales et al., 2007). The reduction in SP-B
+levels could be indicative of an immune response whereby the secreted proteins are adhering
+to the CNTs. However, none of the surfactant proteins were significant by the in-vitro study,
+indicating that the binding of the surfactant proteins to the CNTs may be concentration
+and/or environment dependent.
+Comparing the different MWCNT (Al2O3-coated versus uncoated) exposure groups yielded
+little differences in protein abundances, thus indicating the major response in this specific
+study was due to CNT exposure. However, more precise absolute quantitative LC-MS/MS
+methods are needed to screen a variety of different coatings based on the markers identified
+herein and will be the subject of future studies.
+functionalization using model cell lines. Ultimately, putative markers of interest will be used
+to develop targeted peptide assays based on selected reaction monitoring to determine
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Supplementary Material
+Acknowledgment
+Abbreviations
+Al2O3
+ALD
+BCA
+BSA
+BALF
+CNTs
+C3, C4b, and C9
+DTT
+FA
+GO
+HPLC
+HCl
+IT
+IAM
+LTF
+LC-MS/MS
+MWCNT
+MPO
+NGAL
+OPA
+SP-A, B, D
+SWCNT
+SDC
+U-MWCNT
+Refer to Web version on PubMed Central for supplementary material.
+The authors acknowledge support from the NIEHS Training Grant: Molecular Pathways to Pathogenesis in
+Toxicology T32 ES007046, the NIEHS R01ES020897, and the NIEHS RC2ES018772.
+aluminum oxide
+A-MWCNT
+aluminum oxide-coated multi-walled carbon nanotubes
+atomic layer deposition
+bicinchoninic acid
+bovine serum albumin
+bronchoalveolar lavage fluid
+carbon nanotubes
+complement system proteins
+dithiothreitol
+formic acid
+gene ontology
+high-performance liquid chromatography
+hydrochloric acid
+intratracheal instillation
+iodoacetamide
+lactotransferrin
+liquid chromatography tandem mass spectrometry
+multi-walled carbon nanotubes
+myeloperoxidase
+neutrophil gelatinase-associated lipocalin
+oropharyngeal aspiration
+pulmonary surfactant-associated protein
+single-walled carbon nanotubes
+sodium deoxycholate
+un-coated multi-walled carbon nanotubes
+Page 10
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Appendix A. Supplementary data
+References
+Page 11
+Supplementary data associated with this article can be found, in the online version, at http://
+dx.doi.org/10.1016/j.tox.2015.01.011.
+Actor JK, Hwang SA, Kruzel ML. Lactoferrin as a natural immune modulator. Curr. Pharm. Des.
+2009; 15:1956-1973. [PubMed: 19519436]
+Asara JM, Christofk HR, Freimark LM, Cantley LC. A label-free quantification method by MS/MS
+TIC compared to SILAC and spectral counting in a proteomics screen. Proteomics. 2008; 8:994-
+999. [PubMed: 18324724]
+Bereman MS, Canterbury JD, Egertson JD, Horner J, Remes PM, Schwartz J, Zabrouskov V, MacCoss
+MJ. Evaluation of front-end higher energy collision-induced dissociation on a benchtop 
+dual-pressure linear ion trap mass spectrometer for shotgun proteomics. Anal. Chem. 2012; 84:1533-
+1539. [PubMed: 22192247]
+Bereman MS, Johnson R, Bollinger J, Boss Y, Shulman N, MacLean B, Hoofnagle AN, MacCoss MJ.
+Implementation of statistical process control for proteomic experiments via LC MS/MS. J. Am. Soc.
+Mass Spectrom. 2014; 25:581-587. [PubMed: 24496601]
+Bonner JC. Nanoparticles as a potential cause of pleural and interstitial lung disease. Proc. Am.
+Thoracic Soc. 2010; 7:138-141.
+Bonner JC. Carbon nanotubes as delivery systems for respiratory disease: do the dangers outweigh the
+potential benefits? Expert Rev. Respir. Med. 2011; 5:779-787. [PubMed: 22082164]
+Bonner JC, Silva RM, Taylor AJ, Brown JM, Hilderbrand SC, Castranova V, Porter D, Elder A,
+Oberdorster G, Harkema JR, Bramble LA, Kavanagh TJ, Botta D, Nel A, Pinkerton KE.
+Interlaboratory evaluation of rodent pulmonary responses to engineered nanomaterials: the NIEHS
+Nano GO Consortium. Environ. Health Perspect. 2013; 121:676-682. [PubMed: 23649427]
+Chakraborty S, Kaur S, Guha S, Batra SK. The multifaceted roles of neutrophil gelatinase associated
+lipocalin (NGAL) in inflammation and cancer. Biochim. Biophys. Acta. 2012; 1826:129-169.
+[PubMed: 22513004]
+Devine CK, Oldham CJ, Jur JS, Gong B, Parsons GN. Fiber containment for improved laboratory
+handling and uniform nanocoating of milligram quantities of carbon nanotubes by atomic layer
+deposition. Langmuir. 2011; 27:14497-14507. [PubMed: 22070742]
+Dunkelberger JR, Song WC. Complement and its role in innate and adaptive immune responses. Cell
+Res. 2010; 20:34-50. [PubMed: 20010915]
+Endo M, Strano MS, Ajayan PM. Potential applications of carbon nanotubes. Carbon Nanotubes.
+2008; 111:13-61.
+Gaut JP, Yeh GC, Tran HD, Byun J, Henderson JP, Richter GM, Brennan ML, Lusis AJ, Belaaouaj A,
+Hotchkiss RS, Heinecke JW. Neutrophils employ themyeloperoxidase system to generate
+antimicrobial brominating and chlorinating oxidants during sepsis. Proc. Natl. Acad. Sci. U. S. A.
+2001; 98:11961-11966. [PubMed: 11593004]
+George SM. Atomic layer deposition: an overview. Chem. Rev. 2010; 110:111-131. [PubMed:
+19947596]
+Huang da W, Sherman BT, Lempicki RA. Systematic and integrative analysis of large gene lists using
+DAVID bioinformatics resources. Nat. Protoc. 2009; 4:44-57. [PubMed: 19131956]
+Hyde GK, McCullen SD, Jeon S, Stewart SM, Jeon H, Loboa EG, Parsons GN. Atomic layer
+deposition and biocompatibility of titanium nitride nanocoatings on cellulose fiber substrates.
+Biomed. Mater. 2009; 4:25001.
+Iijima S. Helical microtubules of graphitic carbon. Nature. 1991; 354:56-58.
+Kagan VE, Konduru NV, Feng W, Allen BL, Conroy J, Volkov Y, Vlasova II, Belikova NA,
+Yanamala N, Kapralov A, Tyurina YY, Shi J, Kisin ER, Murray AR, Franks J, Stolz D, Gou P,
+Klein-Seetharaman J, Fadeel B, Star A, Shvedova AA. Carbon nanotubes degraded by neutrophil
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Page 12
+myeloperoxidase induce less pulmonary inflammation. Nat. Nanotechnol. 2010; 5:354-359.
+[PubMed: 20364135]
+Klebanoff SJ. Myeloperoxidase: friend and foe. J. Leukoc. Biol. 2005; 77:598-625. [PubMed:
+15689384]
+Lam CW, James JT, McCluskey R, Hunter RL. Pulmonary toxicity of single-wall carbon nanotubes in
+mice 7 and 90 days after intratracheal instillation. Toxicol. Sci. 2004; 77:126-134. [PubMed:
+14514958]
+Liao L, McClatchy DB, Yates JR. Shotgun proteomics in neuroscience. Neuron. 2009; 63:12-26.
+[PubMed: 19607789]
+Liu H, Sadygov RG, Yates JR. A model for random sampling and estimation of relative protein
+abundance in shotgun proteomics. Anal. Chem. 2004; 76:4193-4201. [PubMed: 15253663]
+MacLean B, Tomazela DM, Shulman N, Chambers M, Finney GL, Frewen B, Kern R, Tabb DL,
+Liebler DC, MacCoss MJ. Skyline: an open source document editor for creating and analyzing
+targeted proteomics experiments. Bioinformatics. 2010; 26:966-968. [PubMed: 20147306]
+Marichy C, Bechelany M, Pinna N. Atomic layer deposition of nanostructured materials for energy
+and environmental applications. Adv. Mater. 2012; 24:1017-1032. [PubMed: 22278762]
+Maynard AD, Baron PA, Foley M, Shvedova AA, Kisin ER, Castranova V. Exposure to carbon
+nanotube material: aerosol release during the handling of unrefined single-walled carbon nanotube
+material. J. Toxicol. Environ. Health A. 2004; 67:87-107. [PubMed: 14668113]
+Mercer RR, Hubbs AF, Scabilloni JF, Wang L, Battelli LA, Friend S, Castranova V, Porter DW.
+Pulmonary fibrotic response to aspiration of multi-walled carbon nanotubes. Part. Fibre Toxicol.
+2011; 8:21. [PubMed: 21781304]
+Mitchell LA, Gao J, Wal RV, Gigliotti A, Burchiel SW, McDonald JD. Pulmonary and systemic
+immune response to inhaled multiwalled carbon nanotubes. Toxicol. Sci. 2007; 100:203-214.
+[PubMed: 17660506]
+Parsons GN, George SM, Knez M. Progress and future directions for atomic layer deposition and
+ALD-based chemistry. MRS Bull. 2011; 36:865-871.
+Peng Q, Gong B, VanGundy RM, Parsons GN. Zincone zinc oxide-organic hybrid polymer thin films
+formed by molecular layer deposition. Chem. Mater. 2009; 21:820-830.
+Peng Q, Sun XY, Spagnola JC, Hyde GK, Spontak RJ, Parsons GN. Atomic layer deposition on
+electrospun polymer fibers as a direct route to AL2O3 microtubes with precise wall thickness
+control. Nano Lett. 2007; 7:719-722. [PubMed: 17279801]
+Porter DW, Hubbs AF, Mercer RR, Wu N, Wolfarth MG, Sriram K, Leonard S, Battelli L, 
+Schwegler-Berry D, Friend S, Andrew M, Chen BT, Tsuruoka S, Endo M, Castranova V. Mouse pulmonary
+dose- and time course-responses induced by exposure to multi-walled carbon nanotubes.
+Toxicology. 2010; 269:136-147. [PubMed: 19857541]
+Prato M, Kostarelos K, Bianco A. Functionalized carbon nanotubes in drug design and discovery. Acc.
+Chem. Res. 2008; 41:60-68. [PubMed: 17867649]
+Ryman-Rasmussen JP, Cesta MF, Brody AR, Shipley-Phillips JK, Everitt JI, Tewksbury EW, Moss
+OR, Wong BA, Dodd DE, Andersen ME, Bonner JC. Inhaled carbon nanotubes reach the
+subpleural tissue in mice. Nat. Nanotechnol. 2009a; 4:747-751. [PubMed: 19893520]
+Ryman-Rasmussen JP, Tewksbury EW, Moss OR, Cesta MF, Wong BA, Bonner JC. Inhaled
+multiwalled carbon nanotubes potentiate airway fibrosis in murine allergic asthma. Am. J. Respir.
+Cell Mol. Biol. 2009b; 40:349-358. [PubMed: 18787175]
+Salvador-Morales C, Townsend P, Flahaut E, Venien-Bryan C, Vlandas A, Green MLH, Sim RB.
+Binding of pulmonary surfactant proteins to carbon nanotubes; potential for damage to lung
+immune defense mechanisms. Carbon. 2007; 45:607-617.
+Schilling B, Rardin MJ, MacLean BX, Zawadzka AM, Frewen BE, Cusack MP, Sorensen DJ,
+Bereman MS, Jing E, Wu CC, Verdin E, Kahn CR, Maccoss MJ, Gibson BW. 
+Platform-independent and label-free quantitation of proteomic data using MS1 extracted ion chromatograms
+in skyline: application to protein acetylation and phosphorylation. Mol. Cell. Proteomics. 2012;
+11:202-214. [PubMed: 22454539]
+Shvedova AA, Kapralov AA, Feng WH, Kisin ER, Murray AR, Mercer RR, St Croix CM, Lang MA,
+Watkins SC, Konduru NV, Allen BL, Conroy J, Kotchey GP, Mohamed BM, Meade AD, Volkov
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Page 13
+Y, Star A, Fadeel B, Kagan VE. Impaired clearance and enhanced pulmonary inflammatory/
+fibrotic response to carbon nanotubes in myeloperoxidase-deficient mice. PloS One. 2012;
+7:e30923. [PubMed: 22479306]
+Singh S, Kruse P. Carbon nanotube surface science. Int. J. Nanotechnol. 2008; 5:900.
+Tambor V, Kacerovsky M, Lenco J, Bhat G, Menon R. Proteomics and bioinformatics analysis reveal
+underlying pathways of infection associated histologic chorioamnionitis in pPROM. Placenta.
+2013; 34:155-161. [PubMed: 23246098]
+Thostenson ET, Ren ZF, Chou TW. Advances in the science and technology of carbon nanotubes and
+their composites: a review. Compos. Sci. Technol. 2001; 61:1899-1912.
+UniProt C. The universal protein resource (UniProt). Nucleic Acids Res. 2008; 36:D190-D195.
+[PubMed: 18045787]
+Vairavapandian D, Vichchulada P, Lay MD. Preparation and modification of carbon nanotubes:
+review of recent advances and applications in catalysis and sensing. Anal. Chim. Acta. 2008;
+626:119-129. [PubMed: 18790113]
+van Iwaarden JF, Claassen E, Jeurissen SH, Haagsman HP, Kraal G. Alveolar macrophages, surfactant
+lipids, and surfactant protein B regulate the induction of immune responses via the airways. Am. J.
+Respir. Cell Mol. Biol. 2001; 24:452-458. [PubMed: 11306439]
+Wright JR. Immunoregulatory functions of surfactant proteins. Nat. Rev. Immunol. 2005; 5:58-68.
+[PubMed: 15630429]
+Zhang B, Chambers MC, Tabb DL. Proteomic parsimony through bipartite graph analysis improves
+accuracy and transparency. J. Proteome Res. 2007; 6:3549-3557. [PubMed: 17676885]
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Page 15
+Hilton et al.
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+Hilton et al.
+Toxicology. Author manuscript; available in PMC 2015 May 25.
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+
+Page 14 
+Fig. 1.  
+Transmission electron photomicrographs of (A) non-functionalized MWCNTs and (B) ALD  
+Al2O3-functionalized MWCNTs. 
+
+Fig. 2.  
+General overview of sample preparation and data analysis. (A) Mouse exposure  
+toMWCNTs, (B) lung lavage extraction, (C) tryptic digestion of lung lavage and SPE  
+sample clean up, (D) LC-MS/MS, and (E) Label-free protein quantification by: (a) spectral  
+counting, and (b) verification by MS1 peak area analysis of unique peptides. 
+
+Page 16 
+Fig. 3.  
+Volcano plots of log2 spectral count fold change versus-log10 p-value calculated by Fisher’s  
+exact test for: (A) U-MWCNT/control, (B) A-MWCNT/control, and (C) U-MWCNT/A- 
+MWCNT. Proteins plotted as a log2 fold change of 3 and -3 represent protein detection in  
+exposed groups, but not control, and vice versa (respectively). Positive fold change in  
+spectral count data represent up-regulation in exposed groups versus the control. Shaded  
+areas highlight significance of p<0.05. Abundant proteins (i.e., human serum albumin) were  
+included in calculations of the Fisher’s exact test, but not shown in plots. α = Pulmonary  
+surfactant-associated protein-B. β =Myeloperoxidase. γ = Lactotransferrin. 
+
+Page 17 
+Fig. 4.  
+Peak area analysiswas conducted on proteins that were discovered to be significant using the  
+Fisher’s Exact test on the spectral count data. (A) Chromatogram overlay used to assess  
+changes in peak area by group. (B) Peak area was tested for significance across every group  
+using the two-sample t-test: Control versus U-MWCNT (p = 7.02E- 08), Control versus A- 
+MWCNT (p = 3.96E-05), and U-MWCNT versus A-MWCNT = 0.679). *Control peak area  
+= 0, but imputed as a value of 10 to allow for log adjustment. Peaks were identified using a  
+combination of MS2 identification (blue lines), mass measurement accuracy (<3 ppm), dot  
+products of theoretical isotope abundance, and retention time reproducibility (For  
+interpretation of the references to colour in this figure legend, the reader is referred to the  
+web version of this article.). 
+
+Page 18 
+Fig. 5.  
+GO analysis terms for (A) Biological Process, and (B) Molecular Function for significant  
+proteins by peak area analysis both of the exposed groups versus the control. Significance  
+(p<0.05) was calculated by a modified Fisher’s exact test (EASE score) and adjusted by the  
+Benjamini correction and reported as the −log10 Benjamini p-value. Significant GO terms  
+are illustrated to the right of the dashed line (Huang da et al., 2009). 
+

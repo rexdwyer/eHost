@@ -1,0 +1,689 @@
+HHS Public Access
+Author manuscript
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Published in final edited form as:
+Toxicology. 2011 November 28; 290(1): 1-6. doi:10.1016/j.tox.2011.08.002.
+Correlation of tissue concentrations of the pyrethroid bifenthrin
+with neurotoxicity in the rat
+Edward J. Scollona,1, James M. Starrb, Kevin M. Croftona, Marcelo J. Wolanskyc,2, Michael
+J. DeVitoa,*, and Michael F. Hughesa
+aNational Health and Environmental Effects Research Laboratory, Office of Research and
+Development, U.S. Environmental Protection Agency Research Triangle Park, NC, United States
+bNational Exposure Research Laboratory, Office of Research and Development, U.S.
+Environmental Protection Agency Research Triangle Park, NC, United States
+cNational Research Council, Washington, DC, United States
+Abstract
+The potential for human exposure to pyrethroid pesticides has prompted pharmacodynamic and
+pharmacokinetic research to better characterize risk. This work tested the hypothesis that blood
+and brain concentrations of the pyrethroid bifenthrin are predictive of neurotoxic effects. Adult
+male Long Evans rats received a single oral dose of bifenthrin dissolved in corn oil. Using 
+figure-eight mazes, motor activity was measured for 1 h at 4- and 7-h following exposure to bifenthrin
+(0-16 mg/kg or 0-9 mg/kg, respectively; n = 4-8/group). Whole blood and brains were collected
+immediately following motor activity assays. Bifenthrin concentrations in blood and brain were
+quantified using HPLC/MS/MS. Bifenthrin exposure decreased motor activity from 20% to 70%
+in a dose-dependent manner at both time points. The relationship between motor activity data and
+administered dose, and blood and brain bifenthrin concentrations were described using a sigmoidal
+Emax model. The relationships between motor activity and administered dose or blood
+concentrations were different between the 4- and 7-h time points. The relationship between motor
+activity and brain concentration was not significantly different between the two time points. These
+data suggest that momentary brain concentration of bifenthrin may be a more precise dose metric
+*Corresponding  author.  Present  address:  National  Toxicology  Program,  National  Institute  of  Environmental  Health  Sciences,  530
+Davis Drive, Morrisville, NC 27560, United States. Tel.: +1 919 541 4142. devitom@niehs.nih.gov (M.J. DeVito).
+1Present  address:  Health  Effects  Division,  Office  of  Pesticide  Programs,  U.S.  Environmental  Protection  Agency,  Arlington,  VA,
+United States.
+2Present  address:  Laboratorio  de  Toxicología  de  Mezclas  Químicas  (LATOMEQ),  Departamento  de  Química  Biológica,  Facultad  de
+Ciencias  Exactas  y  Naturales,  Universidad  de  Buenos  Aires,  Intendente  Guiraldes  2160,  Pabellón  2,  Piso  4,  Laboratorio  QB48,  Ciudad
+Autónoma de Buenos Aires (1428), Argentina.
+Disclaimer
+This  article  has  been  reviewed  in  accordance  with  the  policy  of  the  National  Health  and  Environmental  Effects  Research  Laboratory,
+U.S.  Environmental  Protection  Agency,  and  the  National  Institute  of  Environmental  Health  Sciences  and  approved  for  publication.
+Approval  does  not  signify  that  the  contents  necessarily  reflect  the  views  and  policies  of  the  Agency,  nor  does  mention  of  trade  names
+or  commercial  products  constitute  endorsement  or  recommendation  for  use.  This  article  may  be  the  work  product  of  an  employee  of
+the  National  Institute  of  Environmental  Health  Sciences  (NIEHS),  National  Institutes  of  Health  (NIH),  however,  the  statements,
+opinions  or  conclusions  contained  therein  do  not  necessarily  represent  the  statements,  opinions  or  conclusions  of  NIEHS,  NIH  or  the
+United States government.
+Conflict of interest
+The authors declare there is no conflict of interest in the content of this work.
+Scollon et al.
+Keywords
+1. Introduction
+Page 2
+for predicting behavioral effects because the relationship between brain concentration and
+locomotor activity is independent of the time of exposure.
+Bifenthrin; Motor activity; Brain concentrations; Blood concentrations
+Pyrethroid insecticides are synthetic derivatives of pyrethrins, the natural insecticidal
+compounds found in the chrysanthemum Chrysanthemum cineraraefolum (Bradberry et al.,
+2005). Pyrethroids are often classified into two groups based upon chemical structure and
+neurotoxicological effect. Type I pyrethroids, which lack an alpha-cyano moiety, induce in
+rats a syndrome consisting of aggressive sparring, altered sensitivity to external stimuli, and
+fine tremor progressing to whole-body tremor and prostration (T-syndrome). Type II
+pyrethroids, which contain an alpha-cyano moiety, produce in rats a syndrome that includes
+pawing, burrowing, salivation, and coarse tremors leading to choreoathetosis (CS-syndrome)
+(Verschoyle and Aldridge, 1980; Lawrence and Casida, 1982). While this classification is
+useful in characterizing these chemicals, there are a few pyrethroids that elicit neurotoxic
+signs of both syndromes (Verschoyle and Aldridge, 1980; Soderlund et al., 2002). In
+addition, this classification is based on high dose effects and may not relate to low dose
+effects of pyrethroids (Shafer et al., 2005; Soderlund et al., 2002; Wolansky and Harrill,
+2008). Regardless of classification, pyrethroids primarily act by disrupting voltage gated ion
+channels (Soderlund et al., 2002).
+The neurotoxicity of pyrethroids appears to be due to parent compound. Induction of
+neurotoxicity is rapid following intracerebral administration of pyrethroids in laboratory
+animals (Lawrence and Casida, 1982; Gray and Rickard, 1982a,b). Brain concentrations of
+the pyrethroid deltamethrin correlate with neurotoxic endpoints (Rickard and Brodie, 1985;
+Anand et al., 2006; Kim et al., 2010). Rickard and Brodie (1985) also note that direct
+injection of phenoxybenzoic acid, a hydrolyzed product of deltamethrin, into rat brain was
+without neurotoxic effect.
+Several studies have examined the relationship between blood or brain pyrethroid
+concentrations and their neurotoxic effects. In rats, the brain concentration of deltamethrin
+correlates with the induction of the CS-syndrome and the T-syndrome for cismethrin and
+bioresmethrin (Gray et al., 1980; Rickard and Brodie 1985; White et al., 1976). For each
+pyrethroid, a chemical specific threshold level in brain was required for the neurobehavioral
+effects (tremors for bioresmethrin and cismethrin, tremors and choreoathetosis for
+deltamethrin) to develop. These brain concentrations were approximately 3 nmol/g for
+deltamethrin, 3.5 nmol/g for cismethrin and 14.5 nmol/g for bioresmethrin. Sheets et al.
+(1994) reported brain concentrations of deltamethrin were associated with a neurotoxic
+response (acoustic startle response) and lethality in rats. More recently, Anand et al. (2006)
+and Kim et al. (2010) correlated levels of deltamethrin in blood and brain with neurotoxic
+signs measured as salivation and tremors. Overall, these data suggest that for neurotoxicity,
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+Page 3
+momentary brain concentration may be a useful dose metric for pyrethroids; however, these
+studies are limited in dose-response information.
+In risk assessments, using a dose metric, that quantitatively describes the relationship
+between exposure, internal dose, and adverse effect can enhance the accuracy in
+extrapolation across species (Gentry et al., 2002). In this work, we tested the hypothesis that
+momentary pyrethroid blood and brain concentration correlates with behavioral changes.
+Bifenthrin, a Type I pyrethroid, was chosen as a prototype pyrethroid. Metabolites of
+pyrethroids are thought to be non-neurotoxic (Soderlund et al., 2002), therefore, blood and
+brain concentrations of bifenthrin were quantified and used as dose metrics. Motor activity
+was chosen as the behavioral endpoint because it is a low dose effect of Type I pyrethroids
+(Wolansky and Harrill, 2008). Evaluating the relationship between tissue concentration and
+behavioral effect will aid in determining if brain or blood concentrations are better
+descriptors of a “biologically effective” dose than is administered dose. With this type of
+data, more informative physiologically based pharmacokinetic and pharmacodynamic
+models can be developed and decrease uncertainties in risk assessments of pyrethroids.
+2. Materials and methods
+2.1. Chemicals
+All chemicals were analytical grade unless otherwise specified. Bifenthrin (CAS no.
+82657-04-3,2-methyl-1, 1-biphenyl-3-yl-methyl-3-(2-chloro-3,3,3-trifluoro-1-propenyl)-2,2-
+dimethyl cyclopropanecarboxylate, 98% purity), and cis- (99% purity) and trans-permethrin
+(3-phenoxybenzyl(1RS)-cis,trans-3-(2,2-dichlorovinyl)-2,2-
+dimethylcyclopropanecarboxylate, 94% purity), were purchased from ChemService (West
+Chester, PA, USA) and used as analytical standards. Technical grade bifenthrin (89% purity)
+(IUPAC: 2-methyl-3-phenyl-phenyl)methyl 3-(2-chloro-3,3,3-trifluoro-prop-1-en-yl)-2,2-
+dimethyl-cyclopropane-1-carboxylate; 99% + (Z)-(1R)-cis isomer), used in dosing solutions,
+was generously provided by FMC Corporation (Philadelphia, PA, USA). This grade of
+bifenthrin was used in previous rat neurobehavioral studies (Weiner et al., 2009; Wolansky
+et al., 2006, 2007). Labeled cis- and trans-permethrin (phenoxy-13C6) were purchased from
+Cambridge Isotope Laboratories (Andover, MA, USA) and used as internal and surrogate
+standards, respectively. Solvents, including acetone, hexanes (Fisher Scientific, Pittsburgh,
+PA) and methanol (VWR, West Chester, PA, USA), were pesticide grade quality.
+2.2. Animals
+Male Long Evans rats (Charles River Laboratories, Inc., Wilmington, MA, USA) were
+obtained at 55 - 58 days of age, and housed two per cage in standard polycarbonate hanging
+cages (45 cm × 24 cm × 20 cm) containing heat-sterilized pine shavings (Northeastern
+Products, Inc., Warrensburg, NY, USA). All animals were given a 5-9-day acclimation
+period and were maintained on a 12:12 h photoperiod (L:D, 0600:1800). Feed (Purina 5001
+Lab Chow, Barnes Supply Co., Durham, NC, USA) and tap water were provided ad libitum.
+Tap water (Durham, NC, USA) used in the animal facility was filtered through sand and
+activated charcoal, and finally rechlorinated to 4-5 ppm Cl−. Animal holding rooms were
+maintained at 22.0 ± 2.0 °C and relative humidity at 50 ± 10% in an American Association
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+2.3. Experimental procedures
+2.4. Motor activity
+Motor activity was measured in 16 figure-eight mazes, as modified by Wolansky et al.
+(2007). Briefly, motor activity was monitored for 1 h using 16 figure-eight mazes, each
+h test session. Exhaustive dose-effect studies examining eleven pyrethroids, including
+calibration was checked daily prior to testing.
+2.5. Tissue collection
+stored at −80°C until bifenthrin residue analysis was begun.
+2.6. Tissue extraction
+Page 4
+for Accreditation of Laboratory Animal Care approved facility. The US EPA’s National
+Health and Environmental Effects Research Laboratory, Institutional Animal Care and Use
+Committee approved all experimental protocols in advance.
+Rats (n = 4 or 8/group) were exposed by gavage to vehicle (corn oil) or bifenthrin at a
+volume of 1 ml/kg between 08:00 and 10:00 h. At 4 (dose = 0, 0.1, 1, 2, 4, 6, 8, 12, 16
+mg/kg) or 7 h (dose = 0, 0.05, 0.5, 1, 3, 4.5, 6, 9 mg/kg) post-dosing, rats were transferred to
+the testing room in individual plastic cages with pine shavings. The test room was
+maintained at the same environmental conditions as the animal facility. The use of corn oil
+as a vehicle and the 4- and 7-h time points were based on previous studies with bifenthrin
+(Wolansky et al., 2006, 2007). The dose range chosen in this study was designed to optimize
+the dose response relationships at each time point, based on pilot studies. While some of the
+doses do not overlap between the two time points, two of the doses were run in both time
+points.
+consisting of a series of interconnected alleys (10 cm × 10 cm) converging on a central arena
+and covered with transparent acrylic plastic. After 5 min of acclimation in the testing room,
+rats were placed into individual mazes. Horizontal and vertical activities were detected by
+eight phototransistor/photodiode pairs, equally spaced along the maze alleys at 0.5 in. above
+the floor (horizontal), and four pairs located 3.0 in. above the floor in the central arena. Each
+time a photobeam was interrupted, an activity count was registered (sampling rate = 1 kHz).
+Total activity was calculated as the sum of horizontal and vertical activity counts over the 1
+bifenthrin (Wolansky et al., 2006, 2007), indicated that there is no relevant advantage by
+using either component of general activity (i.e., horizontal or vertical movements) as an
+endpoint to describe pyrethroid actions on figure-eight maze performance. Photobeam
+Blood and whole brain tissue were collected from experimental animals under deep 
+CO2-induced anesthesia 20-25 min after the motor activity assay was completed. Blood (7-9 ml
+total) was collected by cardiac puncture, separated into 2 ml aliquots and frozen in a
+methanol/dry ice bath. Whole brains were removed, flash frozen in liquid nitrogen, and
+stored at −80°C until homogenized in a Spex CertiPrep 6850 freezer/mill apparatus
+(Metuchen, NJ, USA). Following homogenization, samples were again flash frozen and
+Aliquots of thawed blood (2 ml) and brain homogenate (300 mg) were extracted with 20:80
+acetone:hexane. Twenty-five µl of 6 µM trans-permethrin (phenoxy-13C6) in acetone was
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+2.7. Residue determination
+Analysis of bifenthrin and 13C6-cis- and 13C6-trans-permethrin (the internal standard and
+surrogate, respectively) was performed using an Applied Biosystems API 4000
+HPLC/MS/MS (Foster City, CA, USA) operated with the turbo ion spray operated at
+atmospheric pressure. Positive ionization was used for all compounds and transition ion
+pairs and retention times were used to verify the identities of analytes. Samples were
+introduced with an isocratic 98:2 methanol:5 mM ammonium acetate mobile phase flowing
+at a rate of 0.4 ml/min and separated using a Zorbax 3.5 µm 3.0 mm × 150 mm C18 column
+(Agilent Technologies, Santa Clara, CA, USA).
+Bifenthrin and the surrogate trans-permethrin were quantified using a five-point calibration
+curve, prepared in sample matrix, containing 13C6-cis-permethrin as an internal standard.
+Residue concentrations were determined by the ratio of internal standard response to the
+analyte response. Calibration standards ranged from 0.1 to 3000 ng/ml. However, curves
+were generally limited to two orders of magnitude. Calibration standards were made by
+ng/g (brain) were not quantified.
+2.8. Statistical analysis
+Page 5
+added prior to extraction as a surrogate of recovery. Samples were vortexed for 10 min in 16
+mm × 100 mm culture tubes with 5 ml solvent and then centrifuged at 4000 × g for 10 min.
+The organic layer was collected. The extraction procedure was repeated, and both organic
+fractions were combined. Bifenthrin-containing organic fractions were dried under nitrogen
+and reconstituted in 1 ml hexane. Samples were then loaded onto a hexane rinsed Sep-pak
+500 mg silica solid phase extraction (SPE) columns (Waters, Inc., Milford, MA, USA). SPE
+columns were washed with 5 ml hexane and the bifenthrin eluted with 5 ml 94:6
+hexane:ethyl acetate. Column eluants were dried under a stream of nitrogen, and
+reconstituted in 1 ml 90:10 methanol:water with 25 µl of 6 µM cis-permethrin
+(phenoxy-13C6) in acetone added as an internal standard of instrument efficiency for
+LC/MS/MS for analysis. The solid phase cleanup was automated using a RapidTrace SPE
+Workstation (Hopkinton, MA, USA).
+Extraction integrity was monitored by adding trans-permethrin (phenoxy-13C6) as a
+surrogate to each sample prior to extraction (see above). When recovery of the surrogate was
+within 80 - 120% of the expected value was considered acceptable and required no
+correction. Samples with surrogate recoveries above or below the acceptable range were
+reanalyzed.
+adding the appropriate amount of bifenthrin to tissue extracts, cleaned and reconstituted in 1
+ml of methanol:water. The concentration of the lowest calibration standard was 0.1 ng/ml
+that corresponded to tissue concentrations of 0.05 ng/ml and 0.3 ng/g for blood and brain,
+respectively. The signal to noise ratio of this standard was approximately 20× the standard
+deviation of noise in unspiked blank matrices. The lowest calibration standard was used as
+the limit of quantitation. Tissue concentrations less than 0.05 ng/ml (blood) and below 0.33
+Linear and non-linear regression analyses were used to assess the relationships between
+administered dose, blood and brain concentrations of bifenthrin and behavioral effects at the
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+Page 6
+different time points using GraphPad Prism version 5.02 for Windows (GraphPad Software,
+San Diego California, USA, www.graphpad.com). The level of significance was set at p <
+0.05. Linear regression analysis was used to compare the relationship between administered
+dose and blood and brain concentrations between the 4- and 7-h groups. Potential
+differences between the slopes and intercepts of these relationships between the 4- and 7-h
+groups were evaluated using a t-test. A sigmoidal Emax model was used to relate motor
+activity changes to administered dose or tissue concentrations and is given as:
+The equation with the negative sign was used in the motor activity analysis. For this
+analysis, X is the dose, E0 is the estimated motor activity when X is 0, Emax is the estimated
+maximum possible decrease, b is the estimated ED50, and n is a shape parameter. When n
+equals 1, the dose-response relationship is linear. When n is less than 1 the dose-response
+relationship is supralinear. When n is greater than 1 the dose-response relationship becomes
+threshold-like. The biologically important characteristics of this function are that it has
+lower and upper extremes that are determined by the biological response independent of
+dose. In the motor activity modeling exercises, E0 was constrained at less than 130 and Emax
+was constrained at less than 100. Comparisons between the 4- and 7-h groups used an extra
+sum of squares F-test. The sigmoidal Emax model using the positive sign was fit to the
+bifenthrin blood vs. brain concentration data. In this case, E0 was set at zero, since in
+unexposed animals there is no bifenthrin in either blood or brain. Data from rats with either
+blood or brain bifenthrin concentrations below the level of detection were not included in
+the analysis.
+Bifenthrin blood:brain concentration ratios were compared using a one-way ANOVA with
+dose as the independent variable for each time point. Comparison of the average blood:brain
+concentration ratios between the 4- and 7-h groups was performed using a Student’s t-test.
+3. Results
+3.1. Exposure-dose relationships
+Linear models were used to determine the relationship between administered dose (i.e.,
+exposure) and tissue concentrations (i.e., internal dose) of bifenthrin. A linear model
+significantly (p < 0.001) fit the administered dose vs. blood concentration data for both the
+4- and 7-h time points (Table 1; Fig. 1A). The linear model underestimated the blood
+concentrations in the low dose region at the 4-h time point. While a linear model fit both
+time points, the slopes were significantly different between the two time points (F1,84 =
+19.5; p < 0.0003). The slope of the 4-h group (24.9 ± 3.1; mean ± SE; n = 50) was
+approximately 5 times greater than that of the 7-h group (4.6 ± 0.8; n = 38). A linear model
+also fit the administered dose vs. brain concentrations data for both the 4- and 7-h time
+points. The slope of the relationship between administered dose and brain concentrations of
+bifenthrin was not significantly different (F1,85 =3.7; p = 0.058) between the 4- (32.8 ± 1.5)
+and 7-h (27.9 ± 1.7) time points and a single equation fits both data sets (Table 1; Fig.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+Page 7
+1B).Thus, the relationship between administered dose and brain concentrations of bifenthrin
+is similar for both the 4-and 7-h time points.
+There were no dose-dependent differences in the brain:blood ratios of bifenthrin at 4 (F7,42
+= 1.8; p = 0.12) and 7 h (F6,37 = 1.35; p = 0.27) (Fig. 2A and B).The brain:blood ratio in the
+7-h animals was significantly higher than the 4-h group (t-test, p<0.01), 6.0 ± 3.3 vs. 2.6 ±
+1.4 (mean ± SD), respectively. The greater ratio in the 7-h group can be attributed to the
+lower blood concentrations in the rats at this time point (Fig. 1A) and similar brain
+concentrations at the two time points (Fig. 1B).
+The relationship between bifenthrin brain and blood concentrations was evaluated using the
+sigmoidal Emax model. The fits of this model to the 4- and 7-h groups were significantly
+different (F3,88 = 7.6; p < 0.0001) (Table 2, Fig. 1C). The shape parameter of the model at
+the 4-h time point was close to unity, suggesting a linear relationship between blood and
+brain concentrations. At the 7-h time point, the shape parameter of the model was estimated
+at 2.1 ± 1.1, suggesting a slight non-linear relationship between blood and brain
+concentrations. These data demonstrate that the relationship between brain and blood
+concentration of bifenthrin is dependent upon the time of exposure.
+3.2. Target tissue dose-effect relationships
+The fit of the sigmoidal Emax model to the administered dose vs. motor activity (MA) data
+was significantly different (F4,84 = 3.8; p = 0.0068) between the 4- and 7-h groups (Table 3,
+Fig. 3A). The difference between the two time points was in the ED50, with the 4-h time
+point approximately 30 times lower than the 7-h time point (0.24 vs. 6.0, respectively). In
+addition, the shape parameter of the dose-response relationship for the 4-h group was
+approximately 3 times higher than that for the 7-h group, 2.0 vs. 0.6, respectively.
+The relationship between bifenthrin blood concentrations and motor activity was also
+significantly different for the two time points (F4,87=4.7; p = 0.0019) (Table 4; Fig. 3B). The
+value of the shape parameter, n, when near unity suggests a linear relationship, while the
+shape of the dose-response relationship becomes increasingly threshold-like as n increases.
+The shape of the 4-h data was more threshold-like compared to the 7-h data based on the
+estimated shape parameter of 3.3 vs. 0.3, respectively. These data suggest that the
+relationship between bifenthrin blood concentrations and behavior is different between the
+two time points.
+The sigmoidal Emax model fits to the 4- and 7-h bifenthrin brain concentration vs. motor
+activity data (Table 4; Fig. 3C) were not significantly different from each other (F4,90 = 2.0;
+p = 0.11). Therefore, the two data sets were combined and analyzed. The sigmoidal Emax
+model fit had a shape parameter of 1.47, suggesting slight non-linearity. These results
+indicate that the relationship between brain concentrations of bifenthrin and behavior is
+consistent between the two time points.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+4. Discussion
+Page 8
+This study demonstrates that administered dose and blood and brain concentrations of
+bifenthrin are predictors of behavioral change in rats. However, the best predictor of these
+three dose metrics is bifenthrin brain concentration, in part because within the parameters of
+the experiment (i.e., 4- and 7-h time points), it was independent of time of exposure. In
+contrast, the relationship between administered dose and blood concentrations of bifenthrin
+with motor activity are time dependent. The results suggest that momentary brain
+concentration of bifenthrin is an important dose metric in the prediction of neurotoxicity in
+rats and may be useful for cross-species extrapolations. Furthermore, these findings are
+consistent with data from other studies (Anand et al., 2006; Gray et al., 1980; Kim et al.,
+2010; Rickard and Brodie 1985; Sheets et al., 1994; White et al., 1976) in which
+concentrations of parent pyrethroids were associated with behavioral effects.
+In the first several hours after an oral exposure to a chemical, its concentration in blood can
+change because of the dynamics of this compartment. Concentrations of chemicals in the
+blood are sensitive to absorption, distribution and metabolic and renal clearance. Depending
+on the volatility of the chemical, pulmonary clearance may also be an important factor.
+Following the absorption and distribution phases, the concentrations of chemicals in blood is
+less dynamic. In the present study, blood bifenthrin concentration was related to
+administered dose in a time-dependent manner. The 4-and 7-h groups have different slopes
+when administered dose was used to predict blood concentration. There was a significant
+drop in blood levels, between the 4- and 7-h time points, which was likely due to the
+distribution of bifenthrin into tissues and metabolic clearance of bifenthrin.
+Motor activity is a measure of acute bifenthrin toxicity. In this study, bifenthrin exposure
+produced a dose-dependent decrease in motor activity at both 4 and 7 h after treatment. This
+is consistent with previous studies that demonstrated a dose-dependent reduction in motor
+activity in rats following acute oral doses of pyrethroids such as deltamethrin, cypermethrin,
+permethrin, cismethrin, fenvalerate, and cyfluthrin (Crofton et al., 1995; Crofton and Reiter,
+1984, 1987, 1988; Gilbert et al., 1990; McDaniel and Moser, 1993; Wolansky et al., 2006).
+Bifenthrin was more potent at the 4- than at the 7-h time point and there was no difference in
+the relationship between administered dose and bifenthrin brain concentrations between the
+4- and 7-h time points. The relationship between brain concentration and decreased motor
+activity was equivalent between the two time points and indicates that brain concentrations
+are a better predictor than blood concentrations and administered dose of the acute
+behavioral effects of bifenthrin.
+Several studies suggest that toxicity from pyrethroids occur when central nervous system
+pyrethroid concentrations exceed threshold quantities. Threshold estimates for deltamethrin
+from iv exposures in rats range from 100 to 500 ng/g brain tissue (Gray and Rickard, 1981,
+1982a,b). Tremors and choreoathetosis were observed in rabbits when brain levels of the
+Type II pyrethroid cypermethrin reached 0.7 ng/g (Khanna et al., 2002). Type I pyrethroids
+cismethrin and bioresmethrin, administered orally and iv to rats, were much less toxic,
+requiring 500-1200 ng/g and 5000 ng/g, respectively, for effects to be observed (Gray et al.,
+1980; Gray and Rickard, 1982a; White et al., 1976). The studies examining tissue
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+Page 9
+concentrations and behavior focused on high dose behavioral changes such as tremors,
+choreoathetosis and salivation. According to the present study, brain bifenthrin
+concentration corresponding to a 50% decrease in motor activity was approximately 289
+ng/g (Fig. 3C). The data from the present study are consistent with earlier studies suggesting
+that higher concentrations of the Type I pyrethroids are necessary to produce behavioral
+toxicities than the Type II pyrethroids. However, as the sodium channel, the proposed target
+of the pyrethroids (Soderlund et al., 2002), is present in the central and peripheral nervous
+system, our results cannot rule out a role for an effect of bifenthrin on the peripheral nervous
+system.
+This study examined the relationships between exposure (oral administration), dose (tissue
+concentration), and response (motor activity) of bifenthrin. Administered dose and blood
+and brain concentration can be used as dose metrics to estimate the effects of low dose,
+environmentally relevant, bifenthrin concentrations on motor function. In the present study
+the relationship between brain concentration and locomotor activity is independent of time.
+In contrast, the relationships between administered dose and locomotor activity and
+bifenthrin blood concentrations are different at the two time points. This suggests that
+momentary brain concentrations may be a better predictor of the behavioral toxicity of
+bifenthrin than are blood concentrations and administered dose. Knowing the concentration
+of toxicant at the target site and confidently relating it to effect can result in risk assessments
+with lower uncertainties than just using administered dose.
+Acknowledgments
+Funding
+M.J.W. held a National Research Council Research Associateship Award at the National Health and Environmental
+Research Laboratory, U.S. Environmental Protection Agency while performing this work. Intramural resources of
+the U.S. Environmental Protection Agency also provided funding.
+The authors thank Janet Diliberto and Drs. Linda Birnbaum, Woodrow Setzer, Jane Ellen Simmons and William
+Mundy for their helpful comments on an earlier version of the version of this manuscript. The authors also thank
+Drs. N. Hilton and M. Weiner, FMC Corp, Princeton, NJ, for graciously providing the technical grade bifenthrin.
+The authors also thank Brenda Edwards and Heather Wheeler, for their technical assistance. The data presented in
+this publication are freely available from the corresponding author (MDV).
+References
+Anand SS, Kim K-B, Padilla S, Muralidhara S, Kim HJ, Fisher JW, Bruckner JV. Ontogeny of hepatic
+and plasma metabolism of deltamethrin in vitro: role of age-dependent acute neurotoxicity. Drug
+Metab. Dispos. 2006; 34:389-397. [PubMed: 16326812]
+Bradberry SM, Cage SA, Proudfoot AT, Vale JA. Poisoning due to pyrethroids. Toxicol. Rev. 2005;
+24:93-106. [PubMed: 16180929]
+Crofton KM, Kehn LS, Gilbert ME. Vehicle and route dependent effects of a pyrethroid insecticide,
+deltamethrin, on motor function in the rat. Neurotoxicol. Teratol. 1995; 17:489-495. [PubMed:
+7565495]
+Crofton KM, Reiter LW. Effects of two pyrethroid insecticides on motor activity and acoustic startle
+response in the rat. Toxicol. Appl. Pharmacol. 1984; 75:318-328. [PubMed: 6474463]
+Crofton KM, Reiter LW. Pyrethroid insecticides and the gamma-aminobutyric acid A receptor
+complex: motor activity and the acoustic startle response in the rat. J. Pharmacol. Exp. Ther. 1987;
+243:946-954. [PubMed: 2826762]
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+Page 10
+Crofton KM, Reiter LW. The effects of Type I and II pyrethroids on motor activity and the acoustic
+startle response in the rat. Fundam. Appl. Toxicol. 1988; 10:624-634. [PubMed: 3396790]
+Gentry PR, Covington TR, Andersen ME, Clewell HJ 3rd. Application of a physiologically based
+pharmacokinetic model for isopropanol in the derivation of a reference dose and reference
+concentration. Regul. Toxicol. Pharmacol. 2002; 36:51-68. [PubMed: 12383718]
+Gilbert ME, Acheson SK, Mack CM, Crofton KM. An examination of the proconvulsant actions of
+pyrethroid insecticides using pentylenetetrazol and amygdala kindling seizure models.
+Neurotoxicology. 1990; 11:73-86. [PubMed: 2374658]
+Gray AJ, Conners TA, Hoellinger H, Nguyen-Hoang-Nam. The relationship between the
+pharmacokinetics of intravenous cismethrin and bioresmethrin and their mammalian toxicity. Pestic.
+Biochem. Physiol. 1980; 13:281-293.
+Gray AJ, Rickard J. Distribution of radiolabel in rats after intravenous injection of a toxic dose of
+14C-acid-, 14C-alcohol-, or 14C-cyano-labeled deltamethrin. Pestic. Biochem. Physiol. 1981;
+16:79-85.
+Gray AJ, Rickard J. Toxicity of pyrethroids to rats after direct injection into the central nervous
+system. Neurotoxicology. 1982a; 3:25-35. [PubMed: 6890187]
+Gray AJ, Rickard J. The toxicokinetics of deltamethrin in rats after intravenous administration of a
+toxic dose. Pestic. Biochem. Physiol. 1982b; 18:205-215.
+Khanna RN, Gupta GSD, Anand M. Kinetics of distribution of cypermethrin in blood, brain, and
+spinal cord after a single administration to rabbits. Bull. Environ. Contam. Toxicol. 2002; 69:749-
+755. [PubMed: 12375126]
+Kim KB, Anand SS, Kim HJ, White CA, Fisher JW, Tornero-Velez R, Bruckner JV. Age, dose, and
+time-dependency of plasma and tissue distribution of deltamethrin in immature rats. Toxicol. Sci.
+2010; 115:354-368. [PubMed: 20211939]
+Lawrence LJ, Casida JE. Pyrethroid toxicology: mouse intracerebral structure-activity relationships.
+Pestic. Biochem. Physiol. 1982; 18:9-14.
+McDaniel KL, Moser VC. Utility of a neurobehavioral screening battery for differentiating the effects
+of two pyrethroids, permethrin and cypermethrin. Neurotoxicol. Teratol. 1993; 15:71-83.
+[PubMed: 8510610]
+Rickard J, Brodie ME. Correlation of blood and brain levels of the neurotoxic pyrethroid deltamethrin
+with the onset of symptoms in rats. Pestic. Biochem. Physiol. 1985; 23:143-156.
+Shafer TJ, Meyer DA, Crofton KM. Developmental neurotoxicity of pyrethroid insecticides: critical
+review and future research needs. Environ. Health Perspect. 2005; 113:123-136. [PubMed:
+15687048]
+Sheets LP, Doherty JD, Law MW, Reiter LW, Crofton KM. Age-dependent differences in the
+susceptibility of rats to deltamethrin. Toxicol. Appl. Pharmacol. 1994; 126:186-190. [PubMed:
+8184428]
+Soderlund DM, Clark JM, Sheets LP, Mullin LS, Piccirillo VJ, Sargent D, Stevens JT, Weiner ML.
+Mechanisms of pyrethroid neurotoxicity: implications for cumulative risk assessment. Toxicology.
+2002; 171:3-59. [PubMed: 11812616]
+Verschoyle RD, Aldridge WN. Structure-activity relationships of some pyrethroids in rats. Arch
+Toxicol. 1980; 45(4):325-329. [PubMed: 7447703]
+Weiner ML, Nemec M, Sheets L, Sargent D, Breckenridge C. Comparative functional observational
+battery study of twelve commercial pyrethroid insecticides in male rats following acute oral
+exposure. Neurotoxicology. 2009; 30S:S1-S16. [PubMed: 19748519]
+White NH, Verschoyle RD, Moradian MH, Barnes JM. The relationship between brain levels of
+cismethrin and bioresmethrin in female rats and neurotoxic effects. Pestic. Biochem. Physiol.
+1976; 6:491-500.
+Wolansky MJ, Gennings C, Crofton KM. Relative potencies for acute effects of pyrethroids on motor
+function in rats. Toxicol. Sci. 2006; 89:271-277. [PubMed: 16221961]
+Wolansky MJ, Harrill JA. Neurobehavioral toxicology of pyrethroid insecticides in adult animals: a
+critical review. Neurotoxicol. Teratol. 2008; 30:55-78. [PubMed: 18206347]
+Wolansky MJ, McDaniel KL, Moser VC, Crofton KM. Influence of dosing volume on the
+neurotoxicity of bifenthrin. Neurotoxicol. Teratol. 2007; 29:377-384. [PubMed: 17321720]
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Page 11
+Scollon et al.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Scollon et al.
+bNumber of animals where tissue concentrations were above detection limit.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Page 14
+Scollon et al.
+eNumber of animals in which tissue concentrations were above detection limit.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Page 15
+Scollon et al.
+eNumber of animals in which tissue concentrations were above detection limit.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Page 16
+Scollon et al.
+eNumber of animals in which tissue concentrations were above detection limit.
+Toxicology. Author manuscript; available in PMC 2015 December 17.
+Page 17
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+AuthorManuscript
+
+Table 1 
+Linear fits and parameter estimates of bifenthrin tissue concentration vs administered dose at 4- and 7-h post- 
+exposure. 
+Parameter 
+Blood concentration vs. administered dose 
+Brain concentration vs. administered dose 
+4 h 
+7 h 
+4 h 
+7 h 
+Slope 
+24.9 ± 3.1a 
+4.6 ± 0.8 
+32.8 ± 1.5 
+27.9 ± 1.7 
+Intercept 
+−34.5 ± 23.1 
+4.1 ± 4.2 
+2.3 ± 11.3 
+0.2 ± 8.6 
+r2 
+0.55 
+0.47 
+0.91 
+0.88 
+Nb 
+50 
+38 
+50 
+39 
+aMean ± SE. 
+
+Table 2 
+Non-linear fits and parameter estimates of the bifenthrin blood vs. brain concentrations data at 4- and 7-h post- 
+exposure.a 
+Parameter 
+Bifenthrin blood vs. brain concentration 
+4 h 
+7 h 
+Emax 
+860 ± 147b 
+238 ± 43 
+nc 
+1.0 ± 0.2 
+2.1 ± 1.1 
+bd 
+261 ± 97.5 
+17.8 ± 4.3 
+r2 
+0.90 
+0.67 
+Ne 
+58 
+36 
+aData  were  fit  with  a  sigmoidal  Emax  model.  E0  is  the  concentration  of  bifenthrin  in  the  brain  when  the  blood  concentration  was  zero.  Since  there  
+is no chemical in the brain when there is no chemical in the blood, E0 was fixed at zero for this analysis. 
+bMean ± SE. 
+cShape parameter. 
+dEstimated ED50. 
+
+Table 3 
+Non-linear fits and parameter estimates of the administered dose of bifenthrin vs. motor activity data.a 
+Parameter 
+4 h 
+7 h 
+E0 
+112 ± 7.6b 
+158 ± 182 
+Emax 
+≈100 
+≈100 
+nc 
+2.0 ± 1.1 
+0.6 ± 1.8 
+bd 
+0.2 ± 1.2 
+6.0 ± 2.1 
+r2 
+0.66 
+0.51 
+Ne 
+50 
+42 
+aData  were  fit  with  a  sigmoidal  Emax  model.  E0  is  the  motor  activity  of  the  rats  when  the  administered  dose  of  bifenthrin  is  zero  and  Emax  is  the  
+maximal  change  from  control.  E0  was  bound  at  130  and  Emax  was  bound  at  100  in  order  to  better  fit  the  model  to  the  data. 
+bMean ± SE. 
+cShape parameter. 
+dEstimated ED50. 
+
+Table 4 
+Non-linear fits and parameter estimates of the bifenthrin blood and brain concentration vs. motor activity data  
+at 4 and 7 h post-exposure.a 
+Parameter 
+Blood concentrations 
+Brain concentrations 
+Combined data 
+4 h 
+7 h 
+E0 
+108.6 ± 4.6b 
+130 ± 129 
+106.3 ± 4.5 
+Emax 
+85.2 ± 10.5 
+≈100 
+116.5 ± 54.2 
+nc 
+3.3 ± 1.2 
+0.34 ± 1.6 
+1.5 ± 0.6 
+bd 
+78.5 ± 8.7 
+15.8 ± 231 
+289.8 ± 186.7 
+r2 
+0.66 
+0.12 
+0.58 
+Ne 
+55 
+40 
+98 
+aData  was  fit  with  a  sigmoidal  Emax  model.  E0  was  the  motor  activity  of  the  rats  when  the  tissue  concentration  was  zero  and  Emax  is  the  
+maximum  change  from  controls.  E0  was  bound  at  130  and  Emax  was  bound  at  100  in  order  to  better  fit  the  model  to  the  data. 
+bMean ± SE. 
+cShape parameter. 
+dEstimated ED50. 
+
+Fig. 1.  
+The relationship between administered dose of bifenthrin and blood (A) and brain (B)  
+concentrations and blood and brain concentrations (C) of bifenthrin at 4 and 7 h after the  
+oral administration of chemical to male rats. Linear and non-linear models were fit to the 4-h  
+(□, dashed line) and 7-h (●, dotted line) data. 
+
+Page 12 
+Fig. 2.  
+The relationship between brain/blood concentration ratios and administered dose at 4 (A)  
+and 7 h (B) in rats treated orally with bifenthrin. The data are presented as a box and whisker  
+format. For each dose level, data are displayed as the lowest, the lower quartile, median,  
+upper quartile and largest ratio observed. 
+
+Page 13 
+Fig. 3.  
+The relationship between administered dose (A), blood (B) and brain (C) concentrations and  
+motor activity at 4 and 7 h after the oral administration of bifenthrin to male rats. Non-linear  
+models were fit to the 4-h (□, solid line), 7-h (●, dotted line) and combined data (solid line).  
+In part (C), a single model fit all the data and is represented by a solid line. 
+

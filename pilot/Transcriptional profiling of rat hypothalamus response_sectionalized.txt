@@ -1,0 +1,1614 @@
+>>>section: conclusion
+
+>>>section: references
+
+>>>section: methods
+2. Methods
+2.1. Samples
+Sixteen male rats, eight L-E and eight H/W, were examined.
+Rats were housed singly in stainless-steel wire-mesh cages and
+subjected to light and dark cycles lasting 12h each, with lights on
+from 07:00 to 19:00. Animals were fed pelleted R36 feed
+(Lactamin, Södertälje, Sweden) and provided with tap water.
+The temperature within the housing environment was 211 C
+with relative humidity at 50%10%. H/W rats were 15-16 weeks
+of age upon treatment while L-E rats were 16-22 weeks of age
+(to compensate for the more rapid growth of H/W rats).
+2.2. Animal handling
+Four rats from each strainwere treated with 100mg/kg of TCDD
+dissolved in corn oil vehicle while the remaining four were treated
+only with corn oil which served as the vehicle control. Animals
+were distributed such that each group was similarly body weight
+matched prior to treatment. Treatments were administered by oral
+gavage. Towards the end of the daily dark phase (between 5:40 and
+6:45 a.m.), 23 h post exposure, all rats were euthanized by
+decapitation. Hypothalamus (incision sites: rostral border of the
+optic chiasm, caudal border of the mamillary body, ventral border
+of the anterior commissure and lateral borders of the tuber
+cinereum and mamillary body complexes) was rapidly removed
+and snap-frozen in liquid nitrogen. Tissueswere stored at80 C or
+lower until processed. All study plans were approved by the
+Animal Experiment Committee of the University of Kuopio and the
+Provincial Government of Eastern Finland. All animal handling and
+reporting comply with ARRIVE guidelines (Kilkenny et al., 2010).
+2.3. Sample processing and microarray hybridization
+Total mRNA was extracted using Qiagen RNeasy Lipid Tissue
+Mini kits according to manufacturer's instruction (Qiagen,
+Mississauga, Canada). Total RNA yield was quantified by UV
+spectrophotometry and RNA integritywas verified using an Agilent
+2100 Bioanalyzer (Agilent Technologies, Santa Clara, CA). RNA from
+individual rats was hybridized to Affymetrix RAE230-2 arrays at
+The Centre for Applied Genomics (Toronto, Canada) and RNA
+abundances were quantified using an Affymetrix GeneChip
+Scanner 3000.
+2.4. Data preparation
+Raw microarray data were loaded into the R statistical
+environment (v3.1.0) using the affy package (v1.42.2) of the
+BioConductor library and the EntrezGene ID map 
+rat2302rnen-trezgcdf (v18.0.0) (Dai et al., 2005; Gautier et al., 2004). Raw data
+were pre-processed using the RMA algorithm (Irizarry et al., 2003)
+and quality-control plots were generated using the affy (v1.42.2),
+lattice (v0.20-29) and latticeExtra (v0.6-26) packages to assess
+sample homogeneity (Supplementary Fig. S1). Unsupervised
+pattern recognition used the DIANA agglomerative hierarchical
+clustering algorithm, as implemented in the cluster package
+(v1.15.2) and Pearson's correlation was used as a similarity metric.
+The distribution of the coefficient of variations for each gene
+was analyzed to ensure low inter-replicate variance. All raw and
+pre-processed microarray data are available in the GEO repository
+(accession: GSE61039).
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+2.5. Statistical analysis
+A linear model was fit to
+relate TCDD treatment and vehicle controls for each rat strain
+(i.e. HWT-HWC and LET-LEC). The variance amongst probes was
+reduced using an empirical Bayes method (Smyth 2004).
+Moderated t-tests compared each coefficient to zero, while
+F-tests were applied gene-wise to test for significant differences
+in variation between the two rat strains. All p-values were false
+discovery-rate adjusted for multiple testing to generate q-values
+(Storey and Tibshirani 2003). Linear modeling and hypothesis
+testing were completed using the limma package (v3.20.4). Genes
+were analyzed at multiple q-value thresholds to ensure results
+were threshold-independent, but for primary analyses a threshold
+q<0.05 was used.
+2.6. Data visualization
+Inter-strain p-value variability was quantified and plotted as
+above. Inter-strain p-value variability plots compared the p-value
+]
+each gene using contrasts to
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+distribution between the two strains when mRNA abundance was
+both up- and down-regulated. A Venn diagram, created using the
+VennDiagram R package (v1.6.7), depicted the number of
+significantly responsive genes in both rat strains at q<0.05 (Chen
+and Boutros 2011). A heatmap gave a visual representation of the
+change in gene expression, up- versus down-regulation, for the
+most variable genes (variance >0.05 across all samples). Data was
+mean centred and scaled using the standard deviation for each
+variable and clustered as described above. Dotmaps were used to
+depict the magnitude of change in log2-space (M) and significance
+of TCDD-induced dysregulation for different subsets of genes.
+Covariates were used to indicate significance of selected genes in
+other tissues and species (rat liver (Yao et al., 2012) and in mouse
+tissues (Boutros et al., 2009)).
+2.7. Pathway analysis of TCDD-responsive genes
+Functional pathways analysis was performedwith the GOMiner
+software (v. 2011-01) (Zeeberg et al., 2003). Genes found to be
+significantly responsive in either strain examined (q-value <0.1)
+95
+96
+were analyzed against a list of all genes on the array. A 
+false-discovery rate threshold of 0.1 was applied, with all look-up
+options and gene ontologies selected and 1000 randomizations
+used. A minimum category size of five was required to reduce
+multiple-testing.
+2.8. Transcription factor binding site analysis
+To further explore the functionality of gene regulation by
+TCDD in the hypothalamus, we examined each gene for the
+AHR-associated conserved transcription-factor binding sites:
+AHRE-I (core), AHRE-I (full) and AHRE-II. These sites contain the
+sequences GCGTG, [T|G]NGCGTG[A|C][G|C]A and CATG{N6}C[T|A]
+TG, respectively (Denison andWhitlock 1995; Sogawa et al., 2004).
+Transcription start sites were determined using REFLINK and
+REFFLAT tables fromUCSC genome browser, downloaded onMay9,
+2012 (Karolchik et al., 2003). The number of each motif present in
+each gene was counted and a PhyloHMM conservation score was
+calculated, ranging from zero to one (Siepel and Haussler 2004).
+This score measured conservation across species with a score a
+]
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+zero reflecting minimal conservation and a score of one reflecting
+complete conservation.
+2.9. Validation
+A subset of 50 transcripts including the AHR-core and candidate
+genes (as identified above) was validated using the NanoString
+system. Hypothalamic RNA (100ng)was shipped on dry ice to the
+Princess Margaret Genomics Centre (Toronto, ON) for analysis. The
+target gene list was submitted in advance and the required CodeSet
+(multiplexed set of endogenous and control probes)was developed
+by NanoString.
+Raw data (RCC files consisting of direct molecule counts) were
+received and normalization performed prior to analysis. Data were
+read into the R statistical environment (v3.1.2) and normalization
+performed using the NanoStringNorm package (v1.1.18)(Waggott
+et al., 2012). Endogenous probes were normalized to the positive
+control counts using the ‘sum’ method and to housekeeping genes
+counts using the ‘housekeeping.geo.mean’ method in 
+Nano-StringNorm. Housekeeping genes (Hprt1,Pgk1 and Sdha) had been
+validated previously (Pohjanvirta et al., 2006) for use in
+TCDD studies of rat hypothalamus. Similarly, this normalization
+method had been previously identified as the most accurate (in
+comparison to qPCR) for use in a similar study with rat hepatic
+tissue (Prokopec et al., 2013). Normalized data was 
+log2-transformed and linear modelling and visualizations performed
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+as above [R packages:
+latticeExtra (v0.6-26)].
+
+>>>section: fulltext
+Toxicology 328 (2015) 93-101
+Contents lists available at ScienceDirect
+Toxicology
+journa l homepage: www.elsevier .com/ locate / tox icol
+Transcriptional profiling of rat hypothalamus response to
+2,3,7,8-tetrachlorodibenzo-r-dioxin
+Kathleen E. Houlahan a, Stephenie D. Prokopec a, Ivy D. Moffat b, Jere Lindén c,
+Sanna Lensu d,e, Allan B. Okey b, Raimo Pohjanvirta f,1, Paul C. Boutros a,b,g,*
+a Informatics and Bio-computing Program, Ontario Institute for Cancer Research, Toronto, Canada
+bDepartment of Pharmacology & Toxicology, University of Toronto, Toronto, Canada
+c The Finnish Food Safety Authority, Helsinki, Finland
+dDepartment of Biology of Physical Activity, University of Jyväskylä, Jyväskylä, Finland
+eDepartment of Environmental Health, National Institute for Health and Welfare, Kuopio, Finland
+fDepartment of Food Hygiene and Environmental Health, University of Helsinki, Helsinki, Finland
+gDepartment of Medical Biophysics, University of Toronto, Toronto, Canada
+A R T I C L E I N F O
+Article history:
+Received 25 November 2013
+Received in revised form 12 December 2014
+Accepted 16 December 2014
+Available online 18 December 2014
+Keywords:
+AHR
+TCDD
+Microarray
+Hypothalamus
+Feed restriction
+A B S T R A C T
+In some mammals, halogenated aromatic hydrocarbon (HAH) exposure causes wasting syndrome,
+defined as significant weight loss associated with lethal outcomes. The most potent HAH in causing
+wasting is 2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD), which exerts its toxic effects through the aryl
+hydrocarbon receptor (AHR). Since TCDD toxicity is thought to predominantly arise from dysregulation
+of AHR-transcribed genes, it was hypothesized that wasting syndrome is a result of to TCDD-induced
+dysregulation of genes involved in regulation of food-intake. As the hypothalamus is the central nervous
+systems' regulatory center for food-intake and energy balance. Therefore, mRNA abundances in
+hypothalamic tissue from two rat strains with widely differing sensitivities to TCDD-induced wasting
+syndrome: TCDD-sensitive Long-Evans rats and TCDD-resistant Han/Wistar rats, 23 h after exposure to
+TCDD (100mg/kg) or corn oil vehicle. TCDD exposure caused minimal transcriptional dysregulation in
+the hypothalamus, with only 6 genes significantly altered in Long-Evans rats and 15 genes in Han/Wistar
+rats. Two of the most dysregulated genes were Cyp1a1 and Nqo1, which are induced by TCDD across a
+wide range of tissues and are considered sensitive markers of TCDD exposure. The minimal response of
+the hypothalamic transcriptome to a lethal dose of TCDD at an early time-point suggests that the
+hypothalamus is not the predominant site of initial events leading to hypophagia and associatedwasting.
+TCDD may affect feeding behaviour via events upstream or downstream of the hypothalamus, and
+further work is required to evaluate this at the level of individual hypothalamic nuclei and subregions.
+ã 2014 The Authors. Published by Elsevier Ireland Ltd. This is an open access article under the CC BY
+license (http://creativecommons.org/licenses/by/4.0/).
+1. Introduction
+Halogenated aromatic hydrocarbons (HAHs) are a class of
+toxic compounds widely present within the environment as a
+result of plastics incineration, electronics recycling, pesticide
+application and paper bleaching (Linden et al., 2010; Okey 2007).
+* Corresponding author at: 661 University Avenue Toronto, Ontario M5G 0A3,
+Canada. Tel.:+ 416 673 8564; fax: 416 673 8564.
+E-mail addresses: raimo.pohjanvirta@helsinki.fi (R. Pohjanvirta),
+Paul.Boutros@oicr.on.ca (P.C. Boutros).
+1
+Department of Food Hygiene and Environmental Health, Faculty of Veterinary
+Medicine, P.O. Box 66, FI-00014 University of Helsinki, Helsinki, Finland.
+Tel.: +358 9 19157147; fax: +358 9 19 157 170.
+http://dx.doi.org/10.1016/j.tox.2014.12.016
+0300-483X/ã 2014 The Authors. Published by Elsevier Ireland Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) is the best-studied
+HAH, and exposure to it has been linked to teratogenesis,
+immunosuppression, acute lethality and many other toxicities
+(Mimura and Fujii-Kuriyama 2003; Pohjanvirta and Tuomisto
+1994). Perhaps most significantly in many mammalian models,
+TCDD causes wasting syndrome-a potentially fatal 
+dose-dependent reduction in body-weight (Linden et al., 2014; Seefeld
+et al., 1984). Many laboratory animals exposed to TCDD experience
+hypophagia and appear to defend a lowered body weight set point
+(Linden et al., 2010; Seefeld et al., 1984). The role of wasting in
+TCDD-induced lethality remains obscure: dietary interventions
+such as force feeding and high-energy diets reduce or prevent
+weight loss, but have minimal impact on mortality (Seefeld et al.,
+1984; Tuomisto et al., 1999).
+94
+TCDD toxicity is mediated by the aryl hydrocarbon receptor
+(AHR), a ligand-responsive transcription factor involved in
+regulation of cytochrome P450 proteins involved in the phase I
+xenobiotic metabolism pathway (Mimura and Fujii-Kuriyama
+2003; Okey 2007). The AHR is a member of the PAS/basic
+helix-loop-helix (bHLH) superfamily, with a bHLH domain and
+two PAS domains within its N-terminus (Dolwick et al., 1993)
+and a transactivation domain at its C-terminus (Ko et al., 1997).
+In the absence of ligand, the AHR is cytoplasmic, where it
+forms a complex with stabilizing chaperone proteins hsp90,
+ARA9/XAP2 and p23 (Petrulis and Perdew 2002). Activation
+occurs following ligand binding to the PAS-B domain, which
+promotes translocation to the nucleus. The AHR then dimerizes
+with the AHR nuclear translocator (ARNT) (Reyes et al., 1992),
+and this dimer binds to DNA and regulates transcription. Many
+lines of evidence indicate that major toxicities from TCDD
+are caused by dysregulation of AHR target genes (reviewed in
+Okey 2007).
+The hypothalamus is central to regulation of food intake and
+energy balance, mainly through small peptide signalling
+molecules. The hypothalamic arcuate nucleus (ARC) translates
+adipose level signals from peptides (insulin and leptin) to the rest
+of the CNS by releasing neuropeptides and hormones (Konner
+et al., 2009). Depending on the stimulus, these peptides may be
+orexigenic (e.g. agouti-related peptide (AgRP) and neuropeptide Y
+(NPY)) or anorexigenic (e.g. a-melanocortin-stimulating hormone
+(a-MSH) and cocaine-and-amphetamine regulated transcript
+(CART)). Lesions in hypothalamic nuclei that prevent normal
+responses to signalling peptides can cause either hypophagia or
+hyperphagia depending on lesion location (Elmquist et al., 1999;
+Wang et al., 2013). As such, many groups have hypothesized that
+TCDD-mediated changes in the hypothalamus underlie the
+observed wasting syndrome. A previous study discovered a
+non-additive interaction between ventromedial hypothalamic
+lesions and TCDD on body weight, suggestive of the involvement
+of a hypothalamic feed-intake regulation pathway in the wasting
+syndrome (Tuomisto et al., 1995). TCDD has been previously
+shown to modulate mRNA abundances of numerous 
+neuropeptides and receptors, particularly orexigenic peptides, in both
+directions (Linden et al., 2005). Additionally, several components
+of the AHR-signalling pathway are expressed in the hypothalamus,
+with three AHR-regulated genes (Ahrr, Cyp1a1 and Cyp1a2)
+significantly up-regulated in response to TCDD (Korkalainen
+et al., 2005).
+To evaluate the role of TCDD-induced transcriptomic changes in
+the hypothalamus on observed toxicities, two rat strains that
+markedly differ in susceptibility to TCDD-induced toxicities were
+evaluated: TCDD-sensitive Long-Evans (Turku/AB) rats (L-E; LD50
+20mg/kg for male rats) and TCDD-resistant Han/Wistar (Kuopio)
+rats (H/W; LD50 >9600mg/kg) (Pohjanvirta et al., 1995; Unkila
+et al., 1994). The great resistance of H/W rats to toxicity is due to a
+pointmutation in the intron/exon boundary that causes alternative
+splicing (Moffat et al., 2007; Pohjanvirta et al., 1998). This leads to
+variation within the transactivation domain of AHR and alters
+some responses to TCDD such as resisting lethality (Moffat et al.,
+2007; Pohjanvirta et al., 1998). Wasting syndrome is another
+example of this altered response; a mitigated variety of wasting
+manifests in H/W rats but only after >100-fold higher doses of
+TCDD than is required in L-E rats (Linden et al., 2010; Pohjanvirta
+et al., 1998). The use of H/W rats allows for identification of
+transcriptomic responses that differ from those in susceptible
+strains (Boutros et al., 2011; Franc et al., 2008). Such differences
+may identify the key genes whose dysregulation underlies
+pathogenesis from TCDD exposure.
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+2. Methods
+2.1. Samples
+Sixteen male rats, eight L-E and eight H/W, were examined.
+Rats were housed singly in stainless-steel wire-mesh cages and
+subjected to light and dark cycles lasting 12h each, with lights on
+from 07:00 to 19:00. Animals were fed pelleted R36 feed
+(Lactamin, Södertälje, Sweden) and provided with tap water.
+The temperature within the housing environment was 211 C
+with relative humidity at 50%10%. H/W rats were 15-16 weeks
+of age upon treatment while L-E rats were 16-22 weeks of age
+(to compensate for the more rapid growth of H/W rats).
+2.2. Animal handling
+Four rats from each strainwere treated with 100mg/kg of TCDD
+dissolved in corn oil vehicle while the remaining four were treated
+only with corn oil which served as the vehicle control. Animals
+were distributed such that each group was similarly body weight
+matched prior to treatment. Treatments were administered by oral
+gavage. Towards the end of the daily dark phase (between 5:40 and
+6:45 a.m.), 23 h post exposure, all rats were euthanized by
+decapitation. Hypothalamus (incision sites: rostral border of the
+optic chiasm, caudal border of the mamillary body, ventral border
+of the anterior commissure and lateral borders of the tuber
+cinereum and mamillary body complexes) was rapidly removed
+and snap-frozen in liquid nitrogen. Tissueswere stored at80 C or
+lower until processed. All study plans were approved by the
+Animal Experiment Committee of the University of Kuopio and the
+Provincial Government of Eastern Finland. All animal handling and
+reporting comply with ARRIVE guidelines (Kilkenny et al., 2010).
+2.3. Sample processing and microarray hybridization
+Total mRNA was extracted using Qiagen RNeasy Lipid Tissue
+Mini kits according to manufacturer's instruction (Qiagen,
+Mississauga, Canada). Total RNA yield was quantified by UV
+spectrophotometry and RNA integritywas verified using an Agilent
+2100 Bioanalyzer (Agilent Technologies, Santa Clara, CA). RNA from
+individual rats was hybridized to Affymetrix RAE230-2 arrays at
+The Centre for Applied Genomics (Toronto, Canada) and RNA
+abundances were quantified using an Affymetrix GeneChip
+Scanner 3000.
+2.4. Data preparation
+Raw microarray data were loaded into the R statistical
+environment (v3.1.0) using the affy package (v1.42.2) of the
+BioConductor library and the EntrezGene ID map 
+rat2302rnen-trezgcdf (v18.0.0) (Dai et al., 2005; Gautier et al., 2004). Raw data
+were pre-processed using the RMA algorithm (Irizarry et al., 2003)
+and quality-control plots were generated using the affy (v1.42.2),
+lattice (v0.20-29) and latticeExtra (v0.6-26) packages to assess
+sample homogeneity (Supplementary Fig. S1). Unsupervised
+pattern recognition used the DIANA agglomerative hierarchical
+clustering algorithm, as implemented in the cluster package
+(v1.15.2) and Pearson's correlation was used as a similarity metric.
+The distribution of the coefficient of variations for each gene
+was analyzed to ensure low inter-replicate variance. All raw and
+pre-processed microarray data are available in the GEO repository
+(accession: GSE61039).
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+2.5. Statistical analysis
+A linear model was fit to
+relate TCDD treatment and vehicle controls for each rat strain
+(i.e. HWT-HWC and LET-LEC). The variance amongst probes was
+reduced using an empirical Bayes method (Smyth 2004).
+Moderated t-tests compared each coefficient to zero, while
+F-tests were applied gene-wise to test for significant differences
+in variation between the two rat strains. All p-values were false
+discovery-rate adjusted for multiple testing to generate q-values
+(Storey and Tibshirani 2003). Linear modeling and hypothesis
+testing were completed using the limma package (v3.20.4). Genes
+were analyzed at multiple q-value thresholds to ensure results
+were threshold-independent, but for primary analyses a threshold
+q<0.05 was used.
+2.6. Data visualization
+Inter-strain p-value variability was quantified and plotted as
+above. Inter-strain p-value variability plots compared the p-value
+]
+each gene using contrasts to
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+distribution between the two strains when mRNA abundance was
+both up- and down-regulated. A Venn diagram, created using the
+VennDiagram R package (v1.6.7), depicted the number of
+significantly responsive genes in both rat strains at q<0.05 (Chen
+and Boutros 2011). A heatmap gave a visual representation of the
+change in gene expression, up- versus down-regulation, for the
+most variable genes (variance >0.05 across all samples). Data was
+mean centred and scaled using the standard deviation for each
+variable and clustered as described above. Dotmaps were used to
+depict the magnitude of change in log2-space (M) and significance
+of TCDD-induced dysregulation for different subsets of genes.
+Covariates were used to indicate significance of selected genes in
+other tissues and species (rat liver (Yao et al., 2012) and in mouse
+tissues (Boutros et al., 2009)).
+2.7. Pathway analysis of TCDD-responsive genes
+Functional pathways analysis was performedwith the GOMiner
+software (v. 2011-01) (Zeeberg et al., 2003). Genes found to be
+significantly responsive in either strain examined (q-value <0.1)
+95
+96
+were analyzed against a list of all genes on the array. A 
+false-discovery rate threshold of 0.1 was applied, with all look-up
+options and gene ontologies selected and 1000 randomizations
+used. A minimum category size of five was required to reduce
+multiple-testing.
+2.8. Transcription factor binding site analysis
+To further explore the functionality of gene regulation by
+TCDD in the hypothalamus, we examined each gene for the
+AHR-associated conserved transcription-factor binding sites:
+AHRE-I (core), AHRE-I (full) and AHRE-II. These sites contain the
+sequences GCGTG, [T|G]NGCGTG[A|C][G|C]A and CATG{N6}C[T|A]
+TG, respectively (Denison andWhitlock 1995; Sogawa et al., 2004).
+Transcription start sites were determined using REFLINK and
+REFFLAT tables fromUCSC genome browser, downloaded onMay9,
+2012 (Karolchik et al., 2003). The number of each motif present in
+each gene was counted and a PhyloHMM conservation score was
+calculated, ranging from zero to one (Siepel and Haussler 2004).
+This score measured conservation across species with a score a
+]
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+zero reflecting minimal conservation and a score of one reflecting
+complete conservation.
+2.9. Validation
+A subset of 50 transcripts including the AHR-core and candidate
+genes (as identified above) was validated using the NanoString
+system. Hypothalamic RNA (100ng)was shipped on dry ice to the
+Princess Margaret Genomics Centre (Toronto, ON) for analysis. The
+target gene list was submitted in advance and the required CodeSet
+(multiplexed set of endogenous and control probes)was developed
+by NanoString.
+Raw data (RCC files consisting of direct molecule counts) were
+received and normalization performed prior to analysis. Data were
+read into the R statistical environment (v3.1.2) and normalization
+performed using the NanoStringNorm package (v1.1.18)(Waggott
+et al., 2012). Endogenous probes were normalized to the positive
+control counts using the ‘sum’ method and to housekeeping genes
+counts using the ‘housekeeping.geo.mean’ method in 
+Nano-StringNorm. Housekeeping genes (Hprt1,Pgk1 and Sdha) had been
+validated previously (Pohjanvirta et al., 2006) for use in
+TCDD studies of rat hypothalamus. Similarly, this normalization
+method had been previously identified as the most accurate (in
+comparison to qPCR) for use in a similar study with rat hepatic
+tissue (Prokopec et al., 2013). Normalized data was 
+log2-transformed and linear modelling and visualizations performed
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+as above [R packages:
+latticeExtra (v0.6-26)].
+3. Results
+3.1. Experimental design
+Since the hypothalamus is associated with the regulation of
+food intake and metabolism, the effects of TCDD exposure on the
+hypothalamic transcriptome were analyzed. Two rat strains were
+examined: TCDD-sensitive L/E rats and TCDD-resistant H/W rats.
+Animals were treated with 100mg/kg TCDD or corn oil vehicle. In
+L-E rats this dose of leads to an irreversible hypophagia and body
+weight loss, with food intake plummeting from approximately
+20g/day to 1-2 g/day. this rapid decrease in food intake occurred
+within 5 days of TCDD exposure and thereafter persisted at that
+level. In contrast in H/W rats, food intake diminishes from slightly
+above 20 to about 10 g/day 6 days post-treatment, followed by a
+rapid recovery to near control levels after 14 days (Lensu et al.,
+2011a). In L-E rats, the reduction in food consumption reaches
+statistical significance by 24-48h (Lensu et al., 2011a). Therefore,
+hypothalamus tissue was isolated 23h post exposure to identify
+primary transcriptional changes preceding hypophagia and body
+weight loss. Moreover, tissues were collected near the end of the
+darkness period because this phase coincides with one of the two
+feeding peaks of L-E rats (Lensu et al., 2011b): we thus aimed to
+optimize the probability of detecting critical alterations. In
+contrast, at this time of day the circadian feeding rhythm of
+H/W rats is approaching its nadir (Lensu et al., 2011b). The
+experimental approach is summarized in Fig.1. Animals and arrays
+used are listed in Supplementary Table 1.
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+3.2. Response to TCDD Exposure
+Normalized microarray data demonstrated very similar mRNA
+abundances, with hierarchical clustering recognizing greater
+variability between rat strains than between samples treated with
+TCDD or corn oil (Fig. 2A). This result suggests that in 
+hypothalamus, unlike liver (Yao et al., 2012), inter-animal variability is larger
+than the effects of TCDD exposure. Further, the distribution of
+gene-wise coefficients of variation (CV= ratio of the 
+standard-deviation to mean) shows a strong peak around 0.10 (Supplemen-
+tary Fig. S2) for each treatment group. There was no evidence of
+differential variance between the rat strains, with only 15/12,503
+genes showing differences (F-test; q<0.05). Taken together, these
+results demonstrate minimal transcriptomic differences between
+replicates and minimal transcriptomic alterations as a result of
+TCDD exposure.
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+A total of 12,503 individual genes were evaluated (Supplemen-
+tary Table S2). Surprisingly, a larger number of genes were
+dysregulated in TCDD-resistant H/W rats than in TCDD-sensitive
+L-E rats, independent of statistical threshold applied (Fig. 2B). At a
+standard threshold of q<0.05, we detected 15 genes dysregulated
+by TCDD in H/W rats and 6 in L-E rats. Only 3 genes, Cyp1a1, Nqo1
+and Stab1, were altered in both strains (Fig. 2C).
+limma (v3.20.9), lattice
+(v0.20-29),
+97
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+3.3. AHR-core gene responses
+A set of nine genes that are altered by TCDD in an 
+AHR-dependent fashion across a broad range of tissues, species, doses
+and time-pointswere assembled (Boutros et al., 2008; Nebert et al.,
+1993, 2000; Watson et al., 2014; Yeager et al., 2009). These genes
+(Ahrr, Aldh3a1, Cyp1a1, Cyp1a2, Fmo1, Inmt, Nfe2l2, Nqo1 and Tiparp)
+provide a measure of the sensitivity of the hypothalamus to
+transcriptional dysregulation by TCDD, as their effects in other
+tissues have been well documented. Of these, Cyp1a1 was
+significantly up-regulated in both species (3.9-fold in H/W and
+3.6-fold in L-E), as was Nqo1, though to a lesser extent (0.8-fold in
+H/W rats and 0.7-fold in L-E). The remaining genes did not show
+TCDD-induced alteration, despite Cyp1a2 having previously shown
+to be upregulated by TCDD in the hypothalamus (Korkalainen et al.,
+2005). Note that hepatic studies in rats involving similar
+conditions (100mg/kg of TCDD, 19h post-exposure) in both L-E
+and H/W rats (Yao et al., 2012) demonstrated significantly more
+TCDD-mediated changes in this subset of genes (Fig. 3A). Similarly,
+murine studies of liver and kidney tissue following comparable
+treatment conditions (1000mg/kg of TCDD, 19h) (Boutros et al.,
+2009), showed considerably more TCDD-mediated transcriptional
+changes (Fig. 3A).
+3.4. Non-core gene responses
+A subset of genes determined to be significantly altered by TCDD
+ineither strainwas identifiedand furtherexamined.AHR-coregenes
+were excluded from this subset, resulting in 16 genes. These genes
+exhibited onlymoderatemagnitude dysregulation following 
+TCDD-exposure (Fig. 3B). Stab1 showed the largest up-regulation amongst
+non-core genes (1.0-fold induction in the H/W rat) while Ero1l
+showed the greatest down-regulation (H/W, 0.7-fold change).
+Intriguingly, none of the genes within this subset showed
+transcriptional dysregulation by TCDD in rat liver, mouse liver or
+mouse kidney (Boutros et al., 2009; Yao et al., 2012).
+3.5. Validation of TCDD-responsive genes
+A full validation experiment was performed using a NanoString
+custom gene expression assay, including both AHR-core and
+candidate genes. An increased response to TCDD for both strains
+was observed across the AHR-core genes in the validation relative
+to the microarray data (Fig. 4, top panel). Both Cyp1a1 and Nqo1
+showed similar induction, however additional genes were also
+determined as significantly differentially abundant, including
+Cyp1a2 and Cyp1b1 in both strains and Aldh3a1 and Tiparp in only
+H/W rats. Conversely, fewer candidate genes were determined to
+be altered by TCDD in either strainwith only 20/32 cases validating
+(Fig. 4, bottom panel). Of these, Stab1, LOC100361558, Ctgf,
+Tmem63a, and Hspb9 could be validated in both strains.
+3.6. Functional analysis and hypergeometric testing
+Functional analysis of those genes showinga significant response
+to TCDD was completed with the GOMiner software (Zeeberg et al.,
+2003). No significantly enriched pathways were detected following
+FDR correction (q<0.1; Supplementary Table S3). Hypergeometric
+testingwas performed to determine if therewas chromosomal bias
+represented in the significantly responsive genes (Supplementary
+Table S4). No chromosomes were significantly enriched, indicating
+no chromosomal bias for responses to TCDD in hypothalamus.
+98
+]
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+3.7. Transcription factor binding site analysis
+AHR conserved transcription factor binding sitemotifsmay give
+further mechanistic insight into the AHR-regulation of genes
+(Denison and Whitlock 1995; Sogawa et al., 2004). Violin plots
+(Supplementary Fig. S3) show the occurrence and maximal
+conservation score of each motif against the number of strains
+inwhich the genewas found to be significantly responsive toTCDD
+exposure (AHRE-I (core), AHRE-I (full) and AHRE-II). AHRE-I (core)
+was found to occur more often and with higher conservation in
+genes significantly responsive in both rat strains (i.e. Cyp1a1 and
+Nqo1). By contrast, AHRE-II was not enriched at either the level of
+conservation or frequency.
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+4. Discussion
+The hypothalamic arcuate nucleus (ARC) plays a pivotal role in
+the regulation of energy balance (Linden et al., 2010). The ARC
+responds to insulin and leptin signals originating from the
+periphery and acts via production and release of orexigenic or
+anorexigenic neuropeptides and hormones and therefore could
+play an important role inwasting syndrome. Previous studies have
+indicated that the hypothalamus plays a role in cachexia (Ihnatko
+et al., 2013) and hypothalamic injury can lead to hyperplasia
+(Elmquist et al., 1999; Wang et al., 2013). To better understand the
+role the hypothalamus may play in TCDD-induced wasting
+syndrome, we analyzed transcriptomic changes occurring in the
+hypothalamus following TCDD exposure.
+mRNA abundance for two of the AHR-core genes, Cyp1a1 and
+Nqo1, displayed significantly increased abundance following
+treatment with TCDD. While the magnitude of Cyp1a1 induction
+was dramatically lower than that observed in hepatic tissue of
+similarly treated rats (Yao et al., 2012), levels reached similar
+abundances as those observed previously in the hypothalamus
+(Korkalainen et al., 2005). The reduced magnitude of induction of
+Nqo1 in hypothalamus relative to liver following TCDD exposure
+(as observed by both microarray and NanoString) is an interesting
+finding that has not been reported previously. Alternatively, the
+absence of significant Cyp1a2 induction following treatment may
+be an artifact of the array technology as significant induction
+resembling that observed previously (Korkalainen et al., 2005) was
+validated by NanoString in these samples.
+With the exception of Cyp1a1, altered genes exhibited only
+modest changes in abundance in response to TCDD, with changes
+of less than two-fold relative to control animals. This low
+magnitude of change in candidate genes was similarly observed
+by NanoString validation. The relatively few alterations to the
+transcriptome, combined with the small magnitude of these
+changesmay suggest that the hypothalamus is largely refractory to
+direct local effects of TCDD. However, the specific genes showing
+significant alterations may still shed evidence on downstream
+toxicities. A group of 3 genes were significantly altered only in L-E
+rats and may therefore be involved in the sensitive phenotype.
+MSRB1 is involved in the protein repair mechanism during
+oxidative stress (Lee et al., 2009) and has been shown to regulate
+assembly of actin filaments relating to macrophage activity
+(Lee et al., 2013). Increased abundance of this mRNA may indicate
+a potential defense mechanism against TCDD-induced reactive
+oxygen species. Alternatively, decreased mRNA abundances of
+Wdpcp and Clec4a may have etiological roles in TCDD-induced
+toxicity. Wdpcp is required for the stabilization of actin filaments
+and development of cell polarity (Cui et al., 2013) while Clec4a
+(DCIR) is typically expressed in immune tissues (Bates et al., 1999)
+and is involved in the immune response.
+Of the 11 genes uniquely altered in H/W rats, nine were 
+up-regulated by TCDD while the remaining three were 
+down-regulated. Ctgf has been validated as an AHR-target gene coding
+for CTGF, a regulatory protein that mediates cell division and
+apoptosis and has been documented to promote tumour growth
+]
+99
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+and progression (Chu et al., 2008; Faust et al., 2013). It also plays an
+important role in mediating cell adhesion and migration primarily
+in activation of rat oval cells (Pi et al., 2008). Sod3 has been shown
+to act as a tumour suppressor in prostate (Kim et al., 2014) and
+pancreatic cancer (Sibenaller et al., 2014) by modulation of ROS.
+Alternatively, induction of Ero1l by HIF-1a within a hypoxic
+microenvironment leads to angiogenesis and improved tumour
+survival (May et al., 2005). Within the resistant H/W strain, these
+findings (overexpression of Sod3 and reduced expression of Ero1l)
+align with the reduced carcinogenic effects of TCDD. Traf4 is a
+common oncogene (Camilleri-Broet et al., 2007), however
+overexpression has also been shown to be essential for
+homeostasis of CNS myelination (Blaise et al., 2012).
+Two genes, Stab1 and Acvrl1, were overexpressed in both H/W
+and L-E rats. STAB1 is a scavenger receptor expressed by
+macrophages and may aid in phagocytic and anti-inflammatory
+processes (Park et al., 2009). ACVRL1 is a type 1 receptor for 
+TGF-beta proteins and is required for angiogenesis (Oh et al., 2000).
+Increased mRNA abundance of these genes may represent a
+common adaptive response to TCDD-induced damages.
+Previous studies comparing mRNA abundance changes 
+following TCDD treatment have shown L-E rats have significantly higher
+numbers of genes dysregulated by TCDD, as compared to H/W rat
+(Franc et al., 2008; Yao et al., 2012). However, the hypothalamus of
+H/W rats had more altered transcripts than in L-E rats. Given that
+all animals fromboth rat strains had reached sexualmaturity at the
+time of TCDD exposure, it is not likely that the difference in age
+affected the transcriptomic response. Similarly, animals 
+experienced identical environmental and handling conditions. Although
+the magnitude of Cyp1a1 induction is low in hypothalamus when
+compared with liver, the observed induction in both L-E and H/W
+rats indicates that TCDD does in fact reach and effectively activate
+theAHR in the hypothalamus of both strains, in accordance with
+previous work (Pohjanvirta et al., 1990). It is important to note that
+our study was designed to emphasize detection of early 
+transcriptomic responses during the time when the onset of
+measurable feeding responses occurs in TCDD-treated rats.
+A study conducted by Linden et al. (2005) on the effect of TCDD
+exposure on neuropeptide concentrations further supports our
+results as it showed that TCDD alters anorexigenic and orexigenic
+neuropeptides but not consistently (Linden et al., 2005). Attention
+has now turned to nitric oxide and its combined effects with
+orexigenic peptides, ghrelin, NPY and orexin-A, in food intake
+regulation. An alteration in nitric oxide concentration may
+indirectly affect this regulatory pathway, although results of these
+studies have not been conclusive (Linden et al., 2010). 
+Ventromedial hypothalamic lesions aggravate TCDD-induced weight loss
+and, therefore, indicate that TCDD implements toxic effects at
+some point along the hypothalamic pathways regulating energy
+homeostasis (Tuomisto et al., 1995). The minimal impact of TCDD
+on hypothalamic transcriptomic responses in hypothalamus seen
+in this study, along with studies on TCDD response of mRNAs for
+hypothalamic neuropeptides and bHLS/PAS proteins, suggest that
+hypothalamic changes alone are not responsible for TCDD-induced
+hypophagia (Korkalainen et al., 2005; Linden et al., 2005). Analysis
+of the entire hypothalamic tissue blockmaymask strictly localized
+alterations in functionally-specific nuclei.
+The hypothalamus is a highly compartmentalized structure
+consisting of clusters of functionally specialized cells (Schindler
+et al., 2012), each type of which could have diverse responses to
+TCDD. The tissue samples we analyzed are derived from the whole
+hypothalamus. An in depth analysis of specialized cell types might
+provide more enlightening results. Alternatively, the 
+hypothalamus may be indirectly involved in wasting-syndrome-associated
+hypophagia as TCDD may directly affect other feed-intake
+regulatory organs. Analysis of alternate nervous system 
+components in this regulatory pathway (i.e. caudal brainstem and
+medullary area postrema) as well as factors upstream or
+downstream (i.e. adipose tissue) may provide more insight into
+the mechanisms underlying toxic effects of TCDD, as they pertain
+to wasting syndrome.
+Authors’ contributions
+Animal work: RP, JL, SL; sample preparation: IDM, RP,[148_TD$DIFF] SDP
+bioinformatics analysis: KEH,[149_TD$DIFF] SDP, PCB; wrote the first draft of the
+manuscript: KEH; initiated the project: ABO, RP; supervised
+research: ABO, RP, PCB; generated tools and reagents: SDP;
+approved the manuscript: all authors.
+Conflict of interest
+ABO has served as a paid consultant to the Dow Chemical
+Company as amember of their Dioxin Scientific Advisory Board. All
+other authors declare that they have no conflicts of interest.
+Funding sources
+This work was supported by the Canadian Institutes of Health
+Research (grant number MOP-57903 to ABO and PCB), the
+Academy of Finland (grant numbers 123345 and 261232 to RP)
+andwith the support of the Ontario Institute for Cancer Research to
+100
+PCB through funding provided by the Government of Ontario. PCB
+was supported by a CIHR New Investigator Award. The study
+sponsors had no role in the study design; in the collection, analysis
+and interpretation of data; in the writing of the report; or in the
+decision to submit the paper for publication.
+Transparency document
+The Transparency document associated with this article can be
+found in the online version.
+Acknowledgements
+The authors thank all members of the Boutros lab for helpful
+suggestions.
+Reference
+Bates, E.E., Fournier, N., Garcia, E., Valladeau, J., Durand, I., Pin, J.J., Zurawski, S.M.,
+Patel, S., Abrams, J.S., Lebecque, S., Garrone, P., Saeland, S., 1999. APCs express
+DCIR, a novel C-type lectin surface receptor containing an immunoreceptor
+tyrosine-based inhibitory motif. J. Immunol. 163, 1973-1983.
+Blaise, S., Kneib, M., Rousseau, A., Gambino, F., Chenard, M.P., Messadeq, N.,
+Muckenstrum, M., Alpy, F., Tomasetto, C., Humeau, Y., Rio, M.C., 2012. In vivo
+evidence that TRAF4 is required for central nervous systemmyelin homeostasis.
+PLoS One 7, e30917.
+Boutros, P.C., Bielefeld, K.A., Pohjanvirta, R., Harper, P.A., 2009. Dioxin-dependent
+and dioxin-independent gene batteries: comparison of liver and kidney in
+AHR-null mice. Toxicol. Sci. 112, 245-256.
+Boutros, P.C., Yan, R., Moffat, I.D., Pohjanvirta, R., Okey, A.B., 2008. Transcriptomic
+responses to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) in liver: comparison
+of rat and mouse. BMC Genomics 9, 419.
+Boutros, P.C., Yao, C.Q.,Watson, J.D.,Wu, A.H., Moffat, I.D., Prokopec, S.D., Smith, A.B.,
+Okey, A.B., Pohjanvirta, R., 2011. Hepatic transcriptomic responses to TCDD in
+dioxin-sensitive and dioxin-resistant rats during the onset of toxicity. Toxicol.
+Appl. Pharmacol. 251, 119-129.
+Camilleri-Broet, S., Cremer, I., Marmey, B., Comperat, E., Viguie, F., Audouin, J., Rio,M.
+C., Fridman,W.H., Sautes-Fridman, C., Regnier, C.H., 2007. TRAF4 overexpression
+is a common characteristic of human carcinomas. Oncogene 26, 142-147.
+Chen, H., Boutros, P.C., 2011. VennDiagram: a package for the generation of 
+highly-customizable Venn and Euler diagrams in R. BMC Bioinf. 12, 35.
+Chu, C.Y., Chang, C.C., Prakash, E., Kuo, M.L., 2008. Connective tissue growth factor
+(CTGF) and cancer progression. J. Biomed. Sci. 15, 675-685.
+Cui, C., Chatterjee, B., Lozito, T.P., Zhang, Z., Francis, R.J., Yagi, H., Swanhart, L.M.,
+Sanker, S., Francis, D., Yu, Q., San Agustin, J.T., Puligilla, C., Chatterjee, T., Tansey,
+T., Liu, X., Kelley, M.W., Spiliotis, E.T., Kwiatkowski, A.V., Tuan, R., Pazour, G.J.,
+Hukriede, N.A., Lo, C.W., 2013. Wdpcp, a PCP protein required for ciliogenesis,
+regulates directional cell migration and cell polarity by directmodulation of the
+actin cytoskeleton. PLoS Biol. 11, e1001720.
+Dai, M., Wang, P., Boyd, A.D., Kostov, G., Athey, B., Jones, E.G., Bunney, W.E., Myers, R.
+M., Speed, T.P., Akil, H., Watson, S.J., Meng, F., 2005. Evolving gene/transcript
+definitions significantly alter the interpretation of GeneChip data. Nucleic Acids
+Res. 33, e175.
+Denison, M.S., Whitlock Jr., J.P., 1995. Xenobiotic-inducible transcription of
+cytochrome P450 genes. J. Biol. Chem. 270, 18175-18178.
+Dolwick, K.M., Schmidt, J.V., Carver, L.A., Swanson, H.I., Bradfield, C.A., 1993. Cloning
+and expression of a human Ah receptor cDNA. Mol. Pharmacol. 44, 911-917.
+Elmquist, J.K., Elias, C.F., Saper, C.B., 1999. From lesions to leptin: hypothalamic
+control of food intake and body weight. Neuron 22, 221-232.
+Faust, D., Vondracek, J., Krcmar, P., Smerdova, L., Prochazkova, J., Hruba, E.,
+Hulinkova, P., Kaina, B., Dietrich, C., Machala,M., 2013. AhR-mediated changes in
+global gene expression in rat liver progenitor cells. Arch. Toxicol. 87, 681-698.
+Franc, M.A., Moffat, I.D., Boutros, P.C., Tuomisto, J.T., Tuomisto, J., Pohjanvirta, R.,
+Okey, A.B., 2008. Patterns of dioxin-alteredmRNA expression in livers of 
+dioxin-sensitive versus dioxin-resistant rats. Arch. Toxicol. 82, 809-830.
+Gautier, L., Cope, L., Bolstad, B.M., Irizarry, R.A., 2004. Affy-analysis of Affymetrix
+GeneChip data at the probe level. Bioinformatics 20, 307-315.
+Ihnatko, R., Post, C., Blomqvist, A., 2013. Proteomic profiling of the hypothalamus in
+a mouse model of cancer-induced anorexia-cachexia. Br. J. Cancer 109,
+1867-1875.
+Irizarry, R.A., Bolstad, B.M., Collin, F., Cope, L.M., Hobbs, B., Speed, T.P., 2003.
+Summaries of Affymetrix GeneChip probe level data. Nucleic Acids Res. 31, e15.
+Karolchik, D., Baertsch, R., Diekhans,M., Furey, T.S., Hinrichs, A., Lu, Y.T., Roskin, K.M.,
+Schwartz, M., Sugnet, C.W., Thomas, D.J., Weber, R.J., Haussler, D., Kent, W.J.,
+2003. The UCSC Genome Browser Database. Nucleic Acids Res. 31, 51-54.
+Kilkenny, C., Browne, W.J., Cuthill, I.C., Emerson, M., Altman, D.G., 2010. Improving
+bioscience research reporting: the ARRIVE guidelines for reporting animal
+research. PLoS Biol. 8, e1000412.
+Kim, J., Mizokami, A., Shin, M., Izumi, K., Konaka, H., Kadono, Y., Kitagawa, Y., Keller,
+E.T., Zhang, J., Namiki, M., 2014. SOD3 acts as a tumor suppressor in 
+PC-K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+3 prostate cancer cells via hydrogen peroxide accumulation. Anticancer Res. 34,
+2821-2831.
+Ko, H.P., Okino, S.T., Ma, Q., Whitlock Jr., J.P., 1997. Transactivation domains facilitate
+promoter occupancy for the dioxin-inducible CYP1A1 gene in vivo.Mol. Cell Biol.
+17, 3497-3507.
+Konner, A.C., Klockener, T., Bruning, J.C., 2009. Control of energy homeostasis by
+insulin and leptin: targeting the arcuate nucleus and beyond. Physiol. Behav. 97,
+632-638.
+Korkalainen, M., Linden, J., Tuomisto, J., Pohjanvirta, R., 2005. Effect of TCDD on
+mRNA expression of genes encoding bHLH/PAS proteins in rat hypothalamus.
+Toxicology 208, 1-11.
+Lee, B.C., Dikiy, A., Kim, H.Y., Gladyshev, V.N., 2009. Functions and evolution of
+selenoprotein methionine sulfoxide reductases. Biochim. Biophys. Acta 1790,
+1471-1477.
+Lee, B.C., Peterfi, Z., Hoffmann, F.W., Moore, R.E., Kaya, A., Avanesov, A., Tarrago, L.,
+Zhou, Y., Weerapana, E., Fomenko, D.E., Hoffmann, P.R., Gladyshev, V.N., 2013.
+MsrB1 and MICALs regulate actin assembly and macrophage function via
+reversible stereoselective methionine oxidation. Mol. Cell 51, 397-404.
+Lensu, S., Tiittanen, P., Linden, J., Tuomisto, J., Pohjanvirta, R., 2011a. Effects of a
+single exposure to 2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) on macro- and
+microstructures of feeding and drinking in two differently TCDD-sensitive rat
+strains. Pharmacol. Biochem. Behav. 99, 487-499.
+Lensu, S., Tiittanen, P., Pohjanvirta, R., 2011b. Circadian differences between two rat
+strains in their feeding and drinking micro- and macrostructures. Biol. Rhythm
+Res. 42, 385-405.
+Linden, J., Korkalainen, M., Lensu, S., Tuomisto, J., Pohjanvirta, R., 2005. Effects of
+2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) and leptin on hypothalamic mRNA
+expression of factors participating in food intake regulation in a TCDD-sensitive
+and a TCDD-resistant rat strain. J. Biochem. Mol. Toxicol. 19, 139-148.
+Linden, J., Lensu, S., Pohjanvirta, R., 2014. Effect of 2,3,7,8-tetrachlorodibenzo-
+r-dioxin (TCDD) on hormones of energy balance in a TCDD-sensitive and a
+TCDD-resistant rat strain. Int. J. Mol. Sci. 15, 13938-13966.
+Linden, J., Lensu, S., Tuomisto, J., Pohjanvirta, R., 2010. Dioxins, the aryl hydrocarbon
+receptor and the central regulation of energy balance. Front. Neuroendocrinol.
+31, 452-478.
+May, D., Itin, A., Gal, O., Kalinski, H., Feinstein, E., Keshet, E., 2005. Ero1-L alpha
+plays a key role in a HIF-1-mediated pathway to improve disulfide bond
+formation and VEGF secretion under hypoxia: implication for cancer. Oncogene
+24, 1011-1020.
+Mimura, J., Fujii-Kuriyama, Y., 2003. Functional role of AhR in the expression of toxic
+effects by TCDD. Biochim. Biophys. Acta 1619, 263-268.
+Moffat, I.D., Roblin, S., Harper, P.A., Okey, A.B., Pohjanvirta, R., 2007. Aryl
+hydrocarbon receptor splice variants in the dioxin-resistant rat: tissue
+expression and transactivational activity. Mol. Pharmacol. 72, 956-966.
+Nebert, D.W., Puga, A., Vasiliou, V., 1993. Role of the Ah receptor and the 
+dioxin-inducible [Ah] gene battery in toxicity, cancer, and signal transduction. Ann, N,
+Y, Acad, Sci. 685, 624-640.
+Nebert, D.W., Roe, A.L., Dieter, M.Z., Solis,W.A., Yang, Y., Dalton, T.P., 2000. Role of the
+aromatic hydrocarbon receptor and [Ah] gene battery in the oxidative stress
+response, cell cycle control, and apoptosis. Biochem. Pharmacol. 59, 65-85.
+Oh, S.P., Seki, T., Goss, K.A., Imamura, T., Yi, Y., Donahoe, P.K., Li, L., Miyazono, K., ten
+Dijke, P., Kim, S., Li, E., 2000. Activin receptor-like kinase 1 modulates
+transforming growth factor-beta 1 signaling in the regulation of angiogenesis.
+Proc. Natl. Acad. Sci. U. S. A. 97, 2626-2631.
+Okey, A.B., 2007. An aryl hydrocarbon receptor odyssey to the shores of toxicology:
+the deichmann lecture, international congress of toxicology-XI. Toxicol. Sci. 98,
+5-38.
+Park, S.Y., Jung, M.Y., Lee, S.J., Kang, K.B., Gratchev, A., Riabov, V., Kzhyshkowska, J.,
+Kim, I.S., 2009. Stabilin-1 mediates phosphatidylserine-dependent clearance of
+cell corpses in alternatively activated macrophages. J. Cell Sci. 122, 3365-3373.
+Petrulis, J.R., Perdew, G.H., 2002. The role of chaperone proteins in the aryl
+hydrocarbon receptor core complex. Chem. Biol. Interact 141, 25-40.
+Pi, L., Ding, X., Jorgensen, M., Pan, J.J., Oh, S.H., Pintilie, D., Brown, A., Song, W.Y.,
+Petersen, B.E., 2008. Connective tissue growth factor with a novel fibronectin
+binding site promotes cell adhesion and migration during rat oval cell
+activation. Hepatology 47, 996-1004.
+Pohjanvirta, R., Niittynen, M., Linden, J., Boutros, P.C., Moffat, I.D., Okey, A.B., 2006.
+Evaluation of various housekeeping genes for their applicability for
+normalization of mRNA expression in dioxin-treated rats. Chem. Biol. Interact
+160, 134-149.
+Pohjanvirta, R., Tuomisto, J.,1994. Short-term toxicity of 2,3,7,8-tetrachlorodibenzo-
+r-dioxin in laboratory animals: effects, mechanisms, and animal models.
+Pharmacol. Rev. 46, 483-549.
+Pohjanvirta, R., Unkila, M., Linden, J., Tuomisto, J.T., Tuomisto, J., 1995. Toxic
+equivalency factors do not predict the acute toxicities of dioxins in rats. Eur. J.
+Pharmacol. 293, 341-353.
+Pohjanvirta, R., Vartiainen, T., Uusi-Rauva, A., Monkkonen, J., Tuomisto, J., 1990.
+Tissue distribution, metabolism, and excretion of 14C-TCDD in a 
+TCDD-susceptible and a TCDD-resistant rat strain. Pharmacol. Toxicol. 66, 93-100.
+Pohjanvirta, R., Wong, J.M., Li, W., Harper, P.A., Tuomisto, J., Okey, A.B., 1998. Point
+mutation in intron sequence causes altered carboxyl-terminal structure in the
+aryl hydrocarbon receptor of the most 2,3,7,8-tetrachlorodibenzo-r-dioxin-
+resistant rat strain. Mol. Pharmacol. 54, 86-93.
+Prokopec, S.D., Watson, J.D., Waggott, D.M., Smith, A.B., Wu, A.H., Okey, A.B.,
+Pohjanvirta, R., Boutros, P.C., 2013. Systematic evaluation of 
+medium-throughput mRNA abundance platforms. RNA 19, 51-62.
+Reyes, H., Reisz-Porszasz, S., Hankinson, O., 1992. Identification of the Ah receptor
+nuclear translocator protein (Arnt) as a component of the DNA binding form of
+the Ah receptor. Science 256, 1193-1195.
+Schindler, S., Geyer, S., Strauss, M., Anwander, A., Hegerl, U., Turner, R., Schonknecht,
+P., 2012. Structural studies of the hypothalamus and its nuclei in mood
+disorders. Psychiatry Res. 201, 1-9.
+Seefeld, M.D., Corbett, S.W., Keesey, R.E., Peterson, R.E., 1984. Characterization of the
+wasting syndrome in rats treated with 2,3,7,8-tetrachlorodibenzo-r-dioxin.
+Toxicol. Appl. Pharmacol. 73, 311-322.
+Sibenaller, Z.A., Welsh, J.L., Du, C., Witmer, J.R., Schrock, H.E., Du, J., Buettner, G.R.,
+Goswami, P.C., Cieslak 3rd, J.A., Cullen, J.J., 2014. Extracellular superoxide
+dismutase suppresses hypoxia-inducible factor-1alpha in pancreatic cancer.
+Free Radical Biol. Med. 69, 357-366.
+Siepel, A., Haussler, D., 2004. Combining phylogenetic and hiddenMarkovmodels in
+biosequence analysis. J. Comput. Biol. 11, 413-428.
+Smyth, G.K., 2004. Linear models and empirical bayes methods for assessing
+differential expression inmicroarray experiments. Stat. Appl. Genet.Mol. Biol. 3,
+Article3.
+Sogawa, K., Numayama-Tsuruta, K., Takahashi, T., Matsushita, N., Miura, C., Nikawa,
+J., Gotoh, O., Kikuchi, Y., Fujii-Kuriyama, Y., 2004. A novel induction mechanism
+of the rat CYP1A2 gene mediated by Ah receptor-Arnt heterodimer. Biochem.
+Biophys. Res. Commun. 318, 746-755.
+Storey, J.D., Tibshirani, R., 2003. Statistical significance for genomewide studies.
+Proc. Natl. Acad. Sci. U. S. A. 100, 9440-9445.
+Tuomisto, J.T., Pohjanvirta, R., Unkila, M., Tuomisto, J., 1995. 2,3,7,8-
+Tetrachlorodibenzo-r-dioxin-induced anorexia and wasting syndrome in rats:
+aggravation after ventromedial hypothalamic lesion. Eur. J. Pharmacol. 293,
+309-317.
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+101
+Tuomisto, J.T., Pohjanvirta, R., Unkila, M., Tuomisto, J., 1999. TCDD-induced anorexia
+and wasting syndrome in rats: effects of diet-induced obesity and nutrition.
+Pharmacol. Biochem. Behav. 62, 735-742.
+Unkila, M., Pohjanvirta, R., MacDonald, E., Tuomisto, J.T., Tuomisto, J., 1994.
+Dose response and time course of alterations in tryptophan metabolism by
+2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) in the most TCDD-susceptible and
+the most TCDD-resistant rat strain: relationship with TCDD lethality. Toxicol.
+Appl. Pharmacol. 128, 280-292.
+Waggott, D., Chu, K., Yin, S., Wouters, B.G., Liu, F.F., Boutros, P.C., 2012.
+NanoStringNorm: an extensible R package for the pre-processing of nanoString
+mRNA and miRNA data. Bioinformatics 28, 1546-1548.
+Wang, J., Yuan, Z., Dong, J., Zhang, D., Usami, T., Murata, T., Narita, K., Higuchi, T.,
+2013. Neuropeptide Y loses its orexigenic effect in rats with lesions of the
+hypothalamic paraventricular nucleus. Endocr. Res. 38, 8-14.
+Watson, J.D., Prokopec, S.D., Smith, A.B., Okey, A.B., Pohjanvirta, R., Boutros, P.C.,
+2014. TCDD dysregulation of 13 AHR-target genes in rat liver. Toxicol. Appl.
+Pharmacol. 274, 445-454.
+Yao, C.Q., Prokopec, S.D., Watson, J.D., Pang, R., P'ng, C., Chong, L.C., Harding, N.J.,
+Pohjanvirta, R., Okey, A.B., Boutros, P.C., 2012. Inter-strain heterogeneity in rat
+hepatic transcriptomic responses to 2,3,7,8-tetrachlorodibenzo-r-dioxin
+(TCDD). Toxicol. Appl. Pharmacol. 260, 135-145.
+Yeager, R.L., Reisman, S.A., Aleksunes, L.M., Klaassen, C.D., 2009.
+Introducing the TCDD-inducible AhR-Nrf2 gene battery. Toxicol. Sci. 111,
+238-246.
+Zeeberg, B.R., Feng, W., Wang, G., Wang, M.D., Fojo, A.T., Sunshine, M., Narasimhan,
+S., Kane, D.W., Reinhold, W.C., Lababidi, S., Bussey, K.J., Riss, J., Barrett, J.C.,
+Weinstein, J.N., 2003. GoMiner: a resource for biological interpretation of
+genomic and proteomic data. Genome Biol. 4, R28.
+
+>>>section: acknowledgements
+Acknowledgements
+The authors thank all members of the Boutros lab for helpful
+suggestions.
+Reference
+Bates, E.E., Fournier, N., Garcia, E., Valladeau, J., Durand, I., Pin, J.J., Zurawski, S.M.,
+Patel, S., Abrams, J.S., Lebecque, S., Garrone, P., Saeland, S., 1999. APCs express
+DCIR, a novel C-type lectin surface receptor containing an immunoreceptor
+tyrosine-based inhibitory motif. J. Immunol. 163, 1973-1983.
+Blaise, S., Kneib, M., Rousseau, A., Gambino, F., Chenard, M.P., Messadeq, N.,
+Muckenstrum, M., Alpy, F., Tomasetto, C., Humeau, Y., Rio, M.C., 2012. In vivo
+evidence that TRAF4 is required for central nervous systemmyelin homeostasis.
+PLoS One 7, e30917.
+Boutros, P.C., Bielefeld, K.A., Pohjanvirta, R., Harper, P.A., 2009. Dioxin-dependent
+and dioxin-independent gene batteries: comparison of liver and kidney in
+AHR-null mice. Toxicol. Sci. 112, 245-256.
+Boutros, P.C., Yan, R., Moffat, I.D., Pohjanvirta, R., Okey, A.B., 2008. Transcriptomic
+responses to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) in liver: comparison
+of rat and mouse. BMC Genomics 9, 419.
+Boutros, P.C., Yao, C.Q.,Watson, J.D.,Wu, A.H., Moffat, I.D., Prokopec, S.D., Smith, A.B.,
+Okey, A.B., Pohjanvirta, R., 2011. Hepatic transcriptomic responses to TCDD in
+dioxin-sensitive and dioxin-resistant rats during the onset of toxicity. Toxicol.
+Appl. Pharmacol. 251, 119-129.
+Camilleri-Broet, S., Cremer, I., Marmey, B., Comperat, E., Viguie, F., Audouin, J., Rio,M.
+C., Fridman,W.H., Sautes-Fridman, C., Regnier, C.H., 2007. TRAF4 overexpression
+is a common characteristic of human carcinomas. Oncogene 26, 142-147.
+Chen, H., Boutros, P.C., 2011. VennDiagram: a package for the generation of 
+highly-customizable Venn and Euler diagrams in R. BMC Bioinf. 12, 35.
+Chu, C.Y., Chang, C.C., Prakash, E., Kuo, M.L., 2008. Connective tissue growth factor
+(CTGF) and cancer progression. J. Biomed. Sci. 15, 675-685.
+Cui, C., Chatterjee, B., Lozito, T.P., Zhang, Z., Francis, R.J., Yagi, H., Swanhart, L.M.,
+Sanker, S., Francis, D., Yu, Q., San Agustin, J.T., Puligilla, C., Chatterjee, T., Tansey,
+T., Liu, X., Kelley, M.W., Spiliotis, E.T., Kwiatkowski, A.V., Tuan, R., Pazour, G.J.,
+Hukriede, N.A., Lo, C.W., 2013. Wdpcp, a PCP protein required for ciliogenesis,
+regulates directional cell migration and cell polarity by directmodulation of the
+actin cytoskeleton. PLoS Biol. 11, e1001720.
+Dai, M., Wang, P., Boyd, A.D., Kostov, G., Athey, B., Jones, E.G., Bunney, W.E., Myers, R.
+M., Speed, T.P., Akil, H., Watson, S.J., Meng, F., 2005. Evolving gene/transcript
+definitions significantly alter the interpretation of GeneChip data. Nucleic Acids
+Res. 33, e175.
+Denison, M.S., Whitlock Jr., J.P., 1995. Xenobiotic-inducible transcription of
+cytochrome P450 genes. J. Biol. Chem. 270, 18175-18178.
+Dolwick, K.M., Schmidt, J.V., Carver, L.A., Swanson, H.I., Bradfield, C.A., 1993. Cloning
+and expression of a human Ah receptor cDNA. Mol. Pharmacol. 44, 911-917.
+Elmquist, J.K., Elias, C.F., Saper, C.B., 1999. From lesions to leptin: hypothalamic
+control of food intake and body weight. Neuron 22, 221-232.
+Faust, D., Vondracek, J., Krcmar, P., Smerdova, L., Prochazkova, J., Hruba, E.,
+Hulinkova, P., Kaina, B., Dietrich, C., Machala,M., 2013. AhR-mediated changes in
+global gene expression in rat liver progenitor cells. Arch. Toxicol. 87, 681-698.
+Franc, M.A., Moffat, I.D., Boutros, P.C., Tuomisto, J.T., Tuomisto, J., Pohjanvirta, R.,
+Okey, A.B., 2008. Patterns of dioxin-alteredmRNA expression in livers of 
+dioxin-sensitive versus dioxin-resistant rats. Arch. Toxicol. 82, 809-830.
+Gautier, L., Cope, L., Bolstad, B.M., Irizarry, R.A., 2004. Affy-analysis of Affymetrix
+GeneChip data at the probe level. Bioinformatics 20, 307-315.
+Ihnatko, R., Post, C., Blomqvist, A., 2013. Proteomic profiling of the hypothalamus in
+a mouse model of cancer-induced anorexia-cachexia. Br. J. Cancer 109,
+1867-1875.
+Irizarry, R.A., Bolstad, B.M., Collin, F., Cope, L.M., Hobbs, B., Speed, T.P., 2003.
+Summaries of Affymetrix GeneChip probe level data. Nucleic Acids Res. 31, e15.
+Karolchik, D., Baertsch, R., Diekhans,M., Furey, T.S., Hinrichs, A., Lu, Y.T., Roskin, K.M.,
+Schwartz, M., Sugnet, C.W., Thomas, D.J., Weber, R.J., Haussler, D., Kent, W.J.,
+2003. The UCSC Genome Browser Database. Nucleic Acids Res. 31, 51-54.
+Kilkenny, C., Browne, W.J., Cuthill, I.C., Emerson, M., Altman, D.G., 2010. Improving
+bioscience research reporting: the ARRIVE guidelines for reporting animal
+research. PLoS Biol. 8, e1000412.
+Kim, J., Mizokami, A., Shin, M., Izumi, K., Konaka, H., Kadono, Y., Kitagawa, Y., Keller,
+E.T., Zhang, J., Namiki, M., 2014. SOD3 acts as a tumor suppressor in 
+PC-K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+3 prostate cancer cells via hydrogen peroxide accumulation. Anticancer Res. 34,
+2821-2831.
+Ko, H.P., Okino, S.T., Ma, Q., Whitlock Jr., J.P., 1997. Transactivation domains facilitate
+promoter occupancy for the dioxin-inducible CYP1A1 gene in vivo.Mol. Cell Biol.
+17, 3497-3507.
+Konner, A.C., Klockener, T., Bruning, J.C., 2009. Control of energy homeostasis by
+insulin and leptin: targeting the arcuate nucleus and beyond. Physiol. Behav. 97,
+632-638.
+Korkalainen, M., Linden, J., Tuomisto, J., Pohjanvirta, R., 2005. Effect of TCDD on
+mRNA expression of genes encoding bHLH/PAS proteins in rat hypothalamus.
+Toxicology 208, 1-11.
+Lee, B.C., Dikiy, A., Kim, H.Y., Gladyshev, V.N., 2009. Functions and evolution of
+selenoprotein methionine sulfoxide reductases. Biochim. Biophys. Acta 1790,
+1471-1477.
+Lee, B.C., Peterfi, Z., Hoffmann, F.W., Moore, R.E., Kaya, A., Avanesov, A., Tarrago, L.,
+Zhou, Y., Weerapana, E., Fomenko, D.E., Hoffmann, P.R., Gladyshev, V.N., 2013.
+MsrB1 and MICALs regulate actin assembly and macrophage function via
+reversible stereoselective methionine oxidation. Mol. Cell 51, 397-404.
+Lensu, S., Tiittanen, P., Linden, J., Tuomisto, J., Pohjanvirta, R., 2011a. Effects of a
+single exposure to 2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) on macro- and
+microstructures of feeding and drinking in two differently TCDD-sensitive rat
+strains. Pharmacol. Biochem. Behav. 99, 487-499.
+Lensu, S., Tiittanen, P., Pohjanvirta, R., 2011b. Circadian differences between two rat
+strains in their feeding and drinking micro- and macrostructures. Biol. Rhythm
+Res. 42, 385-405.
+Linden, J., Korkalainen, M., Lensu, S., Tuomisto, J., Pohjanvirta, R., 2005. Effects of
+2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) and leptin on hypothalamic mRNA
+expression of factors participating in food intake regulation in a TCDD-sensitive
+and a TCDD-resistant rat strain. J. Biochem. Mol. Toxicol. 19, 139-148.
+Linden, J., Lensu, S., Pohjanvirta, R., 2014. Effect of 2,3,7,8-tetrachlorodibenzo-
+r-dioxin (TCDD) on hormones of energy balance in a TCDD-sensitive and a
+TCDD-resistant rat strain. Int. J. Mol. Sci. 15, 13938-13966.
+Linden, J., Lensu, S., Tuomisto, J., Pohjanvirta, R., 2010. Dioxins, the aryl hydrocarbon
+receptor and the central regulation of energy balance. Front. Neuroendocrinol.
+31, 452-478.
+May, D., Itin, A., Gal, O., Kalinski, H., Feinstein, E., Keshet, E., 2005. Ero1-L alpha
+plays a key role in a HIF-1-mediated pathway to improve disulfide bond
+formation and VEGF secretion under hypoxia: implication for cancer. Oncogene
+24, 1011-1020.
+Mimura, J., Fujii-Kuriyama, Y., 2003. Functional role of AhR in the expression of toxic
+effects by TCDD. Biochim. Biophys. Acta 1619, 263-268.
+Moffat, I.D., Roblin, S., Harper, P.A., Okey, A.B., Pohjanvirta, R., 2007. Aryl
+hydrocarbon receptor splice variants in the dioxin-resistant rat: tissue
+expression and transactivational activity. Mol. Pharmacol. 72, 956-966.
+Nebert, D.W., Puga, A., Vasiliou, V., 1993. Role of the Ah receptor and the 
+dioxin-inducible [Ah] gene battery in toxicity, cancer, and signal transduction. Ann, N,
+Y, Acad, Sci. 685, 624-640.
+Nebert, D.W., Roe, A.L., Dieter, M.Z., Solis,W.A., Yang, Y., Dalton, T.P., 2000. Role of the
+aromatic hydrocarbon receptor and [Ah] gene battery in the oxidative stress
+response, cell cycle control, and apoptosis. Biochem. Pharmacol. 59, 65-85.
+Oh, S.P., Seki, T., Goss, K.A., Imamura, T., Yi, Y., Donahoe, P.K., Li, L., Miyazono, K., ten
+Dijke, P., Kim, S., Li, E., 2000. Activin receptor-like kinase 1 modulates
+transforming growth factor-beta 1 signaling in the regulation of angiogenesis.
+Proc. Natl. Acad. Sci. U. S. A. 97, 2626-2631.
+Okey, A.B., 2007. An aryl hydrocarbon receptor odyssey to the shores of toxicology:
+the deichmann lecture, international congress of toxicology-XI. Toxicol. Sci. 98,
+5-38.
+Park, S.Y., Jung, M.Y., Lee, S.J., Kang, K.B., Gratchev, A., Riabov, V., Kzhyshkowska, J.,
+Kim, I.S., 2009. Stabilin-1 mediates phosphatidylserine-dependent clearance of
+cell corpses in alternatively activated macrophages. J. Cell Sci. 122, 3365-3373.
+Petrulis, J.R., Perdew, G.H., 2002. The role of chaperone proteins in the aryl
+hydrocarbon receptor core complex. Chem. Biol. Interact 141, 25-40.
+Pi, L., Ding, X., Jorgensen, M., Pan, J.J., Oh, S.H., Pintilie, D., Brown, A., Song, W.Y.,
+Petersen, B.E., 2008. Connective tissue growth factor with a novel fibronectin
+binding site promotes cell adhesion and migration during rat oval cell
+activation. Hepatology 47, 996-1004.
+Pohjanvirta, R., Niittynen, M., Linden, J., Boutros, P.C., Moffat, I.D., Okey, A.B., 2006.
+Evaluation of various housekeeping genes for their applicability for
+normalization of mRNA expression in dioxin-treated rats. Chem. Biol. Interact
+160, 134-149.
+Pohjanvirta, R., Tuomisto, J.,1994. Short-term toxicity of 2,3,7,8-tetrachlorodibenzo-
+r-dioxin in laboratory animals: effects, mechanisms, and animal models.
+Pharmacol. Rev. 46, 483-549.
+Pohjanvirta, R., Unkila, M., Linden, J., Tuomisto, J.T., Tuomisto, J., 1995. Toxic
+equivalency factors do not predict the acute toxicities of dioxins in rats. Eur. J.
+Pharmacol. 293, 341-353.
+Pohjanvirta, R., Vartiainen, T., Uusi-Rauva, A., Monkkonen, J., Tuomisto, J., 1990.
+Tissue distribution, metabolism, and excretion of 14C-TCDD in a 
+TCDD-susceptible and a TCDD-resistant rat strain. Pharmacol. Toxicol. 66, 93-100.
+Pohjanvirta, R., Wong, J.M., Li, W., Harper, P.A., Tuomisto, J., Okey, A.B., 1998. Point
+mutation in intron sequence causes altered carboxyl-terminal structure in the
+aryl hydrocarbon receptor of the most 2,3,7,8-tetrachlorodibenzo-r-dioxin-
+resistant rat strain. Mol. Pharmacol. 54, 86-93.
+Prokopec, S.D., Watson, J.D., Waggott, D.M., Smith, A.B., Wu, A.H., Okey, A.B.,
+Pohjanvirta, R., Boutros, P.C., 2013. Systematic evaluation of 
+medium-throughput mRNA abundance platforms. RNA 19, 51-62.
+Reyes, H., Reisz-Porszasz, S., Hankinson, O., 1992. Identification of the Ah receptor
+nuclear translocator protein (Arnt) as a component of the DNA binding form of
+the Ah receptor. Science 256, 1193-1195.
+Schindler, S., Geyer, S., Strauss, M., Anwander, A., Hegerl, U., Turner, R., Schonknecht,
+P., 2012. Structural studies of the hypothalamus and its nuclei in mood
+disorders. Psychiatry Res. 201, 1-9.
+Seefeld, M.D., Corbett, S.W., Keesey, R.E., Peterson, R.E., 1984. Characterization of the
+wasting syndrome in rats treated with 2,3,7,8-tetrachlorodibenzo-r-dioxin.
+Toxicol. Appl. Pharmacol. 73, 311-322.
+Sibenaller, Z.A., Welsh, J.L., Du, C., Witmer, J.R., Schrock, H.E., Du, J., Buettner, G.R.,
+Goswami, P.C., Cieslak 3rd, J.A., Cullen, J.J., 2014. Extracellular superoxide
+dismutase suppresses hypoxia-inducible factor-1alpha in pancreatic cancer.
+Free Radical Biol. Med. 69, 357-366.
+Siepel, A., Haussler, D., 2004. Combining phylogenetic and hiddenMarkovmodels in
+biosequence analysis. J. Comput. Biol. 11, 413-428.
+Smyth, G.K., 2004. Linear models and empirical bayes methods for assessing
+differential expression inmicroarray experiments. Stat. Appl. Genet.Mol. Biol. 3,
+Article3.
+Sogawa, K., Numayama-Tsuruta, K., Takahashi, T., Matsushita, N., Miura, C., Nikawa,
+J., Gotoh, O., Kikuchi, Y., Fujii-Kuriyama, Y., 2004. A novel induction mechanism
+of the rat CYP1A2 gene mediated by Ah receptor-Arnt heterodimer. Biochem.
+Biophys. Res. Commun. 318, 746-755.
+Storey, J.D., Tibshirani, R., 2003. Statistical significance for genomewide studies.
+Proc. Natl. Acad. Sci. U. S. A. 100, 9440-9445.
+Tuomisto, J.T., Pohjanvirta, R., Unkila, M., Tuomisto, J., 1995. 2,3,7,8-
+Tetrachlorodibenzo-r-dioxin-induced anorexia and wasting syndrome in rats:
+aggravation after ventromedial hypothalamic lesion. Eur. J. Pharmacol. 293,
+309-317.
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+101
+Tuomisto, J.T., Pohjanvirta, R., Unkila, M., Tuomisto, J., 1999. TCDD-induced anorexia
+and wasting syndrome in rats: effects of diet-induced obesity and nutrition.
+Pharmacol. Biochem. Behav. 62, 735-742.
+Unkila, M., Pohjanvirta, R., MacDonald, E., Tuomisto, J.T., Tuomisto, J., 1994.
+Dose response and time course of alterations in tryptophan metabolism by
+2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) in the most TCDD-susceptible and
+the most TCDD-resistant rat strain: relationship with TCDD lethality. Toxicol.
+Appl. Pharmacol. 128, 280-292.
+Waggott, D., Chu, K., Yin, S., Wouters, B.G., Liu, F.F., Boutros, P.C., 2012.
+NanoStringNorm: an extensible R package for the pre-processing of nanoString
+mRNA and miRNA data. Bioinformatics 28, 1546-1548.
+Wang, J., Yuan, Z., Dong, J., Zhang, D., Usami, T., Murata, T., Narita, K., Higuchi, T.,
+2013. Neuropeptide Y loses its orexigenic effect in rats with lesions of the
+hypothalamic paraventricular nucleus. Endocr. Res. 38, 8-14.
+Watson, J.D., Prokopec, S.D., Smith, A.B., Okey, A.B., Pohjanvirta, R., Boutros, P.C.,
+2014. TCDD dysregulation of 13 AHR-target genes in rat liver. Toxicol. Appl.
+Pharmacol. 274, 445-454.
+Yao, C.Q., Prokopec, S.D., Watson, J.D., Pang, R., P'ng, C., Chong, L.C., Harding, N.J.,
+Pohjanvirta, R., Okey, A.B., Boutros, P.C., 2012. Inter-strain heterogeneity in rat
+hepatic transcriptomic responses to 2,3,7,8-tetrachlorodibenzo-r-dioxin
+(TCDD). Toxicol. Appl. Pharmacol. 260, 135-145.
+Yeager, R.L., Reisman, S.A., Aleksunes, L.M., Klaassen, C.D., 2009.
+Introducing the TCDD-inducible AhR-Nrf2 gene battery. Toxicol. Sci. 111,
+238-246.
+Zeeberg, B.R., Feng, W., Wang, G., Wang, M.D., Fojo, A.T., Sunshine, M., Narasimhan,
+S., Kane, D.W., Reinhold, W.C., Lababidi, S., Bussey, K.J., Riss, J., Barrett, J.C.,
+Weinstein, J.N., 2003. GoMiner: a resource for biological interpretation of
+genomic and proteomic data. Genome Biol. 4, R28.
+
+>>>section: abstract
+A B S T R A C T
+In some mammals, halogenated aromatic hydrocarbon (HAH) exposure causes wasting syndrome,
+defined as significant weight loss associated with lethal outcomes. The most potent HAH in causing
+wasting is 2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD), which exerts its toxic effects through the aryl
+hydrocarbon receptor (AHR). Since TCDD toxicity is thought to predominantly arise from dysregulation
+of AHR-transcribed genes, it was hypothesized that wasting syndrome is a result of to TCDD-induced
+dysregulation of genes involved in regulation of food-intake. As the hypothalamus is the central nervous
+systems' regulatory center for food-intake and energy balance. Therefore, mRNA abundances in
+hypothalamic tissue from two rat strains with widely differing sensitivities to TCDD-induced wasting
+syndrome: TCDD-sensitive Long-Evans rats and TCDD-resistant Han/Wistar rats, 23 h after exposure to
+TCDD (100mg/kg) or corn oil vehicle. TCDD exposure caused minimal transcriptional dysregulation in
+the hypothalamus, with only 6 genes significantly altered in Long-Evans rats and 15 genes in Han/Wistar
+rats. Two of the most dysregulated genes were Cyp1a1 and Nqo1, which are induced by TCDD across a
+wide range of tissues and are considered sensitive markers of TCDD exposure. The minimal response of
+the hypothalamic transcriptome to a lethal dose of TCDD at an early time-point suggests that the
+hypothalamus is not the predominant site of initial events leading to hypophagia and associatedwasting.
+TCDD may affect feeding behaviour via events upstream or downstream of the hypothalamus, and
+further work is required to evaluate this at the level of individual hypothalamic nuclei and subregions.
+ã 2014 The Authors. Published by Elsevier Ireland Ltd. This is an open access article under the CC BY
+license (http://creativecommons.org/licenses/by/4.0/).
+
+>>>section: discussion
+4. Discussion
+The hypothalamic arcuate nucleus (ARC) plays a pivotal role in
+the regulation of energy balance (Linden et al., 2010). The ARC
+responds to insulin and leptin signals originating from the
+periphery and acts via production and release of orexigenic or
+anorexigenic neuropeptides and hormones and therefore could
+play an important role inwasting syndrome. Previous studies have
+indicated that the hypothalamus plays a role in cachexia (Ihnatko
+et al., 2013) and hypothalamic injury can lead to hyperplasia
+(Elmquist et al., 1999; Wang et al., 2013). To better understand the
+role the hypothalamus may play in TCDD-induced wasting
+syndrome, we analyzed transcriptomic changes occurring in the
+hypothalamus following TCDD exposure.
+mRNA abundance for two of the AHR-core genes, Cyp1a1 and
+Nqo1, displayed significantly increased abundance following
+treatment with TCDD. While the magnitude of Cyp1a1 induction
+was dramatically lower than that observed in hepatic tissue of
+similarly treated rats (Yao et al., 2012), levels reached similar
+abundances as those observed previously in the hypothalamus
+(Korkalainen et al., 2005). The reduced magnitude of induction of
+Nqo1 in hypothalamus relative to liver following TCDD exposure
+(as observed by both microarray and NanoString) is an interesting
+finding that has not been reported previously. Alternatively, the
+absence of significant Cyp1a2 induction following treatment may
+be an artifact of the array technology as significant induction
+resembling that observed previously (Korkalainen et al., 2005) was
+validated by NanoString in these samples.
+With the exception of Cyp1a1, altered genes exhibited only
+modest changes in abundance in response to TCDD, with changes
+of less than two-fold relative to control animals. This low
+magnitude of change in candidate genes was similarly observed
+by NanoString validation. The relatively few alterations to the
+transcriptome, combined with the small magnitude of these
+changesmay suggest that the hypothalamus is largely refractory to
+direct local effects of TCDD. However, the specific genes showing
+significant alterations may still shed evidence on downstream
+toxicities. A group of 3 genes were significantly altered only in L-E
+rats and may therefore be involved in the sensitive phenotype.
+MSRB1 is involved in the protein repair mechanism during
+oxidative stress (Lee et al., 2009) and has been shown to regulate
+assembly of actin filaments relating to macrophage activity
+(Lee et al., 2013). Increased abundance of this mRNA may indicate
+a potential defense mechanism against TCDD-induced reactive
+oxygen species. Alternatively, decreased mRNA abundances of
+Wdpcp and Clec4a may have etiological roles in TCDD-induced
+toxicity. Wdpcp is required for the stabilization of actin filaments
+and development of cell polarity (Cui et al., 2013) while Clec4a
+(DCIR) is typically expressed in immune tissues (Bates et al., 1999)
+and is involved in the immune response.
+Of the 11 genes uniquely altered in H/W rats, nine were 
+up-regulated by TCDD while the remaining three were 
+down-regulated. Ctgf has been validated as an AHR-target gene coding
+for CTGF, a regulatory protein that mediates cell division and
+apoptosis and has been documented to promote tumour growth
+]
+99
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+and progression (Chu et al., 2008; Faust et al., 2013). It also plays an
+important role in mediating cell adhesion and migration primarily
+in activation of rat oval cells (Pi et al., 2008). Sod3 has been shown
+to act as a tumour suppressor in prostate (Kim et al., 2014) and
+pancreatic cancer (Sibenaller et al., 2014) by modulation of ROS.
+Alternatively, induction of Ero1l by HIF-1a within a hypoxic
+microenvironment leads to angiogenesis and improved tumour
+survival (May et al., 2005). Within the resistant H/W strain, these
+findings (overexpression of Sod3 and reduced expression of Ero1l)
+align with the reduced carcinogenic effects of TCDD. Traf4 is a
+common oncogene (Camilleri-Broet et al., 2007), however
+overexpression has also been shown to be essential for
+homeostasis of CNS myelination (Blaise et al., 2012).
+Two genes, Stab1 and Acvrl1, were overexpressed in both H/W
+and L-E rats. STAB1 is a scavenger receptor expressed by
+macrophages and may aid in phagocytic and anti-inflammatory
+processes (Park et al., 2009). ACVRL1 is a type 1 receptor for 
+TGF-beta proteins and is required for angiogenesis (Oh et al., 2000).
+Increased mRNA abundance of these genes may represent a
+common adaptive response to TCDD-induced damages.
+Previous studies comparing mRNA abundance changes 
+following TCDD treatment have shown L-E rats have significantly higher
+numbers of genes dysregulated by TCDD, as compared to H/W rat
+(Franc et al., 2008; Yao et al., 2012). However, the hypothalamus of
+H/W rats had more altered transcripts than in L-E rats. Given that
+all animals fromboth rat strains had reached sexualmaturity at the
+time of TCDD exposure, it is not likely that the difference in age
+affected the transcriptomic response. Similarly, animals 
+experienced identical environmental and handling conditions. Although
+the magnitude of Cyp1a1 induction is low in hypothalamus when
+compared with liver, the observed induction in both L-E and H/W
+rats indicates that TCDD does in fact reach and effectively activate
+theAHR in the hypothalamus of both strains, in accordance with
+previous work (Pohjanvirta et al., 1990). It is important to note that
+our study was designed to emphasize detection of early 
+transcriptomic responses during the time when the onset of
+measurable feeding responses occurs in TCDD-treated rats.
+A study conducted by Linden et al. (2005) on the effect of TCDD
+exposure on neuropeptide concentrations further supports our
+results as it showed that TCDD alters anorexigenic and orexigenic
+neuropeptides but not consistently (Linden et al., 2005). Attention
+has now turned to nitric oxide and its combined effects with
+orexigenic peptides, ghrelin, NPY and orexin-A, in food intake
+regulation. An alteration in nitric oxide concentration may
+indirectly affect this regulatory pathway, although results of these
+studies have not been conclusive (Linden et al., 2010). 
+Ventromedial hypothalamic lesions aggravate TCDD-induced weight loss
+and, therefore, indicate that TCDD implements toxic effects at
+some point along the hypothalamic pathways regulating energy
+homeostasis (Tuomisto et al., 1995). The minimal impact of TCDD
+on hypothalamic transcriptomic responses in hypothalamus seen
+in this study, along with studies on TCDD response of mRNAs for
+hypothalamic neuropeptides and bHLS/PAS proteins, suggest that
+hypothalamic changes alone are not responsible for TCDD-induced
+hypophagia (Korkalainen et al., 2005; Linden et al., 2005). Analysis
+of the entire hypothalamic tissue blockmaymask strictly localized
+alterations in functionally-specific nuclei.
+The hypothalamus is a highly compartmentalized structure
+consisting of clusters of functionally specialized cells (Schindler
+et al., 2012), each type of which could have diverse responses to
+TCDD. The tissue samples we analyzed are derived from the whole
+hypothalamus. An in depth analysis of specialized cell types might
+provide more enlightening results. Alternatively, the 
+hypothalamus may be indirectly involved in wasting-syndrome-associated
+hypophagia as TCDD may directly affect other feed-intake
+regulatory organs. Analysis of alternate nervous system 
+components in this regulatory pathway (i.e. caudal brainstem and
+medullary area postrema) as well as factors upstream or
+downstream (i.e. adipose tissue) may provide more insight into
+the mechanisms underlying toxic effects of TCDD, as they pertain
+to wasting syndrome.
+Authors’ contributions
+Animal work: RP, JL, SL; sample preparation: IDM, RP,[148_TD$DIFF] SDP
+bioinformatics analysis: KEH,[149_TD$DIFF] SDP, PCB; wrote the first draft of the
+manuscript: KEH; initiated the project: ABO, RP; supervised
+research: ABO, RP, PCB; generated tools and reagents: SDP;
+approved the manuscript: all authors.
+Conflict of interest
+ABO has served as a paid consultant to the Dow Chemical
+Company as amember of their Dioxin Scientific Advisory Board. All
+other authors declare that they have no conflicts of interest.
+Funding sources
+This work was supported by the Canadian Institutes of Health
+Research (grant number MOP-57903 to ABO and PCB), the
+Academy of Finland (grant numbers 123345 and 261232 to RP)
+andwith the support of the Ontario Institute for Cancer Research to
+100
+PCB through funding provided by the Government of Ontario. PCB
+was supported by a CIHR New Investigator Award. The study
+sponsors had no role in the study design; in the collection, analysis
+and interpretation of data; in the writing of the report; or in the
+decision to submit the paper for publication.
+Transparency document
+The Transparency document associated with this article can be
+found in the online version.
+
+>>>section: results
+3. Results
+3.1. Experimental design
+Since the hypothalamus is associated with the regulation of
+food intake and metabolism, the effects of TCDD exposure on the
+hypothalamic transcriptome were analyzed. Two rat strains were
+examined: TCDD-sensitive L/E rats and TCDD-resistant H/W rats.
+Animals were treated with 100mg/kg TCDD or corn oil vehicle. In
+L-E rats this dose of leads to an irreversible hypophagia and body
+weight loss, with food intake plummeting from approximately
+20g/day to 1-2 g/day. this rapid decrease in food intake occurred
+within 5 days of TCDD exposure and thereafter persisted at that
+level. In contrast in H/W rats, food intake diminishes from slightly
+above 20 to about 10 g/day 6 days post-treatment, followed by a
+rapid recovery to near control levels after 14 days (Lensu et al.,
+2011a). In L-E rats, the reduction in food consumption reaches
+statistical significance by 24-48h (Lensu et al., 2011a). Therefore,
+hypothalamus tissue was isolated 23h post exposure to identify
+primary transcriptional changes preceding hypophagia and body
+weight loss. Moreover, tissues were collected near the end of the
+darkness period because this phase coincides with one of the two
+feeding peaks of L-E rats (Lensu et al., 2011b): we thus aimed to
+optimize the probability of detecting critical alterations. In
+contrast, at this time of day the circadian feeding rhythm of
+H/W rats is approaching its nadir (Lensu et al., 2011b). The
+experimental approach is summarized in Fig.1. Animals and arrays
+used are listed in Supplementary Table 1.
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+3.2. Response to TCDD Exposure
+Normalized microarray data demonstrated very similar mRNA
+abundances, with hierarchical clustering recognizing greater
+variability between rat strains than between samples treated with
+TCDD or corn oil (Fig. 2A). This result suggests that in 
+hypothalamus, unlike liver (Yao et al., 2012), inter-animal variability is larger
+than the effects of TCDD exposure. Further, the distribution of
+gene-wise coefficients of variation (CV= ratio of the 
+standard-deviation to mean) shows a strong peak around 0.10 (Supplemen-
+tary Fig. S2) for each treatment group. There was no evidence of
+differential variance between the rat strains, with only 15/12,503
+genes showing differences (F-test; q<0.05). Taken together, these
+results demonstrate minimal transcriptomic differences between
+replicates and minimal transcriptomic alterations as a result of
+TCDD exposure.
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+A total of 12,503 individual genes were evaluated (Supplemen-
+tary Table S2). Surprisingly, a larger number of genes were
+dysregulated in TCDD-resistant H/W rats than in TCDD-sensitive
+L-E rats, independent of statistical threshold applied (Fig. 2B). At a
+standard threshold of q<0.05, we detected 15 genes dysregulated
+by TCDD in H/W rats and 6 in L-E rats. Only 3 genes, Cyp1a1, Nqo1
+and Stab1, were altered in both strains (Fig. 2C).
+limma (v3.20.9), lattice
+(v0.20-29),
+97
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+3.3. AHR-core gene responses
+A set of nine genes that are altered by TCDD in an 
+AHR-dependent fashion across a broad range of tissues, species, doses
+and time-pointswere assembled (Boutros et al., 2008; Nebert et al.,
+1993, 2000; Watson et al., 2014; Yeager et al., 2009). These genes
+(Ahrr, Aldh3a1, Cyp1a1, Cyp1a2, Fmo1, Inmt, Nfe2l2, Nqo1 and Tiparp)
+provide a measure of the sensitivity of the hypothalamus to
+transcriptional dysregulation by TCDD, as their effects in other
+tissues have been well documented. Of these, Cyp1a1 was
+significantly up-regulated in both species (3.9-fold in H/W and
+3.6-fold in L-E), as was Nqo1, though to a lesser extent (0.8-fold in
+H/W rats and 0.7-fold in L-E). The remaining genes did not show
+TCDD-induced alteration, despite Cyp1a2 having previously shown
+to be upregulated by TCDD in the hypothalamus (Korkalainen et al.,
+2005). Note that hepatic studies in rats involving similar
+conditions (100mg/kg of TCDD, 19h post-exposure) in both L-E
+and H/W rats (Yao et al., 2012) demonstrated significantly more
+TCDD-mediated changes in this subset of genes (Fig. 3A). Similarly,
+murine studies of liver and kidney tissue following comparable
+treatment conditions (1000mg/kg of TCDD, 19h) (Boutros et al.,
+2009), showed considerably more TCDD-mediated transcriptional
+changes (Fig. 3A).
+3.4. Non-core gene responses
+A subset of genes determined to be significantly altered by TCDD
+ineither strainwas identifiedand furtherexamined.AHR-coregenes
+were excluded from this subset, resulting in 16 genes. These genes
+exhibited onlymoderatemagnitude dysregulation following 
+TCDD-exposure (Fig. 3B). Stab1 showed the largest up-regulation amongst
+non-core genes (1.0-fold induction in the H/W rat) while Ero1l
+showed the greatest down-regulation (H/W, 0.7-fold change).
+Intriguingly, none of the genes within this subset showed
+transcriptional dysregulation by TCDD in rat liver, mouse liver or
+mouse kidney (Boutros et al., 2009; Yao et al., 2012).
+3.5. Validation of TCDD-responsive genes
+A full validation experiment was performed using a NanoString
+custom gene expression assay, including both AHR-core and
+candidate genes. An increased response to TCDD for both strains
+was observed across the AHR-core genes in the validation relative
+to the microarray data (Fig. 4, top panel). Both Cyp1a1 and Nqo1
+showed similar induction, however additional genes were also
+determined as significantly differentially abundant, including
+Cyp1a2 and Cyp1b1 in both strains and Aldh3a1 and Tiparp in only
+H/W rats. Conversely, fewer candidate genes were determined to
+be altered by TCDD in either strainwith only 20/32 cases validating
+(Fig. 4, bottom panel). Of these, Stab1, LOC100361558, Ctgf,
+Tmem63a, and Hspb9 could be validated in both strains.
+3.6. Functional analysis and hypergeometric testing
+Functional analysis of those genes showinga significant response
+to TCDD was completed with the GOMiner software (Zeeberg et al.,
+2003). No significantly enriched pathways were detected following
+FDR correction (q<0.1; Supplementary Table S3). Hypergeometric
+testingwas performed to determine if therewas chromosomal bias
+represented in the significantly responsive genes (Supplementary
+Table S4). No chromosomes were significantly enriched, indicating
+no chromosomal bias for responses to TCDD in hypothalamus.
+98
+]
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+3.7. Transcription factor binding site analysis
+AHR conserved transcription factor binding sitemotifsmay give
+further mechanistic insight into the AHR-regulation of genes
+(Denison and Whitlock 1995; Sogawa et al., 2004). Violin plots
+(Supplementary Fig. S3) show the occurrence and maximal
+conservation score of each motif against the number of strains
+inwhich the genewas found to be significantly responsive toTCDD
+exposure (AHRE-I (core), AHRE-I (full) and AHRE-II). AHRE-I (core)
+was found to occur more often and with higher conservation in
+genes significantly responsive in both rat strains (i.e. Cyp1a1 and
+Nqo1). By contrast, AHRE-II was not enriched at either the level of
+conservation or frequency.
+Supplementry material related to this article found, in the
+online version, at http://dx.doi.org/10.1016/j.tox.2014.12.016.
+
+>>>section: introduction
+Toxicology 328 (2015) 93-101
+Contents lists available at ScienceDirect
+Toxicology
+journa l homepage: www.elsevier .com/ locate / tox icol
+Transcriptional profiling of rat hypothalamus response to
+2,3,7,8-tetrachlorodibenzo-r-dioxin
+Kathleen E. Houlahan a, Stephenie D. Prokopec a, Ivy D. Moffat b, Jere Lindén c,
+Sanna Lensu d,e, Allan B. Okey b, Raimo Pohjanvirta f,1, Paul C. Boutros a,b,g,*
+a Informatics and Bio-computing Program, Ontario Institute for Cancer Research, Toronto, Canada
+bDepartment of Pharmacology & Toxicology, University of Toronto, Toronto, Canada
+c The Finnish Food Safety Authority, Helsinki, Finland
+dDepartment of Biology of Physical Activity, University of Jyväskylä, Jyväskylä, Finland
+eDepartment of Environmental Health, National Institute for Health and Welfare, Kuopio, Finland
+fDepartment of Food Hygiene and Environmental Health, University of Helsinki, Helsinki, Finland
+gDepartment of Medical Biophysics, University of Toronto, Toronto, Canada
+A R T I C L E I N F O
+Article history:
+Received 25 November 2013
+Received in revised form 12 December 2014
+Accepted 16 December 2014
+Available online 18 December 2014
+Keywords:
+AHR
+TCDD
+Microarray
+Hypothalamus
+Feed restriction
+1. Introduction
+Halogenated aromatic hydrocarbons (HAHs) are a class of
+toxic compounds widely present within the environment as a
+result of plastics incineration, electronics recycling, pesticide
+application and paper bleaching (Linden et al., 2010; Okey 2007).
+* Corresponding author at: 661 University Avenue Toronto, Ontario M5G 0A3,
+Canada. Tel.:+ 416 673 8564; fax: 416 673 8564.
+E-mail addresses: raimo.pohjanvirta@helsinki.fi (R. Pohjanvirta),
+Paul.Boutros@oicr.on.ca (P.C. Boutros).
+1
+Department of Food Hygiene and Environmental Health, Faculty of Veterinary
+Medicine, P.O. Box 66, FI-00014 University of Helsinki, Helsinki, Finland.
+Tel.: +358 9 19157147; fax: +358 9 19 157 170.
+http://dx.doi.org/10.1016/j.tox.2014.12.016
+0300-483X/ã 2014 The Authors. Published by Elsevier Ireland Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+2,3,7,8-tetrachlorodibenzo-r-dioxin (TCDD) is the best-studied
+HAH, and exposure to it has been linked to teratogenesis,
+immunosuppression, acute lethality and many other toxicities
+(Mimura and Fujii-Kuriyama 2003; Pohjanvirta and Tuomisto
+1994). Perhaps most significantly in many mammalian models,
+TCDD causes wasting syndrome-a potentially fatal 
+dose-dependent reduction in body-weight (Linden et al., 2014; Seefeld
+et al., 1984). Many laboratory animals exposed to TCDD experience
+hypophagia and appear to defend a lowered body weight set point
+(Linden et al., 2010; Seefeld et al., 1984). The role of wasting in
+TCDD-induced lethality remains obscure: dietary interventions
+such as force feeding and high-energy diets reduce or prevent
+weight loss, but have minimal impact on mortality (Seefeld et al.,
+1984; Tuomisto et al., 1999).
+94
+TCDD toxicity is mediated by the aryl hydrocarbon receptor
+(AHR), a ligand-responsive transcription factor involved in
+regulation of cytochrome P450 proteins involved in the phase I
+xenobiotic metabolism pathway (Mimura and Fujii-Kuriyama
+2003; Okey 2007). The AHR is a member of the PAS/basic
+helix-loop-helix (bHLH) superfamily, with a bHLH domain and
+two PAS domains within its N-terminus (Dolwick et al., 1993)
+and a transactivation domain at its C-terminus (Ko et al., 1997).
+In the absence of ligand, the AHR is cytoplasmic, where it
+forms a complex with stabilizing chaperone proteins hsp90,
+ARA9/XAP2 and p23 (Petrulis and Perdew 2002). Activation
+occurs following ligand binding to the PAS-B domain, which
+promotes translocation to the nucleus. The AHR then dimerizes
+with the AHR nuclear translocator (ARNT) (Reyes et al., 1992),
+and this dimer binds to DNA and regulates transcription. Many
+lines of evidence indicate that major toxicities from TCDD
+are caused by dysregulation of AHR target genes (reviewed in
+Okey 2007).
+The hypothalamus is central to regulation of food intake and
+energy balance, mainly through small peptide signalling
+molecules. The hypothalamic arcuate nucleus (ARC) translates
+adipose level signals from peptides (insulin and leptin) to the rest
+of the CNS by releasing neuropeptides and hormones (Konner
+et al., 2009). Depending on the stimulus, these peptides may be
+orexigenic (e.g. agouti-related peptide (AgRP) and neuropeptide Y
+(NPY)) or anorexigenic (e.g. a-melanocortin-stimulating hormone
+(a-MSH) and cocaine-and-amphetamine regulated transcript
+(CART)). Lesions in hypothalamic nuclei that prevent normal
+responses to signalling peptides can cause either hypophagia or
+hyperphagia depending on lesion location (Elmquist et al., 1999;
+Wang et al., 2013). As such, many groups have hypothesized that
+TCDD-mediated changes in the hypothalamus underlie the
+observed wasting syndrome. A previous study discovered a
+non-additive interaction between ventromedial hypothalamic
+lesions and TCDD on body weight, suggestive of the involvement
+of a hypothalamic feed-intake regulation pathway in the wasting
+syndrome (Tuomisto et al., 1995). TCDD has been previously
+shown to modulate mRNA abundances of numerous 
+neuropeptides and receptors, particularly orexigenic peptides, in both
+directions (Linden et al., 2005). Additionally, several components
+of the AHR-signalling pathway are expressed in the hypothalamus,
+with three AHR-regulated genes (Ahrr, Cyp1a1 and Cyp1a2)
+significantly up-regulated in response to TCDD (Korkalainen
+et al., 2005).
+To evaluate the role of TCDD-induced transcriptomic changes in
+the hypothalamus on observed toxicities, two rat strains that
+markedly differ in susceptibility to TCDD-induced toxicities were
+evaluated: TCDD-sensitive Long-Evans (Turku/AB) rats (L-E; LD50
+20mg/kg for male rats) and TCDD-resistant Han/Wistar (Kuopio)
+rats (H/W; LD50 >9600mg/kg) (Pohjanvirta et al., 1995; Unkila
+et al., 1994). The great resistance of H/W rats to toxicity is due to a
+pointmutation in the intron/exon boundary that causes alternative
+splicing (Moffat et al., 2007; Pohjanvirta et al., 1998). This leads to
+variation within the transactivation domain of AHR and alters
+some responses to TCDD such as resisting lethality (Moffat et al.,
+2007; Pohjanvirta et al., 1998). Wasting syndrome is another
+example of this altered response; a mitigated variety of wasting
+manifests in H/W rats but only after >100-fold higher doses of
+TCDD than is required in L-E rats (Linden et al., 2010; Pohjanvirta
+et al., 1998). The use of H/W rats allows for identification of
+transcriptomic responses that differ from those in susceptible
+strains (Boutros et al., 2011; Franc et al., 2008). Such differences
+may identify the key genes whose dysregulation underlies
+pathogenesis from TCDD exposure.
+K.E. Houlahan et al. / Toxicology 328 (2015) 93-101
+
+>>>section: figure_1
+Fig. 1. Experimental design. 
+Han/Wistar (H/W) and Long-Evans (L-E) rats were evaluated 23h after treatment with either 100mg/kg of TCDD (T) or corn oil vehicle (CO). mRNA abundances were 
+measured on Affymetrix Rat Genome 230 2.0 arrays and RMA-normalized prior to downstream analysis. 
+
+>>>section: figure_2
+Fig. 2. Strain variability. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.) 
+(A) Transcriptomic expression profiles of a subset of genes with the greatest variance (variance >0.05) across the study were subjected to DIANA agglomerative hierarchical 
+clustering. Covariates specify either rat strain (H/W and L-E; green and purple, respectively) or treatment status (TCDD or corn oil control; red or white, respectively). 
+Clustering indicates greater variability in expression profiles between rat strains than between treatment groups. (B) An analysis of the number of genes significantly altered 
+by TCDD at various q-value thresholds demonstrate a minimal number of significantly altered genes in either strain (both up- and down-regulated). (C) Overlap of 
+significantly altered geneswith a 0.05 q-value threshold. Three geneswere significantly altered in only L-E ratswhile 12 genes showed significantly altered expression in only 
+H/W rats. Three genes were found to be significantly differentially expressed in both rat strains. 
+
+>>>section: figure_3
+Fig. 3. Gene response to TCDD exposure. (For interpretation of the references to 
+colour in this figure legend, the reader is referred to the web version of this article.) 
+(A) Nine geneswithin the AHR-core geneswere analyzed for their response toTCDD 
+in hypothalamus. The size of the dot depicts the magnitude of the change (log2 fold 
+change) while colour depicts the direction of change - up (red) or down (blue). 
+Background shading reflects the q-value. Covariates convey whether the gene is 
+significantly expressed in H/W or L-E liver and C57BL/6 mouse kidney or liver. (B) 
+16 genes outside of the AHR-core were significantly altered by TCDD either H/W 
+(n =15) and/or L-E (n =6). The figure shows the log2 fold-change values with their 
+corresponding q-value and covariates as described in Fig. 3A. None of these genes 
+were significantly altered in H/W rat liver, L-E rat liver, mouse liver, or mouse 
+kidney. 
+
+>>>section: figure_4
+Fig. 4. Validation of candidate genes. (For interpretation of the references to colour 
+in this figure legend, the reader is referred to the web version of this article.) 
+Validation was performed on 9 AHR-core genes and 16 candidate genes. The size of 
+the dot depicts the magnitude of the change (log2 fold change) while colour depicts 
+the direction of change - up (red) or down (blue). Background shading reflects the 
+q-value. 
+
+**References**
+

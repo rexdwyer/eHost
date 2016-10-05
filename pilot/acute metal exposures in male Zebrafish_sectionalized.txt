@@ -1,0 +1,2931 @@
+>>>section: conclusion
+Conclusion
+We developed an exposure paradigm for comparing the
+effects of various metals with varying toxicity mechanisms
+of action using whole animal transcriptomics in the 
+zebrafish vertebrate model. Using this technique, we identified
+changes in expression of groups of genes consistent with
+adaptive responses to toxicity induced by nickel, cobalt, or
+chromium, including acute phase response, cell cycle
+regulation, apoptosis, and metabolic depression, among
+others. Histopathological evaluations corroborate the
+toxicity endpoints derived from gene-level based pathway
+analysis for chromium and cobalt.
+Many of the genes enriched for biological processes’
+gene responses reported in this study are consistent with
+known physiological endpoints in there metals. Nickel
+induces oxidative damage to DNA and proteins; genes
+were up-regulated for biological processes including
+protein synthesis and translation, and cell-cycle regulation
+and apoptosis. Cobalt induces hypoxia; genes regulating
+biological processes of redox response, protein synthesis
+and translation, and inflammation and acute phase stress
+response were up-regulated. Chromate is a strong
+oxidizing agent and damages DNA integrity; biomolecular
+pathways and genes associated with inflammation and
+acute phase stress response were up-regulated and gene
+signatures suggested metabolic depression occurred.
+Further, a number of novel transcription factors that
+mediate gene induction at the transcriptional level in
+response to metal exposures were identified.
+Enrichment of several functional categories of genes
+plausibly involved in a variety of biological responses
+was identified using unsupervised gene ontology analysis
+of metal-specific gene responses. Unique histopathological
+alterations were identified for each metal exposure,
+consistent with metal-specific toxicity in target organs and
+tissues. For nickel, we find that our toxicogenomic
+approach using whole organism RNA preparations may
+be more sensitive for identifying targets of nickel toxicity
+than the classic toxicology approach of histopathology.
+These results suggest that toxicogenomics in the whole
+adult zebrafish may provide a robust model for identifying
+leading indicators of toxicity and intervention approaches
+for exposure to toxic chemicals.
+Using a transcriptomics approach, we identify a number
+of upstream modulators of metal-induced gene expression.
+A number of these transcription factors have been 
+previously implicated in triggering metal-specific gene responses
+to toxicity (p53, Hif1a). Multiple novel mediators of the
+toxic response to nickel, cobalt, or chromium in
+whole adult zebrafish, including Xbp1, various Hnf
+members, and Gata6 were also identified. These findings
+provide additional mechanistic information on metal
+toxicity mechanisms and highlight novel potential points
+of intervention for treatment of metal poisoning.
+Additional file
+Additional file 1: Final gene set. Final gene set used for analysis - 7,909
+genes with 3 additional tabs each one containing a list of differentially
+expressed genes (DEG) per chemical with fold change data. A gene was
+considered DE if it was significantly (FDR = 0.01) altered in expression by at
+least 1.8 fold in response to chromium (Cr), cobalt (Co), or nickel (Ni) versus
+untreated controls. Microsoft Excel workbook.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+Conceived and designed the experiments: DAJ, JAL. Performed zebrafish
+exposures, sample processing and microarray analysis: CEB. Analyzed the
+data: NH, JAL, DAJ. Wrote the paper: NH, JAL, DAJ, CEB, DLI, JDS. All authors
+read and approved the final manuscript.
+
+>>>section: references
+References
+1.
+Hill AJ, Teraoka H, Heideman W, Peterson RE: Zebrafish as a model
+vertebrate for investigating chemical toxicity. Toxicol Sci 2005, 86(1):6-19.
+2.
+Spitsbergen JM, Kent ML: The state of the art of the zebrafish model for
+toxicology and toxicologic pathology research-advantages and current
+limitations. Toxicol Pathol 2003, 31(Suppl):62-87.
+3.
+Carvan MJ III, Dalton TP, Stuart GW, Nebert DW: Transgenic zebrafish as
+sentinels for aquatic pollution. Ann N Y Acad Sci 2000, 919:133-147. 133-147.
+4.
+Carvan MJ III, Sonntag DM, Cmar CB, Cook RS, Curran MA, Miller GL:
+Oxidative stress in zebrafish cells: potential utility of transgenic zebrafish
+as a deployable sentinel for site hazard ranking. Sci Total Environ 2001,
+274(1-3):183-196.
+5.
+Amanuma K, Takeda H, Amanuma H, Aoki Y: Transgenic zebrafish for
+detecting mutations caused by compounds in aquatic environments.
+Nat Biotechnol 2000, 18(1):62-65.
+6.
+Ng HBG, Lam SH, Sukardi H, Gong Z: Potential applications of transgenic
+fish to environmental monitoring and toxicology. In Aquaculture
+Page 13 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Biotechnology. 1st edition. Edited by Fletcher GL, Rise ML. West Sussex:
+John Wiley & Sons, Ltd; 2012:267-280.
+7.
+Reichert K, Menzel R: Expression profiling of five different xenobiotics
+using a Caenorhabditis elegans whole genome microarray.
+Chemosphere 2005, 61(2):229-237.
+8.
+Ruden DM, Chen L, Possidente D, Possidente B, Rasouli P, Wang L, Lu X,
+Garfinkel MD, Hirsch HVB, Page GP: Genetical toxicogenomics in
+Drosophila identifies master-modulatory loci that are regulated by
+developmental exposure to lead. Neurotoxicology 2009, 30(6):898-914.
+9.
+Neumann NF, Galvez F: DNA microarrays and toxicogenomics:
+applications for ecotoxicology? Biotechnol Adv 2002, 20(5-6):391-419.
+10. Poynton HC, Varshavsky JR, Chang B, Cavigiolio G, Chan S, Holman PS,
+Loguinov AV, Bauer DJ, Komachi K, Theil EC: Daphnia magna
+ecotoxicogenomics provides mechanistic insights into metal toxicity.
+Environ Sci Technol 2007, 41(3):1044-1050.
+11. Martyniuk CJ, Houlahan J: Assessing gene network stability and individual
+variability in the fathead minnow (Pimephales promelas) transcriptome.
+Comp Biochem Physiol Part D Genomics Proteomics 2013, 8(4):283-291.
+12. Lam SH, Mathavan S, Tong Y, Li H, Karuturi RKM, Wu Y, Vega VB, Liu ET,
+Gong Z: Zebrafish whole-adult-organism chemogenomics for large-scale
+predictive and discovery chemical biology. PLoS Genet 2008,
+4(7):e1000121.
+13. Valko M, Morris H, Cronin MTD: Metals, toxicity and oxidative stress.
+Curr Med Chem 2005, 12(10):1161-1208.
+14. Fu H, Boffetta P: Cancer and occupational exposure to inorganic lead
+compounds - a metaanalysis of published data. Occup Environ Med 1995,
+52(2):73-81.
+15. Steenland K, Loomis D, Shy C, Simonsen N: Review of occupational lung
+carcinogens. Am J Ind Med 1996, 29(5):474-490.
+16. Integrated Risk Information System (IRIS). [http://www.epa.gov/iris/].
+17. Simmons SO, Fan C-Y, Ramabhadran R: Cellular stress response pathway
+system as a sentinel ensemble in toxicological screening. Toxicol Sci 2009,
+111(2):202-225.
+18. Beyersmann D, Hechtenberg S: Cadmium, gene regulation, and cellular
+signalling in mammalian cells. Toxicol Appl Pharmacol 1997,
+144(2):247-261.
+19. Salnikow K, Zhitkovich A: Genetic and epigenetic mechanisms in metal
+carcinogenesis and cocarcinogenesis: nickel, arsenic, and chromium.
+Chem Res Toxicol 2007, 21(1):28-44.
+20. Janssens TKS, Roelofs D, van Straalen NM: Molecular mechanisms of heavy
+metal tolerance and evolution in invertebrates. Insect Science 2009, 16(1):3-18.
+21. Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA,
+Paulovich A, Pomeroy SL, Golub TR, Lander ES, Mesirov JP: Gene set
+enrichment analysis: a knowledge-based approach for interpreting
+genome-wide expression profiles. Proc Natl Acad Sci U S A 2005,
+102(43):15545-15550.
+22. Athikesavan S, Vincent S, Ambrose T, Velmurugan B: Nickel induced
+histopathological changes in the different tissues of freshwater fish,
+Hypophthalmichthys molitrix (Valenciennes). J Environ Biol 2006,
+27(2):391-395.
+23. Nath K, Kumar N: Nickel-induced histopathological alterations in the gill
+architecture of a tropical fresh-water perch, colisa-fasciatus (bloch and schn).
+Sci Total Environ 1989, 80(2-3):293-296.
+24. Wang H, Tan JT, Emelyanov A, Korzh V, Gong Z: Hepatic and extrahepatic
+expression of vitellogenin genes in the zebrafish, Danio rerio. Gene 2005,
+356:91-100.
+25. Gong Z, Yan T, Liao J, Lee SE, He J, Hew CL: Rapid identification and
+isolation of zebrafish cDNA clones. Gene 1997, 201(1-2):87-98.
+26. Peng X, Wood CL, Blalock EM, Chen KC, Landfield PW, Stromberg AJ:
+Statistical implications of pooling RNA samples for microarray
+experiments. BMC Bioinforma 2003, 4:26.
+27. Kendziorski C, Irizarry RA, Chen KS, Haag JD, Gould MN: On the utility of
+pooling biological samples in microarray experiments. Proc Natl Acad Sci
+U S A 2005, 102(12):4252-4257.
+28. Kendziorski CM, Zhang Y, Lan H, Attie AD: The efficiency of pooling mRNA
+in microarray experiments. Biostatistics 2003, 4(3):465-477.
+29. Zhang SD, Gant TW: A statistical framework for the design of microarray
+experiments and effective detection of differential gene expression.
+Bioinformatics 2004, 20(16):2821-2828.
+30. Chen K, Rajewsky N: The evolution of gene regulation by transcription
+factors and microRNAs. Nat Rev Genet 2007, 8(2):93-103.
+31.
+Drǎghici S, Khatri P, Martins RP, Ostermeier GC, Krawetz SA: Global
+functional profiling of gene expression. Genomics 2003, 81(2):98-104.
+32.
+Casillas E, Myers M, Ames WE: Relationship of serum chemistry values to
+liver and kidney histopathology in english sole (Parophrys-vetulus) after
+acute exposure to carbon-tetrachloride. Aquat Toxicol 1983, 3(1):61-78.
+33.
+Ptashynski MD, Klaverkamp JF: Accumulation and distribution of dietary
+nickel in lake whitefish (Coregonus clupeaformis). Aquat Toxicol 2002,
+58(3-4):249-264.
+34.
+Ptashynski MD, Pedlar RM, Evans RE, Baron CL, Klaverkamp JF: Toxicology of
+dietary nickel in lake whitefish (Coregonus clupeaformis). Aquat Toxicol
+2002, 58(3-4):229-247.
+35.
+Mishra AK, Mohanty B: Chronic exposure to sublethal hexavalent
+chromium affects organ histopathology and serum cortisol profile of a
+teleost, Channa punctatus (Bloch). Sci Total Environ 2009, 407(18):5031-5038.
+36.
+Parvathi K, Sivakumar P, Sarasu C: Effects of chromium on histological
+alterations of gill, liver and kidney of fresh water teleost, Cyprinus carpio
+(L.). J Fisheries Int 2011, 6(1):1-5.
+37.
+Bucher JR, Elwell MR, Thompson MB, Chou BJ, Renne R, Ragan HA:
+Inhalation toxicity studies of cobalt sulfate in F344N rats and B6C3F1
+mice. Fundam Appl Toxicol 1990, 15(2):357-372.
+38.
+Maines MD, Kappas A: Metals as regulators of heme metabolism.
+Science 1977, 198(4323):1215-1221.
+39.
+Salnikow K, Su W, Blagosklonny MV, Costa M: Carcinogenic metals induce
+hypoxia-inducible factor-stimulated transcription by reactive oxygen
+species-independent mechanism. Cancer Res 2000, 60(13):3375-3378.
+40.
+Njalsson R, Norgren S: Physiological and pathological aspects of GSH
+metabolism. Acta Paediatr 2005, 94(2):132-137.
+41.
+Koskinen H, Pehkonen P, Vehniainen E, Krasnov A, Rexroad C, Afanasyev S,
+Molsa H, Oikari A: Response of rainbow trout transcriptome to model
+chemical contaminants. Biochem Biophys Res Commun 2004,
+320(3):745-753.
+42.
+Maier MSV, Legare ME, Hanneman WH: The aryl hydrocarbon receptor
+agonist 3,3′,4,4′,5-pentachlorobiphenyl induces distinct patterns of gene
+expression between hepatoma and glioma cells: chromatin remodeling
+as a mechanism for selective effects. Neurotoxicology 2007, 28(3):594-612.
+43.
+Williams TD, Diab A, Ortega F, Sabine VS, Godfrey RE, Falciani F, Chipman JK,
+George SG: Transcriptomic responses of European flounder (Platichthys flesus)
+to model toxicants. Aquat Toxicol 2008, 90(2):83-91.
+44.
+Sanchez BC, Carter B, Hammers HR, Sepúlveda MS: Transcriptional
+response of hepatic largemouth bass (Micropterus salmoides) mRNA
+upon exposure to environmental contaminants. J Appl Toxicol 2011,
+31(2):108-116.
+45.
+Romero G, Lasheras B, Sainz Suberviola L, Cenarruzabeitia E: Protective
+effects of calcium channel blockers in carbon tetrachloride-induced liver
+toxicity. Life Sci 1994, 55(13):981-990.
+46.
+Chung H, Kim H-J, Jang K-S, Kim M, Yang J, Kim JH, Lee Y-S, Kong G:
+Comprehensive analysis of differential gene expression profiles on
+diclofenac-induced acute mouse liver injury and recovery. Toxicol Lett
+2006, 166(1):77-87.
+47.
+Eisler R: Nickel Hazards to Fish, Wildlife, and Invertebrates: A Synoptic Review.
+Laurel: U.S. Department of the Interior, U.S. Geological Survey, Patuxent
+Wildlife Research Center; 1998.
+48.
+Brix KV, Keithly J, DeForest DK, Laughlin J: Acute and chronic toxicity of
+nickel to rainbow trout (Oncorhynchus mykiss). Environ Toxicol Chem
+2004, 23(9):2221-2228.
+49.
+Pane E, Richards J, Wood C: Acute waterborne nickel toxicity in the
+rainbow trout (Oncorhynchus mykiss) occurs by a respiratory rather than
+ionoregulatory mechanism. Aquat Toxicol 2003, 63(1):65-82.
+50.
+Kubrak OI, Husak VV, Rovenko BM, Storey JM, Storey KB, Lushchak VI:
+Cobalt-induced oxidative stress in brain, liver and kidney of goldfish
+Carassius auratus. Chemosphere 2011, 85(6):983-989.
+51.
+Zhang Z, Huang CS, Li JX, Leonard SS, Lanciotti R, Butterworth L, Shi XL:
+Vanadate-induced cell growth regulation and the role of reactive
+oxygen species. Arch Biochem Biophys 2001, 392(2):311-320.
+52.
+Lushchak VI: Environmentally induced oxidative stress in aquatic animals.
+Aquat Toxicol 2011, 101(1):13-30.
+53.
+Koj A: Initiation of acute phase response and synthesis of cytokines.
+Biochim Biophys Acta 1996, 1317(2):84-94.
+54.
+Hütter R, Niederberger P: Biochemical pathways and mechanisms
+nitrogen, amino acid, and carbon metabolism. Biotechnol Adv 1983,
+1(2):179-191.
+Page 14 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+55. Johnson LR, Lichtenberger LM, Copeland EM, Dudrick SJ, Castro GA: Action
+of gastrin on gastrointestinal structure and function.
+Gastroenterology 1975, 68(5 Pt 1):1184-1192.
+56. Bertolo RFP, Chen CZL, Pencharz PB, Ball RO: Intestinal atrophy has a
+greater impact on nitrogen metabolism than liver by-pass in piglets fed
+identical diets via gastric, central venous or portal venous routes. J Nutr
+1999, 129(5):1045-1052.
+57. You ZY, Komamura Y, Ishimi Y: Biochemical analysis of the intrinsic 
+Mcm4-Mcm6-Mcm7 DNA helicase activity. Mol Cell Biol 1999, 19(12):8003-8015.
+58. Madine MA, Swietlik M, Pelizon C, Romanowski P, Mills AD, Laskey RA: The
+roles of the MCM, ORC, and Cdc6 proteins in determining the replication
+competence of chromatin in quiescent cells. J Struct Biol 2000,
+129(2-3):198-210.
+59. Musahl C, Holthoff HP, Lesch R, Knippers R: Stability of the replicative
+Mcm3 protein in proliferating and differentiating human cells. Exp Cell
+Res 1998, 241(1):260-264.
+60. Stoeber K, Tisty TD, Happerfield L, Thomas GA, Romanov S, Bobrow L,
+Williams ED, Williams GH: DNA replication licensing and human cell
+proliferation. J Cell Sci 2001, 114(11):2027-2041.
+61. Tu BP, Weissman JS: Oxidative protein folding in eukaryotes: mechanisms
+and consequences. J Cell Biol 2004, 164(3):341-346.
+62. Tu BP, Ho-Schleyer SC, Travers KJ, Weissman JS: Biochemical basis of
+oxidative protein folding in the endoplasmic reticulum. Science 2000,
+290(5496):1571-1574.
+63. Iwai K, Naganuma A, Kuge S: Peroxiredoxin Ahp1 acts as a receptor for
+alkylhydroperoxides to induce disulfide bond formation in the Cad1
+transcription factor. J Biol Chem 2010, 285(14):10597-10604.
+64. Salnikow K, Donald SP, Bruick RK, Zhitkovich A, Phang JM, Kasprzak KS:
+Depletion of intracellular ascorbate by the carcinogenic metals nickel
+and cobalt results in the induction of hypoxic stress. J Biol Chem 2004,
+279(39):40337-40344.
+65. Permenter MG, Lewis JA, Jackson DA: Exposure to nickel, chromium, or
+cadmium causes distinct changes in the gene expression patterns of a
+rat liver derived cell line. PLoS One 2011, 6(11):e27730.
+66. Maxwell P, Salnikow K: HIF-1, an oxygen and metal responsive
+transcription factor. Cancer Biol Ther 2004, 3(1):29-35.
+67. Gazit G, Hung G, Chen XK, Anderson WF, Lee AS: Use of the glucose
+starvation-inducible glucose-regulated protein 78 promoter in suicide
+gene therapy of murine fibrosarcoma. Cancer Res 1999, 59(13):3100-3106.
+68. Koong AC, Auger EA, Chen EY, Giaccia AJ: The regulation of GRP78 and
+messenger RNA levels by hypoxia is modulated by protein kinase C
+activators and inhibitors. Radiat Res 1994, 138(1):S60.
+69. Lee AS: The ER chaperone and signaling regulator GRP78/BiP as a
+monitor of endoplasmic reticulum stress. Methods 2005, 35(4):373-381.
+70. Mori K: Frame switch splicing and regulated intramembrane proteolysis: key
+words to understand the unfolded protein response. Traffic 2003, 4(8):519-528.
+71. Schroder M, Kaufman RJ: ER stress and the unfolded protein response.
+Mutat Res 2005, 569(1-2):29-63.
+72. Ciechanover A: Proteolysis: from the lysosome to ubiquitin and the
+proteasome. Nat Rev Mol Cell Biol 2005, 6(1):79-86.
+73. Finley D: Recognition and Processing of Ubiquitin-Protein Conjugates by
+the Proteasome. In Annu Rev Biochem, Volume 78. Palo Alto: Annual
+Reviews; 2009:477-513.
+74. Pickart CM, Cohen RE: Proteasomes and their kin: Proteases in the
+machine age. Nat Rev Mol Cell Biol 2004, 5(3):177-187.
+75. Zheng H, Fletcher D, Kozak W, Jiang M, Hofmann KJ, Conn CA, Soszynski D,
+Grabiec C, Trumbauer ME, Shaw A, Kostura MJ, Stevens K, Rosen H, North RJ,
+Chen HY, Tocci MJ, Kluger MJ, Van der Ploeg LHT: Resistance to fever induction
+and impaired acute-phase response in interleukin-1 beta-deficient mice.
+Immunity 1995, 3(1):9-19.
+76. Fantuzzi G, Ku G, Harding MW, Livingston DJ, Sipe JD, Kuida K, Flavell RA,
+Dinarello CA: Response to local inflammation of IL-1 beta-converting
+enzyme-deficient mice. J Immunol 1997, 158(4):1818-1824.
+77. Burgess-Beusse BL, Darlington GJ: C/EBP alpha is critical for the neonatal
+acute-phase response to inflammation. Mol Cell Biol 1998, 18(12):7269-7277.
+78. Gilchrist M, Thorsson V, Li B, Rust AG, Korb M, Kennedy K, Hai T, Bolouri H,
+Aderem A: Systems biology approaches identify ATF3 as a negative
+regulator of Toll-like receptor 4. Nature 2006, 441(7090):173-178.
+79. Lekstrom-Himes J, Xanthopoulos KG: Biological role of the CCAAT
+enhancer-binding protein family of transcription factors. J Biol Chem
+1998, 273(44):28545-28548.
+80.
+Costa RH, Kalinichenko VV, Holterman A-XL, Wang X: Transcription factors
+in liver development, differentiation, and regeneration. Hepatology 2003,
+38(6):1331-1347.
+81.
+Morrisey EE, Tang ZH, Sigrist K, Lu MM, Jiang F, Ip HS, Parmacek MS: GATA6
+regulates HNF4 and is required for differentiation of visceral endoderm
+in the mouse embryo. Genes Dev 1998, 12(22):3579-3590.
+82.
+Duncan SA, Navas MA, Dufort D, Rossant J, Stoffel M: Regulation of a
+transcription factor network required for differentiation and metabolism.
+Science 1998, 281(5377):692-695.
+83.
+Sladek FM, Zhong WM, Lai E, Darnell JE: Liver-enriched transcription factor
+Hnf-4 is a novel member of the steroid-hormone receptor superfamily.
+Genes Dev 1990, 4(12B):2353-2365.
+84.
+Esterbauer H, Oberkofler H, Linnemayr V, Iglseder B, Hedegger M,
+Wolfsgruber P, Paulweber B, Fastner G, Krempler F, Patsch W: Peroxisome
+proliferator-activated receptor-gamma coactivator-1 gene locus - Associations
+with obesity indices in middle-aged women. Diabetes 2002, 51(4):1281-1286.
+85.
+Inoue I, Shinoda Y, Ikeda M, Hayashi K, Kanazawa K, Nomura M, Matsunaga T,
+Xu HY, Kawai S, Awata T, Komoda T, Katayama S: CLOCK/BMAL1 is involved in
+lipid metabolism via transactivation of the peroxisome proliferator-activated
+receptor (PPAR) response element. J Atheroscler Thromb 2005, 12(3):169-174.
+86.
+Janowski BA, Willy PJ, Devi TR, Falck JR, Mangelsdorf DJ: An oxysterol
+signalling pathway mediated by the nuclear receptor LXR alpha.
+Nature 1996, 383(6602):728-731.
+87.
+Hoshizaki DK, Blackburn T, Miles K, Sweis R: Fat-cell determination and
+differentiation - identification of genes necessary for fat-cell gene-expression.
+J Cell Biochem 1994, 18a:161-161.
+88.
+Zeuzem S: Gut-liver axis. Int J Colorectal Dis 2000, 15(2):59-82.
+89.
+Giglia-Mari G, Zotter A, Vermeulen W: DNA damage response. Cold Spring
+Harb Perspect Biol 2011, 3(1):a000745.
+90.
+Hoege C, Pfander B, Moldovan GL, Pyrowolakis G, Jentsch S: RAD6-dependent
+DNA repair is linked to modification of PCNA by ubiquitin and SUMO.
+Nature 2002, 419(6903):135-141.
+91.
+Chong JP, Blow JJ: DNA replication licensing factor. Prog Cell Cycle Res
+1996, 2:83-90.
+92.
+Klaunig JE, Kamendulis LM: The role of oxidative stress in carcinogenesis.
+Annu Rev Pharmacol Toxicol 2004, 44:239-267.
+93.
+Vogelstein B, Lane D, Levine AJ: Surfing the p53 network. Nature 2000,
+408(6810):307-310.
+94.
+Boge G, Ndiaye P, Roche H, Peres G: Effects of Non lethal concentrations
+of hexavalent chromium on intestinal enzymology of salmo-gairdneri
+and dicentrarchus-labrax (pisces). J Physiol Paris 1988, 83(2):57-63.
+doi:10.1186/2050-6511-15-15
+Cite this article as: Hussainzada et al.: Whole adult organism
+transcriptional profiling of acute metal exposures in male Zebrafish.
+BMC Pharmacology and Toxicology 2014 15:15.
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color figure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+Page 15 of 15
+
+>>>section: methods
+Methods
+Research was conducted in compliance with the United
+States Animal Welfare Act, and other Federal statutes
+and regulations relating to animals and experiments
+involving animals and adheres to principles stated in the
+Guide for the Care and Use of Laboratory Animals
+(NRC 2011) in facilities that are fully accredited by the
+Association for the Assessment and Accreditation of
+Laboratory Animal Care, International. Approvals were
+granted for this study by USACEHR’s Institutional Animal
+Care and Use Committee.
+Water quality
+All husbandry and aquatic exposures are performed
+using USACEHR’s well water which is processed to 
+ensure proper conditioning of the water supply. The water
+is supplied from a mix of onsite ground water wells and
+from municipal tap (domestic) water. Domestic water is
+used to produce “RO permeate” which is later mixed
+with raw well water to produce water of appropriate
+hardness and alkalinity (150 - 210 mg/L as CaCO3;
+110 - 180 mg/L as CaCO3 respectively). Domestic
+water is carbon filtered to remove chlorine levels
+(maintained below 0.1 mg/L), treated by a water softener,
+processed through reverse osmosis (RO) membranes then
+stored for distribution. Prior to use, the RO processed
+domestic water is blended with well water, filtered
+through a 10 μm particle filter, carbon filtered, then
+heated and aerated to near 100% saturation at 25 ± 1°C.
+This processed water is then passed through another 10
+μm particle filter and UV sterilized prior to distribution
+throughout the facility. This water is continuously 
+monitored to maintain the following ranges: pH = 6.5 - 8.5;
+alkalinity = 110 - 180 mg/L CaCO3; hardness = 150 -
+210 mg/L as CaCO3; conductivity = 400 - 1000 mS/cm;
+total ammonia < 0.1 mg/L as NH3; dissolved oxygen
+(DO) = 80 - 100% saturation (6.8 - 8.5 mg/L at 25°C).
+Contaminant analysis is performed quarterly by our
+in-house analytical chemistry department as well as
+annually by an external, certified testing facility.
+Fish exposures
+Exposures were conducted using USACEHR well water
+in 5-gallon glass aquaria adapted for flow-through use
+(60 mL/min; 5.4 turnovers/day) and maintained at 25°C
+with a 12 hr:12 hr (light:dark) photoperiod. During both
+acclimation and exposure periods, water quality for each
+tank is monitored daily (temperature, pH, alkalinity,
+hardness, DO, and conductivity (data not shown). We
+estimated the concentration of each metal necessary for
+20% (LC20; low), 40% (LC40; mid) and 60% lethality
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+(LC60; high) in 96 hr range-finding experiments.
+Exposures were conducted for 24 hr using control
+(no toxicant) plus the high, mid and low concentrations of
+each metal (Table 1). Our intent with this exposure
+paradigm was to evaluate levels of toxicant sufficient to
+induce a measurable intoxication response without
+producing lethality at 24 hours. Metal concentrations
+in the test tanks were verified by our analytical chemistry
+department before and after exposures.
+Only male zebrafish were included in the analysis
+because of concern that RNAs encoding vitellogenin
+and other liver-abundant egg proteins found in breeding
+females [24,25] might confound global gene expression
+studies. Therefore, we initially selected 25 adult (6-9
+months) presumptive male zebrafish per condition to
+ensure that 20 male fish were available for subsequent
+microarray analysis and histopathology. During exposure,
+animals received a pre-measured quantity of food twice
+per day (1X flake food, 1X brine shrimp). After the
+exposure period, fish were euthanized by immersion
+in a lethal concentration (0.5 g/L, pH 7.2) of MS-222.
+Five fish per condition were immediately preserved in a
+modified Davidson’s solution for histological examination.
+For transcriptional analysis, the remaining 15 zebrafish
+were immersed whole in liquid nitrogen and stored at
+−80°C until RNA processing.
+Histopathology
+Slides were prepared by Experimental Pathology
+Laboratories, Inc. (EPL, Inc., Sterling, VA). Briefly,
+the fish were initially preserved in modified Davidson’s
+solution, washed in 70% ethanol, and then transferred to
+10% neutral buffered formalin for transport. Fish required
+additional decalcification prior to sectioning and were
+placed in Formical 2000® decalcification fluid for seven
+hours. Tails were removed from each fish, followed by
+processing and embedding in paraffin. Vertical longitudinal
+sections were obtained at five different levels: 1) left lateral,
+2) left paramedian, 3) midline sagittal, 4) right paramedian,
+and 5) right lateral. Two serial sections were obtained at
+each level for a total of 10 sections per fish that were H&E
+stained. The following tissues were evaluated (if present)
+for each zebrafish: bone (vertebra), brain, corpuscle of
+Stannius, esophagus, eye, gallbladder, gills, heart, gonad
+(ovary), gonad (testis), hematopoietic tissue, interrenal
+tissue, intestine, kidney, liver, mesonephric duct, nares,
+Nominal and actual concentrations (mg/L) of metals used in the definitive 24-hour zebrafish exposures as estimated from 96-hour range finding studies.
+Page 3 of 15
+pancreas, peripheral nerve, pineal organ, pituitary,
+pseudobranch, skeletal muscle, skin, spinal cord, spleen,
+stato-acoustic organ, swim bladder, thymus, thyroid, and
+ultimobranchial body. The following tissues occasionally
+were not present in the sections that were evaluated:
+corpuscle of Stannius, esophagus, gallbladder, interrenal
+tissue, mesonephric duct, pineal organ, pituitary, spleen,
+thymus, thyroid, and ultimobranchial body. Occasional
+absence of these tissues is a condition inherent in the
+sectioning method and did not appear to affect the overall
+evaluation of the histopathology data.
+Microarray analysis
+RNA processing
+Whole frozen fish were pulverized under liquid nitrogen
+using a SPEX 6750 freezer mill (SPEX Sample Prep,
+Metuchen, NJ). Total RNA was isolated from the
+pulverized material using Trizol® (Invitrogen, Carlsbad,
+CA) with an extra clarification centrifugation step to
+remove bone, scales, lipid, and other insoluble debris
+followed by column purification with RNeasy® Midi kits
+(Qiagen, GmbH, Germany) to remove residual salt and
+organic solvents. Total RNA quality and quantity were
+evaluated using an Agilent Bioanalyzer 2100 (Agilent,
+Santa Clara, CA) and verified using the NanoDrop
+ND-1000 Spectrophotometer (NanoDrop, Wilmington,
+DE). A portion of each total RNA preparation was reverse
+transcribed into cDNA using the Advantage® RT-for-PCR
+Kit (Clontech, Mountain View, CA) and screened against
+a primer panel designed to verify that RNA was isolated
+from male fish. Specifically, we measured levels of
+transcripts coding for vitellogenin 1 (vit1, expressed
+only in female liver, and glyceraldehyde 3-phosphate
+dehydrogenase (GAPDH), which was used as an internal
+control for normalizing the sample RNA and cDNA
+concentrations. Our initial PCR screen was critical as
+multiple RNA samples were pooled for microarray
+analysis (see below) and the presence of female RNA
+within the pool would complicate analysis.
+Microarray hybridization
+To maximize statistical power and minimize cost, we
+pooled equal amounts of total RNA from four or five fish
+within each exposure condition to create a biological
+replicate pool and hybridized each replicate pool to a
+separate microarray; generating four biological replicate
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+pools per experimental condition for a total of 16 
+microarrays per toxicant screened (i.e. four control replicates, four
+low dose replicates, four mid dose replicates and four high
+dose replicates). Statistical modeling demonstrates that
+performing microarray analysis on four biological
+replicates comprised of RNA pooled from five samples
+approaches the statistical power attained by analyzing 20
+individual samples [26]. Numerous theoretical discussions
+of the pooling procedure can be found in the literature
+[27-29]. Although pooling eliminates the ability to assess
+fish-to-fish variability in gene expression, it does provide a
+statistically powerful approach to identify clear toxicant
+responses, which is the main focus of the current work.
+The microarrays used in this study were custom
+designed in-house using the eArray microarray design
+tool (https://earray.chem.agilent.com/earray/; Agilent
+Technologies, Inc.) and manufactured by Agilent. Each
+array contains 44,000 60-mer oligonucleotides representing
+21,904 zebrafish gene targets derived from Ensembl build
+46 (Zv7 genome build) and Vega build 26. Two probes
+were designed per transcript wherever possible; only 94
+target transcripts have only one probe. Probes were
+designed using genes that are annotated, i.e., matched to
+named genes in the published databases, and represent
+good coverage of the whole zebrafish genome.
+Microarrays were processed following Agilent’s
+One-Color Microarray-Based Gene Expression Analysis
+Protocol (Version 5.5, February, 2007) for processing
+4 x 44 K microarray slides using an initial 1 μg pooled
+RNA input and an 18 hr overnight hybridization at 65°C.
+A final step for preventing ozone related degradation
+of signal using the Stabilization and Drying solution
+(Agilent Technologies, Inc.) was included after the required
+specificity washes prior to scanning the arrays. Microarray
+slides were scanned with a GenePix Autoloader 4200 AL
+scanner (Molecular Devices, Union City, CA) and raw
+images processed using GenePix Pro 6.0 (Molecular
+Devices). All microarray data from this study have been
+deposited in NCBI’s Gene Expression Omnibus under the
+accession number GSE50648.
+Statistical analysis
+Raw microarray data was analyzed with Partek Genomics
+Suite software with probe intensities based on the median
+signal intensity of each feature and signal-to-noise ratio
+(SNR) data imported from GenePix Pro 6.0. GenePix Pro
+calculates SNR as the difference between median spot
+signal and median background divided by the standard
+deviation of the background signal. Data preprocessing
+comprised manual inspection of each extracted gene
+feature and quality control. We selected only unsaturated
+probes with an SNR greater than or equal to three
+(SNR ≥ 3) for analysis and performed quantile
+normalization across arrays to control for inter-array
+Page 4 of 15
+variability. Normalized probe intensities were then log
+transformed. We also removed probes without Ensembl
+annotation producing a subset of 15,818 probes which
+mapped to 7,909 genes (Additional file 1: Table S1). We
+performed three sets of ANOVAs using Partek Genomics
+Suite to identify probes that were differentially expressed
+between each treatment group and its respective control.
+Each set consisted of data from all the replicate pools of
+fish exposed to a specific metal and the replicate pools of
+unexposed fish housed in adjacent tanks during the metal
+exposure. The ANOVA model included terms for
+treatment (unexposed or exposed), concentration
+(control, low, mid, or high) and in interaction term
+for treatment*concentration. Contrasts were performed to
+determine significance between each concentration and
+control. We used a step-up Benjamini and Hochberg false
+discovery rate (FDR) of 0.01 to select differentially
+expressed probes. An FDR alpha value equal to 0.01 was
+chosen as the cut-off for the combined datasets of all
+replicate pools. Probes not meeting this threshold were
+filtered out and the resultant list was submitted to a
+second filter specifying a 1.8-fold-difference between
+treated vs. control samples. Only transcripts for which
+probes passed these filters were included in the final list
+(Additional file 1: Table S1). Fold changes for each probe
+pair (single probe transcripts excluded) were then
+averaged to generate a single value for each transcript.
+Gene Ontology (GO) enrichment analysis was performed
+using the web-based tool GOTree Machine (GOTM;
+http://genereg.ornl.gov/gotm/), which generates a tree-like
+structure to navigate the GO Directed Acyclic Graph for
+input gene sets. GOTM supports analysis of the zebrafish
+genome; however, this analysis had to be performed at the
+gene rather than the transcript level. GO term and
+KEGG pathway (http://bioinfo.vanderbilt.edu/webgestalt/)
+enrichment analyses were then performed on the secondary
+lists to determine biological processes that are significantly
+(FDR = 0.1) enhanced or depressed by each metal. The
+enriched GO terms and KEGG pathways were also
+manually annotated into top level biological categories
+to clarify the overarching biological “themes” related to
+metal-induced gene perturbations. Finally, transcription
+factor enrichment was performed using MetaCore’s
+algorithm (GeneGo, Inc.) with settings enabled for
+identification of node relationships encompassing only
+direct downstream transcriptional regulation. Zebrafish
+genes were mapped to their human homologs using the
+Biomart feature in Ensembl with genes mapping one-to-
+many discarded from subsequent analysis. Background
+reference sets comprised the set of all transcripts with
+SNR ≥ 3 in each platform that could be subsequently
+mapped in a one-to-one fashion to their human homologs.
+Thresholds were set at an FDR = 0.1 with at least three
+DEG target identified for each enriched transcription factor.
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Metacore does not explicitly provide zebrafish 
+transcription factor regulatory networks; however, we anticipated
+that there would be high degree of conservation between
+the zebrafish and human networks [30], and mapped the
+zebrafish DEGs to their human orthologs before performing
+enrichment. Each differentially expressed transcript was
+mapped to its corresponding gene using the Ensembl
+database and resultant gene lists queried against their
+appropriate reference gene lists. Background reference
+sets comprised the set of all transcripts with SNR ≥ 3 in
+each exposure condition that could be subsequently
+mapped to Ensembl genes. Significantly enriched GO terms,
+or those GO terms that are statistically over-represented in
+each treatment compared to the reference set, were
+determined using the hypergeometric test with p-values
+adjusted using the Benjamini & Hochberg FDR correction
+(α = 0.1) and setting a threshold for the minimum number
+of genes per category (n = 3). While many statistical tests
+have been used for GO enrichment evaluation, the
+hypergeometric distribution provides an appropriate method
+for modeling data in which genes can be selected only once,
+i.e. sampling without replacement, as occurs
+in GO
+enrichment analysis [31].
+
+>>>section: fulltext
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+RESEARCH ARTICLE
+Whole adult organism transcriptional profiling of
+acute metal exposures in male Zebrafish
+Naissan Hussainzada1, John A Lewis2, Christine E Baer4, Danielle L Ippolito5, David A Jackson3
+and Jonathan D Stallings2,6*
+Abstract
+Background: A convergence of technological breakthroughs in the past decade has facilitated the development of
+rapid screening tools for biomarkers of toxicant exposure and effect. Platforms using the whole adult organism to
+evaluate the genome-wide response to toxicants are especially attractive. Recent work demonstrates the feasibility
+of this approach in vertebrates using the experimentally robust zebrafish model. In the present study, we evaluated
+gene expression changes in whole adult male zebrafish following an acute 24 hr high dose exposure to three
+metals with known human health risks. Male adult zebrafish were exposed to nickel chloride, cobalt chloride or
+sodium dichromate concentrations corresponding to their respective 96 hr LC20, LC40 and LC60. Histopathology
+was performed on a subset of metal-exposed zebrafish to phenotypically anchor transcriptional changes associated
+with each metal.
+Results: Comparative analysis identified subsets of differentially expressed transcripts both overlapping and unique
+to each metal. Application of gene ontology (GO) and transcription factor (TF) enrichment algorithms revealed a
+number of key biological processes perturbed by metal poisonings and the master transcriptional regulators
+mediating gene expression changes. Metal poisoning differentially activated biological processes associated with
+ribosome biogenesis, proteosomal degradation, and p53 signaling cascades, while repressing oxygen-generating
+pathways associated with amino acid and lipid metabolism. Despite appreciable effects on gene regulation, nickel
+poisoning did not induce any morphological alterations in male zebrafish organs and tissues. Histopathological
+effects of cobalt remained confined to the olfactory system, while chromium targeted the gills, pharynx, and
+intestinal mucosa. A number of enriched transcription factors mediated the observed gene response to metal
+poisoning, including known targets such as p53, HIF1α, and the myc oncogene, and novel regulatory factors such as
+XBP1, GATA6 and HNF3β.
+Conclusions: This work uses an experimentally innovative approach to capture global responses to metal poisoning
+and provides mechanistic insights into metal toxicity.
+Keywords: Metals, Toxicity mechanisms, Zebrafish, Whole organism, Nickel, Chromium, Cobalt, Toxicogenomics
+Open Access
+Background
+Toxicogenomics is a powerful tool for evaluating toxicity
+profiles of known and potentially hazardous compounds.
+The zebrafish, a classic model for developmental toxicity,
+has recently proven to be an effective model organism for
+chemical screening [1,2] and environmental sentinel
+* Correspondence: jonathan.d.stallings.mil@mail.mil
+2Biomarkers Program, US Army Center for Environmental Health Research,
+Fort Detrick, Frederick, Maryland 21702-5010, USA
+6Environmental Health Program, US Army Center for Environmental Health
+Research, Fort Detrick, Frederick, Maryland, USA
+Full list of author information is available at the end of the article
+applications, including sewage testing and chemical
+hazard detection [3-6]. The low husbandry costs, small
+size, ease of genetic manipulation, and wealth of genome
+database resources distinguish the zebrafish as a highly
+promising model organism for toxicological studies.
+Responses to toxic insults usually affect multiple organs
+and tissues, supporting a role for gene profiling in the
+whole animal to evaluate toxic responses. Although whole
+organism toxicogenomics has routinely been conducted in
+invertebrate models such as the worm Caenorhabditis
+elegans and the fly Drosophila melanogaster [7-9] and
+in ecoindicator species such as Daphnia magna and
+© 2014 Hussainzada et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public
+Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this
+article, unless otherwise stated.
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Pimpephales promelas [10,11], only one study to date
+has evaluated whole organism gene profiling in adult
+zebrafish [12]. In this study, robust expression signatures
+differentiated between potent aryl hydrocarbon and
+estrogen receptor agonists, and accurately identified target
+tissues. We hypothesized that gene profiling in whole
+adult zebrafish could also be used to infer toxic responses
+to hazardous chemicals.
+Nickel, cobalt and chromium are environmentally
+ubiquitous metals with recognized human health hazards
+[13]. Recently, applications in mining, smelting, industry,
+medicine, and agriculture have increased the environmental
+distribution of these metals, elevating elevated exposure
+risk and incidences of occupational exposure. Nickel,
+cobalt, or chromium exposure can cause incapacitating
+acute toxicity and/or long-term damage (e.g., carcinogenesis)
+[14-16]. Primary mechanisms of metal toxicity include
+the production of free radicals which can trigger oxidative
+stress, induce mutagenesis by DNA-metal interactions, and
+impair protein function by covalently modifying proteins
+or competing with metal binding sites. Metal-derived
+reactive oxygen species (ROS) may perturb a number of
+tightly regulated cellular processes (e.g., cell growth and
+proliferation), activate transcription factors and genes, and
+trigger cellular adaptive programs including metal stress
+response, DNA repair mechanisms, and inflammation [17].
+Numerous studies have examined gene responses to
+acute poisoning by nickel, cobalt, or chromium [18,19], but
+besides a few studies in invertebrates, most of these studies
+measure gene responses in isolated tissues or tissue-derived
+cell lines [8,19-23]. Although analyzing isolated tissues is
+the ideal approach to unambiguously identify gene changes
+in an organ of interest, it is experimentally impractical to
+microdissect and to analyze all potentially affected organs
+from zebrafish individually. Alternatively, a whole-organism
+approach with post hoc gene ontology enrichment analysis
+has the advantage of predicting biomolecular pathways
+linked to observed histopathologic endpoints for informing
+later organ-specific experiments. In this study, we used a
+whole-organism approach exposing adult male zebrafish to
+increasing concentrations of nickel chloride, cobalt
+chloride, and sodium dichromate, and evaluating whole
+genome transcriptional responses using DNA microarrays.
+We identified differentially regulated biological processes
+using gene ontology enrichment analysis in order to infer
+toxicity mechanisms [21]. We also identified transcription
+factors upstream of the differentially enriched genes
+which are predicted to directly activate or repress
+gene expression in order to characterize regulatory
+processes involved in metal toxicity. Histopathological
+changes in the whole organism were compared with
+gene changes. Overall, our study provides (i) insight
+into transcriptomic changes corresponding to toxic
+indicators of metal poisoning and (ii) an experimental
+Page 2 of 15
+evaluation of whole organism toxicogenomics in the
+zebrafish model.
+Methods
+Research was conducted in compliance with the United
+States Animal Welfare Act, and other Federal statutes
+and regulations relating to animals and experiments
+involving animals and adheres to principles stated in the
+Guide for the Care and Use of Laboratory Animals
+(NRC 2011) in facilities that are fully accredited by the
+Association for the Assessment and Accreditation of
+Laboratory Animal Care, International. Approvals were
+granted for this study by USACEHR’s Institutional Animal
+Care and Use Committee.
+Water quality
+All husbandry and aquatic exposures are performed
+using USACEHR’s well water which is processed to 
+ensure proper conditioning of the water supply. The water
+is supplied from a mix of onsite ground water wells and
+from municipal tap (domestic) water. Domestic water is
+used to produce “RO permeate” which is later mixed
+with raw well water to produce water of appropriate
+hardness and alkalinity (150 - 210 mg/L as CaCO3;
+110 - 180 mg/L as CaCO3 respectively). Domestic
+water is carbon filtered to remove chlorine levels
+(maintained below 0.1 mg/L), treated by a water softener,
+processed through reverse osmosis (RO) membranes then
+stored for distribution. Prior to use, the RO processed
+domestic water is blended with well water, filtered
+through a 10 μm particle filter, carbon filtered, then
+heated and aerated to near 100% saturation at 25 ± 1°C.
+This processed water is then passed through another 10
+μm particle filter and UV sterilized prior to distribution
+throughout the facility. This water is continuously 
+monitored to maintain the following ranges: pH = 6.5 - 8.5;
+alkalinity = 110 - 180 mg/L CaCO3; hardness = 150 -
+210 mg/L as CaCO3; conductivity = 400 - 1000 mS/cm;
+total ammonia < 0.1 mg/L as NH3; dissolved oxygen
+(DO) = 80 - 100% saturation (6.8 - 8.5 mg/L at 25°C).
+Contaminant analysis is performed quarterly by our
+in-house analytical chemistry department as well as
+annually by an external, certified testing facility.
+Fish exposures
+Exposures were conducted using USACEHR well water
+in 5-gallon glass aquaria adapted for flow-through use
+(60 mL/min; 5.4 turnovers/day) and maintained at 25°C
+with a 12 hr:12 hr (light:dark) photoperiod. During both
+acclimation and exposure periods, water quality for each
+tank is monitored daily (temperature, pH, alkalinity,
+hardness, DO, and conductivity (data not shown). We
+estimated the concentration of each metal necessary for
+20% (LC20; low), 40% (LC40; mid) and 60% lethality
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+(LC60; high) in 96 hr range-finding experiments.
+Exposures were conducted for 24 hr using control
+(no toxicant) plus the high, mid and low concentrations of
+each metal (Table 1). Our intent with this exposure
+paradigm was to evaluate levels of toxicant sufficient to
+induce a measurable intoxication response without
+producing lethality at 24 hours. Metal concentrations
+in the test tanks were verified by our analytical chemistry
+department before and after exposures.
+Only male zebrafish were included in the analysis
+because of concern that RNAs encoding vitellogenin
+and other liver-abundant egg proteins found in breeding
+females [24,25] might confound global gene expression
+studies. Therefore, we initially selected 25 adult (6-9
+months) presumptive male zebrafish per condition to
+ensure that 20 male fish were available for subsequent
+microarray analysis and histopathology. During exposure,
+animals received a pre-measured quantity of food twice
+per day (1X flake food, 1X brine shrimp). After the
+exposure period, fish were euthanized by immersion
+in a lethal concentration (0.5 g/L, pH 7.2) of MS-222.
+Five fish per condition were immediately preserved in a
+modified Davidson’s solution for histological examination.
+For transcriptional analysis, the remaining 15 zebrafish
+were immersed whole in liquid nitrogen and stored at
+−80°C until RNA processing.
+Histopathology
+Slides were prepared by Experimental Pathology
+Laboratories, Inc. (EPL, Inc., Sterling, VA). Briefly,
+the fish were initially preserved in modified Davidson’s
+solution, washed in 70% ethanol, and then transferred to
+10% neutral buffered formalin for transport. Fish required
+additional decalcification prior to sectioning and were
+placed in Formical 2000® decalcification fluid for seven
+hours. Tails were removed from each fish, followed by
+processing and embedding in paraffin. Vertical longitudinal
+sections were obtained at five different levels: 1) left lateral,
+2) left paramedian, 3) midline sagittal, 4) right paramedian,
+and 5) right lateral. Two serial sections were obtained at
+each level for a total of 10 sections per fish that were H&E
+stained. The following tissues were evaluated (if present)
+for each zebrafish: bone (vertebra), brain, corpuscle of
+Stannius, esophagus, eye, gallbladder, gills, heart, gonad
+(ovary), gonad (testis), hematopoietic tissue, interrenal
+tissue, intestine, kidney, liver, mesonephric duct, nares,
+Nominal and actual concentrations (mg/L) of metals used in the definitive 24-hour zebrafish exposures as estimated from 96-hour range finding studies.
+Page 3 of 15
+pancreas, peripheral nerve, pineal organ, pituitary,
+pseudobranch, skeletal muscle, skin, spinal cord, spleen,
+stato-acoustic organ, swim bladder, thymus, thyroid, and
+ultimobranchial body. The following tissues occasionally
+were not present in the sections that were evaluated:
+corpuscle of Stannius, esophagus, gallbladder, interrenal
+tissue, mesonephric duct, pineal organ, pituitary, spleen,
+thymus, thyroid, and ultimobranchial body. Occasional
+absence of these tissues is a condition inherent in the
+sectioning method and did not appear to affect the overall
+evaluation of the histopathology data.
+Microarray analysis
+RNA processing
+Whole frozen fish were pulverized under liquid nitrogen
+using a SPEX 6750 freezer mill (SPEX Sample Prep,
+Metuchen, NJ). Total RNA was isolated from the
+pulverized material using Trizol® (Invitrogen, Carlsbad,
+CA) with an extra clarification centrifugation step to
+remove bone, scales, lipid, and other insoluble debris
+followed by column purification with RNeasy® Midi kits
+(Qiagen, GmbH, Germany) to remove residual salt and
+organic solvents. Total RNA quality and quantity were
+evaluated using an Agilent Bioanalyzer 2100 (Agilent,
+Santa Clara, CA) and verified using the NanoDrop
+ND-1000 Spectrophotometer (NanoDrop, Wilmington,
+DE). A portion of each total RNA preparation was reverse
+transcribed into cDNA using the Advantage® RT-for-PCR
+Kit (Clontech, Mountain View, CA) and screened against
+a primer panel designed to verify that RNA was isolated
+from male fish. Specifically, we measured levels of
+transcripts coding for vitellogenin 1 (vit1, expressed
+only in female liver, and glyceraldehyde 3-phosphate
+dehydrogenase (GAPDH), which was used as an internal
+control for normalizing the sample RNA and cDNA
+concentrations. Our initial PCR screen was critical as
+multiple RNA samples were pooled for microarray
+analysis (see below) and the presence of female RNA
+within the pool would complicate analysis.
+Microarray hybridization
+To maximize statistical power and minimize cost, we
+pooled equal amounts of total RNA from four or five fish
+within each exposure condition to create a biological
+replicate pool and hybridized each replicate pool to a
+separate microarray; generating four biological replicate
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+pools per experimental condition for a total of 16 
+microarrays per toxicant screened (i.e. four control replicates, four
+low dose replicates, four mid dose replicates and four high
+dose replicates). Statistical modeling demonstrates that
+performing microarray analysis on four biological
+replicates comprised of RNA pooled from five samples
+approaches the statistical power attained by analyzing 20
+individual samples [26]. Numerous theoretical discussions
+of the pooling procedure can be found in the literature
+[27-29]. Although pooling eliminates the ability to assess
+fish-to-fish variability in gene expression, it does provide a
+statistically powerful approach to identify clear toxicant
+responses, which is the main focus of the current work.
+The microarrays used in this study were custom
+designed in-house using the eArray microarray design
+tool (https://earray.chem.agilent.com/earray/; Agilent
+Technologies, Inc.) and manufactured by Agilent. Each
+array contains 44,000 60-mer oligonucleotides representing
+21,904 zebrafish gene targets derived from Ensembl build
+46 (Zv7 genome build) and Vega build 26. Two probes
+were designed per transcript wherever possible; only 94
+target transcripts have only one probe. Probes were
+designed using genes that are annotated, i.e., matched to
+named genes in the published databases, and represent
+good coverage of the whole zebrafish genome.
+Microarrays were processed following Agilent’s
+One-Color Microarray-Based Gene Expression Analysis
+Protocol (Version 5.5, February, 2007) for processing
+4 x 44 K microarray slides using an initial 1 μg pooled
+RNA input and an 18 hr overnight hybridization at 65°C.
+A final step for preventing ozone related degradation
+of signal using the Stabilization and Drying solution
+(Agilent Technologies, Inc.) was included after the required
+specificity washes prior to scanning the arrays. Microarray
+slides were scanned with a GenePix Autoloader 4200 AL
+scanner (Molecular Devices, Union City, CA) and raw
+images processed using GenePix Pro 6.0 (Molecular
+Devices). All microarray data from this study have been
+deposited in NCBI’s Gene Expression Omnibus under the
+accession number GSE50648.
+Statistical analysis
+Raw microarray data was analyzed with Partek Genomics
+Suite software with probe intensities based on the median
+signal intensity of each feature and signal-to-noise ratio
+(SNR) data imported from GenePix Pro 6.0. GenePix Pro
+calculates SNR as the difference between median spot
+signal and median background divided by the standard
+deviation of the background signal. Data preprocessing
+comprised manual inspection of each extracted gene
+feature and quality control. We selected only unsaturated
+probes with an SNR greater than or equal to three
+(SNR ≥ 3) for analysis and performed quantile
+normalization across arrays to control for inter-array
+Page 4 of 15
+variability. Normalized probe intensities were then log
+transformed. We also removed probes without Ensembl
+annotation producing a subset of 15,818 probes which
+mapped to 7,909 genes (Additional file 1: Table S1). We
+performed three sets of ANOVAs using Partek Genomics
+Suite to identify probes that were differentially expressed
+between each treatment group and its respective control.
+Each set consisted of data from all the replicate pools of
+fish exposed to a specific metal and the replicate pools of
+unexposed fish housed in adjacent tanks during the metal
+exposure. The ANOVA model included terms for
+treatment (unexposed or exposed), concentration
+(control, low, mid, or high) and in interaction term
+for treatment*concentration. Contrasts were performed to
+determine significance between each concentration and
+control. We used a step-up Benjamini and Hochberg false
+discovery rate (FDR) of 0.01 to select differentially
+expressed probes. An FDR alpha value equal to 0.01 was
+chosen as the cut-off for the combined datasets of all
+replicate pools. Probes not meeting this threshold were
+filtered out and the resultant list was submitted to a
+second filter specifying a 1.8-fold-difference between
+treated vs. control samples. Only transcripts for which
+probes passed these filters were included in the final list
+(Additional file 1: Table S1). Fold changes for each probe
+pair (single probe transcripts excluded) were then
+averaged to generate a single value for each transcript.
+Gene Ontology (GO) enrichment analysis was performed
+using the web-based tool GOTree Machine (GOTM;
+http://genereg.ornl.gov/gotm/), which generates a tree-like
+structure to navigate the GO Directed Acyclic Graph for
+input gene sets. GOTM supports analysis of the zebrafish
+genome; however, this analysis had to be performed at the
+gene rather than the transcript level. GO term and
+KEGG pathway (http://bioinfo.vanderbilt.edu/webgestalt/)
+enrichment analyses were then performed on the secondary
+lists to determine biological processes that are significantly
+(FDR = 0.1) enhanced or depressed by each metal. The
+enriched GO terms and KEGG pathways were also
+manually annotated into top level biological categories
+to clarify the overarching biological “themes” related to
+metal-induced gene perturbations. Finally, transcription
+factor enrichment was performed using MetaCore’s
+algorithm (GeneGo, Inc.) with settings enabled for
+identification of node relationships encompassing only
+direct downstream transcriptional regulation. Zebrafish
+genes were mapped to their human homologs using the
+Biomart feature in Ensembl with genes mapping one-to-
+many discarded from subsequent analysis. Background
+reference sets comprised the set of all transcripts with
+SNR ≥ 3 in each platform that could be subsequently
+mapped in a one-to-one fashion to their human homologs.
+Thresholds were set at an FDR = 0.1 with at least three
+DEG target identified for each enriched transcription factor.
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Metacore does not explicitly provide zebrafish 
+transcription factor regulatory networks; however, we anticipated
+that there would be high degree of conservation between
+the zebrafish and human networks [30], and mapped the
+zebrafish DEGs to their human orthologs before performing
+enrichment. Each differentially expressed transcript was
+mapped to its corresponding gene using the Ensembl
+database and resultant gene lists queried against their
+appropriate reference gene lists. Background reference
+sets comprised the set of all transcripts with SNR ≥ 3 in
+each exposure condition that could be subsequently
+mapped to Ensembl genes. Significantly enriched GO terms,
+or those GO terms that are statistically over-represented in
+each treatment compared to the reference set, were
+determined using the hypergeometric test with p-values
+adjusted using the Benjamini & Hochberg FDR correction
+(α = 0.1) and setting a threshold for the minimum number
+of genes per category (n = 3). While many statistical tests
+have been used for GO enrichment evaluation, the
+hypergeometric distribution provides an appropriate method
+for modeling data in which genes can be selected only once,
+i.e. sampling without replacement, as occurs
+in GO
+enrichment analysis [31].
+Results and discussion
+Gross changes, behavior, and histopathology
+Figure 1 provides a schematic of the experimental
+paradigm. During range-finding metal exposure studies,
+fish were qualitatively assessed for gross changes in behavior
+Page 5 of 15
+and general appearance. At study termination, tissues
+were stained with hematoxylin and eosin (H&E) to
+determine the morphological changes associated with each
+metal poisoning at the concentrations listed in Table 1.
+Nickel-exposed fish appeared fuzzy, an appearance which
+is generally attributable to the excretion of mucus from
+goblet cells following irritation (personal communication,
+Dr. Donald K. Nichols). There were no deaths observed at
+any of the nickel concentrations nor did any of the nickel
+concentrations lead to any discernible histopathologic
+alterations (Table 2) although behavioral differences and
+skin abnormalities were qualitatively different between
+control and treated fish (i.e. sluggish swimming and fuzzy
+skin appearance). Previous studies indicate that gills, liver,
+and kidney are histopathological targets of nickel poisoning
+[22,23,32-34], but differences in fish species, exposure time
+and concentration could account for the discrepancy in the
+histopathological endpoints.
+Chromium poisoning caused visible changes in fish
+behavior and general appearance, including sluggish
+swimming, gasping and ulcerations near the tail in some
+fish. Four zebrafish died at the highest dose. Exposure to
+all three concentrations of chromium histopathologically
+affected the gills, intestine, and pharynx (see Table 2 and
+Figure 2A). Both gill and pharynx epithelium exhibited
+mononuclear cell infiltration, which is indicative of acute
+inflammation. The most prominent change in intestine
+was moderate to moderately severe atrophy of the mucosal
+folds and a mild infiltration of the intestinal lamina propria
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Page 6 of 15
+Morphological alterations
+No significant changes observed in any tissues examined.
+Acute damage only to the olfactory organs including various inflammatory, degenerative, metaplastic, and necrotic lesions extending
+from the nasal cavity to the lungs. Intranasal lesions include olfactory epithelium necrosis (5 L, 5 M, 5H), lymphocytic inflammation
+(3 L, 4 M, 4 H), reactive hyperplasia (0 L, 0 M, 1 H), and olfactory lamellae fusion (0 L, 1 M, 3 H).
+Acute damage only to the gills, intestine, and pharynx. Gills exhibited multifocal lesions consisting of lamellar fusion (4 L, 4 M, 5 H),
+epithelial hyperplasia (3 L, 4 M, 5 H), mononuclear cell infiltration (1 C, 4 L, 4 M, 5 H), epithelial necrosis (0 L, 4 M, 5 H), presence of
+thrombi in vessels (0 L, 4 M, 3 H) and hemorrhage (0 L, 2 M, 3 H). Intestine exhibits moderate to moderately severe atrophy of the
+mucosal folds (5 L, 5 M, 5 H), mild mononuclear infiltration of the lamina propria (5 L, 5 M, 5H) and mild necrosis of mucosal epithelium
+(2 L, 3 M, 3 H). Pharynx exhibits epithelial atrophy characterized by decreased mucosal thickness and loss of mucous secreting cells; also
+accompanied by mononuclear cell infiltration (0 L, 2 M, 4 H). Necrosis of pharyngeal epithelium occurred in 1 H.
+Histopathological perturbations in zebrafish exposed to nickel, cobalt, or chromium for 24 hours. A total of five fish were examined per concentration including
+the control. In each case the numbers of instances of a finding are indicated in parentheses. C = control, L = low, M =mid and H = high concentration.
+with mononuclear cells. Earlier studies report that the gills,
+kidney, and liver are histopathological targets of hexavalent
+chromium exposure in several species of freshwater fish
+[35,36]. The histopathology associated with this study
+supports the hypothesis that chromium exposure affects
+certain physiological processes including respiration,
+metabolic regulation, and possibly feeding.
+During the cobalt range-finding studies, zebrafish
+exposed to high doses showed less schooling behavior,
+more surfacing, and less overall movement than the
+controls. In zebrafish, these behaviors are usually indicative
+of abnormal respiration and physiological stress. There
+were six deaths at the high dose and one death at the mid
+dose. Histopathology confirmed that zebrafish exposed
+to all three concentrations of cobalt presented with
+respiratory tract lesions specific to the olfactory epithelium
+(see Figure 2B and Table 2). The gill epithelium was
+unaffected, suggesting that the olfactory epithelial injury is
+specific to cobalt rather than a nonspecific reaction to
+waterborne irritants. Consistent with these results,
+inhalation studies in rats and mice confirm cobalt-specific
+morphological damage to the olfactory epithelia [37].
+NOEL (no-observable-effect-level) could not be determined
+for any of the structural changes observed in fish treated
+with cobalt at the concentrations we tested.
+Transcriptomic responses to metal poisonings
+To identify differentially expressed genes (DEGs) resulting
+from nickel, cobalt, or chromium exposure, we compared
+the expression of genes in whole fish exposed to each
+metal with unexposed controls. Chromium, cobalt, or
+nickel exposure significantly altered expression of 696,
+461, and 287 genes, respectively (Figure 3). There was a
+steep concentration-response relationship between
+mortality and metal concentration, with relatively little
+difference in the gene response to the three poisoning
+concentrations in the surviving fish as assessed by
+principal components analysis and analysis of variance
+(ANOVA). The concentrations were chosen to evoke
+histopathologic changes in an acute setting. Thus, the
+observed lack of an appreciative concentration-response
+curve would result if the doses fell in a nearly vertical
+region of the typical sigmoidal dose-response curve.
+Dose-dependent effects may have been lost in 
+experimental variation. Lower doses or a longer time interval may be
+necessary to elicit a true dose-response curve.
+Biological processes perturbed by metal exposures
+DEG lists were further subdivided into secondary lists by
+direction of response: for example, of the 287 genes
+induced by nickel, 97 were down-regulated and 190 were
+up-regulated. GO term enrichment analysis and KEGG
+pathway enrichment analysis inferred biological processes
+modified by each metal. The biological processes
+identified in the gene ontology enrichment analyses
+(GO biological processes and KEGG pathways) fell
+into five categories with differential responses for the
+three metals: protein synthesis and translation; altered
+reduction-oxidation (redox) levels; inflammation and acute
+phase stress response; cell cycle regulation and apoptosis;
+and metabolic depression (Figure 4 and Table 3). Table 3
+summarizes the biological processes, chemistries and
+toxicities and results of pathway enrichment analysis for
+metals compared to histopathologic findings. Biological
+processes identified in the transcriptomic analysis were
+compared at the pathway level to published mechanisms
+of aquatic toxicology. In general, metals affect the cellular
+heme content, impairing oxidative function of cells
+[13,38-40]. Consistent with this observation, all three
+metals showed down-regulation in biological processes
+associated with the oxidative stress response, including
+oxidation-reduction (Figure 4A) and metabolic pathways
+in the oxidative stress response (Figure 4B). Further, all
+three metals induced genes in GO biological processes
+(most notably ribosome biogenesis) and KEGG pathways
+regulating protein synthesis and translation (Figure 4A
+and B). Increased demand for newly synthesized proteins
+may result from enhanced requirements for translation of
+stress responsive genes particularly those involved in
+combating oxidative and inflammatory stress. It is also
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Page 7 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+possible that the enhanced protein synthesis is a 
+compensatory mechanism to replenish cells lost through apoptosis
+in tissues specifically targeted by metal exposures. The
+literature is conflicting regarding ribosome biogenesis in
+response to toxicant poisoning [41-46]. The discrepancies
+in our study between metals may reflect differences in the
+severity of toxic insult among the metals.
+Nickel poisoning causes oxidative damage to DNA and
+inhibits antioxidant defenses [47-49]. Nickel-poisoned
+fish had less observable histopathology than the other
+metals and no histopathology directly attributable to
+nickel poisoning, but gene expression was more enriched
+in processes involving cell cycle regulation and apoptosis
+(Figure 4A) and protein synthesis and translation than the
+other metals (Figure 4A and B). The lack of 
+histopathological signs of nickel poisoning at 24 hr may suggest that
+our nickel exposure scheme captures mechanisms which
+drive the initial response to metal poisoning (i.e. at 24 hr)
+prior to histologic alterations.
+Cobalt poisoning mimics hypoxia, stimulating the
+production of reactive oxygen species and increasing
+lipid peroxides [50]. Consistent with this observation,
+cobalt showed more up-regulation of genes regulating the
+biological processes of the oxidative stress response than
+any other metal (Figures 4A and B).
+Chromium redox cycling and ROS generation induce
+DNA damage and activate subsequent repair mechanisms
+[51,52]. Corroborating these mechanisms, chromium 
+up-regulated p53 and MAPK signaling pathways (Figure 4B)
+[53]. Genes associated with inflammation and acute phase
+stress responses were up-regulated more with chromium
+than the other metals (Figure 4A and B). These results
+are consistent with the histopathology observations that
+chromium exposure induced the most inflammatory cell
+Page 8 of 15
+infiltration (Figure 2 and Table 2). The genes in pathways
+associated with metabolic depression support a molecular
+mechanism underlying the reduced feeding behavior and
+intestinal abnormalities observed in chromium exposed
+fish (Figure 2). Chromium poisoning was associated with
+a marked down-regulation in genes involved in cellular
+metabolism, including lipid and steroid metabolic
+pathways. These processes included the citrate (TCA)
+cycle and fatty acid metabolism, which are regulated
+by degradation of amino acids into acetyl-CoA and
+proprionyl-CoA intermediates respectively [54]. Genes
+controlling the biological and molecular processes
+controlling the processing of pyruvate, a degradation
+product of glucogenic amino acids, also significantly
+decreased in fish exposed to chromium (Figure 4A).
+These results suggest that chromium poisoning, but
+not cobalt or nickel, caused significant reductions in
+metabolic capacity, particularly for amino acids and
+processes associated with their metabolic by-products.
+These results are consistent with the observed intestinal
+mucosa atrophy and mild necrosis (Figure 2A). Chromium
+is readily absorbed by the intestinal tissue. Since gut
+mucosa represents the primary site for whole-body amino
+acid metabolism [55,56], mucosal atrophy can significantly
+diminish the gut’s amino acid metabolic capacity and
+decrease amino acid requirements and use.
+Enriched transcription factors in response to metal
+poisoning
+We performed transcription factor (TF) enrichment
+analysis using Metacore on each secondary enhanced/
+repressed gene list in an attempt to identify upstream
+regulatory networks that mediate metal induced gene
+expression linked to GO biological processes (Figure 5,
+Table 3, and Additional file 1: Table S1). The metals showed
+a significant discrepancy in the type and direction of the
+regulation of the transcription factors expressed (Figure 5A).
+Common to all metals was the up-regulation of the highly
+conserved mini-chromosome maintenance 4 (mcm4) gene
+with DNA helicase activity essential for the inhibition of
+eukaryotic genome replication and the origin recognition
+complex (orc61) which facilitates replication [57-60]
+(Figure 5B, Table 3, and Additional file 1: Table S1).
+In nickel poisoning, transcripts for the DNA replication
+processes genes mcm3, mcm5, and rbb4 were up-regulated
+in addition to mcm4 and orc61 (Table 3, Figure 5B, and
+Additional file 1: Table S1). Nickel induced transcription
+factor changes consistent with redox signaling, including
+up-regulation of hif1α and xbp1 (Figure 5A and Table 3)
+and their associated gene targets (Figure 5B and Table 3).
+These gene products are cellular regulators that sense
+oxygen status and trigger adaptive cascades to maintain
+normoxia [61-63]. It is known that nickel stabilizes Hif-1α
+by preventing the degradation of the protein either
+Ni Co CrA
+through the depletion of ascorbate or by replacing
+iron in the hydroxylases responsible for Hif-1α 
+degradation [64-66], leading to transcriptional activation
+of downstream targets. In our study, nickel poisoning
+up-regulated other genes critical for redox sensing
+and homeostasis, including periredoxin (zgc:110343),
+thioredoxin (zgc:92903), thioredoxin-like 1 (txnl1), and
+protein disulfide isomerase 4 and 5 (pdia4, pdip5)
+(Additional file 1: Table S1 and Figure 5B). Levels of hif1α
+downstream targets (abcf2, pfkfb3, il1b, egln3, hk2) were
+significantly up-regulated. xbp1 expression was enhanced
+1.52 fold in parallel with robust up-regulation of its gene
+targets (hspa5, pdia4, dnajb11) (Figure 5A and B). The
+xpb1 gene target hspa5 (which encodes Grp78/BiP) also
+represents a specific and key marker for induction of the
+unfolded protein response (UPR) [67-69], an adaptive
+response that prevents protein aggregation by enhancing
+expression of molecular chaperones and diminishing
+nascent polypeptide flux into the ER [70,71]. Nickel 
+dose-dependently increased expression of hspa5 (Figure 5B).
+Surprisingly, nickel poisoning did not induce genes
+involved in clearing terminally misfolded proteins
+(i.e. members of the ER-associated protein degradation
+machinery [ERAD] family) (Additional file 1: Table S1 and
+Figure 5B) [71]. However, nickel poisonings up-regulated
+an additional ensemble of ER chaperones (dnaja4,
+jnajb11, ahsa11, hsp701, hspe1, hsp90b1, hspa41) which
+play a crucial role in ensuring proper protein folding.
+Taken together, our data suggest that nickel exposures
+induced the UPR via xbp1 transcriptional activation.
+Cobalt poisoning resulted in up-regulation of only
+hnf3β in the Metacore analysis (Figure 5A). Genes
+Hussainzada et al.BMC Pharmacology and Toxicology 2014,15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Page 10 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+were up-regulated in two predominant biological processes:
+(1) altered redox levels (e.g., the glutathione synthesis genes
+[gss (zgc:101574), gclc, and zgc:110010] (Additional file 1:
+Table S1), and genes which encode multiple structural
+components of both the catalytic (20S) and regulatory
+(19S) ribosomal subunits [psmd3, psmd7, psma6b, psma5,
+psmc3, psmc4, psmd11b, psmd1, psmc6, psme3, psmc1b])
+[40,72-74] (Additional file 1: Table S1) and (2) 
+inflammation and acute phase stress response (genes encoding 
+protein serum amyloid A [zgc:103580], the pro-inflammatory
+cytokine il1b, atf3, c/epb) [75,76] (Table 3, Additional file 1:
+Table S1, and Figure 5B). The negative regulator atf3
+dampens the inflammation response by antagonizing the
+pro-inflammatory factor NF-κB, while c/ebp is robustly
+up-regulated by pro-inflammatory signals, including il1b,
+and functions as an enhancer of the inflammatory
+response [57,75-79].
+The transcription factor analysis in chromium poisoning
+is consistent with the chromium-induced metabolic
+depression reported in the gene ontology analysis
+(Figures 4 and 5A). Chromium poisoning caused 
+down-regulation of an entire set of genes encoding important
+regulators of energy metabolism, glucose, cholesterol,
+amino acid, and fatty acid metabolism and transport in
+many tissues, including the intestine and liver, including
+hnf3α, hnf3β, and hnf1β [80] (Figure 5A). hnf4α is a key
+transcriptional target of both hnf3α and gata-6 [81,82]
+which represents a master transcriptional activator of
+energy metabolism genes in multiple tissue types [83].
+Orphan nuclear receptors with putative roles in gut
+Page 11 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+and liver metabolism of nucleic acids (e.g., tcf8; Figure 5A),
+carbohydrates and lipids (bmal1, ppargc1; Figure 5A), and
+sterol and steroid hormones (lxr-α, coup-tfi; Figure 5A)
+were also down-regulated [84-87] (Figure 5A). Genes
+including g6pca, gys2, fabp1a, and abcc2 (involved in
+glucose metabolism, lipid metabolism, and canalicular
+bile acid transport, respectively) (Figure 5B and
+Additional file 1: Table S1) [88]. Inflammation and acute
+phase response genes were, for the most part, up-regulated
+by chromium, including pro-inflammatory genes
+(pcna, nfkbiaa, hamp2, ptgs2a, ptgs2b, ptges) (Figure 5B
+and Additional file 1: Table S1) and genes encoding
+multiple dual-specificity phosphatases which modulate
+inflammatory MAPK cascades (dusp2, dusp5, dusp1)
+(Figure 5B and Additional file 1: Table S1). Similar to
+nickel, chromium also up-regulated il1b, c/ebp, and atf3
+(Figure 5B and Additional file 1: Table S1). Chromium
+also up-regulated cell cycle regulation and apoptosis genes
+not enhanced in the other metals, including genes
+involved in the G1/S and G2/M cell-cycle checkpoints
+(ccne2, rrm2; Additional file 1: Table S1 and Figure 5B;
+[89]) and in the RAD6-dependent DNA repair pathway
+(pcna) [90,91] (Figure 5B). The transcription factor
+p53 was also up-regulated (Figure 5A), which mediates
+expression of protective genes that repair damaged
+DNA, power the immune system, arrest the proliferation of
+damaged cells, and induce apoptosis [92], as well as guards
+the cell-cycle checkpoint by inducing apoptosis under 
+conditions of excessive oxidative stress and DNA damage [93].
+The transcriptomic results for chromium in particular are
+consistent with the observed intestinal mucosa atrophy and
+mild necrosis observed in the histopathology (Figure 2A).
+Chromium is readily absorbed by the intestinal tissue. Since
+gut mucosa represents the primary site for whole-body
+amino acid metabolism [55,56], mucosal atrophy can
+significantly diminish the gut’s amino acid metabolic
+capacity and decrease amino acid requirements and
+use. This hypothesis is supported by the observed
+down-regulation of liver-specific genes after chromium
+exposure. Robust, differential down-regulation of key
+mediators of glucose metabolism (g6pca, gys2), lipid
+metabolism (fabp1), and canalicular bile acid transport
+(abcc2) (Figure 5B) suggest metabolic perturbations in the
+liver and/or gut-liver axis [88]. Taken together, the 
+biological processes, transcription factors and histopathology
+data may suggest modulation of intestinal metabolic
+pathways due to chromium exposure. It is unclear
+whether this is a direct consequence of chromium
+poisoning or a secondary consequence of 
+chromium-mediated decreases in feeding over the 24 hr exposure
+period. A previous study in freshwater trout exposed to
+nonlethal hexavalent chromium (1/10 of the 24 hr LC50)
+reported intestinal atrophy and decreased brush border
+enzymatic activities consistent with decreased feeding
+Page 12 of 15
+behavior [94]. However, since animal care personnel
+did not observe changes in feeding behavior, it is
+more likely that chromium mediates specific perturbations
+to the gut microenvironment that ultimately trigger
+metabolic depression.
+Limitations
+The technical approaches used in this work have both
+strengths and weaknesses. In using whole adult organism
+RNA preparations, we introduce the ability to detect
+toxicity responses at the whole organism level. We did
+obtain gene expression level data that corroborates the
+histological observations in some cases (e.g., 
+chromium-induced gut histopathology), but we acknowledge that the
+detection of clear organ-specific effects was not possible
+with this approach because of the dilution of expression
+signals for genes that have highly tissue-specific 
+distributions. Highly similar gene expression profiles are
+probably shared by multiple tissues, making it difficult
+to differentiate among toxicity signatures for individual
+target organs from the system-wide response.
+Although we measured tank levels of each respective
+metal, we acknowledge that this does not necessarily
+indicate bioavailable dose, and that the comparison
+across studies would require internal measurement of
+metal concentration within the organism. The lack of a
+dose-response relationship in histopathology is a significant
+limitation to this study. The high doses required to observe
+histopathologic changes in the acute time interval of the
+study precluded identification of subtle, dose-dependent
+and tissue-specific responses. It is striking that despite
+establishing an exposure regimen from a 96 hr mortality
+curve, there were few differences in gene responses across
+the exposure levels, even though we tested gene responses
+48 hr earlier than the mortality curve end points. This 
+effect could be the result of selecting doses in a nearly vertical
+region of the typically sigmoidal dose-response curve with
+little difference between the LC20 and LC60 doses. Lower
+doses or longer time intervals could better delineate the 
+difference in histopathologic response in future experiments.
+This observation also suggests that range-finding for
+mechanistic toxicity studies such as this one should
+not solely be based on mortality data. Some method of
+establishing dose responsiveness based on gene expression
+or other molecular endpoints are necessary as well.
+Nonetheless, the present study supports the use of
+transcriptomics in the intact organism to predict candidate
+genes associated with toxicity endpoints in response to an
+external chemical insult. Using this approach, we have
+identified novel gene and transcription factor targets that
+mediate the response to metal toxicity. Finally, these
+new players provide hypothesis-generating targets for
+future evaluation in classically designed studies of the
+mechanisms of heavy metal toxicity.
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Conclusion
+We developed an exposure paradigm for comparing the
+effects of various metals with varying toxicity mechanisms
+of action using whole animal transcriptomics in the 
+zebrafish vertebrate model. Using this technique, we identified
+changes in expression of groups of genes consistent with
+adaptive responses to toxicity induced by nickel, cobalt, or
+chromium, including acute phase response, cell cycle
+regulation, apoptosis, and metabolic depression, among
+others. Histopathological evaluations corroborate the
+toxicity endpoints derived from gene-level based pathway
+analysis for chromium and cobalt.
+Many of the genes enriched for biological processes’
+gene responses reported in this study are consistent with
+known physiological endpoints in there metals. Nickel
+induces oxidative damage to DNA and proteins; genes
+were up-regulated for biological processes including
+protein synthesis and translation, and cell-cycle regulation
+and apoptosis. Cobalt induces hypoxia; genes regulating
+biological processes of redox response, protein synthesis
+and translation, and inflammation and acute phase stress
+response were up-regulated. Chromate is a strong
+oxidizing agent and damages DNA integrity; biomolecular
+pathways and genes associated with inflammation and
+acute phase stress response were up-regulated and gene
+signatures suggested metabolic depression occurred.
+Further, a number of novel transcription factors that
+mediate gene induction at the transcriptional level in
+response to metal exposures were identified.
+Enrichment of several functional categories of genes
+plausibly involved in a variety of biological responses
+was identified using unsupervised gene ontology analysis
+of metal-specific gene responses. Unique histopathological
+alterations were identified for each metal exposure,
+consistent with metal-specific toxicity in target organs and
+tissues. For nickel, we find that our toxicogenomic
+approach using whole organism RNA preparations may
+be more sensitive for identifying targets of nickel toxicity
+than the classic toxicology approach of histopathology.
+These results suggest that toxicogenomics in the whole
+adult zebrafish may provide a robust model for identifying
+leading indicators of toxicity and intervention approaches
+for exposure to toxic chemicals.
+Using a transcriptomics approach, we identify a number
+of upstream modulators of metal-induced gene expression.
+A number of these transcription factors have been 
+previously implicated in triggering metal-specific gene responses
+to toxicity (p53, Hif1a). Multiple novel mediators of the
+toxic response to nickel, cobalt, or chromium in
+whole adult zebrafish, including Xbp1, various Hnf
+members, and Gata6 were also identified. These findings
+provide additional mechanistic information on metal
+toxicity mechanisms and highlight novel potential points
+of intervention for treatment of metal poisoning.
+Additional file
+Additional file 1: Final gene set. Final gene set used for analysis - 7,909
+genes with 3 additional tabs each one containing a list of differentially
+expressed genes (DEG) per chemical with fold change data. A gene was
+considered DE if it was significantly (FDR = 0.01) altered in expression by at
+least 1.8 fold in response to chromium (Cr), cobalt (Co), or nickel (Ni) versus
+untreated controls. Microsoft Excel workbook.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+Conceived and designed the experiments: DAJ, JAL. Performed zebrafish
+exposures, sample processing and microarray analysis: CEB. Analyzed the
+data: NH, JAL, DAJ. Wrote the paper: NH, JAL, DAJ, CEB, DLI, JDS. All authors
+read and approved the final manuscript.
+Acknowledgements
+This research was supported in part by an appointment to the Postgraduate
+Research Participation Program at the U.S. Army Center for Environmental
+Health Research (USACEHR) administered by the Oak Ridge Institute for
+Science and Education through an interagency agreement between the U.S.
+Department of Energy and USACEHR.
+Disclaimer
+Opinions, interpretations, conclusions, and recommendations are those of
+the authors and are not necessarily endorsed by the U.S. Army. Research was
+conducted in compliance with the Animal Welfare Act, and other Federal
+statutes and regulations relating to animals and experiments involving
+animals and adheres to principles stated in the Guide for the Care and Use
+of Laboratory Animals (NRC 2011) in facilities that are fully accredited by the
+Association for the Assessment and Accreditation of Laboratory Animal Care,
+International. The research described herein was sponsored by the U.S. Army
+Medical Research and Materiel Command, Military Operational Medicine
+Research Program. Citations of commercial organizations or trade names in
+this report do not constitute an official Department of the Army
+endorsement or approval of the products or services of these organizations.
+Author details
+1ORISE Postdoctoral Fellow, Ft. Detrick, Frederick, Maryland 21702, USA.
+2Biomarkers Program, US Army Center for Environmental Health Research,
+Fort Detrick, Frederick, Maryland 21702-5010, USA. 3Pulmonary Health
+Program, US Army Center for Environmental Health Research, Fort Detrick,
+Frederick, Maryland 21702-5010, USA. 4Excet Inc., Fort Detrick, Frederick,
+Maryland 21702-5010, USA. 5ORISE, Fort Detrick, Frederick, Maryland
+21702-5010, USA. 6Environmental Health Program, US Army Center for
+Environmental Health Research, Fort Detrick, Frederick, Maryland, USA.
+Received: 26 September 2013 Accepted: 27 February 2014
+Published: 10 March 2014
+References
+1.
+Hill AJ, Teraoka H, Heideman W, Peterson RE: Zebrafish as a model
+vertebrate for investigating chemical toxicity. Toxicol Sci 2005, 86(1):6-19.
+2.
+Spitsbergen JM, Kent ML: The state of the art of the zebrafish model for
+toxicology and toxicologic pathology research-advantages and current
+limitations. Toxicol Pathol 2003, 31(Suppl):62-87.
+3.
+Carvan MJ III, Dalton TP, Stuart GW, Nebert DW: Transgenic zebrafish as
+sentinels for aquatic pollution. Ann N Y Acad Sci 2000, 919:133-147. 133-147.
+4.
+Carvan MJ III, Sonntag DM, Cmar CB, Cook RS, Curran MA, Miller GL:
+Oxidative stress in zebrafish cells: potential utility of transgenic zebrafish
+as a deployable sentinel for site hazard ranking. Sci Total Environ 2001,
+274(1-3):183-196.
+5.
+Amanuma K, Takeda H, Amanuma H, Aoki Y: Transgenic zebrafish for
+detecting mutations caused by compounds in aquatic environments.
+Nat Biotechnol 2000, 18(1):62-65.
+6.
+Ng HBG, Lam SH, Sukardi H, Gong Z: Potential applications of transgenic
+fish to environmental monitoring and toxicology. In Aquaculture
+Page 13 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Biotechnology. 1st edition. Edited by Fletcher GL, Rise ML. West Sussex:
+John Wiley & Sons, Ltd; 2012:267-280.
+7.
+Reichert K, Menzel R: Expression profiling of five different xenobiotics
+using a Caenorhabditis elegans whole genome microarray.
+Chemosphere 2005, 61(2):229-237.
+8.
+Ruden DM, Chen L, Possidente D, Possidente B, Rasouli P, Wang L, Lu X,
+Garfinkel MD, Hirsch HVB, Page GP: Genetical toxicogenomics in
+Drosophila identifies master-modulatory loci that are regulated by
+developmental exposure to lead. Neurotoxicology 2009, 30(6):898-914.
+9.
+Neumann NF, Galvez F: DNA microarrays and toxicogenomics:
+applications for ecotoxicology? Biotechnol Adv 2002, 20(5-6):391-419.
+10. Poynton HC, Varshavsky JR, Chang B, Cavigiolio G, Chan S, Holman PS,
+Loguinov AV, Bauer DJ, Komachi K, Theil EC: Daphnia magna
+ecotoxicogenomics provides mechanistic insights into metal toxicity.
+Environ Sci Technol 2007, 41(3):1044-1050.
+11. Martyniuk CJ, Houlahan J: Assessing gene network stability and individual
+variability in the fathead minnow (Pimephales promelas) transcriptome.
+Comp Biochem Physiol Part D Genomics Proteomics 2013, 8(4):283-291.
+12. Lam SH, Mathavan S, Tong Y, Li H, Karuturi RKM, Wu Y, Vega VB, Liu ET,
+Gong Z: Zebrafish whole-adult-organism chemogenomics for large-scale
+predictive and discovery chemical biology. PLoS Genet 2008,
+4(7):e1000121.
+13. Valko M, Morris H, Cronin MTD: Metals, toxicity and oxidative stress.
+Curr Med Chem 2005, 12(10):1161-1208.
+14. Fu H, Boffetta P: Cancer and occupational exposure to inorganic lead
+compounds - a metaanalysis of published data. Occup Environ Med 1995,
+52(2):73-81.
+15. Steenland K, Loomis D, Shy C, Simonsen N: Review of occupational lung
+carcinogens. Am J Ind Med 1996, 29(5):474-490.
+16. Integrated Risk Information System (IRIS). [http://www.epa.gov/iris/].
+17. Simmons SO, Fan C-Y, Ramabhadran R: Cellular stress response pathway
+system as a sentinel ensemble in toxicological screening. Toxicol Sci 2009,
+111(2):202-225.
+18. Beyersmann D, Hechtenberg S: Cadmium, gene regulation, and cellular
+signalling in mammalian cells. Toxicol Appl Pharmacol 1997,
+144(2):247-261.
+19. Salnikow K, Zhitkovich A: Genetic and epigenetic mechanisms in metal
+carcinogenesis and cocarcinogenesis: nickel, arsenic, and chromium.
+Chem Res Toxicol 2007, 21(1):28-44.
+20. Janssens TKS, Roelofs D, van Straalen NM: Molecular mechanisms of heavy
+metal tolerance and evolution in invertebrates. Insect Science 2009, 16(1):3-18.
+21. Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA,
+Paulovich A, Pomeroy SL, Golub TR, Lander ES, Mesirov JP: Gene set
+enrichment analysis: a knowledge-based approach for interpreting
+genome-wide expression profiles. Proc Natl Acad Sci U S A 2005,
+102(43):15545-15550.
+22. Athikesavan S, Vincent S, Ambrose T, Velmurugan B: Nickel induced
+histopathological changes in the different tissues of freshwater fish,
+Hypophthalmichthys molitrix (Valenciennes). J Environ Biol 2006,
+27(2):391-395.
+23. Nath K, Kumar N: Nickel-induced histopathological alterations in the gill
+architecture of a tropical fresh-water perch, colisa-fasciatus (bloch and schn).
+Sci Total Environ 1989, 80(2-3):293-296.
+24. Wang H, Tan JT, Emelyanov A, Korzh V, Gong Z: Hepatic and extrahepatic
+expression of vitellogenin genes in the zebrafish, Danio rerio. Gene 2005,
+356:91-100.
+25. Gong Z, Yan T, Liao J, Lee SE, He J, Hew CL: Rapid identification and
+isolation of zebrafish cDNA clones. Gene 1997, 201(1-2):87-98.
+26. Peng X, Wood CL, Blalock EM, Chen KC, Landfield PW, Stromberg AJ:
+Statistical implications of pooling RNA samples for microarray
+experiments. BMC Bioinforma 2003, 4:26.
+27. Kendziorski C, Irizarry RA, Chen KS, Haag JD, Gould MN: On the utility of
+pooling biological samples in microarray experiments. Proc Natl Acad Sci
+U S A 2005, 102(12):4252-4257.
+28. Kendziorski CM, Zhang Y, Lan H, Attie AD: The efficiency of pooling mRNA
+in microarray experiments. Biostatistics 2003, 4(3):465-477.
+29. Zhang SD, Gant TW: A statistical framework for the design of microarray
+experiments and effective detection of differential gene expression.
+Bioinformatics 2004, 20(16):2821-2828.
+30. Chen K, Rajewsky N: The evolution of gene regulation by transcription
+factors and microRNAs. Nat Rev Genet 2007, 8(2):93-103.
+31.
+Drǎghici S, Khatri P, Martins RP, Ostermeier GC, Krawetz SA: Global
+functional profiling of gene expression. Genomics 2003, 81(2):98-104.
+32.
+Casillas E, Myers M, Ames WE: Relationship of serum chemistry values to
+liver and kidney histopathology in english sole (Parophrys-vetulus) after
+acute exposure to carbon-tetrachloride. Aquat Toxicol 1983, 3(1):61-78.
+33.
+Ptashynski MD, Klaverkamp JF: Accumulation and distribution of dietary
+nickel in lake whitefish (Coregonus clupeaformis). Aquat Toxicol 2002,
+58(3-4):249-264.
+34.
+Ptashynski MD, Pedlar RM, Evans RE, Baron CL, Klaverkamp JF: Toxicology of
+dietary nickel in lake whitefish (Coregonus clupeaformis). Aquat Toxicol
+2002, 58(3-4):229-247.
+35.
+Mishra AK, Mohanty B: Chronic exposure to sublethal hexavalent
+chromium affects organ histopathology and serum cortisol profile of a
+teleost, Channa punctatus (Bloch). Sci Total Environ 2009, 407(18):5031-5038.
+36.
+Parvathi K, Sivakumar P, Sarasu C: Effects of chromium on histological
+alterations of gill, liver and kidney of fresh water teleost, Cyprinus carpio
+(L.). J Fisheries Int 2011, 6(1):1-5.
+37.
+Bucher JR, Elwell MR, Thompson MB, Chou BJ, Renne R, Ragan HA:
+Inhalation toxicity studies of cobalt sulfate in F344N rats and B6C3F1
+mice. Fundam Appl Toxicol 1990, 15(2):357-372.
+38.
+Maines MD, Kappas A: Metals as regulators of heme metabolism.
+Science 1977, 198(4323):1215-1221.
+39.
+Salnikow K, Su W, Blagosklonny MV, Costa M: Carcinogenic metals induce
+hypoxia-inducible factor-stimulated transcription by reactive oxygen
+species-independent mechanism. Cancer Res 2000, 60(13):3375-3378.
+40.
+Njalsson R, Norgren S: Physiological and pathological aspects of GSH
+metabolism. Acta Paediatr 2005, 94(2):132-137.
+41.
+Koskinen H, Pehkonen P, Vehniainen E, Krasnov A, Rexroad C, Afanasyev S,
+Molsa H, Oikari A: Response of rainbow trout transcriptome to model
+chemical contaminants. Biochem Biophys Res Commun 2004,
+320(3):745-753.
+42.
+Maier MSV, Legare ME, Hanneman WH: The aryl hydrocarbon receptor
+agonist 3,3′,4,4′,5-pentachlorobiphenyl induces distinct patterns of gene
+expression between hepatoma and glioma cells: chromatin remodeling
+as a mechanism for selective effects. Neurotoxicology 2007, 28(3):594-612.
+43.
+Williams TD, Diab A, Ortega F, Sabine VS, Godfrey RE, Falciani F, Chipman JK,
+George SG: Transcriptomic responses of European flounder (Platichthys flesus)
+to model toxicants. Aquat Toxicol 2008, 90(2):83-91.
+44.
+Sanchez BC, Carter B, Hammers HR, Sepúlveda MS: Transcriptional
+response of hepatic largemouth bass (Micropterus salmoides) mRNA
+upon exposure to environmental contaminants. J Appl Toxicol 2011,
+31(2):108-116.
+45.
+Romero G, Lasheras B, Sainz Suberviola L, Cenarruzabeitia E: Protective
+effects of calcium channel blockers in carbon tetrachloride-induced liver
+toxicity. Life Sci 1994, 55(13):981-990.
+46.
+Chung H, Kim H-J, Jang K-S, Kim M, Yang J, Kim JH, Lee Y-S, Kong G:
+Comprehensive analysis of differential gene expression profiles on
+diclofenac-induced acute mouse liver injury and recovery. Toxicol Lett
+2006, 166(1):77-87.
+47.
+Eisler R: Nickel Hazards to Fish, Wildlife, and Invertebrates: A Synoptic Review.
+Laurel: U.S. Department of the Interior, U.S. Geological Survey, Patuxent
+Wildlife Research Center; 1998.
+48.
+Brix KV, Keithly J, DeForest DK, Laughlin J: Acute and chronic toxicity of
+nickel to rainbow trout (Oncorhynchus mykiss). Environ Toxicol Chem
+2004, 23(9):2221-2228.
+49.
+Pane E, Richards J, Wood C: Acute waterborne nickel toxicity in the
+rainbow trout (Oncorhynchus mykiss) occurs by a respiratory rather than
+ionoregulatory mechanism. Aquat Toxicol 2003, 63(1):65-82.
+50.
+Kubrak OI, Husak VV, Rovenko BM, Storey JM, Storey KB, Lushchak VI:
+Cobalt-induced oxidative stress in brain, liver and kidney of goldfish
+Carassius auratus. Chemosphere 2011, 85(6):983-989.
+51.
+Zhang Z, Huang CS, Li JX, Leonard SS, Lanciotti R, Butterworth L, Shi XL:
+Vanadate-induced cell growth regulation and the role of reactive
+oxygen species. Arch Biochem Biophys 2001, 392(2):311-320.
+52.
+Lushchak VI: Environmentally induced oxidative stress in aquatic animals.
+Aquat Toxicol 2011, 101(1):13-30.
+53.
+Koj A: Initiation of acute phase response and synthesis of cytokines.
+Biochim Biophys Acta 1996, 1317(2):84-94.
+54.
+Hütter R, Niederberger P: Biochemical pathways and mechanisms
+nitrogen, amino acid, and carbon metabolism. Biotechnol Adv 1983,
+1(2):179-191.
+Page 14 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+55. Johnson LR, Lichtenberger LM, Copeland EM, Dudrick SJ, Castro GA: Action
+of gastrin on gastrointestinal structure and function.
+Gastroenterology 1975, 68(5 Pt 1):1184-1192.
+56. Bertolo RFP, Chen CZL, Pencharz PB, Ball RO: Intestinal atrophy has a
+greater impact on nitrogen metabolism than liver by-pass in piglets fed
+identical diets via gastric, central venous or portal venous routes. J Nutr
+1999, 129(5):1045-1052.
+57. You ZY, Komamura Y, Ishimi Y: Biochemical analysis of the intrinsic 
+Mcm4-Mcm6-Mcm7 DNA helicase activity. Mol Cell Biol 1999, 19(12):8003-8015.
+58. Madine MA, Swietlik M, Pelizon C, Romanowski P, Mills AD, Laskey RA: The
+roles of the MCM, ORC, and Cdc6 proteins in determining the replication
+competence of chromatin in quiescent cells. J Struct Biol 2000,
+129(2-3):198-210.
+59. Musahl C, Holthoff HP, Lesch R, Knippers R: Stability of the replicative
+Mcm3 protein in proliferating and differentiating human cells. Exp Cell
+Res 1998, 241(1):260-264.
+60. Stoeber K, Tisty TD, Happerfield L, Thomas GA, Romanov S, Bobrow L,
+Williams ED, Williams GH: DNA replication licensing and human cell
+proliferation. J Cell Sci 2001, 114(11):2027-2041.
+61. Tu BP, Weissman JS: Oxidative protein folding in eukaryotes: mechanisms
+and consequences. J Cell Biol 2004, 164(3):341-346.
+62. Tu BP, Ho-Schleyer SC, Travers KJ, Weissman JS: Biochemical basis of
+oxidative protein folding in the endoplasmic reticulum. Science 2000,
+290(5496):1571-1574.
+63. Iwai K, Naganuma A, Kuge S: Peroxiredoxin Ahp1 acts as a receptor for
+alkylhydroperoxides to induce disulfide bond formation in the Cad1
+transcription factor. J Biol Chem 2010, 285(14):10597-10604.
+64. Salnikow K, Donald SP, Bruick RK, Zhitkovich A, Phang JM, Kasprzak KS:
+Depletion of intracellular ascorbate by the carcinogenic metals nickel
+and cobalt results in the induction of hypoxic stress. J Biol Chem 2004,
+279(39):40337-40344.
+65. Permenter MG, Lewis JA, Jackson DA: Exposure to nickel, chromium, or
+cadmium causes distinct changes in the gene expression patterns of a
+rat liver derived cell line. PLoS One 2011, 6(11):e27730.
+66. Maxwell P, Salnikow K: HIF-1, an oxygen and metal responsive
+transcription factor. Cancer Biol Ther 2004, 3(1):29-35.
+67. Gazit G, Hung G, Chen XK, Anderson WF, Lee AS: Use of the glucose
+starvation-inducible glucose-regulated protein 78 promoter in suicide
+gene therapy of murine fibrosarcoma. Cancer Res 1999, 59(13):3100-3106.
+68. Koong AC, Auger EA, Chen EY, Giaccia AJ: The regulation of GRP78 and
+messenger RNA levels by hypoxia is modulated by protein kinase C
+activators and inhibitors. Radiat Res 1994, 138(1):S60.
+69. Lee AS: The ER chaperone and signaling regulator GRP78/BiP as a
+monitor of endoplasmic reticulum stress. Methods 2005, 35(4):373-381.
+70. Mori K: Frame switch splicing and regulated intramembrane proteolysis: key
+words to understand the unfolded protein response. Traffic 2003, 4(8):519-528.
+71. Schroder M, Kaufman RJ: ER stress and the unfolded protein response.
+Mutat Res 2005, 569(1-2):29-63.
+72. Ciechanover A: Proteolysis: from the lysosome to ubiquitin and the
+proteasome. Nat Rev Mol Cell Biol 2005, 6(1):79-86.
+73. Finley D: Recognition and Processing of Ubiquitin-Protein Conjugates by
+the Proteasome. In Annu Rev Biochem, Volume 78. Palo Alto: Annual
+Reviews; 2009:477-513.
+74. Pickart CM, Cohen RE: Proteasomes and their kin: Proteases in the
+machine age. Nat Rev Mol Cell Biol 2004, 5(3):177-187.
+75. Zheng H, Fletcher D, Kozak W, Jiang M, Hofmann KJ, Conn CA, Soszynski D,
+Grabiec C, Trumbauer ME, Shaw A, Kostura MJ, Stevens K, Rosen H, North RJ,
+Chen HY, Tocci MJ, Kluger MJ, Van der Ploeg LHT: Resistance to fever induction
+and impaired acute-phase response in interleukin-1 beta-deficient mice.
+Immunity 1995, 3(1):9-19.
+76. Fantuzzi G, Ku G, Harding MW, Livingston DJ, Sipe JD, Kuida K, Flavell RA,
+Dinarello CA: Response to local inflammation of IL-1 beta-converting
+enzyme-deficient mice. J Immunol 1997, 158(4):1818-1824.
+77. Burgess-Beusse BL, Darlington GJ: C/EBP alpha is critical for the neonatal
+acute-phase response to inflammation. Mol Cell Biol 1998, 18(12):7269-7277.
+78. Gilchrist M, Thorsson V, Li B, Rust AG, Korb M, Kennedy K, Hai T, Bolouri H,
+Aderem A: Systems biology approaches identify ATF3 as a negative
+regulator of Toll-like receptor 4. Nature 2006, 441(7090):173-178.
+79. Lekstrom-Himes J, Xanthopoulos KG: Biological role of the CCAAT
+enhancer-binding protein family of transcription factors. J Biol Chem
+1998, 273(44):28545-28548.
+80.
+Costa RH, Kalinichenko VV, Holterman A-XL, Wang X: Transcription factors
+in liver development, differentiation, and regeneration. Hepatology 2003,
+38(6):1331-1347.
+81.
+Morrisey EE, Tang ZH, Sigrist K, Lu MM, Jiang F, Ip HS, Parmacek MS: GATA6
+regulates HNF4 and is required for differentiation of visceral endoderm
+in the mouse embryo. Genes Dev 1998, 12(22):3579-3590.
+82.
+Duncan SA, Navas MA, Dufort D, Rossant J, Stoffel M: Regulation of a
+transcription factor network required for differentiation and metabolism.
+Science 1998, 281(5377):692-695.
+83.
+Sladek FM, Zhong WM, Lai E, Darnell JE: Liver-enriched transcription factor
+Hnf-4 is a novel member of the steroid-hormone receptor superfamily.
+Genes Dev 1990, 4(12B):2353-2365.
+84.
+Esterbauer H, Oberkofler H, Linnemayr V, Iglseder B, Hedegger M,
+Wolfsgruber P, Paulweber B, Fastner G, Krempler F, Patsch W: Peroxisome
+proliferator-activated receptor-gamma coactivator-1 gene locus - Associations
+with obesity indices in middle-aged women. Diabetes 2002, 51(4):1281-1286.
+85.
+Inoue I, Shinoda Y, Ikeda M, Hayashi K, Kanazawa K, Nomura M, Matsunaga T,
+Xu HY, Kawai S, Awata T, Komoda T, Katayama S: CLOCK/BMAL1 is involved in
+lipid metabolism via transactivation of the peroxisome proliferator-activated
+receptor (PPAR) response element. J Atheroscler Thromb 2005, 12(3):169-174.
+86.
+Janowski BA, Willy PJ, Devi TR, Falck JR, Mangelsdorf DJ: An oxysterol
+signalling pathway mediated by the nuclear receptor LXR alpha.
+Nature 1996, 383(6602):728-731.
+87.
+Hoshizaki DK, Blackburn T, Miles K, Sweis R: Fat-cell determination and
+differentiation - identification of genes necessary for fat-cell gene-expression.
+J Cell Biochem 1994, 18a:161-161.
+88.
+Zeuzem S: Gut-liver axis. Int J Colorectal Dis 2000, 15(2):59-82.
+89.
+Giglia-Mari G, Zotter A, Vermeulen W: DNA damage response. Cold Spring
+Harb Perspect Biol 2011, 3(1):a000745.
+90.
+Hoege C, Pfander B, Moldovan GL, Pyrowolakis G, Jentsch S: RAD6-dependent
+DNA repair is linked to modification of PCNA by ubiquitin and SUMO.
+Nature 2002, 419(6903):135-141.
+91.
+Chong JP, Blow JJ: DNA replication licensing factor. Prog Cell Cycle Res
+1996, 2:83-90.
+92.
+Klaunig JE, Kamendulis LM: The role of oxidative stress in carcinogenesis.
+Annu Rev Pharmacol Toxicol 2004, 44:239-267.
+93.
+Vogelstein B, Lane D, Levine AJ: Surfing the p53 network. Nature 2000,
+408(6810):307-310.
+94.
+Boge G, Ndiaye P, Roche H, Peres G: Effects of Non lethal concentrations
+of hexavalent chromium on intestinal enzymology of salmo-gairdneri
+and dicentrarchus-labrax (pisces). J Physiol Paris 1988, 83(2):57-63.
+doi:10.1186/2050-6511-15-15
+Cite this article as: Hussainzada et al.: Whole adult organism
+transcriptional profiling of acute metal exposures in male Zebrafish.
+BMC Pharmacology and Toxicology 2014 15:15.
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color figure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+Page 15 of 15
+
+>>>section: acknowledgements
+Acknowledgements
+This research was supported in part by an appointment to the Postgraduate
+Research Participation Program at the U.S. Army Center for Environmental
+Health Research (USACEHR) administered by the Oak Ridge Institute for
+Science and Education through an interagency agreement between the U.S.
+Department of Energy and USACEHR.
+Disclaimer
+Opinions, interpretations, conclusions, and recommendations are those of
+the authors and are not necessarily endorsed by the U.S. Army. Research was
+conducted in compliance with the Animal Welfare Act, and other Federal
+statutes and regulations relating to animals and experiments involving
+animals and adheres to principles stated in the Guide for the Care and Use
+of Laboratory Animals (NRC 2011) in facilities that are fully accredited by the
+Association for the Assessment and Accreditation of Laboratory Animal Care,
+International. The research described herein was sponsored by the U.S. Army
+Medical Research and Materiel Command, Military Operational Medicine
+Research Program. Citations of commercial organizations or trade names in
+this report do not constitute an official Department of the Army
+endorsement or approval of the products or services of these organizations.
+Author details
+1ORISE Postdoctoral Fellow, Ft. Detrick, Frederick, Maryland 21702, USA.
+2Biomarkers Program, US Army Center for Environmental Health Research,
+Fort Detrick, Frederick, Maryland 21702-5010, USA. 3Pulmonary Health
+Program, US Army Center for Environmental Health Research, Fort Detrick,
+Frederick, Maryland 21702-5010, USA. 4Excet Inc., Fort Detrick, Frederick,
+Maryland 21702-5010, USA. 5ORISE, Fort Detrick, Frederick, Maryland
+21702-5010, USA. 6Environmental Health Program, US Army Center for
+Environmental Health Research, Fort Detrick, Frederick, Maryland, USA.
+Received: 26 September 2013 Accepted: 27 February 2014
+Published: 10 March 2014
+
+>>>section: abstract
+Abstract
+Background: A convergence of technological breakthroughs in the past decade has facilitated the development of
+rapid screening tools for biomarkers of toxicant exposure and effect. Platforms using the whole adult organism to
+evaluate the genome-wide response to toxicants are especially attractive. Recent work demonstrates the feasibility
+of this approach in vertebrates using the experimentally robust zebrafish model. In the present study, we evaluated
+gene expression changes in whole adult male zebrafish following an acute 24 hr high dose exposure to three
+metals with known human health risks. Male adult zebrafish were exposed to nickel chloride, cobalt chloride or
+sodium dichromate concentrations corresponding to their respective 96 hr LC20, LC40 and LC60. Histopathology
+was performed on a subset of metal-exposed zebrafish to phenotypically anchor transcriptional changes associated
+with each metal.
+Results: Comparative analysis identified subsets of differentially expressed transcripts both overlapping and unique
+to each metal. Application of gene ontology (GO) and transcription factor (TF) enrichment algorithms revealed a
+number of key biological processes perturbed by metal poisonings and the master transcriptional regulators
+mediating gene expression changes. Metal poisoning differentially activated biological processes associated with
+ribosome biogenesis, proteosomal degradation, and p53 signaling cascades, while repressing oxygen-generating
+pathways associated with amino acid and lipid metabolism. Despite appreciable effects on gene regulation, nickel
+poisoning did not induce any morphological alterations in male zebrafish organs and tissues. Histopathological
+effects of cobalt remained confined to the olfactory system, while chromium targeted the gills, pharynx, and
+intestinal mucosa. A number of enriched transcription factors mediated the observed gene response to metal
+poisoning, including known targets such as p53, HIF1α, and the myc oncogene, and novel regulatory factors such as
+XBP1, GATA6 and HNF3β.
+Conclusions: This work uses an experimentally innovative approach to capture global responses to metal poisoning
+and provides mechanistic insights into metal toxicity.
+Keywords: Metals, Toxicity mechanisms, Zebrafish, Whole organism, Nickel, Chromium, Cobalt, Toxicogenomics
+Open Access
+Background
+Toxicogenomics is a powerful tool for evaluating toxicity
+profiles of known and potentially hazardous compounds.
+The zebrafish, a classic model for developmental toxicity,
+has recently proven to be an effective model organism for
+chemical screening [1,2] and environmental sentinel
+* Correspondence: jonathan.d.stallings.mil@mail.mil
+2Biomarkers Program, US Army Center for Environmental Health Research,
+Fort Detrick, Frederick, Maryland 21702-5010, USA
+6Environmental Health Program, US Army Center for Environmental Health
+Research, Fort Detrick, Frederick, Maryland, USA
+Full list of author information is available at the end of the article
+applications, including sewage testing and chemical
+hazard detection [3-6]. The low husbandry costs, small
+size, ease of genetic manipulation, and wealth of genome
+database resources distinguish the zebrafish as a highly
+promising model organism for toxicological studies.
+Responses to toxic insults usually affect multiple organs
+and tissues, supporting a role for gene profiling in the
+whole animal to evaluate toxic responses. Although whole
+organism toxicogenomics has routinely been conducted in
+invertebrate models such as the worm Caenorhabditis
+elegans and the fly Drosophila melanogaster [7-9] and
+in ecoindicator species such as Daphnia magna and
+© 2014 Hussainzada et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public
+Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this
+article, unless otherwise stated.
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Pimpephales promelas [10,11], only one study to date
+has evaluated whole organism gene profiling in adult
+zebrafish [12]. In this study, robust expression signatures
+differentiated between potent aryl hydrocarbon and
+estrogen receptor agonists, and accurately identified target
+tissues. We hypothesized that gene profiling in whole
+adult zebrafish could also be used to infer toxic responses
+to hazardous chemicals.
+Nickel, cobalt and chromium are environmentally
+ubiquitous metals with recognized human health hazards
+[13]. Recently, applications in mining, smelting, industry,
+medicine, and agriculture have increased the environmental
+distribution of these metals, elevating elevated exposure
+risk and incidences of occupational exposure. Nickel,
+cobalt, or chromium exposure can cause incapacitating
+acute toxicity and/or long-term damage (e.g., carcinogenesis)
+[14-16]. Primary mechanisms of metal toxicity include
+the production of free radicals which can trigger oxidative
+stress, induce mutagenesis by DNA-metal interactions, and
+impair protein function by covalently modifying proteins
+or competing with metal binding sites. Metal-derived
+reactive oxygen species (ROS) may perturb a number of
+tightly regulated cellular processes (e.g., cell growth and
+proliferation), activate transcription factors and genes, and
+trigger cellular adaptive programs including metal stress
+response, DNA repair mechanisms, and inflammation [17].
+Numerous studies have examined gene responses to
+acute poisoning by nickel, cobalt, or chromium [18,19], but
+besides a few studies in invertebrates, most of these studies
+measure gene responses in isolated tissues or tissue-derived
+cell lines [8,19-23]. Although analyzing isolated tissues is
+the ideal approach to unambiguously identify gene changes
+in an organ of interest, it is experimentally impractical to
+microdissect and to analyze all potentially affected organs
+from zebrafish individually. Alternatively, a whole-organism
+approach with post hoc gene ontology enrichment analysis
+has the advantage of predicting biomolecular pathways
+linked to observed histopathologic endpoints for informing
+later organ-specific experiments. In this study, we used a
+whole-organism approach exposing adult male zebrafish to
+increasing concentrations of nickel chloride, cobalt
+chloride, and sodium dichromate, and evaluating whole
+genome transcriptional responses using DNA microarrays.
+We identified differentially regulated biological processes
+using gene ontology enrichment analysis in order to infer
+toxicity mechanisms [21]. We also identified transcription
+factors upstream of the differentially enriched genes
+which are predicted to directly activate or repress
+gene expression in order to characterize regulatory
+processes involved in metal toxicity. Histopathological
+changes in the whole organism were compared with
+gene changes. Overall, our study provides (i) insight
+into transcriptomic changes corresponding to toxic
+indicators of metal poisoning and (ii) an experimental
+Page 2 of 15
+evaluation of whole organism toxicogenomics in the
+zebrafish model.
+
+>>>section: discussion
+
+>>>section: results
+Results and discussion
+Gross changes, behavior, and histopathology
+Figure 1 provides a schematic of the experimental
+paradigm. During range-finding metal exposure studies,
+fish were qualitatively assessed for gross changes in behavior
+Page 5 of 15
+and general appearance. At study termination, tissues
+were stained with hematoxylin and eosin (H&E) to
+determine the morphological changes associated with each
+metal poisoning at the concentrations listed in Table 1.
+Nickel-exposed fish appeared fuzzy, an appearance which
+is generally attributable to the excretion of mucus from
+goblet cells following irritation (personal communication,
+Dr. Donald K. Nichols). There were no deaths observed at
+any of the nickel concentrations nor did any of the nickel
+concentrations lead to any discernible histopathologic
+alterations (Table 2) although behavioral differences and
+skin abnormalities were qualitatively different between
+control and treated fish (i.e. sluggish swimming and fuzzy
+skin appearance). Previous studies indicate that gills, liver,
+and kidney are histopathological targets of nickel poisoning
+[22,23,32-34], but differences in fish species, exposure time
+and concentration could account for the discrepancy in the
+histopathological endpoints.
+Chromium poisoning caused visible changes in fish
+behavior and general appearance, including sluggish
+swimming, gasping and ulcerations near the tail in some
+fish. Four zebrafish died at the highest dose. Exposure to
+all three concentrations of chromium histopathologically
+affected the gills, intestine, and pharynx (see Table 2 and
+Figure 2A). Both gill and pharynx epithelium exhibited
+mononuclear cell infiltration, which is indicative of acute
+inflammation. The most prominent change in intestine
+was moderate to moderately severe atrophy of the mucosal
+folds and a mild infiltration of the intestinal lamina propria
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Page 6 of 15
+Morphological alterations
+No significant changes observed in any tissues examined.
+Acute damage only to the olfactory organs including various inflammatory, degenerative, metaplastic, and necrotic lesions extending
+from the nasal cavity to the lungs. Intranasal lesions include olfactory epithelium necrosis (5 L, 5 M, 5H), lymphocytic inflammation
+(3 L, 4 M, 4 H), reactive hyperplasia (0 L, 0 M, 1 H), and olfactory lamellae fusion (0 L, 1 M, 3 H).
+Acute damage only to the gills, intestine, and pharynx. Gills exhibited multifocal lesions consisting of lamellar fusion (4 L, 4 M, 5 H),
+epithelial hyperplasia (3 L, 4 M, 5 H), mononuclear cell infiltration (1 C, 4 L, 4 M, 5 H), epithelial necrosis (0 L, 4 M, 5 H), presence of
+thrombi in vessels (0 L, 4 M, 3 H) and hemorrhage (0 L, 2 M, 3 H). Intestine exhibits moderate to moderately severe atrophy of the
+mucosal folds (5 L, 5 M, 5 H), mild mononuclear infiltration of the lamina propria (5 L, 5 M, 5H) and mild necrosis of mucosal epithelium
+(2 L, 3 M, 3 H). Pharynx exhibits epithelial atrophy characterized by decreased mucosal thickness and loss of mucous secreting cells; also
+accompanied by mononuclear cell infiltration (0 L, 2 M, 4 H). Necrosis of pharyngeal epithelium occurred in 1 H.
+Histopathological perturbations in zebrafish exposed to nickel, cobalt, or chromium for 24 hours. A total of five fish were examined per concentration including
+the control. In each case the numbers of instances of a finding are indicated in parentheses. C = control, L = low, M =mid and H = high concentration.
+with mononuclear cells. Earlier studies report that the gills,
+kidney, and liver are histopathological targets of hexavalent
+chromium exposure in several species of freshwater fish
+[35,36]. The histopathology associated with this study
+supports the hypothesis that chromium exposure affects
+certain physiological processes including respiration,
+metabolic regulation, and possibly feeding.
+During the cobalt range-finding studies, zebrafish
+exposed to high doses showed less schooling behavior,
+more surfacing, and less overall movement than the
+controls. In zebrafish, these behaviors are usually indicative
+of abnormal respiration and physiological stress. There
+were six deaths at the high dose and one death at the mid
+dose. Histopathology confirmed that zebrafish exposed
+to all three concentrations of cobalt presented with
+respiratory tract lesions specific to the olfactory epithelium
+(see Figure 2B and Table 2). The gill epithelium was
+unaffected, suggesting that the olfactory epithelial injury is
+specific to cobalt rather than a nonspecific reaction to
+waterborne irritants. Consistent with these results,
+inhalation studies in rats and mice confirm cobalt-specific
+morphological damage to the olfactory epithelia [37].
+NOEL (no-observable-effect-level) could not be determined
+for any of the structural changes observed in fish treated
+with cobalt at the concentrations we tested.
+Transcriptomic responses to metal poisonings
+To identify differentially expressed genes (DEGs) resulting
+from nickel, cobalt, or chromium exposure, we compared
+the expression of genes in whole fish exposed to each
+metal with unexposed controls. Chromium, cobalt, or
+nickel exposure significantly altered expression of 696,
+461, and 287 genes, respectively (Figure 3). There was a
+steep concentration-response relationship between
+mortality and metal concentration, with relatively little
+difference in the gene response to the three poisoning
+concentrations in the surviving fish as assessed by
+principal components analysis and analysis of variance
+(ANOVA). The concentrations were chosen to evoke
+histopathologic changes in an acute setting. Thus, the
+observed lack of an appreciative concentration-response
+curve would result if the doses fell in a nearly vertical
+region of the typical sigmoidal dose-response curve.
+Dose-dependent effects may have been lost in 
+experimental variation. Lower doses or a longer time interval may be
+necessary to elicit a true dose-response curve.
+Biological processes perturbed by metal exposures
+DEG lists were further subdivided into secondary lists by
+direction of response: for example, of the 287 genes
+induced by nickel, 97 were down-regulated and 190 were
+up-regulated. GO term enrichment analysis and KEGG
+pathway enrichment analysis inferred biological processes
+modified by each metal. The biological processes
+identified in the gene ontology enrichment analyses
+(GO biological processes and KEGG pathways) fell
+into five categories with differential responses for the
+three metals: protein synthesis and translation; altered
+reduction-oxidation (redox) levels; inflammation and acute
+phase stress response; cell cycle regulation and apoptosis;
+and metabolic depression (Figure 4 and Table 3). Table 3
+summarizes the biological processes, chemistries and
+toxicities and results of pathway enrichment analysis for
+metals compared to histopathologic findings. Biological
+processes identified in the transcriptomic analysis were
+compared at the pathway level to published mechanisms
+of aquatic toxicology. In general, metals affect the cellular
+heme content, impairing oxidative function of cells
+[13,38-40]. Consistent with this observation, all three
+metals showed down-regulation in biological processes
+associated with the oxidative stress response, including
+oxidation-reduction (Figure 4A) and metabolic pathways
+in the oxidative stress response (Figure 4B). Further, all
+three metals induced genes in GO biological processes
+(most notably ribosome biogenesis) and KEGG pathways
+regulating protein synthesis and translation (Figure 4A
+and B). Increased demand for newly synthesized proteins
+may result from enhanced requirements for translation of
+stress responsive genes particularly those involved in
+combating oxidative and inflammatory stress. It is also
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Page 7 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+possible that the enhanced protein synthesis is a 
+compensatory mechanism to replenish cells lost through apoptosis
+in tissues specifically targeted by metal exposures. The
+literature is conflicting regarding ribosome biogenesis in
+response to toxicant poisoning [41-46]. The discrepancies
+in our study between metals may reflect differences in the
+severity of toxic insult among the metals.
+Nickel poisoning causes oxidative damage to DNA and
+inhibits antioxidant defenses [47-49]. Nickel-poisoned
+fish had less observable histopathology than the other
+metals and no histopathology directly attributable to
+nickel poisoning, but gene expression was more enriched
+in processes involving cell cycle regulation and apoptosis
+(Figure 4A) and protein synthesis and translation than the
+other metals (Figure 4A and B). The lack of 
+histopathological signs of nickel poisoning at 24 hr may suggest that
+our nickel exposure scheme captures mechanisms which
+drive the initial response to metal poisoning (i.e. at 24 hr)
+prior to histologic alterations.
+Cobalt poisoning mimics hypoxia, stimulating the
+production of reactive oxygen species and increasing
+lipid peroxides [50]. Consistent with this observation,
+cobalt showed more up-regulation of genes regulating the
+biological processes of the oxidative stress response than
+any other metal (Figures 4A and B).
+Chromium redox cycling and ROS generation induce
+DNA damage and activate subsequent repair mechanisms
+[51,52]. Corroborating these mechanisms, chromium 
+up-regulated p53 and MAPK signaling pathways (Figure 4B)
+[53]. Genes associated with inflammation and acute phase
+stress responses were up-regulated more with chromium
+than the other metals (Figure 4A and B). These results
+are consistent with the histopathology observations that
+chromium exposure induced the most inflammatory cell
+Page 8 of 15
+infiltration (Figure 2 and Table 2). The genes in pathways
+associated with metabolic depression support a molecular
+mechanism underlying the reduced feeding behavior and
+intestinal abnormalities observed in chromium exposed
+fish (Figure 2). Chromium poisoning was associated with
+a marked down-regulation in genes involved in cellular
+metabolism, including lipid and steroid metabolic
+pathways. These processes included the citrate (TCA)
+cycle and fatty acid metabolism, which are regulated
+by degradation of amino acids into acetyl-CoA and
+proprionyl-CoA intermediates respectively [54]. Genes
+controlling the biological and molecular processes
+controlling the processing of pyruvate, a degradation
+product of glucogenic amino acids, also significantly
+decreased in fish exposed to chromium (Figure 4A).
+These results suggest that chromium poisoning, but
+not cobalt or nickel, caused significant reductions in
+metabolic capacity, particularly for amino acids and
+processes associated with their metabolic by-products.
+These results are consistent with the observed intestinal
+mucosa atrophy and mild necrosis (Figure 2A). Chromium
+is readily absorbed by the intestinal tissue. Since gut
+mucosa represents the primary site for whole-body amino
+acid metabolism [55,56], mucosal atrophy can significantly
+diminish the gut’s amino acid metabolic capacity and
+decrease amino acid requirements and use.
+Enriched transcription factors in response to metal
+poisoning
+We performed transcription factor (TF) enrichment
+analysis using Metacore on each secondary enhanced/
+repressed gene list in an attempt to identify upstream
+regulatory networks that mediate metal induced gene
+expression linked to GO biological processes (Figure 5,
+Table 3, and Additional file 1: Table S1). The metals showed
+a significant discrepancy in the type and direction of the
+regulation of the transcription factors expressed (Figure 5A).
+Common to all metals was the up-regulation of the highly
+conserved mini-chromosome maintenance 4 (mcm4) gene
+with DNA helicase activity essential for the inhibition of
+eukaryotic genome replication and the origin recognition
+complex (orc61) which facilitates replication [57-60]
+(Figure 5B, Table 3, and Additional file 1: Table S1).
+In nickel poisoning, transcripts for the DNA replication
+processes genes mcm3, mcm5, and rbb4 were up-regulated
+in addition to mcm4 and orc61 (Table 3, Figure 5B, and
+Additional file 1: Table S1). Nickel induced transcription
+factor changes consistent with redox signaling, including
+up-regulation of hif1α and xbp1 (Figure 5A and Table 3)
+and their associated gene targets (Figure 5B and Table 3).
+These gene products are cellular regulators that sense
+oxygen status and trigger adaptive cascades to maintain
+normoxia [61-63]. It is known that nickel stabilizes Hif-1α
+by preventing the degradation of the protein either
+Ni Co CrA
+through the depletion of ascorbate or by replacing
+iron in the hydroxylases responsible for Hif-1α 
+degradation [64-66], leading to transcriptional activation
+of downstream targets. In our study, nickel poisoning
+up-regulated other genes critical for redox sensing
+and homeostasis, including periredoxin (zgc:110343),
+thioredoxin (zgc:92903), thioredoxin-like 1 (txnl1), and
+protein disulfide isomerase 4 and 5 (pdia4, pdip5)
+(Additional file 1: Table S1 and Figure 5B). Levels of hif1α
+downstream targets (abcf2, pfkfb3, il1b, egln3, hk2) were
+significantly up-regulated. xbp1 expression was enhanced
+1.52 fold in parallel with robust up-regulation of its gene
+targets (hspa5, pdia4, dnajb11) (Figure 5A and B). The
+xpb1 gene target hspa5 (which encodes Grp78/BiP) also
+represents a specific and key marker for induction of the
+unfolded protein response (UPR) [67-69], an adaptive
+response that prevents protein aggregation by enhancing
+expression of molecular chaperones and diminishing
+nascent polypeptide flux into the ER [70,71]. Nickel 
+dose-dependently increased expression of hspa5 (Figure 5B).
+Surprisingly, nickel poisoning did not induce genes
+involved in clearing terminally misfolded proteins
+(i.e. members of the ER-associated protein degradation
+machinery [ERAD] family) (Additional file 1: Table S1 and
+Figure 5B) [71]. However, nickel poisonings up-regulated
+an additional ensemble of ER chaperones (dnaja4,
+jnajb11, ahsa11, hsp701, hspe1, hsp90b1, hspa41) which
+play a crucial role in ensuring proper protein folding.
+Taken together, our data suggest that nickel exposures
+induced the UPR via xbp1 transcriptional activation.
+Cobalt poisoning resulted in up-regulation of only
+hnf3β in the Metacore analysis (Figure 5A). Genes
+Hussainzada et al.BMC Pharmacology and Toxicology 2014,15:15
+http://www.biomedcentral.com/2050-6511/15/15
+Page 10 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+were up-regulated in two predominant biological processes:
+(1) altered redox levels (e.g., the glutathione synthesis genes
+[gss (zgc:101574), gclc, and zgc:110010] (Additional file 1:
+Table S1), and genes which encode multiple structural
+components of both the catalytic (20S) and regulatory
+(19S) ribosomal subunits [psmd3, psmd7, psma6b, psma5,
+psmc3, psmc4, psmd11b, psmd1, psmc6, psme3, psmc1b])
+[40,72-74] (Additional file 1: Table S1) and (2) 
+inflammation and acute phase stress response (genes encoding 
+protein serum amyloid A [zgc:103580], the pro-inflammatory
+cytokine il1b, atf3, c/epb) [75,76] (Table 3, Additional file 1:
+Table S1, and Figure 5B). The negative regulator atf3
+dampens the inflammation response by antagonizing the
+pro-inflammatory factor NF-κB, while c/ebp is robustly
+up-regulated by pro-inflammatory signals, including il1b,
+and functions as an enhancer of the inflammatory
+response [57,75-79].
+The transcription factor analysis in chromium poisoning
+is consistent with the chromium-induced metabolic
+depression reported in the gene ontology analysis
+(Figures 4 and 5A). Chromium poisoning caused 
+down-regulation of an entire set of genes encoding important
+regulators of energy metabolism, glucose, cholesterol,
+amino acid, and fatty acid metabolism and transport in
+many tissues, including the intestine and liver, including
+hnf3α, hnf3β, and hnf1β [80] (Figure 5A). hnf4α is a key
+transcriptional target of both hnf3α and gata-6 [81,82]
+which represents a master transcriptional activator of
+energy metabolism genes in multiple tissue types [83].
+Orphan nuclear receptors with putative roles in gut
+Page 11 of 15
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+and liver metabolism of nucleic acids (e.g., tcf8; Figure 5A),
+carbohydrates and lipids (bmal1, ppargc1; Figure 5A), and
+sterol and steroid hormones (lxr-α, coup-tfi; Figure 5A)
+were also down-regulated [84-87] (Figure 5A). Genes
+including g6pca, gys2, fabp1a, and abcc2 (involved in
+glucose metabolism, lipid metabolism, and canalicular
+bile acid transport, respectively) (Figure 5B and
+Additional file 1: Table S1) [88]. Inflammation and acute
+phase response genes were, for the most part, up-regulated
+by chromium, including pro-inflammatory genes
+(pcna, nfkbiaa, hamp2, ptgs2a, ptgs2b, ptges) (Figure 5B
+and Additional file 1: Table S1) and genes encoding
+multiple dual-specificity phosphatases which modulate
+inflammatory MAPK cascades (dusp2, dusp5, dusp1)
+(Figure 5B and Additional file 1: Table S1). Similar to
+nickel, chromium also up-regulated il1b, c/ebp, and atf3
+(Figure 5B and Additional file 1: Table S1). Chromium
+also up-regulated cell cycle regulation and apoptosis genes
+not enhanced in the other metals, including genes
+involved in the G1/S and G2/M cell-cycle checkpoints
+(ccne2, rrm2; Additional file 1: Table S1 and Figure 5B;
+[89]) and in the RAD6-dependent DNA repair pathway
+(pcna) [90,91] (Figure 5B). The transcription factor
+p53 was also up-regulated (Figure 5A), which mediates
+expression of protective genes that repair damaged
+DNA, power the immune system, arrest the proliferation of
+damaged cells, and induce apoptosis [92], as well as guards
+the cell-cycle checkpoint by inducing apoptosis under 
+conditions of excessive oxidative stress and DNA damage [93].
+The transcriptomic results for chromium in particular are
+consistent with the observed intestinal mucosa atrophy and
+mild necrosis observed in the histopathology (Figure 2A).
+Chromium is readily absorbed by the intestinal tissue. Since
+gut mucosa represents the primary site for whole-body
+amino acid metabolism [55,56], mucosal atrophy can
+significantly diminish the gut’s amino acid metabolic
+capacity and decrease amino acid requirements and
+use. This hypothesis is supported by the observed
+down-regulation of liver-specific genes after chromium
+exposure. Robust, differential down-regulation of key
+mediators of glucose metabolism (g6pca, gys2), lipid
+metabolism (fabp1), and canalicular bile acid transport
+(abcc2) (Figure 5B) suggest metabolic perturbations in the
+liver and/or gut-liver axis [88]. Taken together, the 
+biological processes, transcription factors and histopathology
+data may suggest modulation of intestinal metabolic
+pathways due to chromium exposure. It is unclear
+whether this is a direct consequence of chromium
+poisoning or a secondary consequence of 
+chromium-mediated decreases in feeding over the 24 hr exposure
+period. A previous study in freshwater trout exposed to
+nonlethal hexavalent chromium (1/10 of the 24 hr LC50)
+reported intestinal atrophy and decreased brush border
+enzymatic activities consistent with decreased feeding
+Page 12 of 15
+behavior [94]. However, since animal care personnel
+did not observe changes in feeding behavior, it is
+more likely that chromium mediates specific perturbations
+to the gut microenvironment that ultimately trigger
+metabolic depression.
+Limitations
+The technical approaches used in this work have both
+strengths and weaknesses. In using whole adult organism
+RNA preparations, we introduce the ability to detect
+toxicity responses at the whole organism level. We did
+obtain gene expression level data that corroborates the
+histological observations in some cases (e.g., 
+chromium-induced gut histopathology), but we acknowledge that the
+detection of clear organ-specific effects was not possible
+with this approach because of the dilution of expression
+signals for genes that have highly tissue-specific 
+distributions. Highly similar gene expression profiles are
+probably shared by multiple tissues, making it difficult
+to differentiate among toxicity signatures for individual
+target organs from the system-wide response.
+Although we measured tank levels of each respective
+metal, we acknowledge that this does not necessarily
+indicate bioavailable dose, and that the comparison
+across studies would require internal measurement of
+metal concentration within the organism. The lack of a
+dose-response relationship in histopathology is a significant
+limitation to this study. The high doses required to observe
+histopathologic changes in the acute time interval of the
+study precluded identification of subtle, dose-dependent
+and tissue-specific responses. It is striking that despite
+establishing an exposure regimen from a 96 hr mortality
+curve, there were few differences in gene responses across
+the exposure levels, even though we tested gene responses
+48 hr earlier than the mortality curve end points. This 
+effect could be the result of selecting doses in a nearly vertical
+region of the typically sigmoidal dose-response curve with
+little difference between the LC20 and LC60 doses. Lower
+doses or longer time intervals could better delineate the 
+difference in histopathologic response in future experiments.
+This observation also suggests that range-finding for
+mechanistic toxicity studies such as this one should
+not solely be based on mortality data. Some method of
+establishing dose responsiveness based on gene expression
+or other molecular endpoints are necessary as well.
+Nonetheless, the present study supports the use of
+transcriptomics in the intact organism to predict candidate
+genes associated with toxicity endpoints in response to an
+external chemical insult. Using this approach, we have
+identified novel gene and transcription factor targets that
+mediate the response to metal toxicity. Finally, these
+new players provide hypothesis-generating targets for
+future evaluation in classically designed studies of the
+mechanisms of heavy metal toxicity.
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+
+>>>section: introduction
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15
+http://www.biomedcentral.com/2050-6511/15/15
+RESEARCH ARTICLE
+Whole adult organism transcriptional profiling of
+acute metal exposures in male Zebrafish
+Naissan Hussainzada1, John A Lewis2, Christine E Baer4, Danielle L Ippolito5, David A Jackson3
+and Jonathan D Stallings2,6*
+
+>>>section: table_1
+Table 1 Nominal versus measured concentrations of metals 
+Treatment 
+Nominal 
+Measured 
+Nominal 
+Measured 
+Nominal 
+Measured 
+LC20 (low) 
+LC 20 (low) 
+LC40 (mid) 
+LC 40 (mid) 
+LC60 (high) 
+LC 60 (high) 
+NiCl2 
+45 
+42.4 
+54 
+51.0 
+62 
+64.0 
+CoCl2 
+39 
+39.7 
+50 
+46.3 
+65 
+59.5 
+Na2Cr2O7 
+53 
+56.5 
+65 
+69.9 
+76 
+80.6 
+
+>>>section: table_2
+Table 2 Summary of histopathology 
+Treatment 
+NiCl2 
+CoCl2 
+Na2Cr2O7 
+
+>>>section: table_3
+Table 3 Comparison of histopathology, chemistry, toxicity and observed gene response among metals 
+Metal 
+Predicted 
+Histopathology 
+GO biological process 
+KEGG pathway 
+Genes 
+References 
+target 
+Effects on heme 
+Cell cycle regulation 
+[57] 
+All (Ni, Co, Cr) 
+n/a 
+Cell cycle regulation and apoptosis 
+mcm4, gadd45bl, orc6l 
+carriers (respiration) 
+and apoptosis 
+Periredoxin (zgc:110343), thioredoxin 
+[61-66. 70-91] 
+(zgc:92903); txnl1; pdia4; pdia4; pdip5; 
+hif1a; xbp1; abcf2; pfkfb3; il1b; egln3; 
+Oxidative stress response 
+Oxidative stress response 
+hk2; hspa5; pdia4, dnajb11, dnaja4, 
+jnajb11, ahsa11, hsp70l, hspe1, hsp90b1, 
+hspa4l 
+Oxidative damage 
+Ni 
+None 
+to DNA 
+Endoplasmic reticulum (ER) 
+[61-69] 
+dnaja4, jnajb11, ahsa11, hsp70l, hspe1, 
+stress and UPR (unfolded 
+n/a 
+hsp90b1, hspa4l; hspa5; pdia4; dnajb11 
+protein response) 
+Protein synthesis and 
+[57-60] 
+translation (DNA 
+Protein synthesis and translation 
+mcm4, orc6l; mcm3, mcm5; rbb4 
+replication processes) 
+Olfactory organs: 
+gss (zgc:101574); gclc; zgc:110010; psmd3, 
+[40,72-74] 
+inflammatory, 
+Oxidative stress response 
+Oxidative stress response 
+psmd7, psma6b, psma5, psmc3, psmc4, 
+Inducer of hypoxic 
+Co 
+degenerative, 
+psmd11b, psmd1, psmc6, psme3, psmc1b 
+response 
+metaplastic, 
+Inflammation and acute 
+Protein serum amyloid A (zgc:103580 ); 
+[75-78] 
+necrotic lesions 
+Increased metabolic detoxification 
+phase stress response 
+il1b; c/ebp; atf3 
+Gills: hyperplasia, 
+pcna, nfkbiaa, hamp1, ptgs2a, ptgs2b, 
+[52,53,75-78] 
+Inflammation and acute 
+Inflammation and acute phase 
+necrosis, hemorrhage, 
+ptges; dusp2; dusp5; dusp1; gadd45g; 
+phase stress response 
+stress response 
+inflammation 
+hmox1; socs1; egr2; hpx; il1b; c/ebp; atf3 
+Oxidizing agent; induces 
+Intestine: atrophy 
+[89-91] 
+Cr 
+oxidative stress and 
+of mucosal folds, 
+Ribosome biogenesis 
+Cell cycle regulation and apoptosis 
+ccne2, rrm2, zgc:77806; pcna; stat3, p53 
+reactive oxygen species 
+necrosis, inflammation 
+Pharynx: atrophy, 
+g6pca, gys2, fabp1a, abcc2; hnf3 α, 
+[80-82,84-88] 
+mononuclear cell 
+Metabolic depression 
+Metabolic pathways 
+hnf3 β, hnf1 β, tcf8, bmal, ppargc1, 
+infiltration 
+lxr α, coup-tfi, gata-6 
+Summary of gene responses consistent with histopathology and predicted chemistry and toxicity of metals after 24 hr exposure. 
+
+>>>section: figure_1
+Figure 1 Schematic of experimental design. Diagram of the experimental design used for rangefinding and exposures. 
+
+>>>section: figure_2
+A Pharynx-control  (4X) bar=100 m 
+Pharynx-high dose Na Cr2O7   (4X) bar=100 m2 
+Intestine-control  (4X) bar=100 m 
+Intestine-high dose Na Cr2O7   (4X) bar=100 m2 
+Gill-control  (20X) bar=25 m 
+Gill-high dose Na Cr2O7   (20X) bar=25 m2 
+B Nares/olfactory organ-control   
+Nares/olfactory organ-high dose CoCl3 
+(4X) bar=100 m 
+(4X) bar=100 m 
+Epithelial Cell  
+Necrosis 
+Cellular Infiltrates 
+Inflammation 
+Olfactory lamellae-control   
+Olfactory lamellae-high dose CoCl3 
+(20X) bar=25 m 
+(20X) bar=25 m 
+Cellular Debris 
+Cellular Debris 
+Necrosis 
+Necrosis 
+Figure 2 Histopathology of affected tissues. Histopathology of affected tissues after (A) chromium - pharynx, intestine, and gill or (B) cobalt - nares 
+and olfactory lamellae - exposure compared to unexposed controls (left panels). Hematoxylin and eosin staining. Arrows indicate regions with 
+metal-induced pathology. 
+
+>>>section: figure_3
+Figure 3 Observed genes altered in expression. Total number of 
+observed genes significantly (FDR = 0.01) altered in expression by at 
+least 1.8 fold in response to chromium (Cr), cobalt (Co), or nickel (Ni) 
+versus untreated controls. 
+
+>>>section: figure_4
+Hussainzada et al. BMC Pharmacology and Toxicology 2014, 15:15 
+Page 9 of 15 
+http://www.biomedcentral.com/2050-6511/15/15 
+KEGG pathway 
+GO Biological Process 
+B 
+Ni Co Cr 
+ribonucleoprotein complex biogenesis 
+O-glycan biosynthesis 
+ribosome biogenesis 
+RNA processing 
+fructose and mannose metabolism 
+ncRNA processing 
+amino sugar & nucleotide sugar metabolism 
+Protein synthesis & translation 
+cellular amino acid and derivative metabolic process 
+ncRNA metabolic process 
+Protein synthesis & translation 
+aminoacyl-tRNA biosynthesis 
+rRNA processing 
+cell cycle 
+rRNA metabolic process 
+cellular nitrogen compound metabolic process 
+p53 signaling pathway 
+cellular component biogenesis 
+MAPK signaling pathway 
+Cell cycle regulation &  apoptosis 
+DNA replication initiation 
+DNA-dependent DNA replication 
+Cell cycle regulation &  apoptosis 
+DNA replication 
+DNA replication 
+cellular homeostasis 
+ER stress (UPR response) 
+gap junction 
+cell redox homeostasis 
+insulin signaling pathway 
+oxidation reduction 
+glutathione metabolic process 
+ECM-receptor interaction 
+glutamine family amino acid metabolic process 
+Oxidative stress response 
+arachidonic acid metabolism 
+peptide metabolic process 
+Inflammation & acute  
+macromolecule catabolic process 
+cytosolic DNA-sensing pathway 
+phase stress response 
+multi-organism process 
+response to biotic stimulus 
+Inflammation & acute  
+metabolic pathways 
+response to bacterium 
+phase stress response 
+proteasome 
+response to other organism 
+metabolic process 
+galactose metabolism 
+Oxidative stress response 
+steroid metabolic process 
+glutathione metabolism 
+sterol metabolic process 
+lipid metabolic process 
+metabolism of xenobiotics by CYP450 
+cellular lipid metabolic process 
+lipid biosynthetic process 
+drug metabolism - CYP450 
+Metabolic detoxification 
+steroid biosynthetic process 
+drug metabolism - other enzymes 
+terpenoid metabolic process 
+Lipids 
+apocarotenoid metabolic process 
+steroid biosynthesis 
+vitamin A metabolic process 
+androgen & estrogen metabolism 
+Hormones 
+fat-soluble vitamin metabolic process 
+retinal metabolic process 
+arginine & proline metabolism 
+regulation of hormone levels 
+hormone metabolic process 
+tyrosine metabolism 
+cellular hormone metabolic process 
+Hormones 
+glycine, serine & threonine metabolism 
+hormone biosynthetic process 
+cellular aldehyde metabolic process 
+tryptophan metabolism 
+cellular nitrogen compound catabolic process 
+Metabolic  
+histidine metabolism 
+Amino acids 
+amine metabolic process 
+amine catabolic process 
+Amines 
+depression 
+nicotinate & nicotinamide metabolism 
+cellular amino acid derivative catabolic process 
+cellular biogenic amine catabolic process 
+valine, leucine & isoleucine degradation 
+Metabolic  
+pathways 
+cellular biogenic amine metabolic process 
+-alanine metabolism 
+organic acid metabolic process 
+Gene  
+organic acid catabolic process 
+Organic acids 
+phenylalanine metabolism 
+Level 
+cellular ketone metabolic process 
+oxoacid metabolic process 
+retinol metabolism 
+up 
+>4 
+carboxylic acid metabolic process 
+PPAR signaling pathway 
+Lipids 
+monocarboxylic acid metabolic process 
+Ketones 
+carboxylic acid catabolic process 
+primary bile acid biosynthesis 
+cellular amino acid catabolic process 
+linoleic acid metabolism 
+0 
+cellular aromatic compound metabolic process 
+aromatic amino acid family catabolic process 
+fatty acid metabolism 
+Fatty acids 
+aromatic compound catabolic process 
+aromatic amino acid family metabolic process 
+Aromatics 
+biosynthesis of unsaturated fatty acids 
+down 
+L-phenylalanine metabolic process 
+butanoate metabolism 
+>4 
+L-phenylalanine catabolic process 
+log10 
+lipid transport 
+pyruvate metabolism 
+Lipid movement 
+p-value 
+lipid localization 
+citrate cycle (TCA cycle) 
+response to chemical stimulus 
+Figure 4 Enrichment analyses. A - Gene ontology term enrichment analysis for biological processes that are significantly (FDR = 0.1) enriched 
+for up-regulated or down-regulated gene sets with at least 3 genes/transcripts present in a category to be considered significant by each metal. 
+NOTE: The yellow highlight indicates that the enriched GO term “metabolic process” contained both up-regulated and down-regulated gene sets. 
+B - KEGG pathway enrichment analysis for biological processes that are significantly (FDR = 0.1) enriched for up-regulated or down-regulated 
+gene sets with at least 3 genes/transcripts present in a category to be considered significant by each metal. Metals listed on each heat map from 
+left to right: nickel (Ni), cobalt (Co) and chromium (Cr) respectively. Color scale is log p-value of enrichment. White is for up-regulated gene sets 
+and blue for down-regulated gene sets. 
+
+>>>section: figure_5
+Figure 5 Enriched transcription factors and predicted gene expression direction. A- Statistically enriched transcription factors that 
+modulate gene expression for both enhanced and repressed gene responses to metal exposures. B - Predicted direction of gene expression 
+regulation (i.e. gene activation or repression) derived from the MetaCore knowledge base for human orthologs. 
+
+**References**
+ References
+1 Hill AJ Teraoka H Heideman W Peterson RE Zebrafish as a model vertebrate for investigating chemical toxicity Toxicol Sci 2005 86(1)6-19
+2 Spitsbergen JM Kent ML The state of the art of the zebrafish model for toxicology and toxicologic pathology research-advantages and current limitations Toxicol Pathol 2003 31(Suppl)62-87
+3 Carvan MJ III Dalton TP Stuart GW Nebert DW Transgenic zebrafish as sentinels for aquatic pollution Ann N Y Acad Sci 2000 919133-147 133-147
+4 Carvan MJ III Sonntag DM Cmar CB Cook RS Curran MA Miller GL Oxidative stress in zebrafish cells potential utility of transgenic zebrafish as a deployable sentinel for site hazard ranking Sci Total Environ 2001 274(1-3)183-196
+5 Amanuma K Takeda H Amanuma H Aoki Y Transgenic zebrafish for detecting mutations caused by compounds in aquatic environments Nat Biotechnol 2000 18(1)62-65
+6 Ng HBG Lam SH Sukardi H Gong Z Potential applications of transgenic fish to environmental monitoring and toxicology In Aquaculture Page 13 of 15 Hussainzada et al BMC Pharmacology and Toxicology 2014 1515 http//wwwbiomedcentralcom/2050-6511/15/15 Biotechnology 1st edition Edited by Fletcher GL Rise ML West Sussex John Wiley & Sons Ltd 2012267-280
+7 Reichert K Menzel R Expression profiling of five different xenobiotics using a Caenorhabditis elegans whole genome microarray Chemosphere 2005 61(2)229-237
+8 Ruden DM Chen L Possidente D Possidente B Rasouli P Wang L Lu X Garfinkel MD Hirsch HVB Page GP Genetical toxicogenomics in Drosophila identifies master-modulatory loci that are regulated by developmental exposure to lead Neurotoxicology 2009 30(6)898-914
+9 Neumann NF Galvez F DNA microarrays and toxicogenomics applications for ecotoxicology? Biotechnol Adv 2002 20(5-6)391-419
+10 Poynton HC Varshavsky JR Chang B Cavigiolio G Chan S Holman PS Loguinov AV Bauer DJ Komachi K Theil EC Daphnia magna ecotoxicogenomics provides mechanistic insights into metal toxicity Environ Sci Technol 2007 41(3)1044-1050
+11 Martyniuk CJ Houlahan J Assessing gene network stability and individual variability in the fathead minnow (Pimephales promelas) transcriptome Comp Biochem Physiol Part D Genomics Proteomics 2013 8(4)283-291
+12 Lam SH Mathavan S Tong Y Li H Karuturi RKM Wu Y Vega VB Liu ET Gong Z Zebrafish whole-adult-organism chemogenomics for large-scale predictive and discovery chemical biology PLoS Genet 2008 4(7)e1000121
+13 Valko M Morris H Cronin MTD Metals toxicity and oxidative stress Curr Med Chem 2005 12(10)1161-1208
+14 Fu H Boffetta P Cancer and occupational exposure to inorganic lead compounds - a metaanalysis of published data Occup Environ Med 1995 52(2)73-81
+15 Steenland K Loomis D Shy C Simonsen N Review of occupational lung carcinogens Am J Ind Med 1996 29(5)474-490
+16 Integrated Risk Information System (IRIS) [http//wwwepagov/iris/]
+17 Simmons SO Fan C-Y Ramabhadran R Cellular stress response pathway system as a sentinel ensemble in toxicological screening Toxicol Sci 2009 111(2)202-225
+18 Beyersmann D Hechtenberg S Cadmium gene regulation and cellular signalling in mammalian cells Toxicol Appl Pharmacol 1997 144(2)247-261
+19 Salnikow K Zhitkovich A Genetic and epigenetic mechanisms in metal carcinogenesis and cocarcinogenesis nickel arsenic and chromium Chem Res Toxicol 2007 21(1)28-44
+20 Janssens TKS Roelofs D van Straalen NM Molecular mechanisms of heavy metal tolerance and evolution in invertebrates Insect Science 2009 16(1)3-18
+21 Subramanian A Tamayo P Mootha VK Mukherjee S Ebert BL Gillette MA Paulovich A Pomeroy SL Golub TR Lander ES Mesirov JP Gene set enrichment analysis a knowledge-based approach for interpreting genome-wide expression profiles Proc Natl Acad Sci U S A 2005 102(43)15545-15550
+22 Athikesavan S Vincent S Ambrose T Velmurugan B Nickel induced histopathological changes in the different tissues of freshwater fish Hypophthalmichthys molitrix (Valenciennes) J Environ Biol 2006 27(2)391-395
+23 Nath K Kumar N Nickel-induced histopathological alterations in the gill architecture of a tropical fresh-water perch colisa-fasciatus (bloch and schn) Sci Total Environ 1989 80(2-3)293-296
+24 Wang H Tan JT Emelyanov A Korzh V Gong Z Hepatic and extrahepatic expression of vitellogenin genes in the zebrafish Danio rerio Gene 2005 35691-100
+25 Gong Z Yan T Liao J Lee SE He J Hew CL Rapid identification and isolation of zebrafish cDNA clones Gene 1997 201(1-2)87-98
+26 Peng X Wood CL Blalock EM Chen KC Landfield PW Stromberg AJ Statistical implications of pooling RNA samples for microarray experiments BMC Bioinforma 2003 426
+27 Kendziorski C Irizarry RA Chen KS Haag JD Gould MN On the utility of pooling biological samples in microarray experiments Proc Natl Acad Sci U S A 2005 102(12)4252-4257
+28 Kendziorski CM Zhang Y Lan H Attie AD The efficiency of pooling mRNA in microarray experiments Biostatistics 2003 4(3)465-477
+29 Zhang SD Gant TW A statistical framework for the design of microarray experiments and effective detection of differential gene expression Bioinformatics 2004 20(16)2821-2828
+30 Chen K Rajewsky N The evolution of gene regulation by transcription factors and microRNAs Nat Rev Genet 2007 8(2)93-103
+31 Drǎghici S Khatri P Martins RP Ostermeier GC Krawetz SA Global functional profiling of gene expression Genomics 2003 81(2)98-104
+32 Casillas E Myers M Ames WE Relationship of serum chemistry values to liver and kidney histopathology in english sole (Parophrys-vetulus) after acute exposure to carbon-tetrachloride Aquat Toxicol 1983 3(1)61-78
+33 Ptashynski MD Klaverkamp JF Accumulation and distribution of dietary nickel in lake whitefish (Coregonus clupeaformis) Aquat Toxicol 2002 58(3-4)249-264
+34 Ptashynski MD Pedlar RM Evans RE Baron CL Klaverkamp JF Toxicology of dietary nickel in lake whitefish (Coregonus clupeaformis) Aquat Toxicol 2002 58(3-4)229-247
+35 Mishra AK Mohanty B Chronic exposure to sublethal hexavalent chromium affects organ histopathology and serum cortisol profile of a teleost Channa punctatus (Bloch) Sci Total Environ 2009 407(18)5031-5038
+36 Parvathi K Sivakumar P Sarasu C Effects of chromium on histological alterations of gill liver and kidney of fresh water teleost Cyprinus carpio (L) J Fisheries Int 2011 6(1)1-5
+37 Bucher JR Elwell MR Thompson MB Chou BJ Renne R Ragan HA Inhalation toxicity studies of cobalt sulfate in F344N rats and B6C3F1 mice Fundam Appl Toxicol 1990 15(2)357-372
+38 Maines MD Kappas A Metals as regulators of heme metabolism Science 1977 198(4323)1215-1221
+39 Salnikow K Su W Blagosklonny MV Costa M Carcinogenic metals induce hypoxia-inducible factor-stimulated transcription by reactive oxygen species-independent mechanism Cancer Res 2000 60(13)3375-3378
+40 Njalsson R Norgren S Physiological and pathological aspects of GSH metabolism Acta Paediatr 2005 94(2)132-137
+41 Koskinen H Pehkonen P Vehniainen E Krasnov A Rexroad C Afanasyev S Molsa H Oikari A Response of rainbow trout transcriptome to model chemical contaminants Biochem Biophys Res Commun 2004 320(3)745-753
+42 Maier MSV Legare ME Hanneman WH The aryl hydrocarbon receptor agonist 33′44′5-pentachlorobiphenyl induces distinct patterns of gene expression between hepatoma and glioma cells chromatin remodeling as a mechanism for selective effects Neurotoxicology 2007 28(3)594-612
+43 Williams TD Diab A Ortega F Sabine VS Godfrey RE Falciani F Chipman JK George SG Transcriptomic responses of European flounder (Platichthys flesus) to model toxicants Aquat Toxicol 2008 90(2)83-91
+44 Sanchez BC Carter B Hammers HR Sepúlveda MS Transcriptional response of hepatic largemouth bass (Micropterus salmoides) mRNA upon exposure to environmental contaminants J Appl Toxicol 2011 31(2)108-116
+45 Romero G Lasheras B Sainz Suberviola L Cenarruzabeitia E Protective effects of calcium channel blockers in carbon tetrachloride-induced liver toxicity Life Sci 1994 55(13)981-990
+46 Chung H Kim H-J Jang K-S Kim M Yang J Kim JH Lee Y-S Kong G Comprehensive analysis of differential gene expression profiles on diclofenac-induced acute mouse liver injury and recovery Toxicol Lett 2006 166(1)77-87
+47 Eisler R Nickel Hazards to Fish Wildlife and Invertebrates A Synoptic Review Laurel US Department of the Interior US Geological Survey Patuxent Wildlife Research Center 1998
+48 Brix KV Keithly J DeForest DK Laughlin J Acute and chronic toxicity of nickel to rainbow trout (Oncorhynchus mykiss) Environ Toxicol Chem 2004 23(9)2221-2228
+49 Pane E Richards J Wood C Acute waterborne nickel toxicity in the rainbow trout (Oncorhynchus mykiss) occurs by a respiratory rather than ionoregulatory mechanism Aquat Toxicol 2003 63(1)65-82
+50 Kubrak OI Husak VV Rovenko BM Storey JM Storey KB Lushchak VI Cobalt-induced oxidative stress in brain liver and kidney of goldfish Carassius auratus Chemosphere 2011 85(6)983-989
+51 Zhang Z Huang CS Li JX Leonard SS Lanciotti R Butterworth L Shi XL Vanadate-induced cell growth regulation and the role of reactive oxygen species Arch Biochem Biophys 2001 392(2)311-320
+52 Lushchak VI Environmentally induced oxidative stress in aquatic animals Aquat Toxicol 2011 101(1)13-30
+53 Koj A Initiation of acute phase response and synthesis of cytokines Biochim Biophys Acta 1996 1317(2)84-94
+54 Hütter R Niederberger P Biochemical pathways and mechanisms nitrogen amino acid and carbon metabolism Biotechnol Adv 1983 1(2)179-191 Page 14 of 15 Hussainzada et al BMC Pharmacology and Toxicology 2014 1515 http//wwwbiomedcentralcom/2050-6511/15/15
+55 Johnson LR Lichtenberger LM Copeland EM Dudrick SJ Castro GA Action of gastrin on gastrointestinal structure and function Gastroenterology 1975 68(5 Pt 1)1184-1192
+56 Bertolo RFP Chen CZL Pencharz PB Ball RO Intestinal atrophy has a greater impact on nitrogen metabolism than liver by-pass in piglets fed identical diets via gastric central venous or portal venous routes J Nutr 1999 129(5)1045-1052
+57 You ZY Komamura Y Ishimi Y Biochemical analysis of the intrinsic Mcm4- Mcm6-Mcm7 DNA helicase activity Mol Cell Biol 1999 19(12)8003-8015
+58 Madine MA Swietlik M Pelizon C Romanowski P Mills AD Laskey RA The roles of the MCM ORC and Cdc6 proteins in determining the replication competence of chromatin in quiescent cells J Struct Biol 2000 129(2-3)198-210
+59 Musahl C Holthoff HP Lesch R Knippers R Stability of the replicative Mcm3 protein in proliferating and differentiating human cells Exp Cell Res 1998 241(1)260-264
+60 Stoeber K Tisty TD Happerfield L Thomas GA Romanov S Bobrow L Williams ED Williams GH DNA replication licensing and human cell proliferation J Cell Sci 2001 114(11)2027-2041
+61 Tu BP Weissman JS Oxidative protein folding in eukaryotes mechanisms and consequences J Cell Biol 2004 164(3)341-346
+62 Tu BP Ho-Schleyer SC Travers KJ Weissman JS Biochemical basis of oxidative protein folding in the endoplasmic reticulum Science 2000 290(5496)1571-1574
+63 Iwai K Naganuma A Kuge S Peroxiredoxin Ahp1 acts as a receptor for alkylhydroperoxides to induce disulfide bond formation in the Cad1 transcription factor J Biol Chem 2010 285(14)10597-10604
+64 Salnikow K Donald SP Bruick RK Zhitkovich A Phang JM Kasprzak KS Depletion of intracellular ascorbate by the carcinogenic metals nickel and cobalt results in the induction of hypoxic stress J Biol Chem 2004 279(39)40337-40344
+65 Permenter MG Lewis JA Jackson DA Exposure to nickel chromium or cadmium causes distinct changes in the gene expression patterns of a rat liver derived cell line PLoS One 2011 6(11)e27730
+66 Maxwell P Salnikow K HIF-1 an oxygen and metal responsive transcription factor Cancer Biol Ther 2004 3(1)29-35
+67 Gazit G Hung G Chen XK Anderson WF Lee AS Use of the glucose starvation-inducible glucose-regulated protein 78 promoter in suicide gene therapy of murine fibrosarcoma Cancer Res 1999 59(13)3100-3106
+68 Koong AC Auger EA Chen EY Giaccia AJ The regulation of GRP78 and messenger RNA levels by hypoxia is modulated by protein kinase C activators and inhibitors Radiat Res 1994 138(1)S60
+69 Lee AS The ER chaperone and signaling regulator GRP78/BiP as a monitor of endoplasmic reticulum stress Methods 2005 35(4)373-381
+70 Mori K Frame switch splicing and regulated intramembrane proteolysis key words to understand the unfolded protein response Traffic 2003 4(8)519-528
+71 Schroder M Kaufman RJ ER stress and the unfolded protein response Mutat Res 2005 569(1-2)29-63
+72 Ciechanover A Proteolysis from the lysosome to ubiquitin and the proteasome Nat Rev Mol Cell Biol 2005 6(1)79-86
+73 Finley D Recognition and Processing of Ubiquitin-Protein Conjugates by the Proteasome In Annu Rev Biochem Volume 78 Palo Alto Annual Reviews 2009477-513
+74 Pickart CM Cohen RE Proteasomes and their kin Proteases in the machine age Nat Rev Mol Cell Biol 2004 5(3)177-187
+75 Zheng H Fletcher D Kozak W Jiang M Hofmann KJ Conn CA Soszynski D Grabiec C Trumbauer ME Shaw A Kostura MJ Stevens K Rosen H North RJ Chen HY Tocci MJ Kluger MJ Van der Ploeg LHT Resistance to fever induction and impaired acute-phase response in interleukin-1 beta-deficient mice Immunity 1995 3(1)9-19
+76 Fantuzzi G Ku G Harding MW Livingston DJ Sipe JD Kuida K Flavell RA Dinarello CA Response to local inflammation of IL-1 beta-converting enzyme-deficient mice J Immunol 1997 158(4)1818-1824
+77 Burgess-Beusse BL Darlington GJ C/EBP alpha is critical for the neonatal acute-phase response to inflammation Mol Cell Biol 1998 18(12)7269-7277
+78 Gilchrist M Thorsson V Li B Rust AG Korb M Kennedy K Hai T Bolouri H Aderem A Systems biology approaches identify ATF3 as a negative regulator of Toll-like receptor 4 Nature 2006 441(7090)173-178
+79 Lekstrom-Himes J Xanthopoulos KG Biological role of the CCAAT enhancer-binding protein family of transcription factors J Biol Chem 1998 273(44)28545-28548
+80 Costa RH Kalinichenko VV Holterman A-XL Wang X Transcription factors in liver development differentiation and regeneration Hepatology 2003 38(6)1331-1347
+81 Morrisey EE Tang ZH Sigrist K Lu MM Jiang F Ip HS Parmacek MS GATA6 regulates HNF4 and is required for differentiation of visceral endoderm in the mouse embryo Genes Dev 1998 12(22)3579-3590
+82 Duncan SA Navas MA Dufort D Rossant J Stoffel M Regulation of a transcription factor network required for differentiation and metabolism Science 1998 281(5377)692-695
+83 Sladek FM Zhong WM Lai E Darnell JE Liver-enriched transcription factor Hnf-4 is a novel member of the steroid-hormone receptor superfamily Genes Dev 1990 4(12B)2353-2365
+84 Esterbauer H Oberkofler H Linnemayr V Iglseder B Hedegger M Wolfsgruber P Paulweber B Fastner G Krempler F Patsch W Peroxisome proliferator-activated receptor-gamma coactivator-1 gene locus - Associations with obesity indices in middle-aged women Diabetes 2002 51(4)1281-1286
+85 Inoue I Shinoda Y Ikeda M Hayashi K Kanazawa K Nomura M Matsunaga T Xu HY Kawai S Awata T Komoda T Katayama S CLOCK/BMAL1 is involved in lipid metabolism via transactivation of the peroxisome proliferator-activated receptor (PPAR) response element J Atheroscler Thromb 2005 12(3)169-174
+86 Janowski BA Willy PJ Devi TR Falck JR Mangelsdorf DJ An oxysterol signalling pathway mediated by the nuclear receptor LXR alpha Nature 1996 383(6602)728-731
+87 Hoshizaki DK Blackburn T Miles K Sweis R Fat-cell determination and differentiation - identification of genes necessary for fat-cell gene-expression J Cell Biochem 1994 18a161-161
+88 Zeuzem S Gut-liver axis Int J Colorectal Dis 2000 15(2)59-82
+89 Giglia-Mari G Zotter A Vermeulen W DNA damage response Cold Spring Harb Perspect Biol 2011 3(1)a000745
+90 Hoege C Pfander B Moldovan GL Pyrowolakis G Jentsch S RAD6-dependent DNA repair is linked to modification of PCNA by ubiquitin and SUMO Nature 2002 419(6903)135-141
+91 Chong JP Blow JJ DNA replication licensing factor Prog Cell Cycle Res 1996 283-90
+92 Klaunig JE Kamendulis LM The role of oxidative stress in carcinogenesis Annu Rev Pharmacol Toxicol 2004 44239-267
+93 Vogelstein B Lane D Levine AJ Surfing the p53 network Nature 2000 408(6810)307-310
+94 Boge G Ndiaye P Roche H Peres G Effects of Non lethal concentrations of hexavalent chromium on intestinal enzymology of salmo-gairdneri and dicentrarchus-labrax (pisces) J Physiol Paris 1988 83(2)57-63 doi101186/2050-6511-15-15 Cite this article as Hussainzada et al Whole adult organism transcriptional profiling of acute metal exposures in male Zebrafish BMC Pharmacology and Toxicology 2014 1515 Submit your next manuscript to BioMed Central and take full advantage of • Convenient online submission • Thorough peer review • No space constraints or color figure charges • Immediate publication on acceptance • Inclusion in PubMed CAS Scopus and Google Scholar • Research which is freely available for redistribution Submit your manuscript at wwwbiomedcentralcom/submit Page 15 of 15
